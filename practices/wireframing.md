@@ -5,6 +5,7 @@ stages:
   - "research"
 short_description: Wireframing is a visual tool to create a scheme of the user interface (UI) without focusing on graphic design. It helps to get a better picture of the elements that will be programmed.
 tags:
+keywords:
   - sketch
   - scheme
   - graphic
@@ -19,13 +20,13 @@ tags:
 
 # Wireframing
 
-## What is a wireframe
+## What is a Wireframe
 
 A wireframe is a technical and visual representation of the UI. It ignores any visual design and focuses only on the content and the structure of the UI. Wireframing can be done by sketching it on a piece of paper or a whiteboard as well as by creating it in graphic design software.
 
 Creating a graphic design can be very time-consuming. The wireframe shows quickly if the scheme or the information hierarchy of the UI is correct.
 
-## Why you might want the wireframe
+## Why you might want the Wireframe
 
 Wireframes create a clear picture of the elements that will be developed. This tool is fast, cheap, and impermanent.
 
@@ -47,7 +48,7 @@ You can use the wireframes to:
 - Disconnect with business
 - Lack of motivation
 
-## How to implement the wireframe
+## How to implement the Wireframe
 
 As mentioned earlier, the wireframe can be drawn on a piece of paper so it can be created very fast. It is important not to go into too many details. The wireframe should be customized for the target group (for example, a user prototype needs to have a real content - high fidelity, but a graphic concept without any real content is enough for stakeholders - low fidelity). The wireframe does not define the final look of the UI. It shows how the UI will work.
 
