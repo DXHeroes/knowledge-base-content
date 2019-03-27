@@ -1,0 +1,17 @@
+language: minimal
+
+jobs:
+  include:
+    - stage: deploy
+      script:
+        - curl -f -XPOST -H "$AUTH_HEADER" -H "$DX_HEADER" $IMPORT_URL_STAGING
+      if: |
+        branch = dev AND \
+        type = push
+
+    - stage: deploy
+      script:
+        - curl -f -XPOST -H "$AUTH_HEADER" -H "$DX_HEADER" $IMPORT_URL
+      if: |
+        branch = master AND \
+        type = push
