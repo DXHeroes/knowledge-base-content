@@ -22,34 +22,29 @@ keywords:
 
 ## What is a Design Sprint
 
-- The Design Sprint is a five-phase process to get a tangible product prototype in a short period of time. This tool helps to describe the product’s benefits, reach the challenge, gain key learnings, and get the product validation by user testing in just 3 to 5 days. The Design Sprint process is similar to Sprints in an Agile development cycle.
+The Design Sprint is a five-phase process to get a tangible product prototype in a short period of time. This tool helps to describe the product’s benefits, reach the challenge, gain key learnings, and get the product validation by user testing in just 3 to 5 days. The Design Sprint process is similar to Sprints in an Agile development cycle.
 
-The Design Sprint uses design thinking to reduce risks of launching a new product, service or a feature. It is a unique way how to get the feedback without going the full cycle:
+The Design Sprint uses design thinking to reduce risks of launching a new product, service or a feature. It is a unique way how to get the feedback without going the full cycle.
 
 ![Design Sprint](/files/design_sprint.png)
-[https://en.wikipedia.org/wiki/Design_sprint](https://en.wikipedia.org/wiki/Design_sprint)
+[wikipedia.org - Design Sprint](https://en.wikipedia.org/wiki/Design_sprint)
 
 ### Phases of the Design Sprint
 
 1. **Map**
-
-Map the problems and identify the important area to focus on. Set a long term goal.
+   Map the problems and identify the important area to focus on. Set a long term goal.
 
 2. **Sketch**
-
-Sketch down the creative ways how to solve the problem on the paper.
+   Sketch down the creative ways how to solve the problem on the paper.
 
 3. **Decide**
-
-Remove the unfeasible ideas from the first two phases. Make a storyboard and decide what should be prototyped. The final choice is made by decision makers.
+   Remove the unfeasible ideas from the first two phases. Make a storyboard and decide what should be prototyped. The final choice is made by decision makers.
 
 4. **Prototype**
-
-Make a realistic prototype that can be tested by potential or existing customers.
+   Make a realistic prototype that can be tested by potential or existing customers.
 
 5. **Test**
-
-Run the user testing and get the feedback.
+   Run the user testing and get the feedback.
 
 ![Phases of Design Sprint](/files/design_sprint_phases.jpeg)
 [What’s a Design Sprint and why is it important?](https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09)
