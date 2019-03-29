@@ -17,9 +17,9 @@ keywords:
   - libraries
 ---
 
-# Poor code quality
+# Poor Code Quality
 
-## What the Poor code quality is?
+## What the Poor Code Quality Is?
 
 Poor code quality is an umbrella term for multiple issues with the codebase:
 
@@ -32,9 +32,9 @@ Poor code quality is an umbrella term for multiple issues with the codebase:
 
 If left unchecked, poor code quality can lead to issues in software delivery. It can bring the development to a halt and if the root causes are not addressed, it can lead to long periods of refactoring or a complete rewrite.
 
-## Reasons of the poor code quality
+## Reasons of the Poor Code Quality
 
-**Team culture**
+**Team Culture**
 
 Poor code quality can be caused by a team that "doesn't give a shit". Make sure that the team knows their purpose.
 
