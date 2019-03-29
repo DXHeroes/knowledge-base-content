@@ -5,6 +5,11 @@ stages:
   - "research"
 short_description: A Design Sprint is a framework that reduces the risks associated with product development. It is an intense process done by a small team in just 3 - 5 days.
 tags:
+  - process
+  - product
+  - validation
+  - framework
+  - design sprint
 keywords:
   - map
   - sketch
@@ -27,7 +32,7 @@ The Design Sprint is a five-phase process to get a tangible product prototype in
 The Design Sprint uses design thinking to reduce risks of launching a new product, service or a feature. It is a unique way how to get the feedback without going the full cycle.
 
 ![Design Sprint](/files/design_sprint.png)
-[wikipedia.org - Design Sprint](https://en.wikipedia.org/wiki/Design_sprint)
+[Wikipedia.org - Design Sprint](https://en.wikipedia.org/wiki/Design_sprint)
 
 ### Phases of the Design Sprint
 
