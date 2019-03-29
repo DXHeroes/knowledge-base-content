@@ -5,6 +5,12 @@ stages:
   - "development"
 short_description: Pull requests tells others that you changed something in code and pushed to a branch in a git repository. Then other members may review and discuss the changes before they are merged into the master branch.
 tags:
+  - pull request
+  - git
+  - merge request
+  - CI/CD
+  - code review
+  - teamwork
 keywords:
   - git
   - commit
@@ -20,9 +26,9 @@ Also known as Merge Requests.
 
 ## What is a Pull Request
 
-Practice of getting feedback and “merge / do not merge” decision on a code from other programmers before it is merged into the main codebase.
+Practice of getting feedback and "merge/do not merge" decision on a code from other programmers before it is merged into the main codebase.
 
-If “do not merge decision” is given, author of the code can address the comments of others and re-submit the code for another round of review. This continues until all issues with code are resolved and it can be merged or until the idea behind the code is no longer in alignment with the goals of the project and the pull request is rejected. See code review practice for further detail.
+If "do not merge decision" is given, author of the code can address the comments of others and re-submit the code for another round of review. This continues until all issues with code are resolved and it can be merged or until the idea behind the code is no longer in alignment with the goals of the project and the pull request is rejected. See code review practice for further detail.
 
 Pull request can also trigger CI/CD to make sure all automated tests pass before the code can be merged.
 
@@ -38,7 +44,7 @@ Team leader or the senior colleague can use pull requests to continually evaluat
 
 ## Issues the Pull Request helps to solve
 
-- [/issues/poor-code-quality](Poor code quality)
+- [Poor code quality](/issues/poor-code-quality)
 - Knowledge hoarding
 - Toxic team culture
 
