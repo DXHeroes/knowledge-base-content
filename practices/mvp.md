@@ -30,13 +30,13 @@ keywords:
 
 # MVP
 
-## What is a MVP
+## What Is a MVP
 
 The Minimum Viable Product (MVP) represents a concept from Lean Thinking that emphasizes the impact of learning in new product development. It is that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort.
 
 The key idea of MVP is that you produce the MVP version to customers and observe their actual behavior with the product.
 
-## Why you might want the MVP
+## Why You Might Want the MVP
 
 - The main benefit is that MVP helps to understand real customer needs without fully developing the product. The sooner you find out that your product meets customer interests, the less effort and expense you spend on a product that will not succeed in the market. The principle is also known as “Fail fast”.
 - Using iterations, you can discover a direction of development which will be optimal.
@@ -45,7 +45,7 @@ The key idea of MVP is that you produce the MVP version to customers and observe
 ![MVP](/files/mvp.png)
 [Hackernoon.com: Mindset Change: MVP vs. SLC.](https://hackernoon.com/mindset-change-mvp-vs-slc-d087a7f87be3)
 
-## Issues the MVP solves
+## Issues the MVP Solves
 
 - Bad product-market fit
 - Meaningless work
@@ -56,7 +56,7 @@ The key idea of MVP is that you produce the MVP version to customers and observe
 - Demotivated team
 - Extended cost
 
-## How to implement the MVP
+## How to Implement the MVP
 
 Necessary steps to build an MVP:
 
@@ -64,18 +64,18 @@ Necessary steps to build an MVP:
    Clarify what problem you solve and for whom. Start by putting yourself in customer’s shoes: “Why do I need this product?” and “How it can help me?”
    Tip: A practice of Value Proposition Canvas or Design sprint can help you.
 
-2. **Competitor analysis**
+2. **Competitor Analysis**
    Do not forget to research what your competitors offer and how can you make your idea unique.
    Tip: There are various tools available that can help you investigate your competitor's websites or apps. One of them is Similar Web which is free and allows you to get some insights about their monthly traffic, sources of traffic, geographical location of a user and other helpful information.
 
-3. **User journey**
+3. **User Journey**
    A user journey is a series of steps representing a scenario in which a user might interact with the product you are designing. You should think less about particular features and concentrate more on basic activities, such as “find T-shirt” or “receive orders”. These are the types of goals your end-users will have when they use your product.
 
-4. **Prioritized list of features**
+4. **Prioritized List of Features**
    Create a list of all necessary features for each goal, prioritize them and categorize them based on priority, for example, “must-have”, “nice-to-have” and “don’t care”. Maybe it will help you if you ask yourself questions, such as “What do my customers want?” or “Do I offer them something beneficial?”
    Tip: If you want to see how your future product will look, you can even create a wireframe or clickable prototype of your MVP if possible.
 
-5. **Build, measure, learn**
+5. **Build, Measure, Learn**
    After the completion of product development, the product needs to be tested. Collect the feedback from the users, measure the quality and learn, then start improving your product. The process goes on until it is finalized.
 
 ![MVP Cycle](/files/mvp_cycle.png)
