@@ -21,9 +21,9 @@ keywords:
   - post-it notes
 ---
 
-# Value proposition
+# Value Proposition
 
-## What is a Value Proposition Canvas
+## What Is a Value Proposition Canvas
 
 Value Proposition Canvas is a tool that helps to understand the customers. It explains who is the customer and why the customer should care about the product. Alexander Osterwalder created the tool as an addition to his Business Model Canvas to focus more on the customer and their requirements.
 
@@ -32,7 +32,7 @@ Value Proposition Canvas is a tool that helps to understand the customers. It ex
 
 The right side of the diagram (the circle) answers the question **who**. It defines the customer segment.
 
-- **Customer jobs**
+- **Customer Jobs**
   Customer’s basic needs, the problems they try to solve and the tasks they want to accomplish.
 
 - **Pains**
@@ -52,16 +52,16 @@ The left side of the diagram (the square) answers the question of **why**. It de
 - **Gain Creators**
   How the product creates the customer’s gains.
 
-## Why you might want the Value Proposition Canvas
+## Why You Might Want the Value Proposition Canvas
 
 The Value Proposition Canvas makes you think differently about the customers. The tool identifies what the customer wants and helps to create a product that matches the customer’s criteria. With a clear customer profile, it is easier to describe how the product creates value for that customer.
 
-## Issues the Value Proposition Canvas solves
+## Issues the Value Proposition Canvas Solves
 
 - Bad Product-Market Fit
 - Meaningless work
 
-## How to implement the Value Proposition Canvas
+## How to Implement the Value Proposition Canvas
 
 The Value Proposition Canvas should be a team work. Always start with defining the customer.
 
