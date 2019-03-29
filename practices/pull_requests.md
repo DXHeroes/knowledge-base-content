@@ -24,7 +24,7 @@ keywords:
 
 Also known as Merge Requests.
 
-## What is a Pull Request
+## What Is a Pull Request
 
 Practice of getting feedback and "merge/do not merge" decision on a code from other programmers before it is merged into the main codebase.
 
@@ -32,7 +32,7 @@ If "do not merge decision" is given, author of the code can address the comments
 
 Pull request can also trigger CI/CD to make sure all automated tests pass before the code can be merged.
 
-## Why you might want the Pull Request?
+## Why You Might Want the Pull Request?
 
 By using pull requests, you will increase the likelihood that bad code will be catched before it is merged into the main codebase.
 
@@ -42,13 +42,13 @@ The knowledge of the codebase is spread more evenly in the team when pull reques
 
 Team leader or the senior colleague can use pull requests to continually evaluate performance of other team members.
 
-## Issues the Pull Request helps to solve
+## Issues the Pull Request Helps to Solve
 
 - [Poor code quality](/issues/poor-code-quality)
 - Knowledge hoarding
 - Toxic team culture
 
-## How to implement the Pull Requests
+## How to Implement the Pull Requests
 
 1. Explain the pull requests practice to the team, have a discussion about benefits vs. drawbacks the team can afraid of.
 2. Adjust the workload for the team so that they have time for doing pull requests.
