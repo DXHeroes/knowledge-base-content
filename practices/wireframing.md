@@ -25,13 +25,13 @@ keywords:
 
 # Wireframing
 
-## What is a Wireframe
+## What Is a Wireframe
 
 A wireframe is a technical and visual representation of the UI. It ignores any visual design and focuses only on the content and the structure of the UI. Wireframing can be done by sketching it on a piece of paper or a whiteboard as well as by creating it in graphic design software.
 
 Creating a graphic design can be very time-consuming. The wireframe shows quickly if the scheme or the information hierarchy of the UI is correct.
 
-## Why you might want the Wireframe
+## Why You Might Want the Wireframe
 
 Wireframes create a clear picture of the elements that will be developed. This tool is fast, cheap, and impermanent.
 
@@ -46,14 +46,14 @@ You can use the wireframes to:
 - Give the graphic designers a basis to create the UI.
 - Communicate the functionalities without the distraction of any visual design elements.
 
-## Issues the wireframing solves
+## Issues the Wireframing Solves
 
 - Extended cost
 - Meaningless work
 - Disconnect with business
 - Lack of motivation
 
-## How to implement the Wireframe
+## How to Implement the Wireframe
 
 As mentioned earlier, the wireframe can be drawn on a piece of paper so it can be created very fast. It is important not to go into too many details. The wireframe should be customized for the target group (for example, a user prototype needs to have a real content - high fidelity, but a graphic concept without any real content is enough for stakeholders - low fidelity). The wireframe does not define the final look of the UI. It shows how the UI will work.
 
@@ -67,7 +67,7 @@ When drawing a wireframe, follow these simple rules:
 ![Wireframing Samples](/files/wireframing_samples.png)
 [Visual Paradigm: How to Draw Wireframe for Android Apps?](https://www.visual-paradigm.com/tutorials/android-wireframe.jsp)
 
-## Common pitfalls of wireframing
+## Common Pitfalls of Wireframing
 
 It is common that the developers skip the wireframing and create the UI directly. There is a risk of making some mistakes and it is more difficult and expensive to change it.
 
@@ -77,7 +77,7 @@ When you present the wireframe to the stakeholders, you can get stuck on the loo
 - Too polished wireframe. You misjudged the detail and did not focus on the functionality enough.
 - The stakeholders do not see their expectations. You were too focused on your own image of the UI that the stakeholders' needs are missing.
 
-## Resources for the wireframing
+## Resources for the Wireframing
 
 - Telepathy: [Learning To Wireframe - 10 Best Practices](https://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices)
 - A Medium Corporation: [Getting Started With Wireframes](https://blog.nicolesaidy.com/getting-started-with-wireframes-8aff9b92a4c0)
@@ -86,7 +86,7 @@ When you present the wireframe to the stakeholders, you can get stuck on the loo
 - Visual Paradigm: [How To Draw Wireframe For Android Apps](https://www.visual-paradigm.com/tutorials/android-wireframe.jsp)
 - InVision: [How To Make Your First Wireframe](https://www.invisionapp.com/inside-design/how-to-wireframe/)
 
-### Tools for the wireframing
+### Tools for the Wireframing
 
 - [Wireframe CC](https://wireframe.cc/)
 - [Visio](https://products.office.com/visio/)
