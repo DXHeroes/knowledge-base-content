@@ -5,6 +5,8 @@ stages:
   - "research"
 short_description: Clickable prototypes are interactive demos of a website or software application. These are often used to gather feedback early in the project lifecycle, before the project goes into the final stage of development.
 tags:
+  - prototyping
+  - wireframing
 keywords:
   - prototyping
   - ux tests
@@ -30,7 +32,7 @@ Prototypes are often made in the cheapest way and usually at a lower level of de
 
 A clickable prototype is used as a presentation of the various project stakeholders to gather more accurate feedback (typically via UX tests) from:
 
-- Product owners / decision makers choose what is in and out of scope and what is part of MVP. Clickable prototypes help to generate support, gain agreement or even investment for the project.
+- Product owners/decision makers choose what is in and out of scope and what is part of MVP. Clickable prototypes help to generate support, gain agreement or even investment for the project.
 - Developers better understand the product. A prototype may reduce misunderstanding between developers and product owners or UX experts.
 - End users get better product. By using prototyping as an agile tool it is possible to test theories and ideas (for example, design or layout of the website). Prototypes helps prevent changes on the finalized product.
 
