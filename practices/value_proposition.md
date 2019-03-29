@@ -5,6 +5,9 @@ stages:
   - "research"
 short_description: A Value Proposition Canvas is a model that helps to ensure that a product covers customer’s requirements. It defines the customer segment and the value proposition.
 tags:
+  - value proposition
+  - canvas
+  - customer
 keywords:
   - jobs
   - pain
@@ -25,21 +28,29 @@ keywords:
 Value Proposition Canvas is a tool that helps to understand the customers. It explains who is the customer and why the customer should care about the product. Alexander Osterwalder created the tool as an addition to his Business Model Canvas to focus more on the customer and their requirements.
 
 ![Value Proposition Canvas](/files/value_proposition_canvas.png)
-[https://www.b2binternational.com/research/methods/faq/what-is-the-value-proposition-canvas/](https://www.b2binternational.com/research/methods/faq/what-is-the-value-proposition-canvas/)
+[B2B International: What is the Value Proposition Canvas?](https://www.b2binternational.com/research/methods/faq/what-is-the-value-proposition-canvas/)
 
 The right side of the diagram (the circle) answers the question **who**. It defines the customer segment.
 
-- **Customer jobs** - Customer’s basic needs, the problems they try to solve and the tasks they want to accomplish.
+- **Customer jobs**
+  Customer’s basic needs, the problems they try to solve and the tasks they want to accomplish.
 
-- **Pains** - Customer’s fears, concerns, and other negative emotions.
+- **Pains**
+  Customer’s fears, concerns, and other negative emotions.
 
-- **Gains** - The benefits that the customer wants.
+- **Gains**
+  The benefits that the customer wants.
 
 The left side of the diagram (the square) answers the question of **why**. It defines the value proposition.
 
-- **Product & Service** – The products and services you offer to the customer. The offers create gain and relieve pain.
-- **Pain Relievers** – A description of how the product relieves the customer’s pains.
-- **Gain Creators** – How the product creates the customer’s gains.
+- **Product & Service**
+  The products and services you offer to the customer. The offers create gain and relieve pain.
+
+- **Pain Relievers**
+  A description of how the product relieves the customer’s pains.
+
+- **Gain Creators**
+  How the product creates the customer’s gains.
 
 ## Why you might want the Value Proposition Canvas
 
