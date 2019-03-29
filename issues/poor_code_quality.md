@@ -5,6 +5,10 @@ stages:
   - "development"
 short_description: Poor code quality mainly describes buggy code or code with high coupling and low cohesion that is hard to maintain. Bad code quality can also lead to frequent code repetition or suspiciously slow implementation.
 tags:
+  - code quality
+  - development
+  - code
+  - CI/CD
 keywords:
   - bugs
   - quality
@@ -30,15 +34,15 @@ If left unchecked, poor code quality can lead to issues in software delivery. It
 
 ## Reasons of the poor code quality
 
-### Team culture
+**Team culture**
 
-Poor code quality can be caused by a team that “doesn’t give a shit”. Make sure that the team knows their purpose.
+Poor code quality can be caused by a team that "doesn't give a shit". Make sure that the team knows their purpose.
 
 Another reason may be a lack of senior expertise within the team.
 
 Poor code quality can be caused by long-term technical debt accumulation, give the team some time for refactoring the code and pay-off the technical debt.
 
-### Processes
+**Processes**
 
 No or weak quality assurance practices can lead to poor code quality rather quickly.
 
@@ -48,7 +52,7 @@ No or weak quality assurance practices can lead to poor code quality rather quic
 - Add testers into the team and employ manual testing
 - Ensure that your software development methodology (SCRUM/Kanban) leaves enough time for refactoring and writing a production quality code. Decrease the workload on the team and see if the code quality improves
 
-### Architecture
+**Architecture**
 
 Architecture that has a bad fit with the requirements of the software being written can be the cause for poor code quality.
 
