@@ -5,6 +5,11 @@ stages:
   - "research"
 short_description: Wireframing is a visual tool to create a scheme of the user interface (UI) without focusing on graphic design. It helps to get a better picture of the elements that will be programmed.
 tags:
+  - wireframing
+  - architecture
+  - ux/ui
+  - desing
+  - prototyping
 keywords:
   - sketch
   - scheme
@@ -57,10 +62,10 @@ When drawing a wireframe, follow these simple rules:
 - Always use just a grayscale: white, black and shades of gray.
 - Use a maximum of two fonts. If you want to show the hierarchy, use different sizes or styles of the fonts instead of changing the font.
 - The text can be replaced with lorem ipsum.
-- Avoid complicated pictures. Use simple objects like squares or rectangles. Instead of placing a real picture, write an “x”. Instead of inserting a video, use a triangle (as a play button).
+- Avoid complicated pictures. Use simple objects like squares or rectangles. Instead of placing a real picture, write an "x". Instead of inserting a video, use a triangle (as a play button).
 
 ![Wireframing Samples](/files/wireframing_samples.png)
-<https://www.visual-paradigm.com/tutorials/android-wireframe.jsp>
+[Visual Paradigm: How to Draw Wireframe for Android Apps?](https://www.visual-paradigm.com/tutorials/android-wireframe.jsp)
 
 ## Common pitfalls of wireframing
 
@@ -70,7 +75,7 @@ When you present the wireframe to the stakeholders, you can get stuck on the loo
 
 - A lack of information. The stakeholders cannot imagine how the UI will look. You did not explain to them that the wireframe is for discussing the functionality, not the design.
 - Too polished wireframe. You misjudged the detail and did not focus on the functionality enough.
-- The stakeholders do not see their expectations. You were too focused on your own image of the UI that the stakeholders’ needs are missing.
+- The stakeholders do not see their expectations. You were too focused on your own image of the UI that the stakeholders' needs are missing.
 
 ## Resources for the wireframing
 
@@ -79,9 +84,9 @@ When you present the wireframe to the stakeholders, you can get stuck on the loo
 - The UX Review: [Wireframes - The Beginner's Guide](https://theuxreview.co.uk/wireframes-beginners-guide/)
 - UX Design: [User Flow Is The New Wireframe](https://uxdesign.cc/when-to-use-user-flows-guide-8b26ca9aa36a)
 - Visual Paradigm: [How To Draw Wireframe For Android Apps](https://www.visual-paradigm.com/tutorials/android-wireframe.jsp)
-- InVision: [How To Make Your First Wireframe](How To Make Your First Wireframe)
+- InVision: [How To Make Your First Wireframe](https://www.invisionapp.com/inside-design/how-to-wireframe/)
 
-## Tools for the wireframing
+### Tools for the wireframing
 
 - [Wireframe CC](https://wireframe.cc/)
 - [Visio](https://products.office.com/visio/)
