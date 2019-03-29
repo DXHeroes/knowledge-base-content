@@ -54,7 +54,7 @@ The Design Sprint uses design thinking to reduce risks of launching a new produc
 ![Phases of Design Sprint](/files/design_sprint_phases.jpeg)
 [What’s a Design Sprint and why is it important?](https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09)
 
-## Why you might want the Design Sprint
+## Why You Might Want the Design Sprint
 
 The Design Sprint process helps to:
 
@@ -64,13 +64,13 @@ The Design Sprint process helps to:
 - Save time. The number of meetings is significantly reduced.
 - Save the money. The team avoids unknowns or assumptions as long as they understand the risks.
 
-## Issues the Design Sprint solves
+## Issues the Design Sprint Solves
 
 - Bad product-market fit
 - Meaningless work
 - Team involvement
 
-## How to implement the Design Sprint
+## How to Implement the Design Sprint
 
 Make a team. The ideal number of people involved in the sprint is 4 to 7 people. The team includes a facilitator, a designer, a decision maker, product manager, engineer and someone from companies core business departments (for example, Marketing, Content, or Operations).
 
