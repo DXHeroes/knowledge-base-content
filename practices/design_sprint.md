@@ -20,7 +20,7 @@ keywords:
 
 # Design Sprint
 
-## What is a Design Sprint
+## What Is a Design Sprint
 
 The Design Sprint is a five-phase process to get a tangible product prototype in a short period of time. This tool helps to describe the product’s benefits, reach the challenge, gain key learnings, and get the product validation by user testing in just 3 to 5 days. The Design Sprint process is similar to Sprints in an Agile development cycle.
 
