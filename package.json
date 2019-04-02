@@ -1,0 +1,19 @@
+{
+  "name": "knowledge-base-content-validator",
+  "version": "1.0.0",
+  "description": "Validate content for Developer Experience Knowledge Base",
+  "main": "index.js",
+  "repository": "git@github.com:DXHeroes/knowledge-base.git",
+  "author": "Prokop Simek <prokop.simek@dxheroes.io>",
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "validate": "ts-node dangerfile.ts"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.1.7",
+    "danger": "^7.0.17",
+    "node-fetch": "^2.3.0",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.3.4000"
+  }
+}
