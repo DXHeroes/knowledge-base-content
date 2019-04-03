@@ -39,7 +39,7 @@ The whole problem stems from the natural human nature of continuing to do meanin
 Fail Fast is one of the main practices that the team should adopt mostly in the Research phase. Conversely, the correct application of this principle can connect the team and allow it to focus on substantial solutions to real problems. Often, when applying this principle, teams also report an increase in motivation and relief from the opportunity of finding a truly meaningful product development path.
 
 
-## Issues the Fail Fast philosophy helps to solve
+## Issues the Fail Fast Philosophy Helps to Solve
 - Unsuccessful product
 - Unnecessary functions
 - Expensive development
