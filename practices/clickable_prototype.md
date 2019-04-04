@@ -16,9 +16,9 @@ keywords:
   - mvp
 ---
 
-# Clickable prototype
+# Clickable Prototype
 
-## What is a Clickable Prototype
+## What Is a Clickable Prototype
 
 A clickable prototype shows a visual representation of the user interface of a website or software application. Unlike static wireframes or mockups, it can show more than one state of the application, for example, a drop-down menu may appear. The interactive experience is very similar to a finalized application.
 
@@ -26,7 +26,7 @@ Prototypes are often made in the cheapest way and usually at a lower level of de
 
 ![Clickable Prototype](/files/clickable_prototype.gif)
 
-## Why you might want the Clickable Prototype
+## Why you Might Want the Clickable Prototype
 
 A clickable prototype is used as a presentation of the various project stakeholders to gather more accurate feedback (typically via UX tests) from:
 
@@ -36,13 +36,13 @@ A clickable prototype is used as a presentation of the various project stakehold
 
 Based on text above, process of software development which uses prototyping can be faster and more cost-effective than programming.
 
-## Issues the Clickable Prototype solves
+## Issues the Clickable Prototype Solves
 
 - Disconnection with business, misunderstanding within the team
 - Meaningless work
 - Extended cost
 
-## How to implement the Clickable Prototype
+## How to Implement the Clickable Prototype
 
 It is recommended to start with a simple wireframe (pen + paper) your head thinks only about the prototype, and not about the tool. If your paper clickable prototype is not sufficient for the purpose, continue with advanced prototyping.
 
@@ -50,15 +50,15 @@ It is good to keep particular versions of the prototype because you might want t
 
 There is a lot of prototyping tools on the market, the most common are [Axure](https://www.axure.com/), [Sketch](https://www.sketchapp.com/), [Balsamiq](https://balsamiq.com/), [Proto.io](https://proto.io/) or [Justinmind](https://www.justinmind.com/). It is not impossible to create a great prototype with PowerPoint or Keynote. A prototyper is usually a UX designer and does not necessarily have developer skills.
 
-## Common pitfalls of Clickable Prototype
+## Common Pitfalls of Clickable Prototype
 
 - A clickable prototype usually clarifies communication between decision makers and the rest of the team. Sometimes it can conversely cause a slowdown of development, for example UX specialist/prototyper is on the other end of the globe than product owner and developer. Communication can be in this case very difficult.
 - It follows the point above: sometimes can be programming cheaper and faster than prototyping and a paper or blackboard wireframe might be sufficient. Consider whether it is necessary.
 - The level of detail of the clickable prototypes should depend on the type of project. For example, a prototype for usability testing may be more closer to the reality than for presentation on management board.
 - Stakeholders sometimes think the product is done. Make sure that they have enough information.
 
-## Resources
+## Resources for the Clickable Prototype
 
-- [Why product clickable prototype is different and what tools to use to make one](https://kfginternational.com/blog/product-clickable-prototype/)
-- [What is website prototype?](https://www.experienceux.co.uk/faqs/what-is-a-website-prototype/)
-- [Clickable Wireframe](https://pidoco.com/en/help/ux/clickable-wireframe)
+- [KFG Blog: Why Product Clickable Prototype Is Different and What Tools to Use to Make One](https://kfginternational.com/blog/product-clickable-prototype/)
+- [Experience UX: What Is Website Prototype?](https://www.experienceux.co.uk/faqs/what-is-a-website-prototype/)
+- [Pidoco: Clickable Wireframe](https://pidoco.com/en/help/ux/clickable-wireframe)
