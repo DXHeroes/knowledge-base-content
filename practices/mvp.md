@@ -37,7 +37,7 @@ The key idea of MVP is that you produce the MVP version to customers and observe
 - Using iterations, you can discover a direction of development which will be optimal.
 - MVP allows you to build a basis of potential customers and find the first product users.
 
-![MVP](/files/mvp.png)
+![MVP](/files/mvp.png)  
 [Hackernoon.com: Mindset Change: MVP vs. SLC.](https://hackernoon.com/mindset-change-mvp-vs-slc-d087a7f87be3)
 
 ## Issues the MVP solves
@@ -57,12 +57,12 @@ Necessary steps to build an MVP:
 
 1. Problem
 
-   Clarify what problem you solve and for whom. Start by putting yourself in customer’s shoes: “Why do I need this product?” and “How it can help me?”
+   Clarify what problem you solve and for whom. Start by putting yourself in customer’s shoes: “Why do I need this product?” and “How it can help me?”  
    Tip: A practice of Value Proposition Canvas or Design sprint can help you.
 
 2. Competitor analysis
 
-   Do not forget to research what your competitors offer and how can you make your idea unique.
+   Do not forget to research what your competitors offer and how can you make your idea unique.  
    Tip: There are various tools available that can help you investigate your competitor's websites or apps. One of them is Similar Web which is free and allows you to get some insights about their monthly traffic, sources of traffic, geographical location of a user and other helpful information.
 
 3. User journey
@@ -71,7 +71,7 @@ Necessary steps to build an MVP:
 
 4. Prioritized list of features
 
-   Create a list of all necessary features for each goal, prioritize them and categorize them based on priority, for example, “must-have”, “nice-to-have” and “don’t care”. Maybe it will help you if you ask yourself questions, such as “What do my customers want?” or “Do I offer them something beneficial?”
+   Create a list of all necessary features for each goal, prioritize them and categorize them based on priority, for example, “must-have”, “nice-to-have” and “don’t care”. Maybe it will help you if you ask yourself questions, such as “What do my customers want?” or “Do I offer them something beneficial?”  
    Tip: If you want to see how your future product will look, you can even create a wireframe or clickable prototype of your MVP if possible.
 
 5. Build, measure, learn
