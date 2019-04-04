@@ -43,13 +43,13 @@ The whole team has to participate in creating the Lean Canvas model. All the 9 f
 9. Channels
 
 To get the correct output, the scheme requires data from the following list of teams:
-- the business team
-- analytic team
-- compliance team (for defining the customers' segment)
-- technical leaders
-- the product management
+- Business Team
+- Analytic Team
+- Compliance Team (for defining the customers' segment)
+- Technical Leaders
+- Product Management
 
-## Why You Might Want a Lean Canvas
+## Why You Might Want the Lean Canvas
 
 Lean Canvas quickly addresses the important question: is the business project worth creating?
 
@@ -73,7 +73,7 @@ The chart can be created:
 
 All you have to do is to get the right people from your company or/and your business partners together and fill the chart. You can use a lean canvas generator, such as [Canvanizer](https://canvanizer.com/) or [Leanstack](https://leanstack.com/).
 
-## Common Pitfalls of a Lean Canvas
+## Common Pitfalls of the Lean Canvas
 - Make sure to fill the chart with an open mind. A common mistake is to have the conclusions already in mind and to adjust the chart to reach them.
 - Avoid refilling the chart if the conclusions are not as positive as expected.
 - Lean Canvas is commonly mistaken to be a tool only for startups. The chart can be used by a company of any size and any business approach. It was proven to be useful for documenting the product at any stage of development.
