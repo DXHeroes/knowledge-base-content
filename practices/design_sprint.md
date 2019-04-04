@@ -37,13 +37,13 @@ The Design Sprint uses design thinking to reduce risks of launching a new produc
 ### Phases of the Design Sprint
 
 1. **Map**
-   Map the problems and identify the important area to focus on. Set a long term goal.
+   Map the problems and identify the important areas to focus on. Set a long term goal.
 
 2. **Sketch**
    Sketch down the creative ways how to solve the problem on the paper.
 
 3. **Decide**
-   Remove the unfeasible ideas from the first two phases. Make a storyboard and decide what should be prototyped. The final choice is made by decision makers.
+   Remove the unfeasible ideas from the first two phases. Make a storyboard and decide what should be prototyped. The final choice is made by Decision Makers.
 
 4. **Prototype**
    Make a realistic prototype that can be tested by potential or existing customers.
@@ -58,11 +58,11 @@ The Design Sprint uses design thinking to reduce risks of launching a new produc
 
 The Design Sprint process helps to:
 
-- Assure the team that they are heading in the right direction.
-- Understand the visions and risks. It enables the team to see the world through the customer's eyes.
-- Empower every member of the team to contribute to the project.
-- Save time. The number of meetings is significantly reduced.
-- Save the money. The team avoids unknowns or assumptions as long as they understand the risks.
+- assure the team that they are heading in the right direction.
+- understand the visions and risks. It enables the team to see the world through the customer's eyes.
+- empower every member of the team to contribute to the project.
+- save time. The number of meetings is significantly reduced.
+- save the money. The team avoids unknowns or assumptions as long as they understand the risks.
 
 ## Issues the Design Sprint Solves
 
@@ -72,15 +72,15 @@ The Design Sprint process helps to:
 
 ## How to Implement the Design Sprint
 
-Make a team. The ideal number of people involved in the sprint is 4 to 7 people. The team includes a facilitator, a designer, a decision maker, product manager, engineer and someone from companies core business departments (for example, Marketing, Content, or Operations).
+Make a team. The ideal number of people involved in the sprint is 4 to 7. The team includes a Facilitator, a Designer, a Decision Maker, a Product Manager, an Engineer and someone from companies core business departments (for example, Marketing, Content, or Operations).
 
-The **facilitator** manages the sprint. A good facilitator leads the meetings and encourages the team to share their ideas and find the solutions. It is mostly a silent or unbiased role in group discussions.
+The **Facilitator** manages the sprint. A good Facilitator leads the meetings and encourages the team to share their ideas and find the solutions. It is mostly a silent or unbiased role in group discussions.
 
-The **decision maker** (or the decider) has the ultimate authority to select what goes into the prototype. This role is often played by the company’s CEO or by someone with the budget authority. The Design Sprint is just the first step in product development. The team needs a powerful decider to pursue the product after the Design Sprint and until the implementation.
+The **Decision Maker** (or the Decider) has the ultimate authority to select what goes into the prototype. This role is often played by the company’s CEO or by someone with the budget authority. The Design Sprint is just the first step in product development. The team needs a powerful decider to pursue the product after the Design Sprint and until the implementation.
 
 The preparation is very important:
 
-- Find a good facilitator.
+- Find a good Facilitator.
 - Define the challenge (not too vague).
 - Block out the entire week for the whole team.
 - Book a room. Forbid anything that could distract the team from focusing (for example, mobile phones).
