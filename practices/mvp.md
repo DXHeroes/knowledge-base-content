@@ -63,18 +63,14 @@ Necessary steps to build an MVP:
 1. **Problem**
    Clarify what problem you solve and for whom. Start by putting yourself in customer’s shoes: “Why do I need this product?” and “How it can help me?”
    **Tip:** A practice of Value Proposition Canvas or Design sprint can help you.
-
-2. **Competitor Analysis**
+2. **Competitor analysis**
    Do not forget to research what your competitors offer and how can you make your idea unique.
    **Tip:** There are various tools available that can help you investigate your competitor's websites or apps. One of them is Similar Web which is free and allows you to get some insights about their monthly traffic, sources of traffic, geographical location of a user and other helpful information.
-
 3. **User Journey**
    A user journey is a series of steps representing a scenario in which a user might interact with the product you are designing. You should think less about particular features and concentrate more on basic activities, such as “find T-shirt” or “receive orders”. These are the types of goals your end-users will have when they use your product.
-
 4. **Prioritized List of Features**
    Create a list of all necessary features for each goal, prioritize them and categorize them based on priority, for example, “must-have”, “nice-to-have” and “don’t care”. Maybe it will help you if you ask yourself questions, such as “What do my customers want?” or “Do I offer them something beneficial?”
    **Tip:** If you want to see how your future product will look, you can even create a wireframe or clickable prototype of your MVP if possible.
-
 5. **Build, Measure, Learn**
    After the completion of product development, the product needs to be tested. Collect the feedback from the users, measure the quality and learn, then start improving your product. The process goes on until it is finalized.
 
