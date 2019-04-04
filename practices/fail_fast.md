@@ -31,7 +31,7 @@ Fail fast is a method or philosophy used during a recurrent approach (such as te
 ![Fail Fast](/files/fail_fast.jpg)
 [Hackermoon.com: Fail fast, iterate and pivot](https://hackernoon.com/fail-fast-iterate-and-pivot-8d00d6c00836)
 
-## Why you might want to Fail Fast
+## Why You Might Want to Fail Fast
 
 Iteration is the most effective way how to go forward. It may help you fastly validate your vision with real clients and prepare a really useful application or concept.
 The main philosophy of the fail fast principle is to avoid or reduce the sunk cost effect which is often caused by the effort to develop a product that simply does not work.
@@ -51,7 +51,7 @@ Fail Fast is one of the main practices that the team should adopt mostly in the 
 - Not my problem mentality
 
 
-## How to implement the Fail Fast philosophy
+## How to Implement the Fail Fast Philosophy
 - **Hunt the negatives** 
   Seek out a negative opinion. Find people who are critical of the problems you are solving. Remember that your friends and family may not be completely honest or they are not sufficiently critical. They may tell you how great everything is and how well things are going. Do not listen to them!
 - **Be critical** 
@@ -84,5 +84,5 @@ Always look at the fail-fast philosophy as on the positive way how to improve yo
 - **Not learning from mistakes**
   It is not enough to stop continuing to implement the meaningless product or functionality, it is also necessary to evaluate the reasons why we end and take the result into future designs.
 
-## Resources for the Fail Fast
+## Resources for the Fail Fast Philosophy
 - [DZone.com: The Fail-Fast Principle in Software Development](https://dzone.com/articles/fail-fast-principle-in-software-development)
