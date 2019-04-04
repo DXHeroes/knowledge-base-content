@@ -67,11 +67,11 @@ The Value Proposition Canvas should be a team work. Always start with defining t
 
 Follow these steps:
 
-- Discuss who the customer is with the team. You can use the Persona Canvas.
-- Put your ideas about the customer jobs on the post-it notes. Stick the notes to the canvas.
-- Write the pains on the post-it notes. Answer the question: “What gets in the way of customer’s jobs?” Stick the notes to the canvas.
-- Write the gains on the post-it notes. Try to think about what makes the customer happy. Stick the notes to the canvas.
-- Define the priorities for each section.
+1. Discuss who the customer is with the team. You can use the Persona Canvas.
+2. Put your ideas about the customer jobs on the post-it notes. Stick the notes to the canvas.
+3. Write the pains on the post-it notes. Answer the question: “What gets in the way of customer’s jobs?” Stick the notes to the canvas.
+4. Write the gains on the post-it notes. Try to think about what makes the customer happy. Stick the notes to the canvas.
+5. Define the priorities for each section.
 
 When you finish defining the customer, describe the left side of the canvas - the value proposition. Ensure there is a fit between the right side and the left side.
 
