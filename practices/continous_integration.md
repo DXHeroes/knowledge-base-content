@@ -3,7 +3,7 @@ slug: continous-integration
 aspect: processes
 stages: 
   - development
-short_description: Continuous Integration is a software development practice that makes developers integrate code changes into a shared repository routinely and frequently. Usually, each person integrates at least daily and that ensures them their code changes do not break anything.
+short_description: Continuous Integration is a software development practice that makes developers integrate code changes into a shared repository routinely and frequently. Usually, each person integrates at least daily and that ensures them that their code changes do not break anything.
 tags:
   - continuous integration
   - testing
@@ -20,9 +20,9 @@ keywords:
 
 ## What Is a Continuous Integration
 
-Continuous Integration (CI) is the practice of daily integrating code changes. Everything that has been developed keeps integrating together on a daily basis. Each integration is automatically and immediately verified and tested to detect any possible errors. 
+Continuous Integration (CI) is a practice of daily integrating code changes. Everything that has been developed keeps integrating together on a daily basis. Each integration is automatically and immediately verified and tested to detect any possible errors. 
 
-CI helps to develop the product faster - if you do the integration as the last step of the developing process, the project can get stuck for a long time before it is finished. It is impossible to say how long the whole integration takes. It is much better to do it immediately, frequently and fix the errors as soon as they are found. That way the workflow is more efficient and the cognitive load is reduced.
+CI helps to develop the product faster - if you do the integration as the last step of the developing process, the project can get stuck for a long time before it is finished. It is impossible to estimate how long the whole integration takes. It is much better to do it immediately, frequently and fix the errors as soon as they are found. That way the workflow is more efficient and the cognitive load is reduced.
 
 CI helps the developers to verify that the changes they made in the code are not going to break anything. They can catch the problems before their changes reach the production stage.
 
@@ -32,7 +32,7 @@ CI is usually implemented with Continuous Delivery (CD) - a practice for produci
 
 The CI helps your team with:
 - **Reducing the integration risk**
-  When multiple people work on the same project, they usually work on separate tasks or separate parts of the code. It can be risky to integrate their work together. Integrating frequently reduces the potential risk of problems to a minimum.
+  When multiple people work on the same project, they usually work on separate tasks or separate parts of the code. It can be tricky to integrate their work together. Integrating frequently reduces the potential risk of problems to a minimum.
 - **Detecting possible problems before they break anything**
   The automatic tests let you know immediately if there are some problems. It helps you fix the problems before the code changes break anything.
 - **Improving the code quality**
@@ -78,7 +78,7 @@ The CI helps your team with:
 - **Relying on the CI too much**
   The CI is as good as good are the test results. If the developers have to fix the problems too often, it slows down the development.
 - **Hardware/Software costs**
-  It can seem like an expensive change. In reality, the costs are marginal comparing to the costs of maintaining more complex products at the later stages of development.
+  It can seem like an expensive change. In reality, the costs are marginal comparing to the cost of maintaining more complex products at the later stages of development.
 - **The project is too small**
   Implementing the CI can be time-consuming. Writing the tests takes a long time. Ensure that you do not spend more time implementing this practice than actually developing the product. On the other hand, even small projects can benefit from the CI if they use the proper CI tools that are easy to set up. Try, for example, [Travis CI](https://travis-ci.org/) or [Circle CI](https://circleci.com/).
 
