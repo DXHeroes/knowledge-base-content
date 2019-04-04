@@ -37,14 +37,14 @@ Wireframes create a clear picture of the elements that will be developed. This t
 
 You can use the wireframes to:
 
-- See quickly if you did not forget anything.
-- Make changes to the UI scheme without ruining the visual design.
-- Transform it into a clickable prototype.
-- Test the UI on users (to a limited extent).
-- Test more variants of the UI on users at a low price.
-- Show to the business stakeholders to ensure that their requirements are taken into account.
-- Give the graphic designers a basis to create the UI.
-- Communicate the functionalities without the distraction of any visual design elements.
+- see quickly if you did not forget anything.
+- make changes to the UI scheme without ruining the visual design.
+- transform it into a clickable prototype.
+- test the UI on users (to a limited extent).
+- test more variants of the UI on users at a low price.
+- show to the business stakeholders to ensure that their requirements are taken into account.
+- give the graphic designers a basis to create the UI.
+- communicate the functionalities without the distraction of any visual design elements.
 
 ## Issues the Wireframing Solves
 
