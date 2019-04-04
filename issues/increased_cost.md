@@ -24,9 +24,9 @@ How to measure the development cost? It can be tricky because no two projects ar
 The quality of the product is affected by three constraints: people, schedule and scope.
 1. **People**
   The more experienced the team is, the faster and therefore cheaper the product is developed. The longer they work on a project, the more familiar they are with it. The team has to understand that they have the same goal, ensure that they feel motivated, comfortable, and supported. There are many tools to help you with motivating the team.
-  For more information, see Scrum, Demotivated Team, Rituals Definition, Mentoring
+  For more information, see Scrum, Demotivated Team, Rituals Definition, or Mentoring
 2. **Schedule**
-  Estimating the time for each task of the project can be tricky. The longer the project is, the more difficult is the estimation. There are tools to help you with the schedule (for example, agile methods), a Product Owner helps to prioritize the tasks. For more information, see Rituals Definition and Product Owner.
+  Estimating the time for each task of the project can be tricky. The longer the project is, the more difficult it gets to estimate the time. There are tools to help you with the schedule (for example, Agile Methods), a Product Owner helps to prioritize the tasks. For more information, see Rituals Definition and Product Owner.
 3. **Scope**
   The whole length of the project has to be constantly adjusted based on the feedback from the Product Owner and Stakeholders. Their feedback helps to prioritize the tasks based on the customer's needs.
 
@@ -36,7 +36,7 @@ It is easy to increase the development cost by:
 - being pushed by the stakeholder to use expensive technologies you do not need
 - renting an office and buying the equipment
 - building unnecessary functionalities that the user would not use
-- not suppressing the ego enough (For example, the manager tells the team to develop something that the users will never use. Everyone knows it is a waste of time but the manager insist on it. The manager wants it there for no apparent reason. The manager cannot suppress their ego.)
+- not suppressing the ego enough (For example, the manager tells the team to develop something that the users will never use. Everyone knows it is a waste of time but the manager insist on it. The manager wants it there for no apparent reason. That means that the manager cannot suppress their ego.)
 
 ## How to Reduce the Development Cost
 1. **Make it simple**
@@ -48,7 +48,7 @@ It is easy to increase the development cost by:
   Talk about the project, share the ideas. 
   For more information, see the Bus Factor, Pair Programming, or Ritual Definition.
 4. **Manage**
-  A good project management can save a lot of time and money. Make reasonable deadlines, check the developers regularly but do not micromanage them. Motivate the team and listen to everyone.
+  A good Project Management can save a lot of time and money. Make reasonable deadlines, check the developers regularly but do not micromanage them. Motivate the team and listen to everyone.
   For more information, see Demotivated Team.
 5. **Speed up the marketing**
   The product can be marketed before it is even finished.
