@@ -38,7 +38,7 @@ A Bus Factor is also known as the bread truck scenario, lottery factor, truck fa
 - **Reassign**
   Usually, the project relies on one or a few "heroes". The company has to be prepared for them to leave. Reassign the heroes to a different part of your project or to a completely different task. Their replacement will have time to ask them questions while the heroes are still part of the company. The heroes can be very useful in their new area as well.
 - **Code reviews**
-  Code review helps to find the bugs and to ensure that other developers get familiar with your project. Also, shared responsibility creates a friendlier atmosphere.
+  Code review helps to find bugs and helps to ensure that other developers get familiar with your project. Also, shared responsibility creates a friendlier atmosphere.
   For more information, see Code Reviews.
 - **Improve the level of your juniors**
   It is important to let the juniors become valuable team members as soon as possible. Do not always give complex and difficult projects to the senior developers. Juniors might spend longer time figuring the projects out, but they can always ask for help. Discussing the issues with more advanced colleagues makes juniors grow fast.
@@ -56,7 +56,7 @@ A Bus Factor is also known as the bread truck scenario, lottery factor, truck fa
   For more information, see Domain Driven Design.
 - **Write tests and documentation**
   Functional tests help developers to understand the project very quickly. Document (at least) the main goals of your project.
-  For more information, see Support and Maintenance Documentation, or Performance Test.
+  For more information, see Software Documentation, or Performance Test.
 
 ## Common Pitfalls of Increasing the Bus Factor
 - Team substitutability is missing. It seems like everyone is familiar with the product but there is only one person (or a few) that can release it. This can be prevented by automatization.
