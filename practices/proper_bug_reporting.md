@@ -71,7 +71,7 @@ To write an effective bug report, follow these 10 steps:
 - **Too vague**
   It is necessary to find a balance between being too vague and too detailed. It saves time when the person who has to fix the bug does not have to ask for more information.
 
-## Resources For the Bug Reporting
+## Resources for the Bug Reporting
 - [IT Knowledge Exchange: What Is A Bugs Report In Software Testing?](https://itknowledgeexchange.techtarget.com/quality-assurance/what-is-a-bugs-report-in-software-testing/)
 - [Can Pig Ride: Writing Effective Defect Reports](http://canpigride.blogspot.com/)
 - [Musescore: How To Write A Good Bug Report: Step-by-step Instructions](https://musescore.org/cs/handbook/developers-handbook/getting-started/how-write-good-bug-report-step-step-instructions)
