@@ -88,7 +88,7 @@ Necessary steps to build an MVP:
 - There are no defined metrics to measure the feedback. Therefore, the learning phase could not happen.
 - Team deliver what they consider an MVP, and then do not do any further changes to that product, regardless of feedback they receive about it.
 
-## Resources
+## Resources for the MVP
 
 - [AgileAlliance.org: Minimum Viable Product (MVP)](https://www.agilealliance.org/glossary/mvp)
 - [Net Solutions: A Step-by-Step Guide to Build a Minimum Viable Product (MVP)](https://www.netsolutions.com/insights/how-to-build-an-mvp-minimum-viable-product-a-step-by-step-guide/)
