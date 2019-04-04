@@ -59,8 +59,8 @@ There is a lot of prototyping tools on the market, the most common are [Axure](h
 - The level of detail of the clickable prototypes should depend on the type of project. For example, a prototype for usability testing may be more closer to the reality than for presentation on management board.
 - Stakeholders sometimes think the product is done. Make sure that they have enough information.
 
-## Resources
+## Resources for the Clickable Prototype
 
-- [Why product clickable prototype is different and what tools to use to make one](https://kfginternational.com/blog/product-clickable-prototype/)
-- [What is website prototype?](https://www.experienceux.co.uk/faqs/what-is-a-website-prototype/)
-- [Clickable Wireframe](https://pidoco.com/en/help/ux/clickable-wireframe)
+- [KFG Blog: Why Product Clickable Prototype Is Different and What Tools to Use to Make One](https://kfginternational.com/blog/product-clickable-prototype/)
+- [Experience UX: What Is Website Prototype?](https://www.experienceux.co.uk/faqs/what-is-a-website-prototype/)
+- [Pidoco: Clickable Wireframe](https://pidoco.com/en/help/ux/clickable-wireframe)
