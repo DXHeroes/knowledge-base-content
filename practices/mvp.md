@@ -25,13 +25,13 @@ keywords:
 
 # MVP
 
-## What is a MVP
+## What Is a MVP
 
 The Minimum Viable Product (MVP) represents a concept from Lean Thinking that emphasizes the impact of learning in new product development. It is that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort.
 
 The key idea of MVP is that you produce the MVP version to customers and observe their actual behavior with the product.
 
-## Why you might want the MVP
+## Why you Might Want the MVP
 
 - The main benefit is that MVP helps to understand real customer needs without fully developing the product. The sooner you find out that your product meets customer interests, the less effort and expense you spend on a product that will not succeed in the market. The principle is also known as “Fail fast”.
 - Using iterations, you can discover a direction of development which will be optimal.
@@ -40,7 +40,7 @@ The key idea of MVP is that you produce the MVP version to customers and observe
 ![MVP](/files/mvp.png)
 [Hackernoon.com: Mindset Change: MVP vs. SLC.](https://hackernoon.com/mindset-change-mvp-vs-slc-d087a7f87be3)
 
-## Issues the MVP solves
+## Issues the MVP Solves
 
 - Bad product-market fit
 - Meaningless work
@@ -51,7 +51,7 @@ The key idea of MVP is that you produce the MVP version to customers and observe
 - Demotivated team
 - Extended cost
 
-## How to implement the MVP
+## How to Implement the MVP
 
 Necessary steps to build an MVP:
 
@@ -63,7 +63,7 @@ Necessary steps to build an MVP:
 2. Competitor analysis
 
    Do not forget to research what your competitors offer and how can you make your idea unique.
-   Tip: There are various tools available that can help you investigate your competitor's websites or apps. One of them is Similar Web which is free and allows you to get some insights about their monthly traffic, sources of traffic, geographical location of a user and other helpful information.
+   Tip: There are various tools available that can help you investigate your competitor's websites or apps. One of them is [Similar Web](https://www.similarweb.com) which is free and allows you to get some insights about their monthly traffic, sources of traffic, geographical location of a user and other helpful information.
 
 3. User journey
 
@@ -92,7 +92,7 @@ Necessary steps to build an MVP:
 - There are no defined metrics to measure the feedback. Therefore, the learning phase could not happen.
 - Team deliver what they consider an MVP, and then do not do any further changes to that product, regardless of feedback they receive about it.
 
-## Resources
+## Resources for the MVP
 
 - [AgileAlliance.org: Minimum Viable Product (MVP)](https://www.agilealliance.org/glossary/mvp)
 - [Net Solutions: A Step-by-Step Guide to Build a Minimum Viable Product (MVP)](https://www.netsolutions.com/insights/how-to-build-an-mvp-minimum-viable-product-a-step-by-step-guide/)
