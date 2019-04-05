@@ -63,7 +63,7 @@ A Bus Factor is also known as the bread truck scenario, lottery factor, truck fa
 - The Bus Factor is hidden. It does not have to be only about the deep knowledge of your project. It can be just one password that is not shared and hides an important part of the project.
 - The documentation is nonexisting. If the developers do not share their ideas, it is very important to write them down. 
 
-## Resources for The Bus Factor
+## Resources for the Bus Factor
 - [Agile Advice: Truck Factor](http://www.agileadvice.com/2005/05/15/agilemanagement/truck-factor/)
 - [A Medium Corporation: Lessons Learned About Bus Factor](https://medium.com/@einenlum/lessons-learned-about-bus-factor-1-5-introduction-994b3b0332d3)
 - [A Medium Corporation: The Bus Factor](https://medium.com/tech-tajawal/the-bus-factor-6ea1a3ede6bd)
