@@ -20,23 +20,20 @@ keywords:
   - grooming
   - estimating
   - implementation
-  - portfolio epic
-  ---
+  - epic
   
   #User Stories
-  
  ##What Is a User Story
- 
 A user story (US) is the smallest chunk of work in an agile framework. It divides a large amount of product functionality into smaller functional increments that should be finished in one sprint. This practice helps with sprint planning and estimating the time spent on development. User stories are usually building blocks of a larger agile framework, such as epic or feature. Scrum Master watches over the US life cycle. The US are useful for everyone (for example, an analyst needs them for a product description, a tester reads them to know what has to be tested).
 
 **How to Write a User Story**
 - User stories are usually written by a Product Owner who also defines the prioritization.
 - A US is just a few sentences written in a simple language without going into detail. 
-- They follow a simple template, such as: “as a < type of user >, I want < some goal > so that < some reason >”.
+- They follow a simple template, such as: “as a <type of user>, I want <some goal> so that <some reason>”.
 - Work is divided into US during grooming sessions where the team estimates stories and assign story points. Every team member grooms every US even though they are not going to work on it.
 - A US can be written on a post-it note and stick it on a board, or created in software.
 - US have to be testable. Even if your US are divided into smaller US, each US has to be testable.
-- It is recommended to have a specific hierarchy - US are usually roofed by a portfolio epic. US can be broken into smaller chunks of work, such as tasks or features.
+- It is recommended to have a specific hierarchy - US are usually roofed by an epic. US can be broken into smaller chunks of work, such as tasks or features.
 
 **Four important US phases:**
 1. Initiation
