@@ -1,16 +1,22 @@
 ---
-slug: "devops"
-aspect: "processes"
+slug: devops
+aspect: processes
 stages: 
-  - "development"
+  - development
 short_description: DevOps is a set of practices that brings development and operations teams together. The collaboration helps to release software much faster.
 tags:
   - devops
+  - continous integration
+  - continous delivery
   - development
   - communication
   - collaboration
   - automation
+  - increased cost
+  - demotivated team
+  - deployment
 keywords:
+  - effective deployment
   - devops engineer
   - communication
   - culture
@@ -79,11 +85,13 @@ Sharing is crucial. If the teams share responsibilities, they share success as w
 - DevOps Engineers work only as one of the other developers and does not create the culture change. The operations team does not trust them and do not cooperate.
 
 ## Issues the Devops Solves
+- [Increased cost](/issues/increased-cost)
+- [Demotivated team](/issues/demotivated-team)
+- "Not my problem" mentality
+- Developer vs Operations wars
+- Overwhelmed operations
 - Long feedback loops
 - Long incident resolution times
-- Overwhelmed operations
-- Developer vs Operations wars
-- "Not my problem" mentality
 
 **Resources for the Devops**
 
