@@ -41,6 +41,7 @@ The quality of the product is affected by three constraints: people, schedule an
   The whole length of the project has to be constantly adjusted based on the feedback from the Product Owner and Stakeholders. Their feedback helps to prioritize the tasks based on the customer's needs.
 
 It is easy to increase the development cost by:
+
 - underestimating the time the developers need
 - having too many junior developers
 - being pushed by the stakeholder to use expensive technologies you do not need
