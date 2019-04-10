@@ -93,7 +93,7 @@ Sharing is crucial. If the teams share responsibilities, they share success as w
 - Long feedback loops
 - Long incident resolution times
 
-**Resources for the Devops**
+## Resources for the Devops ##
 
 - [Atlassian: DevOps](https://www.atlassian.com/devops)
 - [The New stack: Want Devops Automation? It’s People Before Pipelines](https://thenewstack.io/want-devops-automation-its-people-before-pipelines/)
