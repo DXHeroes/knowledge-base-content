@@ -1,13 +1,21 @@
 ---
-slug: "clickable-prototype"
-aspect: "architecture"
+slug: clickable-prototype
+aspect: architecture
 stages:
-  - "research"
+  - research
 short_description: Clickable prototypes are interactive demos of a website or software application. These are often used to gather feedback early in the project lifecycle, before the project goes into the final stage of development.
 tags:
   - prototyping
   - wireframing
+  - mvp
+  - fail fast
+  - testing
+  - ux/ui
+  - retrospective
+  - demotivated team
+  - increased cost
 keywords:
+  - fail fast
   - prototyping
   - ux tests
   - user testing
@@ -16,6 +24,8 @@ keywords:
   - wireframe
   - mockup
   - mvp
+  - retrospective
+  - increased cost
 ---
 
 # Clickable Prototype
@@ -40,9 +50,9 @@ Based on text above, process of software development which uses prototyping can 
 
 ## Issues the Clickable Prototype Solves
 
+- [Demotivated team](/issues/demotivated-team)
+- [Increased cost](/issues/increased-cost)
 - Disconnection with business, misunderstanding within the team
-- Meaningless work
-- Extended cost
 
 ## How to Implement the Clickable Prototype
 

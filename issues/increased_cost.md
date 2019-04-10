@@ -1,13 +1,20 @@
 ---
-slug: "increased-cost"
-aspect: "architecture"
+slug: increased-cost
+aspect: architecture
 stages: 
-  - "research"
+  - research
 short_description: It is not an easy task to measure the cost of software development. Two projects are never the same, it can be a small application or a complex system. It is important to try to reduce the possible increase in cost.
 tags:
   - increased cost
   - cost
+  - clickable prototype
+  - design sprint
+  - lean canvas
+  - value proposition
 keywords:
+  - design sprint
+  - value proposition
+  - lean canvas
   - schedule
   - scope
   - time
@@ -43,13 +50,13 @@ It is easy to increase the development cost by:
   Decide what features are really necessary. The users can feel overloaded if the project (an application or software) has too many features. The goal is to make the app easy to use.
 2. **Plan well**
   Do not underestimate the planning stage of your project. Speeding through this stage when your schedule is tight is very tempting. You can change the plan during the development but it is important to have defined ideas at the beginning.
-  Use techniques such as Lean Canvas, Value Proposition Canvas, or build Minimum Viable Product.
+  Use techniques such as [Lean Canvas](/practices/lean-canvas), [Value Proposition Canvas](/practices/value-proposition), or build [Minimum Viable Product](/practices/minimum-viable-product).
 3. **Collaborate**
   Talk about the project, share the ideas. 
-  For more information, see the Bus Factor, Pair Programming, or Ritual Definition.
+  For more information, see the [Bus Factor](/practices/bus-factor), Pair Programming, or Ritual Definition.
 4. **Manage**
   A good Project Management can save a lot of time and money. Make reasonable deadlines, check the developers regularly but do not micromanage them. Motivate the team and listen to everyone.
-  For more information, see Demotivated Team.
+  For more information, see [Demotivated Team](/issues/demotivated-team).
 5. **Speed up the marketing**
   The product can be marketed before it is even finished.
 6. **Outsource**
