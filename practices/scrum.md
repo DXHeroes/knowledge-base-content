@@ -47,7 +47,7 @@ The Guide explains the Scrum within a definition which consists of Scrum's roles
 ![Scrum](/files/scrum.png)  
 [Scrum.org: Scrum Framework Poster](https://www.scrum.org/resources/scrum-framework-poster)
 
-## Why you Might Want Scrum
+## Why You Might Want Scrum
 
 - **Better quality and customer satisfaction**  
   The main focus is to provide new features or corrections frequently and collect feedback from customers as quick as possible.
