@@ -35,7 +35,7 @@ const validate = async () => {
   const changedMds = [
     ...danger.git.created_files,
     ...danger.git.modified_files
-  ].filter(path => path.endsWith("md"));
+  ].filter(path => path.match(/(issues|practices)\/.*\.md/));
 
   for (const mdFile of changedMds) {
     const validationResult: ValidationResult = await validateArticle(mdFile);
@@ -58,7 +58,7 @@ validate()
   })
   .catch(error => {
     console.error(error);
-    throw error;
+    fail("Something is wrong. The validation failed with server error.");
   });
 
 interface ValidationResult {
