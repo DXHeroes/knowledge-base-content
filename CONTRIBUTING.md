@@ -90,32 +90,8 @@ Example article: [pull request](https://github.com/DXHeroes/knowledge-base/blob/
       - `How to Implement the %{name}?`
       - `Common Pitfalls of the %{name}`
       - `Resources for the %{name}`
-    - [The Chicago Manual of Style on Headlines](#the-chicago-manual-of-style-on-headlines)
+    - Use "The Chicago Manual of Style on Headlines". Go to  [https://capitalizemytitle.com](https://capitalizemytitle.com) and choose "Chicago".
     
-### The Chicago Manual of Style on Headlines    
-**Principles of headline-style capitalization.** The conventions of headline style are governed mainly by emphasis and grammar. The following rules, though occasionally arbitrary, are intended primarily to facilitate the consistent styling of titles mentioned or cited in text and notes:
-  1. Capitalize the first and last words in titles and subtitles (but see rule 7), and capitalize all other major words (nouns, pronouns, verbs, adjectives, adverbs, and some conjunctions–but see rule 4).
-  2. Lowercase the articles the, a, and an.
-  3. Lowercase prepositions, regardless of length, except when they are used adverbially or adjectivally (up in Look Up, down in Turn Down, on in The On Button, to in Come To, etc.) or when they compose part of a Latin expression used adjectivally or adverbially (De Facto, In Vitro, etc.).
-  4. Lowercase the conjunctions and, but, for, or, and nor.
-  5. Lowercase to not only as a preposition (rule 3) but also as part of an infinitive (to Run, to Hide, etc.) and lowercase as in any grammatical function.
-  6. Lowercase the part of a proper name that would be lowercased in the text, such as de or von.
-  7. Lowercase the second part of a species name, such as fulvescens in Acipenser fulvescens, even if is the last word in a title or subtitle.
-
-**Examples of headline-style capitalization.** The following examples illustrate the numbered rules in 8.157. All of them illustrate the first rule; the numbers in parentheses refer to rules 2-7.
-- Mnemonics That Work Are Better Than Rules That Do Not
-- Singing While You Work
-- A Little Learning Is a Dangerous Thing (2)
-- Four Theories concerning the Gospel according to Matthew (2, 3)
-- Taking Down Names, Spelling Them Out, and Typing Them Up (3, 4)
-- Tired but Happy (4)
-- The Editor as Anonymous Assistant (5)
-- From Homo erectus to Homo sapiens: A Brief History (3, 7)
-- Defenders of da Vinci Fail the Test: The Name Is Leonardo (2, 3, 6)
-- Sitting on the Floor in an Empty Room (2, 3), but Turn On, Tune In, and Enjoy (3, 4)
-- Ten Hectares per Capita, but Landownership and Per Capita Income (3)
-- Progress in In Vitro Fertilization (3)
-
 ## Copyright and Licensing
 
 The DX Knowledge Base open source project is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
