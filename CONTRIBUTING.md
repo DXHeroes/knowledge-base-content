@@ -14,21 +14,21 @@ Please refer to each project's style and contribution guidelines for submitting 
  2. **Clone** the project to your own machine
  3. **Commit** changes to your own branch
  4. **Push** your work back up to your fork
- 5. Submit a **Pull request** so that we can review your changes
+ 5. Submit a **Pull Request** so that we can review your changes
 
 NOTE: Be sure to merge the latest from "upstream" before making a pull request.
 
-### Feeling and grammar
+### Feeling and Grammar
 
-- Use active voice
-- Choose an accurate word, try to be precise
+- Use active voice whenever possible
+- Establish a clear structure and try to be precise
 - Be brief, clear and direct
   - For example If ... => to avoid...
   - Important information in the main clause
-- Plain language
-  - Use fewer words or more basic versions
-- Do not use jargon
-  - In this case, explain abbreviations or unfamiliar terms
+- Simplify your language
+  - Use fewer words and get to the point
+- Avoid jargon and abbrevations
+  - Define acronyms and initialisms on their first use - give the abbreviation in parentheses after the full terminology
 - Grammar check possibilities
   - [Grammarly](https://www.grammarly.com)
   - [Microsoft Word Spelling and Grammar with the Readability Measurement](https://support.office.com/en-us/article/check-spelling-and-grammar-in-office-5cdeced7-d81d-47de-9096-efd0ee909227)
