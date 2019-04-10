@@ -33,6 +33,12 @@ A Bus Factor defines the number of developers that are vital to a project. If so
 
 A Bus Factor is also known as the bread truck scenario, lottery factor, truck factor, bus/truck number, or lorry factor.
 
+## Why You Might Want the Bus Factor
+[TODO]
+
+## Issues the Bus Factor Solves
+[TODO]
+
 ## How to Increase the Bus Factor
 
 - **Reassign**
