@@ -11,6 +11,8 @@ tags:
   - pair programming
   - documentation
   - ritual
+  - pull requests
+  - demotivated team
 keywords:
   - knowledge
   - ritual
@@ -24,6 +26,7 @@ keywords:
   - domain
   - documentation
   - knowledge sharing
+  - demotivated team
 ---
 
 # Bus Factor
