@@ -5,9 +5,15 @@ stages:
   - research
 short_description: A Lean Canvas is a 1-page chart with 9 basic building blocks. It helps to identify problems and solutions for your product.
 tags:
+  - lean canvas
   - canvas
-  - cost
+  - increased cost
+  - framework
+  - design sprint
+  - value proposition
 keywords:
+  - lean canvas
+  - business model canvas
   - canvas
   - risks
   - problems
@@ -58,9 +64,9 @@ A simple visual chart helps with communicating the offer to customers. It is cle
 Lean Canvas is also an easy tool for the team to help them understand the business product.
 
 ## Issues the Lean Canvas Solves
-- Extended cost
+- [Increased cost](/issues/increased-cost)
+- [Bad product-market fit](/issues/bad-product-market-fit)
 - Meaningless work
-- Bad product-market fit
 
 ## How to Implement the Lean Canvas
 The chart can be created:

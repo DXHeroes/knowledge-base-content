@@ -1,17 +1,23 @@
 ---
-slug: "minimum-viable-product"
-aspect: "architecture"
+slug: minimum-viable-product
+aspect: architecture
 stages:
-  - "research"
+  - research
 short_description: The Minimum Viable Product (MVP) is a scope of a product with the smallest possible functionality which is able to provide meaningful feedback from users.
 tags:
+  - mvp
   - feedback
   - development
-  - mvp
   - value proposition
-  - ux
+  - ux/ui
+  - design sprint
+  - fail fast
+  - lean canvas
+  - increased cost
 keywords:
-  - lean
+  - minimum viable product
+  - fail fast
+  - lean canvas
   - lean startup
   - lean thinking
   - lean development
@@ -47,21 +53,21 @@ The key idea of MVP is that you produce the MVP version to customers and observe
 
 ## Issues the MVP Solves
 
-- Bad product-market fit
+- [Increased cost](/issues/increased-cost)
+- [Bad product-market fit](/issues/bad-product-market-fit)
+- [Demotivated team](/issues/demotivated-team)
 - Meaningless work
 - Unsuccessful product
 - Unnecessary functions
 - Expensive development
 - Unhappy clients
-- Demotivated team
-- Extended cost
 
 ## How to Implement the MVP
 
 Necessary steps to build an MVP:
 
 1. **Problem**
-   Clarify what problem you solve and for whom. Start by putting yourself in customer’s shoes: “Why do I need this product?” and “How it can help me?”
+   Clarify what problem you solve and for whom. Start by putting yourself in customer’s shoes: "Why do I need this product?" and "How it can help me?"
    **Tip:** A practice of Value Proposition Canvas or Design sprint can help you.
 2. **Competitor analysis**
    Do not forget to research what your competitors offer and how can you make your idea unique.
@@ -75,7 +81,7 @@ Necessary steps to build an MVP:
    After the completion of product development, the product needs to be tested. Collect the feedback from the users, measure the quality and learn, then start improving your product. The process goes on until it is finalized.
 
 ![MVP Cycle](/files/mvp_cycle.png)
-[‘Lean’ On Yourself: How To Experiment Your Way To An Awesome Life](https://medium.com/@Tara_Velis/lean-on-yourself-how-to-experiment-your-way-to-an-awesome-life-c8aa3365555f)
+['Lean' On Yourself: How To Experiment Your Way To An Awesome Life](https://medium.com/@Tara_Velis/lean-on-yourself-how-to-experiment-your-way-to-an-awesome-life-c8aa3365555f)
 
 ## Common Pitfalls of the MVP
 

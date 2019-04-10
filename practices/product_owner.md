@@ -12,7 +12,10 @@ tags:
   - feedback
   - business
   - team
+  - retrospective
+  - demotivated team
 keywords:
+  - product owner
   - backlog
   - features
   - roadmap
@@ -48,11 +51,12 @@ A good Product Owner should:
 A PO is responsible for the product and helps to develop it. The responsibility is also to catch possible problems related to the product. This role is critical to linking Agile Development Teams to the business, which increases the acceptance of the product. A projects without a Project Owner can struggle with not enough feedback and it risks being disconnected from the stakeholders. In the end, it is all about the money and the PO is primarily responsible for delivering maximum value to the business.
 
 ## Issues the Product Owner Solves
-- Bad product-market fit
+- [Bad product-market fit](/issues/bad-product-market-fit)
+- [Demotivated team](/issues/demotivated-team)
 - Unsuccessful product
 - Unhappy clients
 - Disconnection with business
-- Not my problem mentality
+- "Not my problem" mentality
 
 ## Common Pitfalls Associated with the Product Owner
 The Product Owner:

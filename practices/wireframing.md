@@ -1,14 +1,16 @@
 ---
-slug: "wireframing"
-aspect: "architecture"
+slug: wireframing
+aspect: architecture
 stages:
-  - "research"
+  - research
 short_description: Wireframing is a visual tool to create a scheme of the user interface (UI) without focusing on graphic design. It helps to get a better picture of the elements that will be programmed.
 tags:
   - wireframing
   - architecture
   - ux/ui
   - desing
+  - prototyping
+  - clickable prototype
   - prototyping
 keywords:
   - sketch
@@ -48,7 +50,7 @@ You can use the wireframes to:
 
 ## Issues the Wireframing Solves
 
-- Extended cost
+- [Increased cost](/issues/increased-cost)
 - Meaningless work
 - Disconnect with business
 - Lack of motivation

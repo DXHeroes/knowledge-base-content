@@ -1,14 +1,17 @@
 ---
-slug: "poor-code-quality"
-aspect: "architecture"
+slug: poor-code-quality
+aspect: architecture
 stages:
-  - "development"
+  - development
 short_description: Poor code quality mainly describes buggy code or code with high coupling and low cohesion that is difficult to maintain. Poor code quality can also lead to frequent code repetition or suspiciously slow implementation.
 tags:
   - code quality
   - development
   - code
-  - CI/CD
+  - ci/cd
+  - pair programming
+  - teamwork
+  - pull requests
 keywords:
   - bugs
   - quality
@@ -32,7 +35,7 @@ Poor code quality is an umbrella term for multiple issues with the codebase:
 
 If left unchecked, poor code quality can lead to issues in software delivery. It can bring the development to a halt. If the root causes are not addressed, it can lead to long periods of refactoring or a complete rewrite.
 
-## Reasons for the Poor Code Quality
+## Reasons of the Poor Code Quality
 
 **Team Culture**
 

@@ -5,15 +5,25 @@ stages:
   - "research"
 short_description: A Design Sprint is a framework that reduces the risks associated with product development. It is an intense process done by a small team in just 3 - 5 days.
 tags:
+  - design sprint
+  - framework
   - process
   - product
   - validation
-  - framework
-  - design sprint
+  - lean canvas
+  - fail fast
+  - mvp
+  - retrospective
+  - value proposition
+  - feedback
+  - decision
 keywords:
+  - fail fast
+  - value proposition
+  - retrospective
   - map
   - sketch
-  - decide
+  - decision
   - prototype
   - test
   - decision maker
@@ -66,9 +76,9 @@ The Design Sprint process helps to:
 
 ## Issues the Design Sprint Solves
 
-- Bad product-market fit
-- Meaningless work
+- [Bad product-market fit](/issues/bad-product-market-fit)
 - Team involvement
+- Meaningless work
 
 ## How to Implement the Design Sprint
 

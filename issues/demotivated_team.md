@@ -1,11 +1,13 @@
 ---
-slug: "demotivated-team"
-aspect: "culture"
+slug: demotivated-team
+aspect: culture
 stages:
-  - "development"
-  - "maintenance"
+  - development
+  - maintenance
 short_description: Team motivation is important to maintain creativity. Employee dissatisfaction can be caused by many factors. The team leader’s job is to motivate the team and therefore create a productive climate.
 tags:
+  - demotivated team
+  - culture
   - motivation
   - goal
   - support
@@ -17,6 +19,7 @@ tags:
   - environment
   - efficiency
 keywords:
+  - demotivated team
   - motivation
   - goal
   - support
