@@ -1,10 +1,19 @@
 ---
-slug: "performance-testing"
-aspect: "processes"
+slug: performance-testing
+aspect: processes
 stages: 
-  - "launch"
+  - launch
 short_description: Performance Testing is a useful practice to verify if the product works as expected. Its goal is to identify the product's bottlenecks - what slows down the product performance.
+tags:
+  - performance testing
+  - testing
+  - workload
+  - scalability
+  - fail fast
+  - poor code quality
 keywords:
+  - performance testing
+  - testing
   - workload
   - load
   - capacity
@@ -13,11 +22,6 @@ keywords:
   - bottleneck
   - analyze
   - evaluate
-tags:
-  - performance testing
-  - testing
-  - workload
-  - scalability
 ---
 
 # Performance testing
@@ -26,7 +30,7 @@ tags:
 
 Performance Testing is a practice that helps to identify if your product will perform well under a specific workload. The test tries to detect malfunctioning product parameters. Those parameters should be adjusted during the first two product life cycles (development or introducing stage). The parameters are called Service Level Agreements and they are a basis for the Performance Testing. Testing can be performed in a lab (quantitative testing) or in a production environment. It typically tests the speed, data transfer rate, responsiveness, scalability (maximum user load the product can handle), stability (if the product is stable under varying loads), and reliability of the product. It is a strictly automatized process.
 
-Testers tend to focus more on the product’s functionality and sometimes neglect the Performance Testing. Performance Testing is an important part of the product development, even though the testers operate separately from the developers. The developers and operations run and maintain the product until it reaches the performance expectations.
+Testers tend to focus more on the product's functionality and sometimes neglect the Performance Testing. Performance Testing is an important part of the product development, even though the testers operate separately from the developers. The developers and operations run and maintain the product until it reaches the performance expectations.
 
 Types of Performance Tests:
 - **Load Testing**
@@ -49,11 +53,8 @@ Types of Performance Tests:
 
 Performance Testing is a useful tool to locate performance problems by highlighting where the product fails. It verifies if the product works as expected. It can be also used to compare two or more products. The goal of Performance Testing is not to find bugs but to eliminate performance bottlenecks (lessening of throughput that slower the speed, usually caused by an overloaded network). 
 
-## Common Pitfalls of the Performance Testing
-
-- Do not perform the tests on clients before the product is finished, that could be very risky. It could destroy the product reputation.
-- Always automatize. If you do the testing manually, there is a higher risk of not detecting all the bottlenecks.
-- Ensure to test correct and related parameters.
+## Issues the Performance Testing Helps to Solve
+- [TODO]
 
 ## How to Implement the Performance Testing
 
@@ -74,6 +75,12 @@ Follow these steps:
   Run and monitor your tests. 
 - **Analyze, repair, and retest**
   Evaluate the data after the testing. Compare it to your expectations, repair, and run the performance tests again using different parameters.
+
+## Common Pitfalls of the Performance Testing
+
+- Do not perform the tests on clients before the product is finished, that could be very risky. It could destroy the product reputation.
+- Always automatize. If you do the testing manually, there is a higher risk of not detecting all the bottlenecks.
+- Ensure to test correct and related parameters.
 
 ## Resources for the Performance Testing
 
