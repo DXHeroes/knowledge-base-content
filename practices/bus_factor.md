@@ -33,11 +33,15 @@ A Bus Factor defines the number of developers that are vital to a project. If so
 
 A Bus Factor is also known as the bread truck scenario, lottery factor, truck factor, bus/truck number, or lorry factor.
 
-## Why You Might Want the Bus Factor
-[TODO]
+## Why You Might Want to Increase Bus Factor
+- It detects the single point of failure within the team before it happens.
+- Sharing knowledge prevents the project from falling apart.
+- Trying to increase the Bus Factor continuously can give you a good control over your projects.
 
-## Issues the Bus Factor Solves
-[TODO]
+## Issues that Increasing the Bus Factor Solves
+- Not my problem mentality
+- Disconnect with business
+- Meaningless work
 
 ## How to Increase the Bus Factor
 
@@ -71,7 +75,7 @@ A Bus Factor is also known as the bread truck scenario, lottery factor, truck fa
 
 ## Resources for the Bus Factor
 - [Agile Advice: Truck Factor](http://www.agileadvice.com/2005/05/15/agilemanagement/truck-factor/)
-- [A Medium Corporation: Lessons Learned About Bus Factor](https://medium.com/@einenlum/lessons-learned-about-bus-factor-1-5-introduction-994b3b0332d3)
+- [A Medium Corporation: Lessons learned about Bus Factor](https://medium.com/@einenlum/lessons-learned-about-bus-factor-1-5-introduction-994b3b0332d3)
 - [A Medium Corporation: The Bus Factor](https://medium.com/tech-tajawal/the-bus-factor-6ea1a3ede6bd)
 - [Dev: How To Increase Your Bus Factor](https://dev.to/scottharrisondev/how-to-increase-your-bus-factor-3dpg)
 - [A Medium Corporation: Writing Highly Readable Code](https://medium.com/swlh/writing-highly-readable-code-94da94d5d636)
