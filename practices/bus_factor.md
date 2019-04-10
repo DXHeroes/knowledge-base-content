@@ -10,8 +10,10 @@ tags:
   - code reviews
   - pair programming
   - documentation
+  - ritual
 keywords:
   - knowledge
+  - ritual
   - reassign
   - hero
   - code reviews
@@ -21,6 +23,7 @@ keywords:
   - explicit code
   - domain
   - documentation
+  - knowledge sharing
 ---
 
 # Bus Factor
