@@ -42,7 +42,7 @@ Types of Performance Tests:
 - **Scalability Testing**
   tests if the product can scale up or scale down the user load.
 
-![Performance Testing](/files/performance_testing.svg)
+![Performance Testing](/files/performance_testing.png)
 [Developedia: Software Performance Testing](https://devopedia.org/software-performance-testing)
 
 ## Why You Might Want the Performance Testing
