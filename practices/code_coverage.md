@@ -1,15 +1,13 @@
-#Code Coverage
-
-##Short Description
-Code coverage measures the percentage of source code lines that are covered by automated tests.
-
-##Tags
+---
+slug: code-coverage
+aspect: "processes"
+stages:
+- development
+short_description: Code coverage measures the percentage of source code lines that are covered by automated tests.
+tags:
 -
 -
--
--
-
-##Keywords
+keywords:
 - coverage
 - library
 - reports
@@ -17,7 +15,9 @@ Code coverage measures the percentage of source code lines that are covered by a
 - function
 - branch
 - test
+---
 
+#Code Coverage
 ##What Is a Code Coverage
 Code Coverage (CC) measures how many and which specific source code lines are being tested by automated tests (for example, unit or integration test). If you have 90% CC, it means that 10% of the source code is not being tested at the moment. Your goal is to get as close to 100% CC as possible without losing the quality of your code or tests. CC can be used as a key performance indicator for suppliers. The tests should be run by developers, they should not rely only on [continuous integration](/practices/continuous-integration).
 
