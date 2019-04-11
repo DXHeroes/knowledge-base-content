@@ -1,10 +1,11 @@
 ---
-slug: "scrum"
-aspect: "culture"
+slug: scrum
+aspect: culture
 stages:
-  - "development"
+  - development
 short_description: Scrum is an agile framework focused on a productive and creative delivery of complex products with an emphasis on the highest possible value. Scrum is lightweight, simple to understand and difficult to master.
 tags:
+  - scrum
   - agile
   - mvp
   - feedback
@@ -12,6 +13,7 @@ tags:
   - backlog
   - retrospective
   - scrum master
+  - fail fast
 keywords:
   - agile
   - mvp
@@ -33,7 +35,7 @@ Scrum is a framework focused on a productive and creative delivery of complex pr
 
 Besides, for example, Kanban or Extreme programming (XP), it is the most popular agile methodology used since the early 1990s. Co-creators Jeff Sutherland and Ken Schwaber have defined a brief document [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html).
 
-The Guide explains the Scrum within a definition which consists of Scrum’s roles, events, artifacts and detailed rules that connects them together:
+The Guide explains the Scrum within a definition which consists of Scrum's roles, events, artifacts and detailed rules that connects them together:
 
 1. **Roles**  
    The Scrum Team consists of just three roles: Product Owner, Scrum Master and the Team.
@@ -45,7 +47,7 @@ The Guide explains the Scrum within a definition which consists of Scrum’s rol
 ![Scrum](/files/scrum.png)  
 [Scrum.org: Scrum Framework Poster](https://www.scrum.org/resources/scrum-framework-poster)
 
-## Why you Might Want Scrum
+## Why You Might Want Scrum
 
 - **Better quality and customer satisfaction**  
   The main focus is to provide new features or corrections frequently and collect feedback from customers as quick as possible.
@@ -55,17 +57,16 @@ The Guide explains the Scrum within a definition which consists of Scrum’s rol
   Scrum emphasizes on self-organization, collaboration, working cross-functionally and sustainable work practices. Being part of that team allows people to be creative, innovative, and acknowledged for their expertise.
 
 ## Issues the Scrum Helps to Solve
-
-- Bad product-market fit
+- [Demotivated team](/issues/demotivated-team)
+- [Increased cost](/issues/increased-cost)
+- [Bad product-market fit](/issues/bad-product-market-fit)
 - Meaningless work
 - Unsuccessful product
 - Unnecessary functions
 - Expensive development
 - Unhappy client
-- Extended cost
 - Toxic team culture
 - Disconnection with business
-- Demotivated team
 - Not my problem mentality
 
 ## How to Implement Scrum

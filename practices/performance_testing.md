@@ -1,8 +1,8 @@
 ---
-slug: "performance-testing"
-aspect: "processes"
+slug: performance-testing
+aspect: processes
 stages: 
-  - "launch"
+  - launch
 short_description: Performance Testing is a useful practice to verify if the product works as expected. Its goal is to identify the product's bottlenecks - what slows down the product performance.
 keywords:
   - workload
@@ -42,18 +42,19 @@ Types of Performance Tests:
 - **Scalability Testing**
   tests if the product can scale up or scale down the user load.
 
-![Performance Testing](/files/performance_testing.svg)
+![Performance Testing](/files/performance_testing.png)
 [Developedia: Software Performance Testing](https://devopedia.org/software-performance-testing)
 
 ## Why You Might Want the Performance Testing
 
 Performance Testing is a useful tool to locate performance problems by highlighting where the product fails. It verifies if the product works as expected. It can be also used to compare two or more products. The goal of Performance Testing is not to find bugs but to eliminate performance bottlenecks (lessening of throughput that slower the speed, usually caused by an overloaded network). 
 
-## Common Pitfalls of the Performance Testing
-
-- Do not perform the tests on clients before the product is finished, that could be very risky. It could destroy the product reputation.
-- Always automatize. If you do the testing manually, there is a higher risk of not detecting all the bottlenecks.
-- Ensure to test correct and related parameters.
+## Issues the Performance Testing Helps to Solve
+- [Poor code quality](/issues/poor-code-quality)
+- [Increased cost](/issues/increased-cost)
+- Meaningless work
+- Insufficient performance
+- Disconnect with business
 
 ## How to Implement the Performance Testing
 
@@ -74,6 +75,12 @@ Follow these steps:
   Run and monitor your tests. 
 - **Analyze, repair, and retest**
   Evaluate the data after the testing. Compare it to your expectations, repair, and run the performance tests again using different parameters.
+
+## Common Pitfalls of the Performance Testing
+
+- Do not perform the tests on clients before the product is finished, that could be very risky. It could destroy the product reputation.
+- Always automatize. If you do the testing manually, there is a higher risk of not detecting all the bottlenecks.
+- Ensure to test correct and related parameters.
 
 ## Resources for the Performance Testing
 

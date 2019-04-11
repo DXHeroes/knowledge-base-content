@@ -1,16 +1,18 @@
 ---
-slug: "pull-requests"
-aspect: "processes"
+slug: pull-requests
+aspect: processes
 stages:
-  - "development"
+  - development
 short_description: Pull requests tell other team members that you changed something in the code and pushed the change to a branch in a git repository. Then other members can review and discuss the changes before the changes are merged into the master branch.
 tags:
-  - pull request
+  - pull requests
   - git
-  - merge request
-  - CI/CD
+  - ci/cd
   - code review
   - teamwork
+  - continuous integration
+  - continuous delivery
+  - bus factor
 keywords:
   - git
   - commit
@@ -18,6 +20,7 @@ keywords:
   - repository
   - code
   - quality
+  - merge request
 ---
 
 # Pull Requests
@@ -68,7 +71,7 @@ Pull request can also trigger CI/CD to make sure all automated tests pass before
 - Always have at least two possible approvers for each pull request. Having only one person that can merge pull requests could lead to power hoarding.
 - Encourage small pull requests. Nobody wants to review 5000+ lines of changes within one PR.
 
-## Resource
+## Resources for Pull Requests
 
 - [The art of pull request](https://hackernoon.com/the-art-of-pull-requests-6f0f099850f9)
 - [Pull requests on GitHub](https://help.github.com/articles/about-pull-requests/)
