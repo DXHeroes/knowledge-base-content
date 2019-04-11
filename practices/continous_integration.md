@@ -8,12 +8,23 @@ tags:
   - continuous integration
   - testing
   - integration
+  - devops
+  - continuous delivery
+  - pull requests
+  - poor code quality
+  - increased cost
 keywords:
+  - continuous delivery
+  - devops
   - integrate
   - code change
+  - pull requests
   - test
   - integration tools
   - shared repository
+  - gitlab
+  - jenkins
+  - travis
 ---
 
 # Continous Integration
@@ -45,13 +56,12 @@ The CI helps your team with:
   New members can get into the project much easier. CI enables them to have a clear vision of the building process.
 
 ## Issues the Continuous Integration Helps to Solve
-- Meaningless work
+- [Demotivated team](/issues/demotivated-team)
+- [Increased cost](/issues/increased-cost)
 - Unsuccessful product
-- Expensive development
-- Increased cost
 - Toxic team culture
-- Demotivated team
 - Not my problem mentality
+- Meaningless work
 
 
 ## How to Implement the Continuous Integration
