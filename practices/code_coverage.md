@@ -29,9 +29,12 @@ CC is usually calculated in a continuous integration library, for example, [GitL
 - **Line coverage:** how many lines of source code have been tested.
 
 ##Why You Might Want the Code Coverage
-The coverage reports are great feedback - they can provide CC for every file.
-The tools for CC are often open source tools so you can see the quality of the library.
-In order to get an official certification, some software is required to use CC. It is mandatory, for example, for air and space transportation, rail transportation, the automotive industry, or for medical applications.
+- The coverage reports are great feedback - they can provide CC for every file.
+- The tools for CC are often open source tools so you can see the quality of the library.
+- CC can be used for measuring the quality of supplies and services. 
+- CC can reveal major mistakes during early software phases (building or compiling). It can serve as a Smoke Test.
+slouží i jako takový Smoke Test, protože dokáže odhalit závažnou chybu již při buildu/kompilaci aplikace...
+- In order to get an official certification, some software is required to use CC. It is mandatory, for example, for air and space transportation, rail transportation, the automotive industry, or for medical applications.
 
 ##Issues the Code Coverage Solves
 - [Poor code quality](/issues/poor-code-quality)
