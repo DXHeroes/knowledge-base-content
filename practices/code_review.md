@@ -1,9 +1,13 @@
-#Code Review
-
-##Short Description
-Code review is an important practice for checking each other's code. The reviewers are other developers from the team. The goal is to uncover potential mistakes that could slip through testing.
-
-##Keywords
+---
+slug: code-review
+aspect: "processes"
+stages:
+- development
+short_description: Code review is an important practice for checking each other's code. The reviewers are other developers from the team. The goal is to uncover potential mistakes that could slip through testing.
+tags:
+-
+-
+keywords:
 - code
 - pull request
 - quality
@@ -11,7 +15,9 @@ Code review is an important practice for checking each other's code. The reviewe
 - test
 - codebase
 - feedback
+---
 
+#Code Review
 ##What Is a Code Review
 Code review is a software quality assurance practice in which developers check each other’s code, most often before merging the code. Code reviewing saves time and money - the team is able to find potential bugs that can slip undetected through testing. It is more difficult and more expensive to fix bugs in later stages of development. It lets the team learn and gain new information and a new point of view. It also accelerates the growth of junior developers.
 
