@@ -8,7 +8,7 @@ tags:
   - wireframing
   - architecture
   - ux/ui
-  - desing
+  - design
   - prototyping
   - clickable prototype
   - prototyping
