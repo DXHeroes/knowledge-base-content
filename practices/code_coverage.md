@@ -54,7 +54,7 @@ Update the tests if there are not areas of code that have not been exercised. De
 - A deveoper writes new code and applies wrong tests. The CC declines.
 
 ## Resources for the Code Coverage
-[Microsoft: Use Code Coverage To Determine How Much Code Is Being Tested](https://docs.microsoft.com/en-us/visualstudio/test/using-code-coverage-to-determine-how-much-code-is-being-tested?view=vs-2019)
-[Atlassian: Code Coverage](https://www.atlassian.com/continuous-delivery/software-testing/code-coverage)
-[Innominds: How Does Code Coverage Help In Testing?](https://www.innominds.com/blog/how-does-code-coverage-help-in-testing)
-[Jeroen Mols: The 100% Code Coverage Problem] (https://jeroenmols.com/blog/2017/11/28/coveragproblem/)
+- [Microsoft: Use Code Coverage To Determine How Much Code Is Being Tested](https://docs.microsoft.com/en-us/visualstudio/test/using-code-coverage-to-determine-how-much-code-is-being-tested?view=vs-2019)
+- [Atlassian: Code Coverage](https://www.atlassian.com/continuous-delivery/software-testing/code-coverage)
+- [Innominds: How Does Code Coverage Help In Testing?](https://www.innominds.com/blog/how-does-code-coverage-help-in-testing)
+- [Jeroen Mols: The 100% Code Coverage Problem](https://jeroenmols.com/blog/2017/11/28/coveragproblem/)
