@@ -22,7 +22,8 @@ keywords:
 - end-user
 - standards
 ---
-##What Is a Software Documentation
+# Software Documentation 
+## What Is a Software Documentation 
 The software documentation is a written text or an illustration that covers comprehensive information of the product. It explains how the software works or how to use it. Documentations aim to accomplish two important things: to inform users and to enable users to successfully accomplish something. Software documents are used in every stage of the product life cycle.  
 
 There are two types of software documentation: **internal** and **external**. 
@@ -35,7 +36,7 @@ There are two types of software documentation: **internal** and **external**.
 - **System documentation**: Description of the code, API, and other processes that developers need for creating a specific product. 
 -**End-user documentation**: Readme, installation guides, tutorials and other types of product documentation provided for the end users. 
 
-##Why You Might Want the Software Documentation
+## Why You Might Want the Software Documentation
 Software documentation helps:
 - to save time. The developers get the work done faster without thinking too hard and trying to figure out what they should do.
 - to maintain consistency. Stakeholders and the team members are on the same page.
@@ -43,7 +44,7 @@ Software documentation helps:
 - to improve your brand. High-quality end-user documentation ensures your customers that you are there to support them and help them.
 - with communication. Software documentation serves as a communication tool between the team members, stakeholders, and your future self.
 
-##Issues the Software Documentation Solves
+## Issues the Software Documentation Solves
 - Unhappy clients
 - [Poor code quality](/issues/poor-code-quality)
 - Toxic team culture
@@ -51,7 +52,7 @@ Software documentation helps:
 - Not my problem mentality
 - Meaningless work
 
-##How to Implement the Software Documentation
+## How to Implement the Software Documentation
 **1. Hire a tech writer**
 If it is possible, hire a technical writer and let them take care of your software documentation.
 
@@ -83,7 +84,7 @@ There is no need to document every single step you do at work. It is crucial to 
 **8. Update your documentation**
 Publish and ensure that your documentation us up-to-date. Updating is an ongoing process.
 
-##Common Pitfalls of the Software Documentation
+## Common Pitfalls of the Software Documentation
 1. The biggest pitfall is a lack of documentation. Your product might be great but it is useless if it is only you who understands it. 
 2. For technical writers, it is usually challenging to gather all the information about the product. It is caused by many factors: 
 - a lack of developers’ time 
@@ -92,7 +93,7 @@ Publish and ensure that your documentation us up-to-date. Updating is an ongoing
 3. The documentation is written with a little knowledge about the product. Ensure that everyone who is writing the documentation understands the product.
 4. Companies do not give enough importance to documentation. Their false idea is that development and testing are more important than software documentation. Writers do not get important information, they are not invited to the team meetings where the project scope is defined. But as it was mentioned before, the product is useless when no one understands it.
 
-##Resources for the Software Documentation
+## Resources for the Software Documentation
 - (DevTeam.Space: Software Documentation: 6 Best Practices That Work)[https://www.devteam.space/blog/software-documentation-6-best-practices-that-work/]
 - (Atlassian: Building better documentation)[https://www.atlassian.com/software/confluence/documentation]
 - (Altexsoft: Technical Documentation in Software Development: Types, Best Practices, and Tools)[https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/]
