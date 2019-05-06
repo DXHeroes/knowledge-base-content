@@ -1,9 +1,9 @@
 ---
-Slug: git-flow-workflow
+Slug: git-flow
 Aspect: "processes"
 stages:
 - development
-Short_description: Git Flow Workflow is a branching system for Git. It helps the team to better control and add different project versions.
+Short_description: Git Flow is a specific branching system for Git. It helps the team to better control and add different project versions.
 Tags:
 - Git
 - gitflow
@@ -23,8 +23,9 @@ Keywords:
 - release
 - hotfix
 ---
-## What Is a Git Flow Workflow
-Git Flow Workflow is one of many styles of Git workflows - a branching model set for Git. It is a huge framework for large projects and it can be utilized for your team’s needs. Git Flow describes the project’s release cycle and adds specific roles to different branches. It defines when and how are the branches interacting with each other. In this model, there are two types of branches: Master and Develop. Develop is an integration branch for features. Master stores the official release history. This branching design was published by [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) in 2009 and became very popular ever since.
+# Git Flow
+## What Is a Git Flow
+Git Flow is one of many styles of Git workflows - a branching model set for Git. It is a huge framework for large projects and it can be utilized for your team’s needs. Git Flow describes the project’s release cycle and adds specific roles to different branches. It defines when and how are the branches interacting with each other. In this model, there are two types of branches: Master and Develop. Develop is an integration branch for features. Master stores the official release history. This branching design was published by [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) in 2009 and became very popular ever since.
 
 ![Git Flow branching model](/files/git_flow.png)
 [nvie: A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
@@ -41,13 +42,13 @@ Git Flow Workflow is one of many styles of Git workflows - a branching model set
 
 - **Hotfix branches** are maintenance branches. They are created to quickly patch production release. These branches enable the team to fix mistakes without interrupting the workflow or waiting for the next release. Their parent is the master branch. Hotfix branches are the only branches to be forked directly off of the master branch. You can automatize the hotfix branch creation: whenever a mistake appears, the hotfix branch is automatically created.
 
-## Why You Might Want to Use the Git Flow Workflow
+## Why You Might Want to Use the Git Flow
 - Git Flow Workflow simplifies parallel development because it isolates the new development from the released project. You can work on any project version. The new development is done in feature branches so it is merged back when the developer is satisfied with the code.
 - Your team can collaborate better and spends less time managing the project versions if they use simple and clear branching strategy, such as Git Flow Workflow.
 - You can always commit the changes and create a new feature branch when you need to interrupt your work. You can come back to your feature at any time.
 - Hotfix branches allow your team to make emergency changes. You do not have to worry that you would accidentally merge in a new development at the same time.
 
-## Issues the Git Flow Workflow Solves
+## Issues the Git Flow Solves
 - Unhappy clients
 - [Poor code quality](/issues/poor-code-quality)
 - Toxic team culture
@@ -55,8 +56,8 @@ Git Flow Workflow is one of many styles of Git workflows - a branching model set
 - Not my problem mentality
 - Meaningless work
 
-## How to Implement the Git Flow Workflow
-There are lots of different applications for Git Flow Workflow (such as [SmartGit](https://www.syntevo.com/smartgit/) or [GitKraken](https://www.gitkraken.com/). Pick the application suitable for your operation system to initialize the Git Flow. Customize your project setup by following these steps:
+## How to Implement the Git Flow
+There are lots of different applications that support Git Flow branching model and have specific feature settings for Git Flow (such as [SourceTree](https://www.sourcetreeapp.com/),[SmartGit](https://www.syntevo.com/smartgit/) or [GitKraken](https://www.gitkraken.com/). Pick the application suitable for your operation system to initialize the Git Flow. Customize your project setup by following these steps:
 1. Start using git-flow by cloning an existing git repository.
 2. Create an empty develop branch to complement the default master branch. Push it to the server.
 3. Development of new features starts from the develop branch. Each feature resides in its own branch. Push the feature branches to the git repository for backup.
