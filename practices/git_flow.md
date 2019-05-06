@@ -66,12 +66,12 @@ There are lots of different applications that support Git Flow branching model a
 6. Merge the release branch into the master branch and tag it with a version number. After that, it is merged back into the develop branch so the progress since the release is saved. The release branch will be deleted.
 7. If you need to make some critical changes, create a hotfix branch. Fork the branch directly off of the master branch. When you are finished with the changes, merge the hotfix branch to both master and develop branch (or the current release branch). Tag the master branch with an updated version number.
 
-## Common Pitfalls of the Git Flow Workflow
+## Common Pitfalls of the Git Flow
 - Not everyone in the team uses Git Flow Workflow. It is crucial for smooth project development to ensure that all the team understands and uses the same workflow.
 - The Git Flow Workflow is customized for a specific product. The setting is too complicated for a new developer.
 - The team has too many features and is unable to finish them before the release. Development is drifting away from production.
 
-## Resources for the Git Flow Workflow
+## Resources for the Git Flow
 - [Atlassian: Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Nvie: A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Git Tower: Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/git-flow)
