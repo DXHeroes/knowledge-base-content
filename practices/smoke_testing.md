@@ -18,13 +18,13 @@ keywords:
 
 # Smoke Testing
 
-## What is Smoke testing?
+## What Is Smoke Testing?
 
 A smoke test is aimed to verify that the most important features of the product really work. This term was used during testing hardware and the product passed the test when it did not burn or smoke.
 Smoke Tests are a subset of test cases which cover the most important functionalities of the product. They also typically answer basic questions like "Does the application run?" or "Does activation of a new functionality do anything?"
 The advantage of the Smoke Tests is in the speed of verification or obtaining a result.
 
-## Why you might want the Smoke Testing?
+## Why You Might Want the Smoke Testing?
 
 Smoke Testing helps reduce the risk of major product errors. It is usually performed before the start of functional testing of the application, which helps to reduce the cost of testing itself and repairing functional errors.
 
@@ -61,7 +61,7 @@ For the correct application of Smoke Tests, the following rules apply:
 - **Fast**
   The Smoke Test should consist of simple steps to test functionality, should not include alternative scenarios and "marginal" functionalities that are within the scope of functional tests.
 
-Example of the Smoke Test:
+**Example of the Smoke Test:**
 
 Test scenario | Description | Test Steps | Expected Result | Status
 --- | --- | --- | --- | ---
