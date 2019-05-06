@@ -1,5 +1,5 @@
 ---
-slug: semantic_versioning
+slug: semantic-versioning
 aspect: "processes"
 stages:
 - development
@@ -9,7 +9,6 @@ tags:
 - initial development
 - pre-release
 - production
-
 keywords:
 - semver
 - versions
