@@ -1,5 +1,5 @@
 ---
-Slug: semantic_versioning
+slug: semantic_versioning
 aspect: "processes"
 stages:
 - development
