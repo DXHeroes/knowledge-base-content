@@ -22,11 +22,13 @@ keywords:
   - implementation
   - epic
   
-  # User Stories
- ## What Is a User Story
+# User Stories
+
+## What Is a User Story
 A user story (US) is the smallest chunk of work in an agile framework. It divides a large amount of product functionality into smaller functional increments that should be finished in one sprint. This practice helps with sprint planning and estimating the time spent on development. User stories are usually building blocks of a larger agile framework, such as epic or feature. Scrum Master watches over the US life cycle. The US are useful for everyone (for example, an analyst needs them for a product description, a tester reads them to know what has to be tested).
 
 **How to Write a User Story**
+
 - User stories are usually written by a Product Owner who also defines the prioritization.
 - A US is just a few sentences written in a simple language without going into detail. 
 - They follow a simple template, such as: “as a <type of user>, I want <some goal> so that <some reason>”.
@@ -36,6 +38,7 @@ A user story (US) is the smallest chunk of work in an agile framework. It divide
 - It is recommended to have a specific hierarchy - US are usually roofed by an epic. US can be broken into smaller chunks of work, such as tasks or features.
 
 **Four important US phases:**
+
 1. Initiation
 2. Grooming
 3. Planning and estimating (in which sprint the US needs to be done?)
@@ -46,6 +49,7 @@ Story points (SP) define the effort needed to implement a US. A US with 2 SP sho
 
 ## Why You Might Want User Stories
 Why not just break the epic into steps? Why bother with creating the user stories? User stories offer the following benefits. User stories:
+
 - are simple and fast to write. It is beneficial for the user because they do not need to understand any specific technical details. It also helps them to express their needs in a simple language.
 - give the team context and associate their work with the value of their effort.
 - keep the focus on the user. By breaking down user needs (= user stories) into smaller features or tasks the team can better concentrate on solving small and immediate customer needs.
@@ -54,6 +58,7 @@ Why not just break the epic into steps? Why bother with creating the user storie
 - allow you to track the project development and every closed US is a an achievement which brings a satisfaction.
 
 ## Issues User Stories Solve
+
 - Meaningless work
 - Unnecessary functions
 - Expensive development
@@ -77,6 +82,7 @@ The US are too big. The functionalities are not easy to implement and they are m
 The team mistakes the story points with the time estimation. The points are there for easy comparison of the US difficulty not how long will it take to implement.
 
 ## Resources for User Stories
+
 - [Agile Alliance: User Stories](https://www.agilealliance.org/glossary/user-stories/)
 - [Martin Fowler: User Story](https://martinfowler.com/bliki/UserStory.html)
 - [Atlassian: User Stories](https://www.atlassian.com/agile/project-management/user-stories)
