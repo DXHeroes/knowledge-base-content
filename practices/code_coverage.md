@@ -21,7 +21,7 @@ keywords:
 ## What Is a Code Coverage
 Code Coverage (CC) measures how many and which specific source code lines are being tested by automated tests (for example, unit or integration test). If you have 90% CC, it means that 10% of the source code is not being tested at the moment. Your goal is to get as close to 100% CC as possible without losing the quality of your code or tests. CC can be used as a key performance indicator for suppliers. The tests should be run by developers, they should not rely only on [continuous integration](/practices/continuous-integration).
 
-CC is usually calculated in a continuous integration library, for example, [GitLab[(https://about.gitlab.com/). This library opens an application that measures the CC automatically. The library provides you with coverage reports, for example:
+CC is usually calculated in a continuous integration library, for example, [GitLab](https://about.gitlab.com/). This library opens an application that measures the CC automatically. The library provides you with coverage reports, for example:
 - **Function coverage:** how many defined functions have been called.
 - **Statement coverage:** how many statements in the program have been executed.
 - **Branches coverage:** how many control branches structures have been executed.
