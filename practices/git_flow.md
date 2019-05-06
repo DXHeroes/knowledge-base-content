@@ -57,7 +57,7 @@ Git Flow is one of many styles of Git workflows - a branching model set for Git.
 - Meaningless work
 
 ## How to Implement the Git Flow
-There are lots of different applications that support Git Flow branching model and have specific feature settings for Git Flow (such as [SourceTree](https://www.sourcetreeapp.com/),[SmartGit](https://www.syntevo.com/smartgit/) or [GitKraken](https://www.gitkraken.com/). Pick the application suitable for your operation system to initialize the Git Flow. Customize your project setup by following these steps:
+There are lots of different applications that support Git Flow branching model and have specific feature settings for Git Flow (such as [SourceTree](https://www.sourcetreeapp.com/), [SmartGit](https://www.syntevo.com/smartgit/) or [GitKraken](https://www.gitkraken.com/). Pick the application suitable for your operation system to initialize the Git Flow. Customize your project setup by following these steps:
 1. Start using git-flow by cloning an existing git repository.
 2. Create an empty develop branch to complement the default master branch. Push it to the server.
 3. Development of new features starts from the develop branch. Each feature resides in its own branch. Push the feature branches to the git repository for backup.
