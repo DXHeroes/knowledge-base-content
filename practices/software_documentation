@@ -86,10 +86,10 @@ Publish and ensure that your documentation us up-to-date. Updating is an ongoing
 
 ## Common Pitfalls of the Software Documentation
 1. The biggest pitfall is a lack of documentation. Your product might be great but it is useless if it is only you who understands it. 
-2. For technical writers, it is usually challenging to gather all the information about the product. It is caused by many factors: 
-- a lack of developers’ time 
+2. For technical writers, it is usually challenging to gather all the information about the product. It is caused by many factors, such as: 
+- a lack of developers’ time to go through the product details with the writer
 - the managers do not know what they need to document due to changing market conditions
-- it is difficult to get people to review the documentation.
+- it can be difficult to get people to review the documentation
 3. The documentation is written with a little knowledge about the product. Ensure that everyone who is writing the documentation understands the product.
 4. Companies do not give enough importance to documentation. Their false idea is that development and testing are more important than software documentation. Writers do not get important information, they are not invited to the team meetings where the project scope is defined. But as it was mentioned before, the product is useless when no one understands it.
 
