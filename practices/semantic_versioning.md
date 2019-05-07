@@ -61,7 +61,13 @@ Keep in mind, that SemVer starts at 0.1.0. Not at 0.0.1, as you might assume. Th
 - SemVer lets you know which version of a product is no longer backwards compatible.
 
 ## Issues the Semantic Versioning Solves
-- Unhappy clients
+- [Demotivated team](/issues/demotivated-team)
+- Meaningless work
+- Unsuccessful product
+- Unnecessary functions
+- Expensive development
+- Unhappy client
+- Toxic team culture
 
 ## How to Implement the Semantic Versioning
 To use SemVer efficiently, follow these steps:
