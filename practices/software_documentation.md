@@ -1,9 +1,9 @@
 ---
-Slug: software-documentation
+slug: software-documentation
 aspect: "processes"
 stages:
   - "development"
-Short_description: Software documentation explains how the product works or how to use it. Different types of software documentation are created through the whole product development lifecycle.
+short_description: Software documentation explains how the product works or how to use it. Different types of software documentation are created through the whole product development lifecycle.
 tags:
 - document
 - documentation
