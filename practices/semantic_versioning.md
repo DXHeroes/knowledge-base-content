@@ -34,7 +34,7 @@ SemVer uses a sequence of three digits in the format of x.y.z:
 **z** stands for a patch
 - bug fixes, hot-fixes, maintenance releases, backwards compatible
 
-![Semantic Versioning](/files/semantic_versioning.pgn]
+![Semantic Versioning](/files/semantic_versioning.pgn)
 [Geeks For Geeks: Introduction to Semantic Versioning](https://www.geeksforgeeks.org/introduction-semantic-versioning/)
 
 This example of SemVer tells you that this is the fourth major release. It has 7 minor versions with new features. It is also the sixth patch in this minor version (six versions of bug fixes).
@@ -76,7 +76,7 @@ To use SemVer efficiently, follow these steps:
 - Too many major versions are being released in a short time period. It discourages the users from adopting new versions. If you are required to make breaking changes, you need to thoroughly think through the impact of those changes. Plan the changes ahead with deprecation notices.
 
 ## Resources for the Semantic Versioning
-- [Geeks For Geeks: Introduction to Semantic Versioning] (https://www.geeksforgeeks.org/introduction-semantic-versioning/)
-- [Sitepoint: Semantic Versioning: Why You Should Be Using it] (https://www.sitepoint.com/semantic-versioning-why-you-should-using/)
-- [Jering: Semantic Versioning in Practice] (https://www.jering.tech/articles/semantic-versioning-in-practice)
-- [Medium: A brief guide to Semantic Versioning] (https://medium.com/@jameshamann/a-brief-guide-to-semantic-versioning-c6055d87c90e)
+- [Geeks For Geeks: Introduction to Semantic Versioning](https://www.geeksforgeeks.org/introduction-semantic-versioning/)
+- [Sitepoint: Semantic Versioning: Why You Should Be Using it](https://www.sitepoint.com/semantic-versioning-why-you-should-using/)
+- [Jering: Semantic Versioning in Practice](https://www.jering.tech/articles/semantic-versioning-in-practice)
+- [Medium: A brief guide to Semantic Versioning](https://medium.com/@jameshamann/a-brief-guide-to-semantic-versioning-c6055d87c90e)
