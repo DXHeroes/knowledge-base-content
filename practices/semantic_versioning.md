@@ -34,6 +34,7 @@ SemVer uses a sequence of three digits in the format of x.y.z:
 **z** stands for a patch
 - bug fixes, hot-fixes, maintenance releases, backwards compatible
 
+![Semantic Versioning](/files/semantic_versioning.pgn]
 [Geeks For Geeks: Introduction to Semantic Versioning](https://www.geeksforgeeks.org/introduction-semantic-versioning/)
 
 This example of SemVer tells you that this is the fourth major release. It has 7 minor versions with new features. It is also the sixth patch in this minor version (six versions of bug fixes).
