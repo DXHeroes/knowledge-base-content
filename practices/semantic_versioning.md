@@ -34,7 +34,7 @@ new features implementation, framework or functionality enhancement, backwards c
 - **z stands for a patch**<br/>
 bug fixes, hot-fixes, maintenance releases, backwards compatible<br/>
 
-![Semantic Versioning](/files/semantic_ersioning.png)
+![Semantic Versioning](/files/semantic_versioning.png)<br/>
 [Geeks For Geeks: Introduction to Semantic Versioning](https://www.geeksforgeeks.org/introduction-semantic-versioning/)
 
 This example of SemVer tells you that this is the fourth major release. It has 7 minor versions with new features. It is also the sixth patch in this minor version (six versions of bug fixes).
