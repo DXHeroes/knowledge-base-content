@@ -26,15 +26,15 @@ keywords:
 ## What Is a Software Documentation 
 The software documentation is a written text or an illustration that covers comprehensive information of the product. It explains how the software works or how to use it. Documentations aim to accomplish two important things: to inform users and to enable users to successfully accomplish something. Software documents are used in every stage of the product life cycle.  
 
-There are two types of software documentation: **internal** and **external**. 
-**Internal documentation:** 
+There are two types of software documentation: **internal** and **external**.<br/>
+**Internal documentation:**<br/>
 - **Team documentation**: Project plans, status reports, meeting notes or anything that the team may need for work. 
 - **Reference documentation**: Company’s policies, legal processes and other information for the employees about the company’s important topics. Reference documentation is usually sent by the HR department. 
 - **Project documentation**: Proposals, design guidelines, roadmaps, and other information useful for product development. 
 
-**External documentation:** 
+**External documentation:**<br/>
 - **System documentation**: Description of the code, API, and other processes that developers need for creating a specific product. 
--**End-user documentation**: Readme, installation guides, tutorials and other types of product documentation provided for the end users. 
+- **End-user documentation**: Readme, installation guides, tutorials and other types of product documentation provided for the end users. 
 
 ## Why You Might Want the Software Documentation
 Software documentation helps:
@@ -57,7 +57,7 @@ Software documentation helps:
 If it is possible, hire a technical writer and let them take care of your software documentation.
 
 **2. Set rules**
-It is crucial that stakeholders understand everything clearly. Use simple language and follow technical writing standards, such as (Michigan State University: Technical Writing Guide)[https://msu.edu/course/be/485/bewritingguideV2.0.pdf], or (Wikiversity: Technical writing)[https://en.wikiversity.org/wiki/Technical_writing]. Be straightforward, to the point, and consistent.
+It is crucial that stakeholders understand everything clearly. Use simple language and follow technical writing standards, such as [Michigan State University: Technical Writing Guide](https://msu.edu/course/be/485/bewritingguideV2.0.pdf), or [Wikiversity: Technical writing](https://en.wikiversity.org/wiki/Technical_writing). Be straightforward, to the point, and consistent.
 
 **3. Do your research**
 Ensure that you know the product you are documenting to be able to answer any questions. Get information from different sources.
@@ -94,9 +94,9 @@ Publish and ensure that your documentation us up-to-date. Updating is an ongoing
 4. Companies do not give enough importance to documentation. Their false idea is that development and testing are more important than software documentation. Writers do not get important information, they are not invited to the team meetings where the project scope is defined. But as it was mentioned before, the product is useless when no one understands it.
 
 ## Resources for the Software Documentation
-- (DevTeam.Space: Software Documentation: 6 Best Practices That Work)[https://www.devteam.space/blog/software-documentation-6-best-practices-that-work/]
-- (Atlassian: Building better documentation)[https://www.atlassian.com/software/confluence/documentation]
-- (Altexsoft: Technical Documentation in Software Development: Types, Best Practices, and Tools)[https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/]
-- (BizFluent: Types of Software Documentation)[https://bizfluent.com/13657938/types-of-software-documentation]
+- [DevTeam.Space: Software Documentation: 6 Best Practices That Work](https://www.devteam.space/blog/software-documentation-6-best-practices-that-work/)
+- [Atlassian: Building better documentation](https://www.atlassian.com/software/confluence/documentation)
+- [Altexsoft: Technical Documentation in Software Development: Types, Best Practices, and Tools](https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/)
+- [BizFluent: Types of Software Documentation](https://bizfluent.com/13657938/types-of-software-documentation)
 
 
