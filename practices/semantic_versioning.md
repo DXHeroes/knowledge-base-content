@@ -26,13 +26,13 @@ keywords:
 ## What Is a Semantic Versioning
 Semantic Versioning (SemVer) is the most popular system of versioning unique states of the project. To have a universal way of versioning helps to keep things clean and simple and to keep track of the software changes.
 
-SemVer uses a sequence of three digits in the format of x.y.z:
-**x** stands for a major version
-- API changes, backwords incompatible (incompatible with the previous versions)
-**y** stands for a minor version
-- new features implementation, framework or functionality enhancement, backwards compatible
-**z** stands for a patch
-- bug fixes, hot-fixes, maintenance releases, backwards compatible
+SemVer uses a sequence of three digits in the format of x.y.z: 
+**x** stands for a major version 
+- API changes, backwords incompatible (incompatible with the previous versions) 
+**y** stands for a minor version 
+- new features implementation, framework or functionality enhancement, backwards compatible 
+**z** stands for a patch 
+- bug fixes, hot-fixes, maintenance releases, backwards compatible 
 
 [Geeks For Geeks: Introduction to Semantic Versioning](https://www.geeksforgeeks.org/introduction-semantic-versioning/)
 
