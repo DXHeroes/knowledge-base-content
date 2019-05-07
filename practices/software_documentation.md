@@ -60,7 +60,7 @@ If it is possible, hire a technical writer and let them take care of your softwa
 It is crucial that stakeholders understand everything clearly. Use simple language and follow technical writing standards, such as [Michigan State University: Technical Writing Guide](https://msu.edu/course/be/485/bewritingguideV2.0.pdf), or [Wikiversity: Technical writing](https://en.wikiversity.org/wiki/Technical_writing). Be straightforward, to the point, and consistent.
 
 **3. Do your research**
-Ensure that you know the product you are documenting to be able to answer any questions. Get information from different sources.
+Ensure that you know the product you are documenting. Be able to answer any questions about the product. Get information from different sources.
 
 **4. Know your audience**
 The way you write is determined by your readers. The general rule is the less your audience knows, the less technical is your documentation.
