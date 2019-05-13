@@ -26,6 +26,7 @@ keywords:
 Code review is a software quality assurance practice in which developers check each other’s code, most often before merging the code. Code reviewing saves time and money - the team is able to find potential bugs that can slip undetected through testing. It is more difficult and more expensive to fix bugs in later stages of development. It lets the team learn and gain new information and a new point of view. It also accelerates the growth of junior developers.
 
 **The reviewer checks the code for:**
+
 - Changes in the code
 - Mistakes or potential mistakes
 - Consistency with the assignment
@@ -37,6 +38,7 @@ Code review is a software quality assurance practice in which developers check e
 Code reviewing is a very important tool for developing process. It improves code quality and makes the codebase more stable. For developers, code review can be a great opportunity to get feedback from others (it can be done by pair programming).
 
 **Code review:**
+
 - helps developers work together and build relationships
 - can be a way to onboard and train new team members
 - enables to mentor less experienced developers
@@ -53,12 +55,12 @@ Code reviewing is a very important tool for developing process. It improves code
 - Meaningless work
 
 ## How to Implement the Code Review
-- Code review is usually done via [pull requests](/practices/pull-requests) and before merging.
-  - There are many tools for creating pull requests, such as [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Gitcolony](https://www.gitcolony.com/), or [PullRequest](https://www.pullrequest.com/).
+- Code review is usually done via [pull requests](/practices/pull-requests) and before merging. There are many tools for creating pull requests, such as [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Gitcolony](https://www.gitcolony.com/), or [PullRequest](https://www.pullrequest.com/).
 - Pick one of two possible approaches: the first one is to develop something and send it to another developer to check it. The second one is checking the code during pair programming.
 - It is really important that the developers talk to each other and that they all understand what is the code supposed to do.
 
 **8 tips for code reviewing:**
+
 1. Know what to look for and ensure that you understand what the code does
 2. Test the code before code reviews
 3. Do not review for more than 60 minutes at a time or you lose focus
