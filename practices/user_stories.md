@@ -21,7 +21,8 @@ keywords:
   - estimating
   - implementation
   - epic
-  
+--- 
+
 # User Stories
 
 ## What Is a User Story
@@ -31,7 +32,7 @@ A user story (US) is the smallest chunk of work in an agile framework. It divide
 
 - User stories are usually written by a Product Owner who also defines the prioritization.
 - A US is just a few sentences written in a simple language without going into detail. 
-- They follow a simple template, such as: “as a <type of user>, I want <some goal> so that <some reason>”.
+- They follow a simple template, such as: "as a <type of user>, I want <some goal> so that <some reason>".
 - Work is divided into US during grooming sessions where the team estimates stories and assign story points. Every team member grooms every US even though they are not going to work on it.
 - A US can be written on a post-it note and stick it on a board, or created in software.
 - US have to be testable. Even if your US are divided into smaller US, each US has to be testable.
@@ -59,14 +60,14 @@ Why not just break the epic into steps? Why bother with creating the user storie
 
 ## Issues User Stories Solve
 
+- [Demotivated team](/issues/demotivated-team)
+- [Increased cost](/issues/increased-cost)
 - Meaningless work
 - Unnecessary functions
 - Expensive development
 - Unhappy clients
-- Increased cost
 - Toxic team culture
 - Disconnection with business
-- Demotivated team
 - Not my problem mentality
 
 ## How to Implement User Stories
@@ -78,6 +79,7 @@ The team can use visual planning tools (such as release plan, story map, or a ta
 [Using A Task Board](https://www.inflectra.com/ideas/topic/using-a-task-board.aspx)
 
 ## Common Pitfalls of User Stories
+
 The US are too big. The functionalities are not easy to implement and they are moved from sprint to sprint. This can bring a toxic team culture because it feels like the work is never finished.
 The team mistakes the story points with the time estimation. The points are there for easy comparison of the US difficulty not how long will it take to implement.
 
