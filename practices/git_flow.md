@@ -1,29 +1,28 @@
 ---
-Slug: git-flow
-Aspect: "processes"
+slug: git-flow
+aspect: processes
 stages:
 - development
-Short_description: Git Flow is a specific branching system for Git. It helps the team to better control and add different project versions.
-Tags:
-- Git
-- gitflow
-- workflow
-- git-flow
-- flow
-- branch
-- branching
-Keywords:
-- Git
-- gitflow
-- workflow
-- branch
-- master
-- develop
-- feature
-- release
-- hotfix
+short_description: Git Flow is a specific branching system for Git. It helps the team to better control and add different project versions.
+tags:
+  - git
+  - git flow
+  - flow
+  - branching
+keywords:
+  - git
+  - gitflow
+  - workflow
+  - branch
+  - master
+  - develop
+  - feature
+  - release
+  - hotfix
 ---
+
 # Git Flow
+
 ## What Is a Git Flow
 Git Flow is one of many styles of Git workflows - a branching model set for Git. It is a huge framework for large projects and it can be utilized for your team’s needs. Git Flow describes the project’s release cycle and adds specific roles to different branches. It defines when and how are the branches interacting with each other. In this model, there are two types of branches: Master and Develop. Develop is an integration branch for features. Master stores the official release history. This branching design was published by [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) in 2009 and became very popular ever since.
 
@@ -32,14 +31,11 @@ Git Flow is one of many styles of Git workflows - a branching model set for Git.
 
 **The main branches:**
 - **Master branch** stores the official release history. It contains an abridged version of your project. It is the core of the branching model with an infinite lifetime.
-
 - **Develop branch** is an integration branch for features. It contains the complete history of your project. It also has an infinite lifetime. When the code in this branch is stable and ready for a release, the changes are merged to the master branch and tagged with a release number.
 
 **Supporting branches:**
 - **Feature branches** are created for each new feature. Their parent branch is the develop branch. Features should never interact directly with the master branch.
-
 - **Release branch** is created when there are enough features for a release. It enables one team to work on a current release while another team keeps working on features for the next release. Release branches’ parent is also the develop branch. This branch is where [continuous delivery](/practices/continuous-delivery) happens.
-
 - **Hotfix branches** are maintenance branches. They are created to quickly patch production release. These branches enable the team to fix mistakes without interrupting the workflow or waiting for the next release. Their parent is the master branch. Hotfix branches are the only branches to be forked directly off of the master branch. You can automatize the hotfix branch creation: whenever a mistake appears, the hotfix branch is automatically created.
 
 ## Why You Might Want to Use the Git Flow
@@ -49,8 +45,8 @@ Git Flow is one of many styles of Git workflows - a branching model set for Git.
 - Hotfix branches allow your team to make emergency changes. You do not have to worry that you would accidentally merge in a new development at the same time.
 
 ## Issues the Git Flow Solves
-- Unhappy clients
 - [Poor code quality](/issues/poor-code-quality)
+- Unhappy clients
 - Toxic team culture
 - Knowledge hoarding
 - Not my problem mentality
