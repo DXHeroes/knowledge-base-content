@@ -22,17 +22,20 @@ keywords:
 - end-user
 - standards
 ---
+
 # Software Documentation 
+
 ## What Is a Software Documentation 
 The software documentation is a written text or an illustration that covers comprehensive information of the product. It explains how the software works or how to use it. Documentations aim to accomplish two important things: to inform users and to enable users to successfully accomplish something. Software documents are used in every stage of the product life cycle.  
 
-There are two types of software documentation: **internal** and **external**.<br/>
-**Internal documentation:**<br/>
+There are two types of software documentation: **internal** and **external**.
+
+**Internal documentation:**
 - **Team documentation**: Project plans, status reports, meeting notes or anything that the team may need for work. 
 - **Reference documentation**: Company’s policies, legal processes and other information for the employees about the company’s important topics. Reference documentation is usually sent by the HR department. 
 - **Project documentation**: Proposals, design guidelines, roadmaps, and other information useful for product development. 
 
-**External documentation:**<br/>
+**External documentation:**
 - **System documentation**: Description of the code, API, and other processes that developers need for creating a specific product. 
 - **End-user documentation**: Readme, installation guides, tutorials and other types of product documentation provided for the end users. 
 
@@ -45,8 +48,8 @@ Software documentation helps:
 - with communication. Software documentation serves as a communication tool between the team members, stakeholders, and your future self.
 
 ## Issues the Software Documentation Solves
-- Unhappy clients
 - [Poor code quality](/issues/poor-code-quality)
+- Unhappy clients
 - Toxic team culture
 - Knowledge hoarding
 - Not my problem mentality
@@ -98,5 +101,3 @@ Publish and ensure that your documentation us up-to-date. Updating is an ongoing
 - [Atlassian: Building better documentation](https://www.atlassian.com/software/confluence/documentation)
 - [Altexsoft: Technical Documentation in Software Development: Types, Best Practices, and Tools](https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/)
 - [BizFluent: Types of Software Documentation](https://bizfluent.com/13657938/types-of-software-documentation)
-
-
