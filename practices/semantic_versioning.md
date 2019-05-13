@@ -23,6 +23,7 @@ keywords:
 ---
 
 # Semantic Versioning
+
 ## What Is a Semantic Versioning
 Semantic Versioning (SemVer) is the most popular system of versioning unique states of the project. To have a universal way of versioning helps to keep things clean and simple and to keep track of the software changes.
 
@@ -42,19 +43,20 @@ This example of SemVer tells you that this is the fourth major release. It has 7
 Keep in mind, that SemVer starts at 0.1.0. Not at 0.0.1, as you might assume. The reason is that there were no bug fixes yet as would the number 0.0.1 suggest. We have to start with a set of features.
 
 **The Three Phases of SemVer:**
-**1. Initial Development**
-- Major version zero (0.y.z.) is for initial product development.
-- The public API is not stable and anything may change during this phase.
-- Keeping major version at zero lets everyone know that the software is not production-ready yet.
 
-**2. Pre-release**
-- A lot of tests and code changes are done during this product version. A pre-release version is for testing that everything is ok and ready to release.
-- This version is still not production-ready.
-- Add a hyphen and identifier at the end of the version number. For example, a pre-release for version 1.0.0 could be 1.0.0-alpha.1. When you need another build, it becomes 1.0.0-alpha.2, and so on.
+1. **Initial Development**
+  - Major version zero (0.y.z.) is for initial product development.
+  - The public API is not stable and anything may change during this phase.
+  - Keeping major version at zero lets everyone know that the software is not production-ready yet.
 
-**3. Production**
-- When the public API is stable and the product is ready, you can release the major software version (1.y.z).
-- Version numbers in this phase are equal to releases.
+2. **Pre-release**
+  - A lot of tests and code changes are done during this product version. A pre-release version is for testing that everything is ok and ready to release.
+  - This version is still not production-ready.
+  - Add a hyphen and identifier at the end of the version number. For example, a pre-release for version 1.0.0 could be 1.0.0-alpha.1. When you need another build, it becomes 1.0.0-alpha.2, and so on.
+
+3. **Production**
+  - When the public API is stable and the product is ready, you can release the major software version (1.y.z).
+  - Version numbers in this phase are equal to releases.
 
 ## Why You Might Want the Semantic Versioning
 - Versioning the software ensures you that every team member or user can keep track of what has been changed and when.
