@@ -5,18 +5,20 @@ stages:
 - development
 short_description: A staged rollout enables you to release the upcoming product version slowly in a gradual way. You can slowly increase the percentage of users who receive the update.
 tags:
-- staged rollout
-- update
-- product version
-- continuous delivery
+  - staged rollout
+  - deploy
+  - release
+  - continuous delivery
 keywords:
-- staged rollout
-- product version
-- users
-- analyze
-- release
-- update
+  - staged rollout
+  - product version
+  - users
+  - analyze
+  - release
+  - deploy
+  - update
 ---
+
 # Staged Rollout
 ## What Is a Staged Rollout
 A staged rollout is a way for updating your application while reaching only a certain percentage of users. It enables you to release a single product version very slowly - over a period of days. It is a much safer approach than a sudden big-bang release.
