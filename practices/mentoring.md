@@ -71,7 +71,7 @@ Your **organization** can gain from a successful mentoring program the following
   - The proper mentoring model
   - Other critical components of the program
 
-2. Find mentors
+2. **Find mentors**
   For a pilot mentoring program in your organization, you will need a base of mentors, such as managers and any stakeholders who can bring value to the process. Do not forget to diversify mentor profiles ranging from academics to practitioners. Experienced entrepreneurs and investors, can provide an enriching experience for the company as well.
   **Tip:** How to recognize a good mentor? He or she:
     - is committed to learning and helping others learn, 
@@ -84,27 +84,30 @@ Your **organization** can gain from a successful mentoring program the following
     - offers friendship, and
     - observes and reflects.
 
-3. Find mentees
+3. **Find mentees**
   Find mentees and complete the task force, especially from a cross-section of the organization.
 
-4. Match participants
+4. **Match participants**
   Allow the pairs to meet and get to know each other. This is as much about respect as anything else and it works both ways. 
   **Tip:** Generally, mentees that pick their own mentor tend to have more successful outcomes than those who were assigned a mentor from the program administrator. 
 
-5. Give the participants ample space
+5. **Give the participants ample space**
   Introduce them the rules but allow them to set up their own way how to respect them.
 
-6. Evaluate results at the end of the program
+6. **Evaluate results at the end of the program**
   After the mentoring program is completed and the goals set in the first step are accomplished, gather feedback from mentors and mentees. Do not also forget the mentee's managers. They can tell you valuable findings.
 
 ## Common Pitfalls of Mentoring
 
 - **Lack of training for mentors and mentees**
   The symptom looks as if people do not understand their roles. Then train mentors, mentees, supervisors, managers, or program administrators, so they know “how- to” and what is expected of them.
+
 - **Lack of clarity of purpose**
   Establish clear objectives for your mentoring program and tie them to the organizational objectives.
+
 - **Poor matching**
   The worst possible option is the inability to announce if the mentorship is not working. Track the progress of each mentoring partnership during the program. 
+
 - **Not enough structure and guidance**
   Nominate a mentoring program administrator that participants can go to when they have questions, issues, and challenges. In the other hand, too much structured program causes that participants feel bound and can not unwind.
 
