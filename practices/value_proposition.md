@@ -1,13 +1,16 @@
 ---
-slug: "value-proposition"
-aspect: "architecture"
+slug: value-proposition
+aspect: architecture
 stages:
-  - "research"
+  - research
 short_description: A Value Proposition Canvas is a model that helps to ensure that a product covers customer’s requirements. It defines the customer segment and the value proposition.
 tags:
   - value proposition
   - canvas
   - customer
+  - framework
+  - design sprint
+  - bad product market fit
 keywords:
   - jobs
   - pain
@@ -34,10 +37,8 @@ The right side of the diagram (the circle) answers the question **who**. It defi
 
 - **Customer Jobs**
   Customer’s basic needs, the problems they try to solve and the tasks they want to accomplish.
-
 - **Pains**
   Customer’s fears, concerns, and other negative emotions.
-
 - **Gains**
   The benefits that the customer wants.
 
@@ -45,10 +46,8 @@ The left side of the diagram (the square) answers the question of **why**. It de
 
 - **Product & Service**
   The products and services you offer to the customer. The offers create gain and relieve pain.
-
 - **Pain Relievers**
   A description of how the product relieves the customer’s pains.
-
 - **Gain Creators**
   How the product creates the customer’s gains.
 
@@ -58,7 +57,7 @@ The Value Proposition Canvas makes you think differently about the customers. Th
 
 ## Issues the Value Proposition Canvas Solves
 
-- Bad Product-Market Fit
+- [Bad product-market fit](/issues/bad-product-market-fit)
 - Meaningless work
 
 ## How to Implement the Value Proposition Canvas

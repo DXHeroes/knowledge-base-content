@@ -1,12 +1,16 @@
 ---
-slug: "proper-bug-reporting"
-aspect: "processes"
+slug: proper-bug-reporting
+aspect: processes
 stages:
-  - "development"
+  - development
 short_description: Proper bug reporting is a crucial practice for development. It helps to understand where the product lacks its functionality or performance. A bugs report is a description of bugs found by testers.
 tags:
   - bug
   - reporting
+  - feedback
+  - fail fast
+  - demotivated team
+  - poor code quality
   - feedback
 keywords:
   - bug
@@ -35,6 +39,12 @@ A good bug reports:
 - help to reduce the number of problems
 
 Bug reporting can be automatized or semi-automatized. Some of the most popular bug tracking software tools are [Airbrake](https://airbrake.io/), [Sentry.io](https://sentry.io/), [Backlog](https://backlog.com/), [ReQtest](https://reqtest.com/), or [Bugzilla](https://www.bugzilla.org/).
+
+## Issues the Proper Bug Reporting Helps to Solve
+
+- [Poor code quality](/issues/poor-code-quality)
+- [Demotivated team](/issues/demotivated-team)
+- [Increased cost](/issues/increased-cost)
 
 ## How to Implement the Bug Reporting
 To write an effective bug report, follow these 10 steps:

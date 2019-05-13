@@ -11,7 +11,19 @@ tags:
   - motivation
   - validation
   - meaningless work
+  - design sprint
+  - lean canvas
+  - clickable prototype
+  - mvp
+  - pull requests
+  - retrospective
+  - scrum
+  - value proposition
+  - wireframing
+  - increased cost
+  - bad product market fit
 keywords:
+  - fail fast
   - research
   - sunk cost
   - resources
@@ -40,15 +52,15 @@ Fail Fast is one of the main practices that the team should adopt mostly in the 
 
 
 ## Issues the Fail Fast Philosophy Helps to Solve
+- [Demotivated team](/issues/demotivated-team)
+- [Increased cost](/issues/increased-cost)
 - Unsuccessful product
 - Unnecessary functions
 - Expensive development
 - Unhappy clients
-- Demotivated team
 - Meaningless work
-- Extended cost
 - Toxic team culture
-- Not my problem mentality
+- "Not my problem" mentality
 
 
 ## How to Implement the Fail Fast Philosophy
@@ -57,7 +69,7 @@ Fail Fast is one of the main practices that the team should adopt mostly in the 
 - **Be critical**  
   Listen to your data including negative feedback.
 - **Prepare MVP**  
-  Do not go away to perfect your product. If you have a Minimum Viable Product, go with it. In many respects, fewer means more.
+  Do not go away to perfect your product. If you have a [Minimum Viable Product](/practices/minimum-viable-product), go with it. In many respects, fewer means more.
 - **Set milestones**  
   Prepare milestones and consult them often, by this you may quickly identify if you are still on the right path.
 - **Find mentors/advisors**  
@@ -66,11 +78,12 @@ Fail Fast is one of the main practices that the team should adopt mostly in the 
   Regularly validating the meaning of the problem you are addressing and adhering to the above principles will allow you to decide to stop the nonsensical development at the right time and focus on the real problem.
 
 Practices that they can help you to fail-fast:
+- [Lean canvas](/practices/lean-canvas)
+- [Value proposition](/practices/value-proposition)
+- [MVP](/practices/minimum-viable-product)
+- [Design sprint](/practices/design-sprint)
+- [Scrum](/practices/scrum)
 - Business canvas
-- Lean canvas
-- Value proposition
-- MVP
-- Design sprint
 - UX tests
 
 Always look at the fail-fast philosophy as on the positive way how to improve your product. Realize that is the first step to success!
