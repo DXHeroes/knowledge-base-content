@@ -51,7 +51,7 @@ const validate = async () => {
     }
 
     if (validationResult.fails.length == 0) {
-      message("See preview of the article at https://preview.developerexperience.io/");
+      message("See preview of the article at [https://preview.developerexperience.io/](https://preview.developerexperience.io/)");
     }
   }
 };
