@@ -49,6 +49,10 @@ const validate = async () => {
     for (const failure of validationResult.fails) {
       fail(failure, mdFile);
     }
+
+    if (validationResult.fails.length == 0) {
+      message("See preview of the article at https://preview.developerexperience.io/");
+    }
   }
 };
 
