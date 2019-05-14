@@ -3,24 +3,20 @@ slug: pair-programming
 aspect: processes
 stages:
 - development
-Short_description: Pair programming is a technique of two programmers sharing a single workstation. The “driver” writes everything down and the “navigator” watches and makes suggestions. They switch the roles when necessary.
+short_description: Pair programming is a technique of two programmers sharing a single workstation. The "driver" writes everything down and the "navigator" watches and makes suggestions. They switch the roles when necessary.
 tags:
-- pair
 - programming
-- screen
-- driver
-- pilot
-- navigator
 - sharing
 - mentoring
 keywords:
+- pair programming
 - driver
 - pilot
 - navigator
 - roles
-- ping pong
 - remote
 ---
+
 # Pair Programming
 
 ## What Is a Pair Programming
@@ -49,10 +45,10 @@ Frankly, although it can be very useful, pair programming is not very popular. I
 - [Poor code quality](/issues/poor-code-quality)
 - [Increased cost](/issues/increased-cost)
 - [Demotivated team](/issues/demotivated-team)
+- [Low Bus Factor](/issues/bus-factor)
 - Meaningless work
 - Not my problem mentality
 - Knowledge hoarding
-- [Low Bus Factor](/issues/bus-factor)
 
 ## How to Implement the Pair Programming
 
@@ -80,7 +76,7 @@ These are the main pair programming techniques:
 ## Resources for the Pair Programming
 
 - [Agile Aliance: Pair Programming](https://www.agilealliance.org/glossary/pairing/)
--[CollabNet: Pair Programming: Agile Programming Best Practices](https://resources.collab.net/agile-101/pair-programming)
+- [CollabNet: Pair Programming: Agile Programming Best Practices](https://resources.collab.net/agile-101/pair-programming)
 - [Medium: How remote pair programming works and why it can change your life](https://medium.freecodecamp.org/how-remote-pair-programming-works-and-why-it-can-change-your-life-cd7b767dc60f)
 - [Hackernoon: The Pros and Cons Of Pair Programming](https://hackernoon.com/the-ultimate-guide-to-pair-programming-b606625bc784)
--[Medium: Pair Programming Guide](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)
+- [Medium: Pair Programming Guide](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)
