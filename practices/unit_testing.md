@@ -73,9 +73,8 @@ Unit testing helps you with:
   - [JUnit](https://junit.org) for Java
   - [EmbUnit](https://www.embunit.com/) for C or C++
   - [NUnit](https://nunit.org/) for C++
- 
 - Focus on the behaviors of the tested system.
--  The unit test name should explain what was tested.
+- The unit test name should explain what was tested.
 - Perform unit tests continuously and frequently.
 
 **Unit Testing Best Practice:**
