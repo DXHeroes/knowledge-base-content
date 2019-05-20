@@ -8,6 +8,8 @@ tags:
   - programming
   - sharing
   - mentoring
+  - culture
+  - rituals
 keywords:
   - pair programming
   - driver
@@ -15,6 +17,8 @@ keywords:
   - navigator
   - roles
   - remote
+  - culture
+  - rituals
 ---
 
 # Pair Programming
