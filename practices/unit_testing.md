@@ -67,7 +67,13 @@ Unit testing helps you with:
 
 ## How to Implement the Unit Testing
 
-- Find a tool or a framework suitable for your programming language such as [NCrunch](https://www.ncrunch.net/), [EmbUnit](https://www.embunit.com/), or [HtmlUnit](http://htmlunit.sourceforge.net/).
+- Find a tool or a framework suitable for your programming language. For example: 
+  - [Jest](https://jestjs.io/) or [NCrunch](https://www.ncrunch.net/) for JavaScript
+  - [RSpec](https://rspec.info/) for Ruby
+  - [JUnit](https://junit.org) for Java
+  - [EmbUnit](https://www.embunit.com/) for C or C++
+  - [NUnit](https://nunit.org/) for C++
+ 
 - Focus on the behaviors of the tested system.
 -  The unit test name should explain what was tested.
 - Perform unit tests continuously and frequently.
