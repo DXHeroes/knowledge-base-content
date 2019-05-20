@@ -1,5 +1,5 @@
 ---
-slug: unit-tests
+slug: unit-testing
 aspect: processes
 stages:
 - development
@@ -19,11 +19,13 @@ keywords:
 - arrange
 - act
 - assert
+- testing
+- test
 ---
 
-# Unit Tests
+# Unit Testing
 
-## What Are the Unit Tests
+## What Is Unit Testing
 
 Unit testing is a way to test units - the smallest components of your software, the smallest piece of code. A unit can be a single function. The goal is to validate that each unit performs as it should. A unit test tests a behavior in isolation to other tests. If the test relies on an external system, it is not a unit test. Unit tests should be written during the design phase, prior to implementation to prevent defects from being deployed to production. They should be run every time the code is changed and provide a clear description of the feature being tested.
 
@@ -46,7 +48,7 @@ Unit testing can be done manually but it is usually automated. In terms of autom
 
 The pyramid shows you that the more high-level you get, the fewer tests you should perform. Write a lot of small and fast unit tests, some integration tests and just a few high-level tests. To maintain this balance, use [continuous delivery](/issues/continuous_delivery) - a practice where you automatically ensure your product is ready to be released into production.
 
-## Why You Might Want the Unit Tests
+## Why You Might Want the Unit Testing
 
 Unit testing helps you with:
 - maintaining your code
@@ -57,7 +59,7 @@ Unit testing helps you with:
 - lowering the cost of fixing defects on lower testing level
 - a code documentation because the unit tests describe what your product does
 
-## Issues the Unit Tests Solves
+## Issues the Unit Testing Solves
 
 - [Poor code quality](/issues/poor-code-quality)
 - [Increased cost](/issues/increased-cost)
@@ -65,7 +67,7 @@ Unit testing helps you with:
 - Insufficient performance
 - [demotivated team](/issues/demotivated-team)
 
-## How to Implement the Unit Tests
+## How to Implement the Unit Testing
 
 - Find a tool or a framework suitable for your programming language such as [NCrunch](https://www.ncrunch.net/), [EmbUnit](https://www.embunit.com/), or [HtmlUnit](http://htmlunit.sourceforge.net/).
 - Do not try to reach 100% unit test coverage. Focus on the behaviors of the tested system.
@@ -78,14 +80,14 @@ Unit testing helps you with:
 - **Act:** Run the function and run the test.
 - **Assert:** Check if the expected behavior occurred.
 
-## Common Pitfalls of the Unit Tests
+## Common Pitfalls of the Unit Testing
 
 - The developer tries to reach 100% code coverage and some of the tests are useless.
 - There are more unit tests covering the same behavior.
 - The developer tests the code written by somebody else.
 - Unit tests are mistaken with integration tests.
 
-## Resources for the Unit Tests
+## Resources for the Unit Testing
 
 - [Software Testing: Unit Testing](http://softwaretestingfundamentals.com/unit-testing/)
 - [SmartBear: What Is Unit Testing?](https://smartbear.com/learn/automated-testing/what-is-unit-testing/)
