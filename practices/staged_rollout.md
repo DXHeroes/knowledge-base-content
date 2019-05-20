@@ -43,6 +43,7 @@ A staged rollout gives you time to analyze your product stability and its perfor
 
 ## How to Implement the Staged Rollout
 When implementing the staged rollout, follow these rules:
+
 1. Selection of test users is a strategic issue. The users are selected randomly, there is no way to target users based on some property.
 2. The users cannot tell if they received a regular update or if they were selected for a staged rollout.
 3. Every staged rollout targets a different user group.
