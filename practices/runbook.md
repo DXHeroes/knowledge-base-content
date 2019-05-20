@@ -1,26 +1,24 @@
 ---
 slug: runbook
-aspect: "processes"
+aspect: processes
 stages:
-- "development"
+- development
 short_description: A runbook is a set of standardized documents that describe how to run a computer system. It typically contains a walkthrough how to start, stop, debug and supervise the system.
 tags:
 - runbook
-- playbook
 - documentation
-- run book
 keywords:
 - runbook
+- playbook
 - procedure
 - documentation
 - decision
-- tree
 - timeline
 - command
-- incident
 - operation
 - task
 ---
+
 # Runbook
 
 ## What Is a Runbook
@@ -28,7 +26,6 @@ keywords:
 A runbook (also referred to as a playbook) is a compilation of procedures and operations that describe how to run a computer system or network. Runbook typically contains procedures for starting, stopping, debugging and supervising the system. It is typically created by technical writers and it often contains step-by-step decision trees (often with a timeline):
 
 ![Decision Tree](/files/runbook.png)
-
 [Dfarq: What is a runbook?](https://dfarq.homeip.net/what-is-a-runbook/)
 
 The goal of a runbook is to allow other operators, with prerequisite expertise, to run and troubleshoot the system effectively. Runbooks can be electronic or an actual book. The electronic version offers an advantage of copy+paste the commands which speeds up the procedure. Runbook automation allows you to automate the operations using tools, such as [Rundeck](https://www.rundeck.com/open-source), or [Microsoft Azure](https://azure.microsoft.com).
@@ -36,7 +33,6 @@ The goal of a runbook is to allow other operators, with prerequisite expertise, 
 There are two types of runbooks:
 
 - **Specialized** runbooks are about fixing specific issues.
-
 - **Generalized** runbooks focus on day-to-day checks to make sure things run smoothly.
 
 ## Why You Might Want the Runbook
@@ -47,10 +43,10 @@ There are two types of runbooks:
 
 ## Issues the Runbook Solves
 
-- Meaningless work
-- Unhappy clients
 - [Increased cost](/issues/increased-cost)
 - [Poor code quality](/issues/poor-code-quality)
+- Meaningless work
+- Unhappy clients
 - Toxic team culture
 - Knowledge hoarding
 - Not my problem mentality
