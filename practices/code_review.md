@@ -51,7 +51,7 @@ Code reviewing is a very important tool for developing process. It improves code
 - [Poor code quality](/issues/poor-code-quality)
 - Toxic team culture
 - Knowledge hoarding
-- Not my problem mentality
+- ["Not my problem" mentality](/issues/not-my-problem-mentality)
 - Meaningless work
 
 ## How to Implement the Code Review

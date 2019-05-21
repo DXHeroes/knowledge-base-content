@@ -49,7 +49,7 @@ There are two types of runbooks:
 - Unhappy clients
 - Toxic team culture
 - Knowledge hoarding
-- Not my problem mentality
+- ["Not my problem" mentality](/issues/not-my-problem-mentality)
 
 ## How to Implement the Runbook
 

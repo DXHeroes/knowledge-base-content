@@ -67,7 +67,7 @@ The Guide explains the Scrum within a definition which consists of Scrum's roles
 - Unhappy client
 - Toxic team culture
 - Disconnection with business
-- Not my problem mentality
+- ["Not my problem" mentality](/issues/not-my-problem-mentality)
 
 ## How to Implement Scrum
 
