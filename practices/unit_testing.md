@@ -5,14 +5,13 @@ stages:
 - development
 short_description: Unit tests are a foundation of your testing. They test the smallest pieces of code called units that have to be isolated from a system. Unit tests are small, cheap and easy to maintain. The number of unit tests outnumbers any other types of tests.
 tags:
-- unit
-- test
-- function
-- code
-- coverage
-- behavior
+- testing
+- quality
+- code coverage
 keywords:
 - units
+- code coverage
+- unit testing
 - code
 - isolation
 - test pyramid
@@ -63,7 +62,7 @@ Unit testing helps you with:
 - [Increased cost](/issues/increased-cost)
 - Meaningless work
 - Insufficient performance
-- [demotivated team](/issues/demotivated-team)
+- [Demotivated team](/issues/demotivated-team)
 
 ## How to Implement the Unit Testing
 
