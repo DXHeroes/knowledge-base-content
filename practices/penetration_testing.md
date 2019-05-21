@@ -2,7 +2,7 @@
 slug: penetration-testing
 aspect: processes
 stages:
-- development
+- launch
 short_description: Penetration Tests are performed to identify network security weaknesses. It is a "friendly cyberattack" for spotting flaws and potential vulnerabilities.
 tags:
 - testing
