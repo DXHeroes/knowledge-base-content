@@ -21,7 +21,7 @@ keywords:
 
 # Penetration Testing
 
-## What is a Penetration Testing
+## What Is a Penetration Testing
 
 Penetration testing is a practice of testing a computer system, network or a web application. Its goal is to find flaws and potential security vulnerabilities. The testing is usually done by a third party in the form of a "friendly cyberattack". You can basically hire hackers to test your security. They should report honest and transparent feedback with suggestions for improvement. Their output is a part of the project documentation. Penetration tests (or pen tests) are mandatory for certain subjects, such as banks, credit card companies, hospitals, or military organizations.
 
