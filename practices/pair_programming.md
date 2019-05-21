@@ -51,7 +51,7 @@ Frankly, although it can be very useful, pair programming is not very popular. I
 - [Demotivated team](/issues/demotivated-team)
 - [Low Bus Factor](/issues/bus-factor)
 - Meaningless work
-- Not my problem mentality
+- ["Not my problem" mentality](/issues/not-my-problem-mentality)
 - Knowledge hoarding
 
 ## How to Implement the Pair Programming

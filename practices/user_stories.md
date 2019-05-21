@@ -68,7 +68,7 @@ Why not just break the epic into steps? Why bother with creating the user storie
 - Unhappy clients
 - Toxic team culture
 - Disconnection with business
-- Not my problem mentality
+- ["Not my problem" mentality](/issues/not-my-problem-mentality)
 
 ## How to Implement User Stories
 

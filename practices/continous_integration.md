@@ -60,7 +60,7 @@ The CI helps your team with:
 - [Increased cost](/issues/increased-cost)
 - Unsuccessful product
 - Toxic team culture
-- Not my problem mentality
+- ["Not my problem" mentality](/issues/not-my-problem-mentality)
 - Meaningless work
 
 
