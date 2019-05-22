@@ -41,10 +41,10 @@ The management should be aware of how the employees feel. If they are not motiva
 ## Reasons for the Meaningless Work
 
 - The product does not have customers. Typial for startups without validated assignment or prototyping. There are plenty of techniques for the validation, such as [Lean Canvas](/practices/lean-canvas).
-- Neverending meetings or useless reports that consume time can be cut down by regular rituals (see [Rituals Definition](/practices/rituals-definition)). The goal is to find a balance between havig too many and too little rituals.
+- Neverending meetings or useless reports that consume time can be cut down by regular rituals (see [Rituals Definition](/practices/rituals-definition)). The goal is to find a balance between having too many and too little rituals.
 - Another reason is a lack of information. The developers do not understand why they have implement this thing. They did not get any explanation.
 - The architecture is way too old fashioned. To change something takes so much time! For example, mainframe - it is so enormous and old that it cannot be properly tested. The architecture is underdimenzioned. The opposite is an overdimenzioned architecture - to build anything takes too much time.
--  People are doing a repeptitive work that can be done by machines. The companies do not use [continuous integration](/practices/continuous-integration) - for example, they implement everything to production by hand even though they can automatize the process.
+-  People are doing a repeptitive work that can be automated. The companies do not use [continuous integration](/practices/continuous-integration) - for example, they implement everything to production by hand even though they can automatize the process.
 
 ## Resources for the Meaningless Work
 
