@@ -10,12 +10,13 @@ tags:
   - feedback
   - teamwork
   - code
+  - testing
 keywords:
   - code
   - pull request
   - quality
   - merge
-  - test
+  - testing
   - codebase
   - feedback
 ---
