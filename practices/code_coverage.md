@@ -8,7 +8,7 @@ tags:
   - code coverage
   - code
   - reporting
-  - test
+  - testing
 keywords:
   - code
   - reporting
@@ -17,7 +17,7 @@ keywords:
   - code lines
   - function
   - branch
-  - test
+  - testing
 ---
 
 # Code Coverage 
