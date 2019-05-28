@@ -32,6 +32,9 @@ So what is the difference between a senior, a manager, and a team lead?
 - **Managers** have people to work for them. They plan, organize and coordinate and they are part of the company’s hierarchy and does not have to be a programmer.
 - **Team leads** understand perfectly not only the technical side of the project but also the team management. They act as a shield to protect their team from managers and customers. They ensure that the developers are satisfied and motivated. They are the bridge between the team and management.
 
+![Management](/files/team_lead.png)
+[Dilbert](https://dilbert.com/strip/2011-04-14)
+
 ## Why You Might Want the Team Lead
 
 A good team lead helps your team with:
