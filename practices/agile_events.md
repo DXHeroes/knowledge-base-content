@@ -39,6 +39,10 @@ Agile Events, formerly Agile Ceremonies, are a set of meetings prescribed for Ag
 - Sprint Retrospective
 - The Sprint
 
+![Agile Events](/files/agile_events.jpg)
+
+[Agile Events](https://www.norex.net/)
+
 Let us explain what those events mean:
 
 **Daily Standup**
@@ -67,10 +71,6 @@ Let us explain what those events mean:
 
 **The Sprint**
 - It is the time-boxed period that contains all the work and all the other events.
-
-![Agile Events](/files/agile_events.jpg)
-
-[Agile Events](https://www.norex.net/)
 
 The rituals should be chosen wisely. For example, Waterfall methodology does not even operate with the term “daily standup”. It is necessary that the team understands what are the events for. They should be accepted as smoothly as possible. The team can validate the events retrospectively to see if they are really useful.
 
