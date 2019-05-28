@@ -76,7 +76,7 @@ The rituals should be chosen wisely. For example, Waterfall methodology does not
 
 ## Why You Might Want the Agile Events
 
-Every project phase needs its own set of rituals. Those rituals help the team to work faster, more efficient, and closer together. They simplify the work and make the Product Backlog items clearer (a product backlog is simply a list of items that need to be done within the project).
+Every project phase needs its own set of rituals. Those rituals help the team to work faster, more efficiently, and closer together. They simplify the workflow and make the Product Backlog items clearer (a product backlog is simply a list of items that need to be done within the project).
 
 Even though the events are here to help, developers struggle to find every single meeting useful. The most hated meetings are the daily standups because they sometimes seem like a waste of time even if they last just a few minutes. But to be fair, the daily standups are really important for sharing knowledge, finding problems sooner, measuring the progress and last but not least, building team unity.
 
