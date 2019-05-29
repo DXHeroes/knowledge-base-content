@@ -19,7 +19,7 @@ keywords:
   - integrate
   - code change
   - pull requests
-  - test
+  - testing
   - integration tools
   - shared repository
   - gitlab

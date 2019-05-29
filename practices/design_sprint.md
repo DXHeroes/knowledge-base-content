@@ -25,7 +25,6 @@ keywords:
   - sketch
   - decision
   - prototype
-  - test
   - decision maker
   - facilitator
   - feedback
