@@ -4,7 +4,7 @@ aspect: culture
 stages:
   - development
   - maintenance
-short_description: Meaningless work can be one of these two cases: 1. A feeling that the work has no meaning, the team members do not have a sense of purpose. 2. A work on a product that is not valuable.
+short_description: "Meaningless work can be one of these two cases: 1. A feeling that the work has no meaning, the team members do not have a sense of purpose. 2. A work on a product that is not valuable."
 tags:
 - meaning
 - value
@@ -29,6 +29,7 @@ keywords:
 ## What Is a Meaningless Work
 
 Work can become meaningless if your team reaches one of these two phases:
+
 1. The product loses its business value (or it never had any). It does not make any profit, no real goals were met.
 2. The team thinks that the work is meaningless. Team members do not feel a sense of purpose even though the product can be valuable.
 
@@ -50,6 +51,5 @@ The management should be aware of how the employees feel. If they are not motiva
 
 - [Medium: What is this thing called (Business) Value?](https://medium.com/the-liberators/what-is-this-thing-called-business-value-3b88b734d5a9)
 - [Liberationist: A Simple Exercise That Will Unstuck Your Team Immediately](https://blog.liberationist.org/a-simple-exercise-that-will-unstuck-your-team-immediately-d294d5ad1bc7)
-- [Atlassian: You waste
-a lot of time atwork](https://www.atlassian.com/time-wasting-at-work-infographic)
+- [Atlassian: You waste a lot of time atwork](https://www.atlassian.com/time-wasting-at-work-infographic)
 - [Medium: Bullshit jobs](https://medium.com/swlh/bullshit-jobs-c1815fc10b77)
