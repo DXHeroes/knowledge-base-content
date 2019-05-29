@@ -40,31 +40,35 @@ Agile Events, formerly Agile Ceremonies, are a set of meetings prescribed for Ag
 - The Sprint
 
 ![Agile Events](/files/agile_events.jpg)
-
 [Agile Events](https://www.norex.net/)
 
 Let us explain what those events mean:
 
 **Daily Standup**
+
 - Also known as **Daily Scrum**.
 - Usually a daily meeting, not more than 15 minutes.
 - Typical for Scrum and Kanban Agile framework.
 - Team members should describe what did they work on yesterday and what are they going to work on today. It should not be detailed.
 
 **Sprint Planning**
+
 - A sprint is a term specific for a Scrum framework. Other types of agile frameworks use “iteration” to define a time-boxed period of development.
 - It is a meeting where the team decides what to do during the sprint. A sprint is usually a two-week period.
 - The team has to estimate how much work they can complete from the product backlog and the effort involved.
 
 **Iteration Review**
+
 - At the end of a sprint or milestone, the team should review their accomplishments and get feedback from stakeholders.
 - It is typical for Scrum and Kanban. Scrum uses the term **Sprint Review**.
 
 **Retrospective**
+
 - It is a feedback at the end of an iteration. The team gets to know what worked well and what could have been done better.
 - Scrum and Kanban frameworks use this meeting for creating solutions and developing action plans.
 
 **Product Backlog Refinement**
+
 - Formerly **Backlog Grooming**. This term was officially replaced in 2013 due to negative connotations in British English.
 - In this meeting, the team adds details and estimates the effort for each item from the Product Backlog. The Backlog is updated and the items are prepared for the upcoming sprint.
 - It is an ongoing activity but the team can decide to time-box it.
@@ -87,14 +91,14 @@ Even though the events are here to help, developers struggle to find every singl
 - Unsuccessful product
 - Unhappy clients
 - Disconnection with business
-- ["Not My Problem" Mentality](issues/not-my-problem-mentality)
+- ["Not My Problem" Mentality](/issues/not-my-problem-mentality)
 
 ## How to Implement the Agile Events
 
 - Events should be stable, the rituals should be followed regularly.
 - The length of each meeting should be defined to achieve a positive mindset within the team.
 - Events can be defined either by the team or by the team culture.
-- Each Event has its own [roles](/practices/role_definition) that share responsibilities.
+- Each Event has its own [roles](/practices/role-definition) that share responsibilities.
 - Hire experienced professionals to handle Agile Events. The investment can be more beneficial than trying to implement Events in a team without any experience.
 
 ## Common Pitfalls of the Agile Events
