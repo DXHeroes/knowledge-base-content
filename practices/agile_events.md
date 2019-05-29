@@ -40,7 +40,7 @@ Agile Events, formerly Agile Ceremonies, are a set of meetings prescribed for Ag
 - The Sprint
 
 ![Agile Events](/files/agile_events.jpg)
-[Agile Events](https://www.norex.net/)
+[Norex.net](https://www.norex.net/)
 
 Let us explain what those events mean:
 
