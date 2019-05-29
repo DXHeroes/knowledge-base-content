@@ -32,6 +32,7 @@ Unit test coverage is a subtype of [code coverage](/issues/code-coverage) - it s
 
 Unit testing can be done manually but it is usually automated. In terms of automated tests, there is a concept called **the test pyramid** that shows how to efficiently balance the automated tests.
 
+![Unit Testing](/files/unit_testing.png)
 [Amazon Alexa: Unit Testing: Creating Functional Alexa Skills](https://developer.amazon.com/it/blogs/alexa/post/35bdad3d-57c8-4623-88c6-815540697af5/unit-testing-create-functional-alexa-skills)
 
 - **Unit Test**  
