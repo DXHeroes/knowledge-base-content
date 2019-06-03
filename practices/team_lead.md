@@ -28,6 +28,7 @@ keywords:
 The definitions of the team lead role quite differ. Companies adjust this role to their specific needs, sometimes team leads do not even have a clear role within the team. This role is often confused with a senior or a manager. But what all team leads have in common is that they make sure that everyone is on the same page in terms of goals, features, and work in general. They ensure that the team members and the stakeholders understand everything and that they feel comfortable after every discussion. They also ensure that the focus is on the right thing at the right time. Their main focus is not the product but the team’s well being. They can have multiple roles within one team but never multiple teams as team leads.
 
 So what is the difference between a senior, a manager, and a team lead?
+
 - **Seniors** are people who deeply understand the project. They teach newcomers and suggest solutions to the most difficult issues.
 - **Managers** have people to work for them. They plan, organize and coordinate and they are part of the company’s hierarchy and does not have to be a programmer.
 - **Team leads** understand perfectly not only the technical side of the project but also the team management. They act as a shield to protect their team from managers and customers. They ensure that the developers are satisfied and motivated. They are the bridge between the team and management.
@@ -56,7 +57,7 @@ A good team lead helps your team with:
 - Unsuccessful product
 - Unhappy clients
 - Disconnection with business
-- ["Not My Problem" Mentality](issues/not-my-problem-mentality)
+- ["Not My Problem" Mentality](/issues/not-my-problem-mentality)
 
 ## How to Implement the Team Lead
 

@@ -36,7 +36,11 @@ Unit testing can be done manually but it is usually automated. In terms of autom
 [Amazon Alexa: Unit Testing: Creating Functional Alexa Skills](https://developer.amazon.com/it/blogs/alexa/post/35bdad3d-57c8-4623-88c6-815540697af5/unit-testing-create-functional-alexa-skills)
 
 - **Unit Test**  
-	Unit tests typically test functions, methods, and classes. They are short, cheap and fast to write and maintain. They are focused on one thing/function. They are not dependent on any external systems. When a unit test fails, it is easy to identify the problem.
+	Unit tests typically test functions, methods, and classes. They are short, cheap and fast to write and maintain. They are focused on one thing/function. They are not dependent on any external systems. When a unit test fails, it is easy to identify the problem.  
+  
+  There are two types of unit tests: 
+  - **Positive Testing** - testing the code by giving valid data.
+  - **Negative Testing** - testing the code by giving the Invalid data.
 
 - **Integration Test**  
 	Integration test focuses on the point where individual units are combined and tested as a group. The purpose is to test if the interaction between units works.
