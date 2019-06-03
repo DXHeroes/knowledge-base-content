@@ -37,6 +37,7 @@ Agile Events, formerly Agile Ceremonies, are a set of meetings prescribed for Ag
 - Sprint Planning
 - Sprint Review
 - Sprint Retrospective
+- Sprint Refinement
 - The Sprint
 
 ![Agile Events](/files/agile_events.jpg)
