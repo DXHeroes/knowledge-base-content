@@ -1,5 +1,5 @@
 ---
-slug: continous-integration
+slug: continuous-integration
 aspect: processes
 stages: 
   - development

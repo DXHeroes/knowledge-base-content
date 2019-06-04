@@ -20,7 +20,7 @@ tags:
   - scalability
 ---
 
-# Performance testing
+# Performance Testing
 
 ## What Is Performance Testing
 
