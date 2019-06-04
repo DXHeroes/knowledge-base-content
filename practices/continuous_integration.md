@@ -27,7 +27,7 @@ keywords:
   - travis
 ---
 
-# Continous Integration
+# Continuous Integration
 
 ## What Is a Continuous Integration
 
