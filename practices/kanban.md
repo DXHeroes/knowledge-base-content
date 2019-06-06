@@ -37,13 +37,14 @@ Kanban is summarized by the premise: "Stop Starting, Start Finishing". Teams con
 - Compared to Scrum, Kanban uses fewer meetings and supporting processes. For example, there is no need for any control measures, such as velocity.
 
 ## Issues the Kanban Helps to Solve
+
 - [Demotivated team](/issues/demotivated-team)
 - Unsuccessful product
 - Unnecessary functions
 - Expensive development
 - Sunk cost
 - Toxic team culture
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
 
 ## How to Implement Kanban
 

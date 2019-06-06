@@ -32,7 +32,7 @@ A user story (US) is the smallest chunk of work in an agile framework. It divide
 
 - User stories are usually written by a Product Owner who also defines the prioritization.
 - A US is just a few sentences written in a simple language without going into detail. 
-- They follow a simple template, such as: "as a <type of user>, I want <some goal> so that <some reason>".
+- They follow a simple template, such as: "as a \<type of user\>, I want \<some goal\> so that \<some reason\>".
 - Work is divided into US during grooming sessions where the team estimates stories and assign story points. Every team member grooms every US even though they are not going to work on it.
 - A US can be written on a post-it note and stick it on a board, or created in software.
 - US have to be testable. Even if your US are divided into smaller US, each US has to be testable.
@@ -62,13 +62,13 @@ Why not just break the epic into steps? Why bother with creating the user storie
 
 - [Demotivated team](/issues/demotivated-team)
 - [Increased cost](/issues/increased-cost)
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
+- ["Not my problem" mentality](/issues/not-my-problem-mentality)
 - Unnecessary functions
 - Expensive development
 - Unhappy clients
 - Toxic team culture
 - Disconnection with business
-- ["Not my problem" mentality](/issues/not-my-problem-mentality)
 
 ## How to Implement User Stories
 

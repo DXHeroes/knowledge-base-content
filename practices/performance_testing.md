@@ -29,6 +29,7 @@ Performance Testing is a practice that helps to identify if your product will pe
 Testers tend to focus more on the product’s functionality and sometimes neglect the Performance Testing. Performance Testing is an important part of the product development, even though the testers operate separately from the developers. The developers and operations run and maintain the product until it reaches the performance expectations.
 
 Types of Performance Tests:
+
 - **Load Testing**
   tests how the product behaves when multiple users access it at the same time. It identifies the maximum operating capacity of a product.
 - **Stress Testing** (or Breakpoint Testing)
@@ -52,7 +53,7 @@ Performance Testing is a useful tool to locate performance problems by highlight
 ## Issues the Performance Testing Helps to Solve
 - [Poor code quality](/issues/poor-code-quality)
 - [Increased cost](/issues/increased-cost)
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
 - Insufficient performance
 - Disconnect with business
 
@@ -61,6 +62,7 @@ Performance Testing is a useful tool to locate performance problems by highlight
 It is very important to start with a good input. Specify what you expect from the test. Collect the information during and after the testing.
 
 Follow these steps:
+
 - **Identify the tools and environment**
   Understand the environment where the product will be tested (hardware, software, and network configurations).
 - **Set acceptance criteria**

@@ -60,7 +60,7 @@ Your **organization** can gain from a successful mentoring program the following
 - Disconnection with business
 - Knowledge hoarding
 - Long team onboarding
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
 - Toxic team culture
 
 ## How to Implement Mentoring

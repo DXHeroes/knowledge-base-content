@@ -13,7 +13,7 @@ tags:
 - motivation
 - goal
 - bus factor
-
+- mentality
 keywords:
 - empowerment
 - team player

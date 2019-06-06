@@ -32,6 +32,7 @@ Bug reports are the most important tools for developers. They are created by tes
 Bug reports exist to improve your product. It is worth the effort to learn how to write an efficient bug report.
 
 A good bug reports:
+
 - contain all the information the developer needs to fix the problems
 - are an efficient form of communication between the person who reports the bug and the person who fixes it
 - should be resolved as soon as possible
@@ -48,6 +49,7 @@ Bug reporting can be automatized or semi-automatized. Some of the most popular b
 
 ## How to Implement the Bug Reporting
 To write an effective bug report, follow these 10 steps:
+
 1. **Condense**
   Be clear and brief. Ensure that every information in the bug report is relevant.
 2. **Accurate**
@@ -70,6 +72,7 @@ To write an effective bug report, follow these 10 steps:
   Provide documentation that can prove the existence of the bug. 
 
 ## Common Pitfalls of Proper Bug Reporting
+
 - **Underestimated bug reporting**
   For example, some websites do not offer any opportunity to report a bug. If you find a bug, you cannot submit feedback or contact the person who can fix it.
 - **Untraceable bug**
