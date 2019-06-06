@@ -53,6 +53,7 @@ The pyramid shows you that the more high-level you get, the fewer tests you shou
 ## Why You Might Want the Unit Testing
 
 Unit testing helps you with: 
+
 - maintaining your code
 - catching defects introduced due to the code change
 - lower the potentially harmful impact of changes to your code
@@ -65,9 +66,9 @@ Unit testing helps you with:
 
 - [Poor code quality](/issues/poor-code-quality)
 - [Increased cost](/issues/increased-cost)
-- Meaningless work
-- Insufficient performance
+- [Meaningless work](/issues/meaningless-work)
 - [Demotivated team](/issues/demotivated-team)
+- Insufficient performance
 
 ## How to Implement the Unit Testing
 

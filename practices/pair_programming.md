@@ -50,7 +50,7 @@ Frankly, although it can be very useful, pair programming is not very popular. I
 - [Increased cost](/issues/increased-cost)
 - [Demotivated team](/issues/demotivated-team)
 - [Low Bus Factor](/issues/bus-factor)
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
 - ["Not my problem" mentality](/issues/not-my-problem-mentality)
 - Knowledge hoarding
 

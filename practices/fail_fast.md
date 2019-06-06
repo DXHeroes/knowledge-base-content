@@ -52,18 +52,20 @@ Fail Fast is one of the main practices that the team should adopt mostly in the 
 
 
 ## Issues the Fail Fast Philosophy Helps to Solve
+
 - [Demotivated team](/issues/demotivated-team)
 - [Increased cost](/issues/increased-cost)
 - Unsuccessful product
 - Unnecessary functions
 - Expensive development
 - Unhappy clients
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
 - Toxic team culture
-- "Not my problem" mentality
+- ["Not my problem" mentality](/issues/not-my-problem-mentality)
 
 
 ## How to Implement the Fail Fast Philosophy
+
 - **Hunt the negatives**  
   Seek out a negative opinion. Find people who are critical of the problems you are solving. Remember that your friends and family may not be completely honest or they are not sufficiently critical. They may tell you how great everything is and how well things are going. Do not listen to them!
 - **Be critical**  
@@ -78,6 +80,7 @@ Fail Fast is one of the main practices that the team should adopt mostly in the 
   Regularly validating the meaning of the problem you are addressing and adhering to the above principles will allow you to decide to stop the nonsensical development at the right time and focus on the real problem.
 
 Practices that they can help you to fail-fast:
+
 - [Lean canvas](/practices/lean-canvas)
 - [Value proposition](/practices/value-proposition)
 - [MVP](/practices/minimum-viable-product)

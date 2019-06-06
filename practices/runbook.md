@@ -45,7 +45,7 @@ There are two types of runbooks:
 
 - [Increased cost](/issues/increased-cost)
 - [Poor code quality](/issues/poor-code-quality)
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
 - Unhappy clients
 - Toxic team culture
 - Knowledge hoarding

@@ -45,7 +45,7 @@ Penetration testing requires experienced network security professionals with in-
 - [Poor code quality](/issues/poor-code-quality)
 - [Increased cost](/issues/increased-cost)
 - [Demotivated team](/issues/demotivated-team)
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
 - Unhappy clients
 
 ## How to Implement the Penetration Testing

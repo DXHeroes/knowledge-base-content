@@ -42,6 +42,7 @@ CI is usually implemented with Continuous Delivery (CD) - a practice for produci
 ## Why You Might Want the Continuous Integration
 
 The CI helps your team with:
+
 - **Reducing the integration risk**
   When multiple people work on the same project, they usually work on separate tasks or separate parts of the code. It can be tricky to integrate their work together. Integrating frequently reduces the potential risk of problems to a minimum.
 - **Detecting possible problems before they break anything**
@@ -61,8 +62,7 @@ The CI helps your team with:
 - Unsuccessful product
 - Toxic team culture
 - ["Not my problem" mentality](/issues/not-my-problem-mentality)
-- Meaningless work
-
+- [Meaningless work](/issues/meaningless-work)
 
 ## How to Implement the Continuous Integration
 

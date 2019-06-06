@@ -58,7 +58,7 @@ The Value Proposition Canvas makes you think differently about the customers. Th
 ## Issues the Value Proposition Canvas Solves
 
 - [Bad product-market fit](/issues/bad-product-market-fit)
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
 
 ## How to Implement the Value Proposition Canvas
 
