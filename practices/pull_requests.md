@@ -38,7 +38,7 @@ Pull request can also trigger CI/CD to make sure all automated tests pass before
 
 ## Why You Might Want the Pull Request?
 
-- sing pull request helps you catch the bad code before it is merged into the main codebase.
+- Using pull request helps you catch the bad code before it is merged into the main codebase.
 - Author of the code can also gain valuable feedback on his work that can be immediately applied when fixing the pull request.
 - The knowledge of the codebase is spread more evenly in the team when pull requests practice is in place.
 - The Team Leader or the senior colleague can use pull requests to continually evaluate performances of other team members.
