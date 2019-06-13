@@ -39,6 +39,7 @@ Unit testing can be done manually but it is usually automated. In terms of autom
 	Unit tests typically test functions, methods, and classes. They are short, cheap and fast to write and maintain. They are focused on one thing/function. They are not dependent on any external systems. When a unit test fails, it is easy to identify the problem.  
   
   There are two types of unit tests: 
+  
   - **Positive Testing** - testing the code by giving valid data.
   - **Negative Testing** - testing the code by giving the Invalid data.
 
@@ -83,6 +84,7 @@ Unit testing helps you with:
 - Perform unit tests continuously and frequently.
 
 **Unit Testing Best Practice:**
+
 - **Arrange:**  Set up the test. Make mocking tests for isolationg the behavior.  Use inversion of control.
 		For more information, see [DZone: Unit Testing 101: Inversion Of Control](https://www.dzone.com/articles/unit-testing-101-inversion).
 - **Act:** Run the function and run the test.
