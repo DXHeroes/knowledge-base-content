@@ -31,31 +31,40 @@ Team roles represent a tendency to interact with others in a specific way to mak
 **1. Plant**  
     Proposes new ideas and solves difficult problems.  
     Example: Director  
+    
 **2. Resource Investigator**  
     Explores opportunities, handles external contact.  
     Example: [Product Owner](practices/product-owner)  
+    
 **3. Coordinator/Chairman**  
     Clarifies goals, coordinates resources.  
     Example: Project Manager  
+    
 **4. Shaper**  
 	An alternative to a coordinator. Gives coherence to team work.  
+  
 **5. Monitor/Evaluator**  
 	Evaluates ideas, looks for different perspectives.  
 	Example: Test Analyst, Tester  
+  
 **6. Teamworker**  
 	Builds bridges, takes care of the team spirit  
 	Example: [Team Lead](/practices/team-lead), Scrum Master  
+  
 **7. Implementer**  
   Pursues the plans into practice.  
   Example: Developer  
+  
 **8. Completer/Finisher**  
 	Searches for errors.  
 	Example: Tester, QA Manager  
+  
 **9. Specialist**  
 	Provides scarce knowledge and skills.  
 	Example: Senior Developer  
 
 ![Belbin Team Roles](/files/team_roles_definition.png)
+
 [Belbin Team Roles](https://www.prepearl.net/belbin-team-roles/)
 
 ## Why You Might Want the Team Roles
