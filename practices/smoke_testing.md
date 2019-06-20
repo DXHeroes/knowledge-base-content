@@ -41,12 +41,12 @@ Smoke Testing is typically used for:
 It is always a good idea to apply Smoke Testing from the user experience point of view, for example, if we run an e-shop, the Smoke Test should be focused on the main functions, such as the user's ability to log in, or if he adds goods to the "basket", so it appears there indeed, and so on.
 
 ## Issues the Smoke Testing Helps to Solve
-- [increased cost](/issues/increased-cost)
-- [demotivated team](/issues/demotivated-team)
-- [poor code quality](/issues/poor-code-quality)
-- toxic team culture
-- long incident resolution time
-- "not my problem" mentality
+- [Increased cost](/issues/increased-cost)
+- [Demotivated team](/issues/demotivated-team)
+- [Poor code quality](/issues/poor-code-quality)
+- ["Not my problem" mentality](/issues/not-my-problem-mentality)
+- Toxic team culture
+- Long incident resolution time
 
 ## How to Implement the Smoke Testing
 

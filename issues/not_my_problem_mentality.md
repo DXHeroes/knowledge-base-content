@@ -13,7 +13,7 @@ tags:
 - motivation
 - goal
 - bus factor
-
+- mentality
 keywords:
 - empowerment
 - team player
@@ -33,14 +33,14 @@ keywords:
 
 ## What Is a "Not My Problem" Mentality
 
-One of the very dangerous approaches to a team work is “Not My Problem” mentality. It is not a team player’s mindset. It can endanger your team’s productivity, your relationships, the product or, in the worst case scenarios, even lives. It is easy to walk away from a car accident thinking that someone else is going to take care of the problem. It is easy to walk away from an upset colleague without asking if they need any help. In the end, we both have a lot of work, right?
+One of the very dangerous approaches to a team work is “Not My Problem” mentality. It is not a team player’s mindset. It can endanger your team’s productivity, your relationships, the product, or, in the worst case scenarios, even lives. It is easy to walk away from a car accident thinking that someone else is going to take care of the problem. It is easy to walk away from an upset colleague without asking if they need any help. In the end, we both have a lot of work, right?
 
 ![Shrug Emoji](/files/not_my_problem_mentality.png)
 [How to Type the Shrug Emoji](https://blog.hubspot.com/marketing/shrug-emoji)
 
 It is true that people have to prioritize their own work. If everyone would be doing everything, they would get lost shortly. Management and a division of labor are needed, to a certain extent.
 
-To become more committed and therefore avoid the “not My Problem” mentality, the employee needs to feel empowered and important. Prof. Surekha Rana shows in her research [Employee Empowerment And Job Satisfaction: An Empirical Study Of Manufacturing Sector](http://ijbemr.com/wp-content/uploads/2016/03/EMPLOYEE-EMPOWERMENT-AND-JOB-SATISFACTION.pdf) that employee empowerment has a positive and significant impact on job satisfaction. It means that being involved in decision making and organizing work helps to feel satisfied with the job. In other words, it is crucial to try to eliminate the “Not My Problem” mentality in your team and let the team members be autonomous and more responsible.
+To become more committed and therefore avoid the “Not My Problem” mentality, the employee needs to feel empowered and important. Prof. Surekha Rana shows in her research [Employee Empowerment And Job Satisfaction: An Empirical Study Of Manufacturing Sector](http://ijbemr.com/wp-content/uploads/2016/03/EMPLOYEE-EMPOWERMENT-AND-JOB-SATISFACTION.pdf) that employee empowerment has a positive and significant impact on job satisfaction. It means that being involved in decision making and organizing work helps to feel satisfied with the job. In other words, it is crucial to try to eliminate the “Not My Problem” mentality in your team and let the team members be autonomous and more responsible.
 
 Basically, if you are satisfied with your job, you are more likely to help others when you can. Remember that it is ok to say “no” if you do not have the time or capability to help others. But be a good team player and ensure that your reason for not helping is valid. You can also address the problem with management. Not dealing with the issues can spread. It becomes a distributed problem that cannot be cured by one change. It is a symptom of the corporate culture.
 
@@ -57,7 +57,7 @@ If the team lead recognizes the “Not My Problem” mentality in the team, they
 - **Bad examples**  
 	If the senior leaders do not seem to go the extra mile, why should the employees bother. Bad example can trigger “Not My Problem” mentality very quickly.
 - **No recognition**  
-	It does not have to be a huge pay rise but sometimes just a simple “good job” feels like the boss recognized your extra work. Feeling the appreciation encourages employees to walk the extra mile and be a good team players.
+	It does not have to be a huge pay rise but sometimes just a simple “good job” feels like the boss recognized your extra work. Feeling the appreciation encourages employees to walk the extra mile and be good team players.
 - **Bad team leads**  
   The team leads are not the team players at the first place. If they cannot identify themselves with the team, they can spread the “Not My Problem” mentality. The team members’ problems should be their problems as well.
 

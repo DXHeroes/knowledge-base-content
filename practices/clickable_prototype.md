@@ -52,7 +52,7 @@ Based on text above, process of software development which uses prototyping can 
 
 - [Demotivated team](/issues/demotivated-team)
 - [Increased cost](/issues/increased-cost)
-- Disconnection with business, misunderstanding within the team
+- Disconnection with business
 
 ## How to Implement the Clickable Prototype
 

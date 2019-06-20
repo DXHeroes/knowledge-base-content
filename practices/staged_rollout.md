@@ -20,12 +20,15 @@ keywords:
 ---
 
 # Staged Rollout
+
 ## What Is a Staged Rollout
+
 A staged rollout is a way for updating your application while reaching only a certain percentage of users. It enables you to release a single product version very slowly - over a period of days. It is a much safer approach than a sudden big-bang release.
 
 A staged rollout gives you time to analyze your product stability and its performance against business goals. Then you can decide if you want to roll out the update to more users, wait for more data, or stop the rollout. You can test if your update is going to be a success and you can also reveal major errors. A staged rollout is one of the relatively pain-free ways to make continuous delivery. One of the major companies that do the staged rollouts regularly is Netflix.
 
 ## Why You Might Want the Staged Rollout
+
 - Slowly increasing the number of users of your product update prevents spreading errors. It is always better if only 10% of users experience update errors than all of your customers.
 - Staged rollout enables you to control your product performance in a measurable way, unlike when you push the release out to every user at the same time.
 - Staged rollout lets you be more strategic with your product releases.
@@ -34,8 +37,8 @@ A staged rollout gives you time to analyze your product stability and its perfor
 - It minimizes negative effects on productivity. If you want to implement some changes in your company, the tested group may be not as productive as usual. But it is still better than when all of the users have to get used to the change at the same time.
 
 ## Issues the Staged Rollout Solves
+- [Meaningless work](/issues/meaningless-work)
 - Team involvement
-- Meaningless work
 - Unhappy clients
 - Unsuccessful product
 - Unnecessary functions
