@@ -6,10 +6,7 @@ stages:
 short_description: Team roles describe interactions of the team members. The goal of defining the team roles is to make the progress of the team smoother and easier.
 tags:
 - team
-- role
-- title
-- type
-- Belbin
+- roles
 - skills
 keywords:
 - type
@@ -26,7 +23,7 @@ keywords:
 
 Defining team roles and responsibilities is crucial for any project. The IT industry has a huge range of job titles which can be confusing - it is sometimes difficult to figure out what exactly each job means. Not all of them are required all the time, in every project, for every task. Every team is unique and choosing accurate roles can make your life significantly easier.
 
-Team roles represent a tendency to interact with others in a specific way to make the progress of the team easier. Teams need the following nine role types, according to Dr. Meredith Belbin’s [The Coming Shape Of Organization](http://www.belbin.ie/the-coming-shape-of-organization/):
+Team roles represent a tendency to interact with others in a specific way to make the progress of the team easier. Teams need the following nine role types, according to Dr. Meredith Belbin’s "The Coming Shape Of Organization":
 
 **1. Plant**  
     Proposes new ideas and solves difficult problems.  
@@ -34,7 +31,7 @@ Team roles represent a tendency to interact with others in a specific way to mak
     
 **2. Resource Investigator**  
     Explores opportunities, handles external contact.  
-    Example: [Product Owner](practices/product-owner)  
+    Example: [Product Owner](/practices/product-owner)  
     
 **3. Coordinator/Chairman**  
     Clarifies goals, coordinates resources.  
@@ -64,7 +61,6 @@ Team roles represent a tendency to interact with others in a specific way to mak
 	Example: Senior Developer  
 
 ![Belbin Team Roles](/files/team_roles_definition.png)
-
 [Belbin Team Roles](https://www.prepearl.net/belbin-team-roles/)
 
 ## Why You Might Want the Team Roles
@@ -99,6 +95,7 @@ Find the common pitfalls in the  Belbin chart above.
 
 ## Resources for the Team Roles Definition
 
+- [The Coming Shape Of Organization](http://www.belbin.ie/the-coming-shape-of-organization/)
 - [Medium: Software Project Team Roles and Responsibilities](https://medium.com/@SherrieRose/software-project-team-roles-and-responsibilities-152a7d575759)
 - [Forbytes: Making sense of the roles in a software project](https://forbytes.com/frequently-asked-questions/roles-and-responsibilities/)
 - [Medium: Software Roles and Titles](https://medium.com/javascript-scene/software-roles-and-titles-e3f0b69c410c)
