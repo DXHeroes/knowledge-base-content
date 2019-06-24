@@ -28,6 +28,7 @@ There is a clear disconnect between companies and their IT departments. Both ide
 A 2013 [Kovarus Survey](https://www.prnewswire.com/news-releases/kovarus-survey-significant-gap-exists-between-business-and-it-204544541.html) showed that only 28% of IT decision makers prioritize the long term innovations.
 
 ![Kovarus Survey](/files/business-it.png)
+
 [Kovarus Survey](https://www.prnewswire.com/news-releases/kovarus-survey-significant-gap-exists-between-business-and-it-204544541.html)
 
 This survey also found that:
@@ -56,4 +57,4 @@ Long story short, the companies have to start looking at the big picture regardi
 - [CIO: 8 reasons for the IT-business disconnect](https://www.cio.com/article/3232099/8-reasons-for-the-it-business-disconnect.html)
 - [APM Digest: 15 Ways to Bridge the Gap Between IT and Business](https://www.apmdigest.com/apm-bridge-gap-between-it-and-business)
 - [Quick Base: Fixing the Biggest Disconnect Between Business and IT](https://www.quickbase.com/blog/fixing-the-biggest-disconnect-between-business-and-it)
-- [forbes: The Seven Digital Sins Of IT-Business Disconnect](https://www.forbes.com/sites/forbestechcouncil/2018/10/12/the-seven-digital-sins-of-it-business-disconnect/#2ac9e9f26c9f)
+- [Forbes: The Seven Digital Sins Of IT-Business Disconnect](https://www.forbes.com/sites/forbestechcouncil/2018/10/12/the-seven-digital-sins-of-it-business-disconnect/#2ac9e9f26c9f)
