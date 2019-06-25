@@ -1,14 +1,11 @@
 ---
 slug: disconnect-between-business-and-it
-aspect:
+aspect: culture
 stages:
--
+- development
 short_description: Modern companies sometimes forget to focus more on the long term IT innovations. They make critical financial decisions without the correct IT-business insight.
 tags:
 - business
-- innovation
-- finance
-- fiscal
 - goal
 - management
 keywords:
@@ -25,10 +22,9 @@ keywords:
 
 There is a clear disconnect between companies and their IT departments. Both ideologically and financially. Most of the companies do not consider long term IT innovation in their business plans for a fiscal year - in fact, they prefer fixing issues currently at hand.
 
-A 2013 [Kovarus Survey](https://www.prnewswire.com/news-releases/kovarus-survey-significant-gap-exists-between-business-and-it-204544541.html) showed that only 28% of IT decision makers prioritize the long term innovations.
+A 2013 Kovarus Survey showed that only 28% of IT decision makers prioritize the long term innovations.
 
 ![Kovarus Survey](/files/business-it.png)
-
 [Kovarus Survey](https://www.prnewswire.com/news-releases/kovarus-survey-significant-gap-exists-between-business-and-it-204544541.html)
 
 This survey also found that:
