@@ -77,7 +77,7 @@ The Design Sprint process helps to:
 
 - [Bad product-market fit](/issues/bad-product-market-fit)
 - Team involvement
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
 
 ## How to Implement the Design Sprint
 

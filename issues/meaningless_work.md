@@ -14,6 +14,7 @@ tags:
 - not my problem mentality
 - rituals
 - meetings
+- mentality
 keywords:
 - meaning
 - value

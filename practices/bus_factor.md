@@ -47,7 +47,7 @@ A Bus Factor is also known as the bread truck scenario, lottery factor, truck fa
 ## Issues that Increasing the Bus Factor Solves
 - ["Not my problem" mentality](/issues/not-my-problem-mentality)
 - Disconnect with business
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
 
 ## How to Increase the Bus Factor
 
@@ -75,6 +75,7 @@ A Bus Factor is also known as the bread truck scenario, lottery factor, truck fa
   For more information, see Software Documentation, or Performance Test.
 
 ## Common Pitfalls of Increasing the Bus Factor
+
 - Team substitutability is missing. It seems like everyone is familiar with the product but there is only one person (or a few) that can release it. This can be prevented by automatization.
 - The Bus Factor is hidden. It does not have to be only about the deep knowledge of your project. It can be just one password that is not shared and hides an important part of the project.
 - The documentation is nonexisting. If the developers do not share their ideas, it is very important to write them down. 

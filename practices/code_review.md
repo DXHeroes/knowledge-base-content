@@ -53,7 +53,7 @@ Code reviewing is a very important tool for developing process. It improves code
 - Toxic team culture
 - Knowledge hoarding
 - ["Not my problem" mentality](/issues/not-my-problem-mentality)
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
 
 ## How to Implement the Code Review
 - Code review is usually done via [pull requests](/practices/pull-requests) and before merging. There are many tools for creating pull requests, such as [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Gitcolony](https://www.gitcolony.com/), or [PullRequest](https://www.pullrequest.com/).
@@ -72,6 +72,7 @@ Code reviewing is a very important tool for developing process. It improves code
 8. Give feedback that helps rather than just criticize
 
 ## Common Pitfalls of the Code Review
+
 - Developers do not want their code to be reviewed because they rely on automated tests more than on the coleague’s opinion.
 - Developers merch their own pull requests to save time.
 - The code review does not help when the developer does not check the code properly. Usually they trust the author and do not expect them to make mistakes. Ensure to review the code carefully, to err is human.

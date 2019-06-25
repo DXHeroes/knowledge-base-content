@@ -29,6 +29,7 @@ The software documentation is a written text or an illustration that covers comp
 There are two types of software documentation: **internal** and **external**.
 
 **Internal documentation:**
+
 - **Team documentation**: Project plans, status reports, meeting notes or anything that the team may need for work. 
 - **Reference documentation**: Company’s policies, legal processes and other information for the employees about the company’s important topics. Reference documentation is usually sent by the HR department. 
 - **Project documentation**: Proposals, design guidelines, roadmaps, and other information useful for product development. 
@@ -39,6 +40,7 @@ There are two types of software documentation: **internal** and **external**.
 
 ## Why You Might Want the Software Documentation
 Software documentation helps:
+
 - to save time. The developers get the work done faster without thinking too hard and trying to figure out what they should do.
 - to maintain consistency. Stakeholders and the team members are on the same page.
 - with onboarding. New team members understand the product much faster and can start working immediately without waiting for further instructions.
@@ -47,27 +49,28 @@ Software documentation helps:
 
 ## Issues the Software Documentation Solves
 - [Poor code quality](/issues/poor-code-quality)
+- ["Not my problem" mentality](/issues/not-my-problem-mentality)
+- [Meaningless work](/issues/meaningless-work)
 - Unhappy clients
 - Toxic team culture
 - Knowledge hoarding
-- ["Not my problem" mentality](/issues/not-my-problem-mentality)
-- Meaningless work
 
 ## How to Implement the Software Documentation
-**1. Hire a tech writer**
-If it is possible, hire a technical writer and let them take care of your software documentation.
 
-**2. Set rules**
-It is crucial that stakeholders understand everything clearly. Use simple language and follow technical writing standards, such as [Michigan State University: Technical Writing Guide](https://msu.edu/course/be/485/bewritingguideV2.0.pdf), or [Wikiversity: Technical writing](https://en.wikiversity.org/wiki/Technical_writing). Be straightforward, to the point, and consistent.
+1. **Hire a tech writer**
+  If it is possible, hire a technical writer and let them take care of your software documentation.
 
-**3. Do your research**
-Ensure that you know the product you are documenting. Be able to answer any questions about the product. Get information from different sources.
+2. **Set rules**
+  It is crucial that stakeholders understand everything clearly. Use simple language and follow technical writing standards, such as [Michigan State University: Technical Writing Guide](https://msu.edu/course/be/485/bewritingguideV2.0.pdf), or [Wikiversity: Technical writing](https://en.wikiversity.org/wiki/Technical_writing). Be straightforward, to the point, and consistent.
 
-**4. Know your audience**
-The way you write is determined by your readers. The general rule is the less your audience knows, the less technical is your documentation.
+3. **Do your research**
+  Ensure that you know the product you are documenting. Be able to answer any questions about the product. Get information from different sources.
 
-**5. Structure and design**
-Technical documentation has to be structurally logical and easy to navigate. Think about the hierarchy of information. Break up long content with lists, visual diagrams or images. Use templates for consistent design, as you may see in our articles:
+4. **Know your audience**
+  The way you write is determined by your readers. The general rule is the less your audience knows, the less technical is your documentation.
+
+5. **Structure and design**
+  Technical documentation has to be structurally logical and easy to navigate. Think about the hierarchy of information. Break up long content with lists, visual diagrams or images. Use templates for consistent design, as you may see in our articles:
 
 - What Is a /name/
 - Why You Might Want the /name/
@@ -76,16 +79,17 @@ Technical documentation has to be structurally logical and easy to navigate. Thi
 - Common Pitfalls of the /name/
 - Resources for the /name/
 
-**6. Collaborate and review**
+6. **Collaborate and review**
 Share your documentation with the team members and get feedback. Use agile methods for collaboration. Ensure that the reviewers understand the goal of the documentation.
 
-**7. Make enough documentation**
+7. **Make enough documentation**
 There is no need to document every single step you do at work. It is crucial to find a good balance between excessive documentation and a lack of it. Be thorough in the description but do not bore your readers with unnecessary details.
 
-**8. Update your documentation**
+8. **Update your documentation**
 Publish and ensure that your documentation us up-to-date. Updating is an ongoing process.
 
 ## Common Pitfalls of the Software Documentation
+
 1. The biggest pitfall is a lack of documentation. Your product might be great but it is useless if it is only you who understands it. 
 2. For technical writers, it is usually challenging to gather all the information about the product. It is caused by many factors, such as: 
 - a lack of developers’ time to go through the product details with the writer
