@@ -42,28 +42,30 @@ A retrospective is an opportunity for the team to inspect itself and create a pl
 The retrospective was mostly popularized by Scrum. Now it is commonly used by other agile practices, such as Extremely programming (XP), Kanban, or Lean Development. In none-agile environments, retrospectives are sometimes done after a project is finished to generate “lessons learned as a post mortem”. 
 
 In the basic form it answers three questions:
+
 - What worked well?
 - What did not work well?
 - What will we commit to doing in the next Sprint differently?
 
 ## Why You Might Want the Retrospective
+
 - **Higher team performance**
   Retrospectives contribute to the benefits of iterative development. They offer opportunities to improve the team's performance during the project. In addition, they allow understanding the reasons behind project decisions.
 - **Promotion of ownership and responsibility**
   Retrospectives encourage collective ownership and responsibility of the project team. That is why agile promotes the usage of retrospectives to help them to solve problems and improve themselves. 
 - **Problem-solving approach**
-  > "It is insane to do the same things and expecting different results." Albert Einstein. 
-  
+  "It is insane to do the same things and expecting different results." - Albert Einstein.
   Solving problems and subsequently delivering more value to your customers requires a change in the way of working.
 
 ## Issues the Retrospective Helps to Solve
+
 - [Demotivated team](/issues/demotivated-team)
 - [Increased cost](/issues/increased-cost)
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
+- ["Not my problem" mentality](/issues/not-my-problem-mentality)
 - Expensive development
 - Toxic team culture
 - Disconnection with business
-- "Not my problem" mentality
 
 ## How to Implement the Retrospective
 
@@ -81,7 +83,7 @@ In the basic form it answers three questions:
     - What worked well?
     - What could be improved?
 5. **Determine the most serious impediments**  
-  Group (negative) feedbacks by topic and let the team vote the most serious issues.  
+  Group (negative) feedbacks by topic and let the team vote the most serious issues.
   **Tip:** There are many types of voting. One of them is “Dot voting”: each participant has three votes and can place more than one vote to a group. Each vote is represented by a dot. The groups with the most votes will be picked up first. 
 6. **Generate insights and decide what to do**  
   You have chosen the most serious issues to work. Create concrete action steps of how you will solve the issues. An action plan should contain a next action, a responsible person, and a due date.
@@ -92,7 +94,7 @@ A good source of retrospective "games" is [Retromat](https://retromat.org).
 
 ![Retrospective](/files/retrospective1.jpg)
 ![Retrospective](/files/retrospective2.jpg)  
-Source: Our own Retrospective Meeting.
+[Our own Retrospective Meeting](https://dxheroes.io)
 
 ## Common Pitfalls of the Retrospective
 - **A blame game**  

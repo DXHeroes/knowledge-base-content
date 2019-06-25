@@ -54,10 +54,10 @@ A good team lead helps your team with:
 
 - [Bad product-market fit](/issues/bad-product-market-fit)
 - [Demotivated team](/issues/demotivated-team)
+- ["Not My Problem" Mentality](/issues/not-my-problem-mentality)
 - Unsuccessful product
 - Unhappy clients
 - Disconnection with business
-- ["Not My Problem" Mentality](/issues/not-my-problem-mentality)
 
 ## How to Implement the Team Lead
 

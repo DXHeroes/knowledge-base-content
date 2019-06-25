@@ -59,13 +59,15 @@ Keep in mind, that SemVer starts at 0.1.0. Not at 0.0.1, as you might assume. Th
   - Version numbers in this phase are equal to releases.
 
 ## Why You Might Want the Semantic Versioning
+
 - Versioning the software ensures you that every team member or user can keep track of what has been changed and when.
 - SemVer helps to explain what type of changes were made. It also informs users about possible software updates.
 - SemVer lets you know which version of a product is no longer backwards compatible.
 
 ## Issues the Semantic Versioning Solves
+
 - [Demotivated team](/issues/demotivated-team)
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
 - Unsuccessful product
 - Unnecessary functions
 - Expensive development
@@ -80,6 +82,7 @@ To use SemVer efficiently, follow these steps:
 - Track all of the changes in a [Changelog](https://keepachangelog.com/) (a file with a list of changes) so the users know what is the difference between the product versions.
 
 ## Common Pitfalls of the Semantic Versioning
+
 - Weak version management neglects users.
 - Users judge product value based on the version number.
 - The stakeholder asks for a specific version number based on marketing choices or client’s preferences.

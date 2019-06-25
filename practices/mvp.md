@@ -56,7 +56,7 @@ The key idea of MVP is that you produce the MVP version to customers and observe
 - [Increased cost](/issues/increased-cost)
 - [Bad product-market fit](/issues/bad-product-market-fit)
 - [Demotivated team](/issues/demotivated-team)
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
 - Unsuccessful product
 - Unnecessary functions
 - Expensive development

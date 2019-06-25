@@ -15,6 +15,8 @@ tags:
 - iteration
 - retrospective
 - refinement
+- demotivated team
+- rituals
 keywords:
 - agile
 - scrum
@@ -22,6 +24,7 @@ keywords:
 - sprint
 - standup
 - iteration
+- demotivated team
 - retrospective
 - review
 - ritual
@@ -90,10 +93,10 @@ Even though the events are here to help, developers struggle to find every singl
 
 - [Bad product-market fit](/issues/bad-product-market-fit)
 - [Demotivated team](/issues/demotivated-team)
+- ["Not My Problem" Mentality](/issues/not-my-problem-mentality)
 - Unsuccessful product
 - Unhappy clients
 - Disconnection with business
-- ["Not My Problem" Mentality](/issues/not-my-problem-mentality)
 
 ## How to Implement the Agile Events
 

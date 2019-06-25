@@ -42,18 +42,19 @@ The DevOps Engineer can be originally from one of the teams. After the implement
 ### Skills the Devops Engineer Needs
 
 **Soft Skills** 
+
 - Especially communication skills - they have to be able to explain complex situations
 - They need empathy to be able to talk to both teams
 - They have to be good problem solvers
 
 **Understanding of tools and technologies**
-- They have to understand what tools or programs the developers use
+They have to understand what tools or programs the developers use
 
 **Knowledge of coding**
-- At least a basic knowledge of coding is necessary
+At least a basic knowledge of coding is necessary
 
 **Flexibility**
-- The DevOps Engineer has to be time flexible. Sometimes problems in different fields rely on them. It is necessary to be able to cover it all.
+The DevOps Engineer has to be time flexible. Sometimes problems in different fields rely on them. It is necessary to be able to cover it all.
 
 ## Why You Might Want the Devops
 
@@ -87,7 +88,7 @@ Sharing is crucial. If the teams share responsibilities, they share success as w
 ## Issues the Devops Solves
 - [Increased cost](/issues/increased-cost)
 - [Demotivated team](/issues/demotivated-team)
-- "Not my problem" mentality
+- ["Not my problem" mentality](/issues/not-my-problem-mentality)
 - Developer vs Operations wars
 - Overwhelmed operations
 - Long feedback loops
