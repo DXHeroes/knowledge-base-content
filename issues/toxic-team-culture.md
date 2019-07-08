@@ -68,7 +68,7 @@ Grapevine becomes the primary source of information. The official company commun
 12. **Skipping meetings**  
 	Employees or managers skip meetings and make up some lame excuses. This is very disrespectful to the other team members and their time.
 
-# Reasons for the Toxic Team Culture
+## Reasons for the Toxic Team Culture
 
 **Who or what is responsible for the toxic culture in your team?**  
 	To be fair, it is not always just a problem of bad management. Individuals at every level can contribute to the toxicity. Anyone can spread rumors or feed the dark atmosphere otherwise. It is often a combination of separated business leaders, bad management and disengaged employees. The core values of the company are not defined or not shared.
