@@ -10,10 +10,10 @@
     "validate": "ts-node dangerfile.ts"
   },
   "devDependencies": {
-    "@types/node-fetch": "^2.1.7",
-    "danger": "^7.0.17",
-    "node-fetch": "^2.3.0",
-    "ts-node": "^8.0.3",
-    "typescript": "^3.3.4000"
+    "@types/node-fetch": "^2.3.7",
+    "danger": "^9.0.3",
+    "node-fetch": "^2.6.0",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.2"
   }
 }
