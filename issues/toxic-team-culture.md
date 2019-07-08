@@ -1,7 +1,8 @@
 ---
 slug: toxic-team-culture
 aspect: culture
-stages: development
+stages: 
+- development
 short_description: Dangerous toxic team culture spreads easily. It is often started by a combination of bad management and disinvolved employees. It is crucial to deal with it as soon as possible.
 tags:
 - culture
