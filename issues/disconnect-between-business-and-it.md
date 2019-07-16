@@ -18,7 +18,7 @@ keywords:
 ---
 # Disconnect Between Business and IT
 
-## What Is Disconnect Between Business and IT
+## What Is a Disconnect Between Business and IT
 
 There is a clear disconnect between companies and their IT departments. Both ideologically and financially. Most of the companies do not consider long term IT innovation in their business plans for a fiscal year - in fact, they prefer fixing issues currently at hand.
 
