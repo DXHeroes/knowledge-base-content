@@ -91,7 +91,15 @@ Belbin recognized that the team success depends on the behavior of the team memb
 
 ## Common Pitfalls of the Team Roles
 
-Find the common pitfalls in the  Belbin chart above.  
+- A plant ignores incidentals and does not comunicate effectively.
+- A resource investigator is over-optimistic and loses interest when the initial enthusiasm passes. 
+- A coordinator can be seen as manipulative. 
+- A sharper offends people's feelings.
+- A monitor/evaluator is overly critical and does not inspire others.
+- A teamworker avoids confrontations.
+- An implementer does not respond to new ideas or possibilities well or fast enough.
+- A completer/finisher does not want to delegate work.
+- A specialist is focused on unnecessary technicalities.
 
 ## Resources for the Team Roles Definition
 
