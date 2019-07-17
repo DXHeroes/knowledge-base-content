@@ -25,40 +25,40 @@ Defining team roles and responsibilities is crucial for any project. The IT indu
 
 Team roles represent a tendency to interact with others in a specific way to make the progress of the team easier. Teams need the following nine role types, according to Dr. Meredith Belbin’s "The Coming Shape Of Organization":
 
-**1. Plant**  
-    Proposes new ideas and solves difficult problems.  
-    Example: Director  
+1. **Plant**
+  Proposes new ideas and solves difficult problems.
+  Example: Director
+
+2. **Resource Investigator**
+  Explores opportunities, handles external contact.
+  Example: [Product Owner](/practices/product-owner)
     
-**2. Resource Investigator**  
-    Explores opportunities, handles external contact.  
-    Example: [Product Owner](/practices/product-owner)  
+3. **Coordinator/Chairman** 
+  Clarifies goals, coordinates resources.
+  Example: Project Manager
     
-**3. Coordinator/Chairman**  
-    Clarifies goals, coordinates resources.  
-    Example: Project Manager  
-    
-**4. Shaper**  
-	An alternative to a coordinator. Gives coherence to team work.  
+4. **Shaper**
+	An alternative to a coordinator. Gives coherence to team work.
   
-**5. Monitor/Evaluator**  
-	Evaluates ideas, looks for different perspectives.  
-	Example: Test Analyst, Tester  
+5. **Monitor/Evaluator**
+	Evaluates ideas, looks for different perspectives.
+	Example: Test Analyst, Tester
   
-**6. Teamworker**  
-	Builds bridges, takes care of the team spirit  
-	Example: [Team Lead](/practices/team-lead), Scrum Master  
+6. **Teamworker**
+	Builds bridges, takes care of the team spirit
+	Example: [Team Lead](/practices/team-lead), Scrum Master
   
-**7. Implementer**  
-  Pursues the plans into practice.  
-  Example: Developer  
+7. **Implementer**
+  Pursues the plans into practice.
+  Example: Developer
   
-**8. Completer/Finisher**  
+8. **Completer/Finisher**
 	Searches for errors.  
-	Example: Tester, QA Manager  
+	Example: Tester, QA Manager
   
-**9. Specialist**  
-	Provides scarce knowledge and skills.  
-	Example: Senior Developer  
+9. **Specialist**
+	Provides scarce knowledge and skills.
+	Example: Senior Developer
 
 ![Belbin Team Roles](/files/team_roles_definition.png)
 [Belbin Team Roles](https://www.prepearl.net/belbin-team-roles/)
@@ -71,9 +71,9 @@ Belbin recognized that the team success depends on the behavior of the team memb
 
 - [Demotivated team](/issues/demotivated-team)
 - ["Not my problem" mentality](/issues/not-my-problem-mentality)
+- [Toxic team culture](/issues/toxic-team-culture)
 - Unsuccessful product
 - Unhappy clients
-- Toxic team culture
 
 ## How to Define the Team Roles
 
