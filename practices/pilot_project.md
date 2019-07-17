@@ -43,20 +43,20 @@ This technique is very popular in the gaming industry. Companies select groups o
 
 ## How to Implement the Pilot Project
 
-**1. Define Goals**
-  - How does the success of your pilot project look like? For some companies, it can be defined as a saved time or saved money. It is necessary to be clear about what you are trying to accomplish.
+1. **Define Goals**
+  How does the success of your pilot project look like? For some companies, it can be defined as a saved time or saved money. It is necessary to be clear about what you are trying to accomplish.
 
-**2. Choose Pilot Testers**
-  - You need a big enough group to get useful feedback, and small enough to not be overwhelmed. The participants should be open to use a new tool. It is also a good idea to pick the participants from the people who are going to use the tool regularly in the future. Set up an implementation infrastructure and a timetable. Explain the goals thoroughly and answer questions. Provide support during the testing.
+2. **Choose Pilot Testers**
+  You need a big enough group to get useful feedback, and small enough to not be overwhelmed. The participants should be open to use a new tool. It is also a good idea to pick the participants from the people who are going to use the tool regularly in the future. Set up an implementation infrastructure and a timetable. Explain the goals thoroughly and answer questions. Provide support during the testing.
 
-**3. Create an Onboarding Plan**
-  -  Onboarding plan for the pilot testers can be used for the rest of the organization when you implement the final product.
+3. **Create an Onboarding Plan**
+  Onboarding plan for the pilot testers can be used for the rest of the organization when you implement the final product.
 
-**4. Get Feedback**
-  -  Collect the feedback and try to find out what worked and what did not work. This feedback is really important for evaluating the new technology - you can decide if you want to move forward or try to find a different solution. Collect the feedback during the testing as well as after the testing. Discuss with the participants and create surveys, questionnaires, or self-evaluations. The participants have to feel free to speak about their experience.
+4. **Get Feedback**
+  Collect the feedback and try to find out what worked and what did not work. This feedback is really important for evaluating the new technology - you can decide if you want to move forward or try to find a different solution. Collect the feedback during the testing as well as after the testing. Discuss with the participants and create surveys, questionnaires, or self-evaluations. The participants have to feel free to speak about their experience.
 
-**5. Address and Fix Challenges**  
-  - Ensure that the changes and implementation of the new product are beneficial and outweigh the cost of the implementation.
+5. **Address and Fix Challenges**
+  Ensure that the changes and implementation of the new product are beneficial and outweigh the cost of the implementation.
 
 ## Common Pitfalls of the Pilot Project
 
