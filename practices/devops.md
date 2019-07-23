@@ -6,8 +6,8 @@ stages:
 short_description: DevOps is a set of practices that brings development and operations teams together. The collaboration helps to release software much faster.
 tags:
   - devops
-  - continous integration
-  - continous delivery
+  - continuous integration
+  - continuous delivery
   - development
   - communication
   - collaboration
