@@ -8,7 +8,7 @@ tags:
   - wireframing
   - architecture
   - ux/ui
-  - desing
+  - design
   - prototyping
   - clickable prototype
   - prototyping
@@ -51,7 +51,7 @@ You can use the wireframes to:
 ## Issues the Wireframing Solves
 
 - [Increased cost](/issues/increased-cost)
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
 - Disconnect with business
 - Lack of motivation
 

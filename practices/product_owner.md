@@ -35,6 +35,7 @@ Product Owner (PO) is responsible for maximizing the value of the product create
 [Yodiz: How The Product Owner Is Crucial For The Success Of An Agile Team](https://www.yodiz.com/blog/how-the-product-owner-is-crucial-for-the-success-of-an-agile-team/)
 
 A good Product Owner should:
+
 - have the trust of the business leader paying for the project
 - be a good communicator and should share the stakeholders’ needs with the team
 - be able to use the software development tools
@@ -53,13 +54,14 @@ A PO is responsible for the product and helps to develop it. The responsibility 
 ## Issues the Product Owner Solves
 - [Bad product-market fit](/issues/bad-product-market-fit)
 - [Demotivated team](/issues/demotivated-team)
+- ["Not my problem" mentality](/issues/not-my-problem-mentality)
 - Unsuccessful product
 - Unhappy clients
 - Disconnection with business
-- "Not my problem" mentality
 
 ## Common Pitfalls Associated with the Product Owner
 The Product Owner:
+
 - becomes a Scrum Master. It is not their job to lead the rituals.
 - does not attend all the standups or other meetings. It is crucial that the PO is available for the team and follows the team progress.
 - changes the scope of the sprint that has already started. It is not their job to interfere with the planning once it is finished.

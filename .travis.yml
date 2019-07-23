@@ -15,10 +15,10 @@ language: minimal
 
     - stage: deploy
       script:
-        - curl -f -XPOST -H "$AUTH_HEADER" -H "$DX_HEADER" $IMPORT_URL_STAGING
+        - curl -f -XPOST -H "$AUTH_HEADER" -H "$DX_HEADER" $IMPORT_URL_STAGING -d "branch=$TRAVIS_PULL_REQUEST_BRANCH"
       if: |
-        branch = dev AND \
-        type = push
+        branch = master AND \
+        type = pull_request
 
     - stage: deploy
       script:
