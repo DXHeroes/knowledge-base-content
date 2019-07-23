@@ -36,6 +36,7 @@ It is crucial to achieve a product-market fit. It is the main goal for every com
 ## Reasons for the Bad Product-Market Fit
 
 Why so many companies spend all their money but never find a product-market fit?
+
 - The product cannot cover the whole customer segment. It can also overlap into a different segment. It fails its purpose.
 - The customer segment is undersized. The company can have a great product but when too many people use it, the product can malfunction.
 - The product does not bring as much money as expected. The company misjudged the customer segment.

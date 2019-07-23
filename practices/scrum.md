@@ -14,6 +14,9 @@ tags:
   - retrospective
   - scrum master
   - fail fast
+  - demotivated team
+  - increased cost
+  - mentality
 keywords:
   - agile
   - mvp
@@ -44,7 +47,7 @@ The Guide explains the Scrum within a definition which consists of Scrum's roles
 3. **Artifacts**  
    Artifacts are designed to maximize transparency of key information so that everybody has the same understanding of the artifact. The Scrum Artifacts are Product Backlog, Sprint Backlog, and Increment.
 
-![Scrum](/files/scrum.png)  
+![Scrum](/files/scrum.png)
 [Scrum.org: Scrum Framework Poster](https://www.scrum.org/resources/scrum-framework-poster)
 
 ## Why You Might Want Scrum
@@ -57,17 +60,18 @@ The Guide explains the Scrum within a definition which consists of Scrum's roles
   Scrum emphasizes on self-organization, collaboration, working cross-functionally and sustainable work practices. Being part of that team allows people to be creative, innovative, and acknowledged for their expertise.
 
 ## Issues the Scrum Helps to Solve
+
 - [Demotivated team](/issues/demotivated-team)
 - [Increased cost](/issues/increased-cost)
 - [Bad product-market fit](/issues/bad-product-market-fit)
-- Meaningless work
+- [Meaningless work](/issues/meaningless-work)
+- ["Not my problem" mentality](/issues/not-my-problem-mentality)
 - Unsuccessful product
 - Unnecessary functions
 - Expensive development
 - Unhappy client
 - Toxic team culture
 - Disconnection with business
-- Not my problem mentality
 
 ## How to Implement Scrum
 

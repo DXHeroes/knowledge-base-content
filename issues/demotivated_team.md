@@ -18,6 +18,7 @@ tags:
   - micromanagement
   - environment
   - efficiency
+  - mentality
 keywords:
   - demotivated team
   - motivation
@@ -37,14 +38,15 @@ keywords:
 ## What Is a Demotivated Team
 No company wants demotivated developers - it can be a disaster for the business. When there is a lack of motivation, the team members produce less and less work. The relationships change, the communication is poor. The less productive employees get easily distracted by non-work activities and they drag the rest of the team down. Lack of motivation brings apathy, unwillingness to solve problems, or poor customer service. The team can lose important team members and even clients.
 
-The team leaders should observe their teams and check if they are motivated enough. Talk to them, support them, share the goals with them. There are many useful practices that can help you to motivate your team. For example, Retrospective, Bus Factor, Mentoring, Kanban, Role Definition, or Pair Programming. It is worth spending time with motivating the team. It always brings success.
+The team leaders should observe their teams and check if they are motivated enough. Talk to them, support them, share the goals with them. There are many useful practices that can help you to motivate your team. For example, [Retrospective](/practices/retrospective), [Bus Factor](/practices/bus-factor), [Mentoring](/practices/mentoring), [Kanban](/practices/kanban), Role Definition, or [Pair Programming](/practices/pair-programming). It is worth spending time with motivating the team. It always brings success.
 
 
 ![Demotivated Team](../files/demotivated_team.jpg)
 [Svitla: What Causes A Lack Of Motivation In Software Developers And How To Prevent It](https://svitla.com/blog/what-causes-a-lack-of-motivation-in-software-developers-and-how-to-prevent-it)
 
 ## Reasons of the Demotivated Team
-Many factors can affect the team motivation. An unmotivated developer’s work is less efficient. The efficiency can be affected by:
+Many factors can affect the team motivation. An unmotivated developer's work is less efficient. The efficiency can be affected by:
+
 - **The product**
   The stakeholders need to verify and validate the product during development. If the developers have to make minor changes constantly, a lack of loyalty to the project can occur. The Product Owner should motivate the team with their common goal.
 - **The work environment**
@@ -54,9 +56,9 @@ Many factors can affect the team motivation. An unmotivated developer’s work i
 - **The inexperience**
   Inexperienced colleagues or an inexperienced team leader can create more mistakes that demotivate the rest of the team.
 - **The communication**
-Unclear communication or a lack of communication can be also demotivating. Good communication strengthens team relationships and trust towards the team leaders.
+  Unclear communication or a lack of communication can be also demotivating. Good communication strengthens team relationships and trust towards the team leaders.
 - **The micromanagement**
-Too much micromanagement makes the developers feel like they are not trusted. It also lowers the team leader’s productivity because they do not concentrate on their own work.
+  Too much micromanagement makes the developers feel like they are not trusted. It also lowers the team leader’s productivity because they do not concentrate on their own work.
 
 ## Resources for the Demotivated Team
 - [Developer: Seven Tips for Motivating Software Development Teams](https://www.developer.com/mgmt/seven-tips-for-motivating-software-development-teams.html)
