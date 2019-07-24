@@ -5,19 +5,20 @@ stages:
 - development
 short_description: Linting is a process of flagging programming and stylistic errors and verifying the code quality. You can also use auto fixer to get rid of the flagged errors.
 tags:
-- linting
 - linter
+- code
+keywords:
+- style
+- checking
+- analyzing
+- linting
 - lint
 - analyzer
 - checkstyle
 - structure
 - flagging
-keywords:
-- style
-- structure
-- flagging
-- checking
-- analyzing
+- code style
+- code
 ---
 # Linting
 
@@ -26,10 +27,11 @@ keywords:
 Lint, or a linter, is a very useful tool for automated analyzing of your source code to look for bugs and stylistic errors. Linter helps to ensure that your code does not include any structural issues which can make your code harder to maintain. Linting became a verb and it is the process of flagging the functional and structural problems. The lint tool is a basic static code analyzer. The term linting comes from a Unix utility for C.
 
 ![Linting](/files/linting.png)
-
 [Linting](https://www.perforce.com/blog/qac/why-linting-important-and-how-use-lint-tools/)
 
 Linters are available for most programming languages. Here are the most common ones:
+
+- for JavaScript: [ESLint](https://github.com/eslint/eslint)
 - for Java: [Checkstyle](https://checkstyle.org/)
 - for Python: [Pylint](http://pylint.pycqa.org/en/latest/)
 - for Swift: [Swiftlint](https://realm.io/)
