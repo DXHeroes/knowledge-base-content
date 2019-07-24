@@ -6,9 +6,7 @@ stages:
 short_description: Dockerizing is the process of packing, deploying, and running applications using Docker containers. Docker is an open-source tool that ships your application with all the neccessary functionalities as one package.
 tags:
 - docker
-- dockerizing
 - container
-- pack
 - deploy
 - cloud
 keywords:
@@ -17,7 +15,10 @@ keywords:
 - package
 - engine
 - hub
--
+- cloud
+- docker
+- docker container
+- virtualization
 ---
 # Dockerizing
 
