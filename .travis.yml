@@ -23,6 +23,3 @@ jobs:
     if: |
       branch = master AND \
       type = push
-env:
-  global:
-    secure: FiPth/aDnUM/J5Utm2OhEAY0ulFAR3B5/VAHBxcgG+rTicxQe+t/aaMJYT5ntk0KBg5Qx8+SZGTi/1YgIVk5jxa/D6tIFHA+GrK5W8ih4/6IKBppJ8XPkFxxSyO1iAaBB+LvKWj478uEkiWP+ErHvFvSxZrkTcI47OIziLjyPTF2X+ucbbNO4joYBydZ1iR+PovxCPB+bUsFr+OCBUvYn58wgGGSExM9P9FhjSQQond+/QZAsTuqmmfFGBqi+q3w0jmVwSJIZUVcB8HWq05VoSCwGNQ78Kayovhz0a1nAilcd9MKH6tuoYGBd52u6fUGarEBD+ixSswwaOi8E/h6DRslGCWaJNgdANTv/SongdlzaYRVHSZmEiKq6Q1CL1iwo+FVzawd/CrO/NSGUVT7swHz7oZ0qGhdFFJhnEQUB4FZcsTaZqU00jviOpC1iV+WhIpNv31cq5oUQ1BMQ3P04NvEBXgZLoYdk0lYejIwZsIt4vOPxFpIxj/iU1iujaZVBLPsMKkpZFHWPiekC/pINSkH4INexuf+T/veifCf/QR83IHUmeWna4/1rAzbmAvGRCS+BvkPg3qDNQYHXet8TK8bY0FvQLC1OFxNmMQUqIitFani4aboaUP0DxZib4tVBXJ7dLdVgsP3D39gvmqijSfuFWUyYvODz87HUdPA0nc=
