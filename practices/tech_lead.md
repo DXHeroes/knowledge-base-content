@@ -2,17 +2,14 @@
 slug: tech-lead
 aspect: culture
 stages:
-- building a team
+- building_team
 short_description: A tech lead is an experienced developer who ensures that team members follow major technical decision. It should be a person with a desire to learn and share new concepts and technologies.
 tags:
-- tech
-- technical
-- lead
+- roles
+- team
 - leader
 - manager
 - management
-- leader
-- senior
 keywords:
 - technology
 - developer
@@ -20,34 +17,38 @@ keywords:
 - organization
 - decision
 - mentor
+- tech
+- technical
+- lead
+- team
+- roles
 ---
 # Tech Lead
 
-## What Is a Tech Lead
+## Who Is a Tech Lead
 
 A tech lead (or a technical lead) is a senior leading role for a software engineer, a decision maker. A tech lead is necessary in bigger companies where the roles and skills are not very fungible. Tech leads ensure that every team member understands and follows major technical decisions. They set the programming guidelines, most used libraries and technologies. They also play a management role - they guide the team with company values and help to resolve conflicts. Tech leads also have to understand the needs of the customers and prioritize work according to those needs.
 
 There can be one tech lead for one team or one tech lead for the back-end and another one for the front-end. The role can be performed by someone who has the most knowledge about development. It is less a formal title and more about being a natural leader of the team. The role can be shifted between different team members according to the project that the team is working on, but each project has to have one tech lead.
 
 ![Tech Lead](/files/tech_lead.png)
-
 [Tech Lead](https://www.codementor.io/npostolovski/8-tips-for-being-a-good-tech-lead-ke35g7em8/)
 
 ## Why You Might Want the Tech Lead
 
 **A good tech lead is:**
 
--   great at organization and vision
--   a productive member of the team
--   a software engineer who still codes
--   able to suppress their ego and admit their mistakes
--   a team player who is proud when other team members succeed
--   involved in critical decisions but not all decisions
--   empowering other team members to make decisions
--   delegating the work effectively
--   a mentor for newer team members
--   available and approachable
--   a mediator of technical decisions
+- great at organization and vision
+- a productive member of the team
+- a software engineer who still codes
+- able to suppress their ego and admit their mistakes
+- a team player who is proud when other team members succeed
+- involved in critical decisions but not all decisions
+- empowering other team members to make decisions
+- delegating the work effectively
+- a mentor for newer team members
+- available and approachable
+- a mediator of technical decisions
 
 ## Issues the Tech Lead Solves
 
