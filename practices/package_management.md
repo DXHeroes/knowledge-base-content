@@ -77,6 +77,7 @@ Package managers:
 - Lockfile is not respected. 
 
 **What Is a Lockfile**
+
  A package-lock.json lockfile keeps the information about installed packages and it should be commited into your package manager source repositories. It is generated automatically for any operations. It is used for describing the dependency tree so the coworkers are guaranteed to install exactly the same dependencies. It also lets you "travel back in time" and check any former dependency tree. It allows your package manager to skip repeated metadata resolutions for previously-installed packages and, therefore, makes the installation much faster. Not commiting the lockfile to your source control results in installing two different modules from the same package.json.
 
 ## Resources for the Package Management
