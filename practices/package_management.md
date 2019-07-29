@@ -35,7 +35,10 @@ Here are some examples of package managers:
 
 - [apk-tools](http://apk-tools.sourceforge.net/) for UNIX like RAM-based embedded systems
 - [dpkg](https://wiki.debian.org/Teams/Dpkg) for Debian (and now Ubuntu)
-- [pacman]() for DeLi Linux
+- [npm](https://en.wikipedia.org/wiki/Npm) and [Yarn](https://yarnpkg.com/lang/en/) for Javascript
+- [Bundler](https://bundler.io/) for Ruby
+- [Apache](https://maven.apache.org/) for Java
+- [Composer](https://getcomposer.org/) for PHP
 - [Steam](https://store.steampowered.com/) - a game platfor, works on Windows NT, OS X, and Linux
 - [Mac App Store](https://www.apple.com/) - official digital distribution platform for OS X apps
 - [NuGet](https://www.nuget.org/) - for Windows, available as a plugin for Visual Studio
