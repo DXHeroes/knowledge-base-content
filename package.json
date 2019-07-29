@@ -7,13 +7,15 @@
   "author": "Prokop Simek <prokop.simek@dxheroes.io>",
   "license": "SEE LICENSE IN LICENSE",
   "scripts": {
-    "validate": "ts-node dangerfile.ts"
+    "validate": "ts-node dangerfile.ts",
+    "format:fix": "prettier \"**/*.md\" --write"
   },
   "devDependencies": {
-    "@types/node-fetch": "^2.3.7",
-    "danger": "^9.0.3",
+    "@types/node-fetch": "^2.5.0",
+    "danger": "^9.1.3",
     "node-fetch": "^2.6.0",
+    "prettier": "^1.18.2",
     "ts-node": "^8.3.0",
-    "typescript": "^3.5.2"
+    "typescript": "^3.5.3"
   }
 }
