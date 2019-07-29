@@ -1,7 +1,7 @@
 ---
 slug: lean-canvas
 aspect: architecture
-stages: 
+stages:
   - research
 short_description: A Lean Canvas is a 1-page chart with 9 basic building blocks. It helps to identify problems and solutions for your product.
 tags:
@@ -71,6 +71,7 @@ Lean Canvas is also an easy tool for the team to help them understand the busine
 - [Meaningless work](/issues/meaningless-work)
 
 ## How to Implement the Lean Canvas
+
 The chart can be created:
 
 - as the very first step when designing a new product
@@ -89,9 +90,10 @@ All you have to do is to get the right people from your company or/and your busi
 - Lean Canvas is commonly mistaken to be a tool only for startups. The chart can be used by a company of any size and any business approach. It was proven to be useful for documenting the product at any stage of development.
 
 ## Resources for the Lean Canvas
+
 - [Leanstack: The Lean Canvas](https://leanstack.com/leancanvas)
 - [Medium: Lean Canvas is the New Business Plan](https://medium.com/@inspire9/lean-canvas-is-the-new-business-plan-513dbfebbe8b)
-- [Leanstack: Why Lean Canvas vs Business Model Canvas?](https://blog.leanstack.com/why-lean-canvas-vs-business-model-canvas-af62c0f250f0) 
-- [Leanstack: Why and How to Model a Non-profit on the Lean Canvas](https://blog.leanstack.com/why-and-how-to-model-a-non-profit-on-the-lean-canvas-514e4acf1051) 
+- [Leanstack: Why Lean Canvas vs Business Model Canvas?](https://blog.leanstack.com/why-lean-canvas-vs-business-model-canvas-af62c0f250f0)
+- [Leanstack: Why and How to Model a Non-profit on the Lean Canvas](https://blog.leanstack.com/why-and-how-to-model-a-non-profit-on-the-lean-canvas-514e4acf1051)
 - [Leanstack: A Lean Canvas is NOT Enough to Replace a Business Plan](https://blog.leanstack.com/a-lean-canvas-is-not-enough-to-replace-a-business-plan-36a28888b2fd)
 - [Youtube: Lean Canvas Example](https://www.youtube.com/watch?v=2nW9lg-fenY)

@@ -2,24 +2,25 @@
 slug: dockerizing
 aspect: processes
 stages:
-- development
+  - development
 short_description: Dockerizing is the process of packing, deploying, and running applications using Docker containers. Docker is an open-source tool that ships your application with all the neccessary functionalities as one package.
 tags:
-- docker
-- container
-- deploy
-- cloud
+  - docker
+  - container
+  - deploy
+  - cloud
 keywords:
-- container
-- application
-- package
-- engine
-- hub
-- cloud
-- docker
-- docker container
-- virtualization
+  - container
+  - application
+  - package
+  - engine
+  - hub
+  - cloud
+  - docker
+  - docker container
+  - virtualization
 ---
+
 # Dockerizing
 
 ## What Is a Dockerizing
@@ -28,7 +29,7 @@ Docker is a useful tool for every programmer. It is an open-source project that 
 
 There are two parts of Docker:
 
-1. **the Docker Engine** - a portable packaging tool  
+1. **the Docker Engine** - a portable packaging tool
 2. **the Docker Hub** - cloud service for sharing applications
 
 The Docker container allows another user to quickly recreate the computer environment. The container provides operating virtualization by abstracting the “user space”. This technology ensures that your colleagues are developing or testing the product using the same environment as you which results in fewer errors.
@@ -43,13 +44,16 @@ The Docker container technology was launched in 2013 by a startup Docker, Inc ba
 Docker is:
 
 1. **Easy to use**
-  - Docker simplified the way we deploy applications. You do not distribute the software as source code - you send the binary image of a part of your disk. It is easy to use for developers, system admins, architects, and others. It runs the application unmodified on any cloud. Docker also lets you use the Docker Hub, which contains tens of thousands of public images ready to use.
+
+- Docker simplified the way we deploy applications. You do not distribute the software as source code - you send the binary image of a part of your disk. It is easy to use for developers, system admins, architects, and others. It runs the application unmodified on any cloud. Docker also lets you use the Docker Hub, which contains tens of thousands of public images ready to use.
 
 2. **Fast**
-  - Docker containers are just sandboxed environments that run on the kernel. You can create and run the containers in seconds.
+
+- Docker containers are just sandboxed environments that run on the kernel. You can create and run the containers in seconds.
 
 3. **Able to create a reproducible environment**
-  - Docker creates a consistent work environment that is necessary for recreating applications and their functionalities. Wrapping everything into containers means that the application you build runs on other devices without friction.
+
+- Docker creates a consistent work environment that is necessary for recreating applications and their functionalities. Wrapping everything into containers means that the application you build runs on other devices without friction.
 
 ## Issues the Dockerizing Solves
 
@@ -61,17 +65,18 @@ Docker is:
 ## How to Implement the Dockerizing
 
 1. **Install Docker**
-  Download Docker for free: https://www.docker.com/products/container-runtime#/download
+   Download Docker for free: https://www.docker.com/products/container-runtime#/download
 
 2. **Choose a base image**
-  You can start from a Base OS and install everything by yourself. But there is no need to create a brand new image. Just pick one of the public images with all the functions and databases that you need. Choose an image based on the used technology, such as:
-  - [Ruby](https://hub.Docker.com/_/ruby/)
-  - [Node](https://hub.Docker.com/_/node/)
-  - [Java](https://hub.Docker.com/_/java/)
-  - [Python](https://hub.Docker.com/_/python/)
+   You can start from a Base OS and install everything by yourself. But there is no need to create a brand new image. Just pick one of the public images with all the functions and databases that you need. Choose an image based on the used technology, such as:
+
+- [Ruby](https://hub.Docker.com/_/ruby/)
+- [Node](https://hub.Docker.com/_/node/)
+- [Java](https://hub.Docker.com/_/java/)
+- [Python](https://hub.Docker.com/_/python/)
 
 3. **Install packages**
-  Install only what you really need. Think about image size, security, or maintainability.
+   Install only what you really need. Think about image size, security, or maintainability.
 
 4. **Add custom files**
 
@@ -80,10 +85,10 @@ Docker is:
 6. **Define the exposed ports**
 
 7. **Define the entrypoint**
-  Run your executable file.
+   Run your executable file.
 
 8. **Define a configuration method**
-  Every application requires parametrization.
+   Every application requires parametrization.
 
 9. **Externalize your data**
 

@@ -2,20 +2,21 @@
 slug: disconnect-between-business-and-it
 aspect: culture
 stages:
-- development
+  - development
 short_description: Modern companies sometimes forget to focus more on the long term IT innovations. They make critical financial decisions without the correct IT-business insight.
 tags:
-- business
-- goal
-- management
+  - business
+  - goal
+  - management
 keywords:
-- business
-- innovation
-- finance
-- Kovarus
-- investment
-- budget
+  - business
+  - innovation
+  - finance
+  - Kovarus
+  - investment
+  - budget
 ---
+
 # Disconnect Between Business and IT
 
 ## What Is a Disconnect Between Business and IT

@@ -1,7 +1,7 @@
 ---
 slug: product-owner
 aspect: architecture
-stages: 
+stages:
   - building_team
 short_description: A Product Owner represents the voice of stakeholders. The Product Owner decides what needs to be delivered by the developers to satisfy the stakeholders and to maximize the value of the product.
 tags:
@@ -19,7 +19,7 @@ keywords:
   - backlog
   - features
   - roadmap
-  - retrospective 
+  - retrospective
   - meeting
   - scrum
   - team
@@ -52,6 +52,7 @@ A good Product Owner should:
 A PO is responsible for the product and helps to develop it. The responsibility is also to catch possible problems related to the product. This role is critical to linking Agile Development Teams to the business, which increases the acceptance of the product. A projects without a Project Owner can struggle with not enough feedback and it risks being disconnected from the stakeholders. In the end, it is all about the money and the PO is primarily responsible for delivering maximum value to the business.
 
 ## Issues the Product Owner Solves
+
 - [Bad product-market fit](/issues/bad-product-market-fit)
 - [Demotivated team](/issues/demotivated-team)
 - ["Not my problem" mentality](/issues/not-my-problem-mentality)
@@ -60,6 +61,7 @@ A PO is responsible for the product and helps to develop it. The responsibility 
 - Disconnection with business
 
 ## Common Pitfalls Associated with the Product Owner
+
 The Product Owner:
 
 - becomes a Scrum Master. It is not their job to lead the rituals.
@@ -67,10 +69,11 @@ The Product Owner:
 - changes the scope of the sprint that has already started. It is not their job to interfere with the planning once it is finished.
 - overloads the product roadmap with too many features.
 - overloads the Sprint Planning.
-- ignores technical debts. It is necessary to change the code according to the project size. 
+- ignores technical debts. It is necessary to change the code according to the project size.
 - comes with unprepared or not verified features.
 
 ## Resources for the Product Owner
+
 - [Scrum: What Is A Product Owner](https://www.scrum.org/resources/what-is-a-product-owner)
 - [Product Plan: Product Owner](https://www.productplan.com/glossary/product-owner/)
 - [Yodiz: How The Product Owner Is Crucial For The Success Of An Agile Team?](https://www.yodiz.com/blog/how-the-product-owner-is-crucial-for-the-success-of-an-agile-team/)

@@ -2,21 +2,21 @@
 slug: penetration-testing
 aspect: processes
 stages:
-- launch
+  - launch
 short_description: Penetration Tests are performed to identify network security weaknesses. It is a "friendly cyberattack" for spotting flaws and potential vulnerabilities.
 tags:
-- testing
-- security
-- penetration testing
-- cyberattack
+  - testing
+  - security
+  - penetration testing
+  - cyberattack
 keywords:
-- penetration test
-- ethical hacking
-- cyberattack
-- network
-- vulnerabilities
-- security
-- flaws
+  - penetration test
+  - ethical hacking
+  - cyberattack
+  - network
+  - vulnerabilities
+  - security
+  - flaws
 ---
 
 # Penetration Testing
@@ -55,15 +55,15 @@ Penetration testing should be a part of your software development lifecycle, not
 **Penetration testing involves these stages:**
 
 1. **Planning and reconnaissance**  
-  Penetration testers define the goals of the test and find proper testing methods.
+   Penetration testers define the goals of the test and find proper testing methods.
 2. **Scanning**  
-  Testers analyze how the system responds to the test.
+   Testers analyze how the system responds to the test.
 3. **Gaining access**  
-  Attack the system! Testers try to break into the system with a strategy like SQL injection, backdoors, or cross-site scripting to uncover weaknesses.
+   Attack the system! Testers try to break into the system with a strategy like SQL injection, backdoors, or cross-site scripting to uncover weaknesses.
 4. **Maintaining exploit**  
-  How long can the tester stay in the system? Is it long enough that the actual hacker could gain deeper access?
+   How long can the tester stay in the system? Is it long enough that the actual hacker could gain deeper access?
 5. **Analysis and configuration review**  
-  Testers make a detailed report on the performed test.
+   Testers make a detailed report on the performed test.
 
 ## Common Pitfalls of the Penetration Testing
 

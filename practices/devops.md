@@ -1,7 +1,7 @@
 ---
 slug: devops
 aspect: processes
-stages: 
+stages:
   - development
 short_description: DevOps is a set of practices that brings development and operations teams together. The collaboration helps to release software much faster.
 tags:
@@ -41,7 +41,7 @@ The DevOps Engineer can be originally from one of the teams. After the implement
 
 ### Skills the Devops Engineer Needs
 
-**Soft Skills** 
+**Soft Skills**
 
 - Especially communication skills - they have to be able to explain complex situations
 - They need empathy to be able to talk to both teams
@@ -66,10 +66,10 @@ The DevOps builds culture and trust in your company. It helps with sharing respo
 To implement the DevOps, the company has to start with changing the culture of collaboration. Take small steps, invite members of the operation team to the meetings of the development team. Operation team can invite key developers to their meetings. That way everyone can keep up with other’s projects. Make sure that everyone understands the DevOps culture and that they communicate and talk regularly.
 
 **Automation**
-Automation is another necessary step in implementing DevOps. It eliminates repetitive manual work and builds a system beneficial for both teams. 
+Automation is another necessary step in implementing DevOps. It eliminates repetitive manual work and builds a system beneficial for both teams.
 
 **Lean**
-Continuous improvement of a product is very important. A product is more valuable for a customer if it goes with constant maintenance. Even if it is not perfect at the beginning. 
+Continuous improvement of a product is very important. A product is more valuable for a customer if it goes with constant maintenance. Even if it is not perfect at the beginning.
 
 **Measurement**
 It is necessary to have some data to be able to continuously improve a product. It is important to ask testable questions. For example, how often the bugs appear? How many people use the product? All the data helps the team to make decisions and to share the information about a product with other teams (for example, marketing).
@@ -86,6 +86,7 @@ Sharing is crucial. If the teams share responsibilities, they share success as w
 - DevOps Engineers work only as one of the other developers and does not create the culture change. The operations team does not trust them and do not cooperate.
 
 ## Issues the Devops Solves
+
 - [Increased cost](/issues/increased-cost)
 - [Demotivated team](/issues/demotivated-team)
 - ["Not my problem" mentality](/issues/not-my-problem-mentality)

@@ -2,24 +2,25 @@
 slug: linting
 aspect: processes
 stages:
-- development
+  - development
 short_description: Linting is a process of flagging programming and stylistic errors and verifying the code quality. You can also use auto fixer to get rid of the flagged errors.
 tags:
-- linter
-- code
+  - linter
+  - code
 keywords:
-- style
-- checking
-- analyzing
-- linting
-- lint
-- analyzer
-- checkstyle
-- structure
-- flagging
-- code style
-- code
+  - style
+  - checking
+  - analyzing
+  - linting
+  - lint
+  - analyzer
+  - checkstyle
+  - structure
+  - flagging
+  - code style
+  - code
 ---
+
 # Linting
 
 ## What Is a Linting
@@ -67,6 +68,7 @@ Linters are available for most programming languages. Here are the most common o
 - Do not lint on demand. If you have it, use it.
 
 ## Resources for the Linting
+
 - [Perforce: Why Is Linting Important? And How to Use Lint Tools](https://www.perforce.com/blog/qac/why-linting-important-and-how-use-lint-tools)
 - [Medium: Why you should always use a Linter …and/or a pretty formatter](https://medium.com/dailyjs/why-you-should-always-use-a-linter-and-or-pretty-formatter-bb5471115a76)
 - [IBM: Linting tools to identify and fix code mistakes](https://www.ibm.com/cloud/garage/practices/code/tool_lint/)

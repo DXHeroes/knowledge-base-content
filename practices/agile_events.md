@@ -5,31 +5,32 @@ stages:
   - development
 short_description: Agile Events are necessary meetings for keeping up the good work. They are usually time-boxed and the most common Agile framework that uses these periodic rituals is Scrum.
 tags:
-- agile
-- scrum
-- kanban
-- waterfall
-- backlog
-- sprint
-- standup
-- iteration
-- retrospective
-- refinement
-- demotivated team
-- rituals
+  - agile
+  - scrum
+  - kanban
+  - waterfall
+  - backlog
+  - sprint
+  - standup
+  - iteration
+  - retrospective
+  - refinement
+  - demotivated team
+  - rituals
 keywords:
-- agile
-- scrum
-- backlog
-- sprint
-- standup
-- iteration
-- demotivated team
-- retrospective
-- review
-- ritual
-- event
+  - agile
+  - scrum
+  - backlog
+  - sprint
+  - standup
+  - iteration
+  - demotivated team
+  - retrospective
+  - review
+  - ritual
+  - event
 ---
+
 # Agile Events
 
 ## What Are Agile Events
@@ -111,11 +112,11 @@ Even though the events are here to help, developers struggle to find every singl
 - **Demotivated team**  
   The team is confused. They do not understand why they should do the rituals, the planning does not work.
 - **Events are not fun**  
-	Events are dehumanized, boring, the team members struggle to concentrate. Make the rituals fun! Be friendly, lightweight your language.
+   Events are dehumanized, boring, the team members struggle to concentrate. Make the rituals fun! Be friendly, lightweight your language.
 - **Micromanagement**  
-	Everyday meetings can feel like an additional layer of micromanagement to a regular amount of work. Nobody likes micromanagement. Explain the benefits of periodic meetings to your team.
+   Everyday meetings can feel like an additional layer of micromanagement to a regular amount of work. Nobody likes micromanagement. Explain the benefits of periodic meetings to your team.
 - **Focusing too much on standups**  
-	Everyday standups are not always necessary. Focus on the team members’ feelings rather than on following Agile Events rules.
+   Everyday standups are not always necessary. Focus on the team members’ feelings rather than on following Agile Events rules.
 
 ## Resources for Agile Events
 

@@ -2,7 +2,7 @@
 slug: staged-rollout
 aspect: processes
 stages:
-- development
+  - development
 short_description: A staged rollout enables you to release the upcoming product version slowly in a gradual way. You can slowly increase the percentage of users who receive the update.
 tags:
   - staged rollout
@@ -37,6 +37,7 @@ A staged rollout gives you time to analyze your product stability and its perfor
 - It minimizes negative effects on productivity. If you want to implement some changes in your company, the tested group may be not as productive as usual. But it is still better than when all of the users have to get used to the change at the same time.
 
 ## Issues the Staged Rollout Solves
+
 - [Meaningless work](/issues/meaningless-work)
 - Team involvement
 - Unhappy clients
@@ -45,6 +46,7 @@ A staged rollout gives you time to analyze your product stability and its perfor
 - Expensive development
 
 ## How to Implement the Staged Rollout
+
 When implementing the staged rollout, follow these rules:
 
 1. Selection of test users is a strategic issue. The users are selected randomly, there is no way to target users based on some property.
@@ -59,11 +61,12 @@ When implementing the staged rollout, follow these rules:
 You can always halt (pause) the rollout if you see that there is something wrong. That means that you can prevent more users from experiencing wrong behaviors. Users that have not installed the new product version will not receive any updates. You have time to analyze the problems without spreading. Before you make the staged rollout, ensure you have a rollback plan. You should always be able not to implement the changes and head into a different direction with your product. Backup plans are a must!
 
 ## Common Pitfalls of the Staged Rollout
+
 - Staged rollouts can be performed only on existing apps. You need real users for testing so you cannot use staged rollouts for a new app.
 - Not every software is suitable for this method, such as large database migrations.
 
 ## Resources for the Staged Rollout
-- [Medium: The art of staging a rollout](https://medium.com/bleeding-edge/the-art-of-staging-a-rollout-8e203b337b75)
--[Space Technologies: What is Staged Rollout?](https://www.spaceotechnologies.com/release-app-update-staged-rollout-benefits-startups/)
-- [Google Support:  Release app updates with staged rollouts](https://support.google.com/googleplay/android-developer/answer/6346149?hl=en)
+
+- [Medium: The art of staging a rollout](https://medium.com/bleeding-edge/the-art-of-staging-a-rollout-8e203b337b75) -[Space Technologies: What is Staged Rollout?](https://www.spaceotechnologies.com/release-app-update-staged-rollout-benefits-startups/)
+- [Google Support: Release app updates with staged rollouts](https://support.google.com/googleplay/android-developer/answer/6346149?hl=en)
 - [Instabug blog: Progressive Release: How to Release Your App With Less Stress](https://instabug.com/blog/progressive-mobile-app-release-process/)

@@ -2,23 +2,23 @@
 slug: unit-tests
 aspect: processes
 stages:
-- development
+  - development
 short_description: Unit tests are a foundation of your testing. They test the smallest pieces of code called units that have to be isolated from a system. Unit tests are small, cheap and easy to maintain. The number of unit tests outnumbers any other types of tests.
 tags:
-- unit
-- test
-- function
-- code
-- coverage
-- behavior
+  - unit
+  - test
+  - function
+  - code
+  - coverage
+  - behavior
 keywords:
-- units
-- code
-- isolation
-- test pyramid
-- arrange
-- act
-- assert
+  - units
+  - code
+  - isolation
+  - test pyramid
+  - arrange
+  - act
+  - assert
 ---
 
 # Unit Tests
@@ -36,19 +36,20 @@ Unit testing can be done manually but it is usually automated. In terms of autom
 [Amazon Alexa: Unit Testing: Creating Functional Alexa Skills](https://developer.amazon.com/it/blogs/alexa/post/35bdad3d-57c8-4623-88c6-815540697af5/unit-testing-create-functional-alexa-skills)
 
 - **Unit Test**
-		Unit tests typically test functions, methods, and classes. They are short, cheap and fast to write and maintain. They are focused on one thing/function. They are not dependent on any external systems. When a unit test fails, it is easy to identify the problem.
+  Unit tests typically test functions, methods, and classes. They are short, cheap and fast to write and maintain. They are focused on one thing/function. They are not dependent on any external systems. When a unit test fails, it is easy to identify the problem.
 
 - **Integration Test**
-		Integration test focuses on the point where individual units are combined and tested as a group. The purpose is to test if the interaction between units works.
+  Integration test focuses on the point where individual units are combined and tested as a group. The purpose is to test if the interaction between units works.
 
 - **End to End Test**
-		End to end tests cover the whole application - from start to finish. They are more expensive and slower to run.
+  End to end tests cover the whole application - from start to finish. They are more expensive and slower to run.
 
 The pyramid shows you that the more high-level you get, the fewer tests you should perform. Write a lot of small and fast unit tests, some integration tests and just a few high-level tests. To maintain this balance, use [continuous delivery](/issues/continuous_delivery) - a practice where you automatically ensure your product is ready to be released into production.
 
 ## Why You Might Want the Unit Tests
 
 Unit testing helps you with:
+
 - maintaining your code
 - catching defects introduced due to the code change
 - lower the potentially harmful impact of changes to your code
@@ -69,12 +70,13 @@ Unit testing helps you with:
 
 - Find a tool or a framework suitable for your programming language such as [NCrunch](https://www.ncrunch.net/), [EmbUnit](https://www.embunit.com/), or [HtmlUnit](http://htmlunit.sourceforge.net/).
 - Do not try to reach 100% unit test coverage. Focus on the behaviors of the tested system.
--  The unit test name should explain what was tested.
+- The unit test name should explain what was tested.
 - Perform unit tests continuously and frequently.
 
 **Unit Testing Best Practice:**
-- **Arrange:**  Set up the test. Make mocking tests for isolationg the behavior.  Use inversion of control.
-		For more information, see [DZone: Unit Testing 101: Inversion Of Control](https://www.dzone.com/articles/unit-testing-101-inversion).
+
+- **Arrange:** Set up the test. Make mocking tests for isolationg the behavior. Use inversion of control.
+  For more information, see [DZone: Unit Testing 101: Inversion Of Control](https://www.dzone.com/articles/unit-testing-101-inversion).
 - **Act:** Run the function and run the test.
 - **Assert:** Check if the expected behavior occurred.
 
