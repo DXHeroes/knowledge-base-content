@@ -2,21 +2,21 @@
 slug: runbook
 aspect: processes
 stages:
-- development
+  - development
 short_description: A runbook is a set of standardized documents that describe how to run a computer system. It typically contains a walkthrough how to start, stop, debug and supervise the system.
 tags:
-- runbook
-- documentation
+  - runbook
+  - documentation
 keywords:
-- runbook
-- playbook
-- procedure
-- documentation
-- decision
-- timeline
-- command
-- operation
-- task
+  - runbook
+  - playbook
+  - procedure
+  - documentation
+  - decision
+  - timeline
+  - command
+  - operation
+  - task
 ---
 
 # Runbook
@@ -56,9 +56,9 @@ There are two types of runbooks:
 Runbook should contain the minimum information necessary to successfully perform a specific procedure. If you want to document a specific task you are just about to make, follow these steps:
 
 1. Record your screen while performing the task.
-3. Play the recording and pause every time you made an action.
-4. Write notes about each action. Make a step-by-step procedure.
-5. Take screenshots for actions that need a better explanation.
+2. Play the recording and pause every time you made an action.
+3. Write notes about each action. Make a step-by-step procedure.
+4. Take screenshots for actions that need a better explanation.
 
 Your runbook should have consistent formatting and naming convention so it is easy to navigate. Use standardized language to avoid any confusion. Specify goals for each runbook and mention prerequisites and timelines for each task.
 

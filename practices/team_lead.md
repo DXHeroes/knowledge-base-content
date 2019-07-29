@@ -5,20 +5,20 @@ stages:
   - building_team
 short_description: Team leads are responsible for the team’s well being. They protect their team from managers and stakeholders. They ensure that the team and stakeholders are on the same page.
 tags:
-- team lead
-- leader
-- manager
-- senior
-- roles
-- motivation
-- demotivated team
+  - team lead
+  - leader
+  - manager
+  - senior
+  - roles
+  - motivation
+  - demotivated team
 keywords:
-- well being
-- goal
-- motivation
-- unite
-- accomplishment
-- satisfaction
+  - well being
+  - goal
+  - motivation
+  - unite
+  - accomplishment
+  - satisfaction
 ---
 
 # Team Lead

@@ -1,8 +1,8 @@
 ---
-slug: "bus-factor"
-aspect: "culture"
+slug: 'bus-factor'
+aspect: 'culture'
 stages:
-  - "phase_out"
+  - 'phase_out'
 short_description: A Bus Factor measures the minimum number of team members who have to be hit by a bus to put the project in jeopardy. The goal is to increase your Bus Factor as much as possible.
 tags:
   - bus factor
@@ -32,6 +32,7 @@ keywords:
 # Bus Factor
 
 ## What Is a Bus Factor
+
 A Bus Factor defines the number of developers that are vital to a project. If something happens to them (they get hit by a bus), the project is in danger. To get hit by a bus is probably a little extreme. Consider another scenario: if a key team member takes a long vacation, the project can be easily put at risk. The goal is to increase the Bus Factor as much as possible. The best way to increase the number is by sharing the knowledge inside and outside your team.
 
 ![Bus Factor](/files/bus_factor.png)
@@ -40,11 +41,13 @@ A Bus Factor defines the number of developers that are vital to a project. If so
 A Bus Factor is also known as the bread truck scenario, lottery factor, truck factor, bus/truck number, or lorry factor.
 
 ## Why You Might Want to Increase Bus Factor
+
 - It detects the single point of failure within the team before it happens.
 - Sharing knowledge prevents the project from falling apart.
 - Trying to increase the Bus Factor continuously can give you a good control over your projects.
 
 ## Issues that Increasing the Bus Factor Solves
+
 - ["Not my problem" mentality](/issues/not-my-problem-mentality)
 - Disconnect with business
 - [Meaningless work](/issues/meaningless-work)
@@ -68,7 +71,7 @@ A Bus Factor is also known as the bread truck scenario, lottery factor, truck fa
   It is very helpful if anyone can read your code. You can improve your style, structure, or naming. Also commenting is useful.
   For more information, see Poor Code Quality.
 - **Stay close to the domain**
-  You should understand your client’s domain. You can use the same vocabulary as your client to save by trying to understand what they are trying to say. Help them with the description. Write it all down in a glossary. 
+  You should understand your client’s domain. You can use the same vocabulary as your client to save by trying to understand what they are trying to say. Help them with the description. Write it all down in a glossary.
   For more information, see Domain Driven Design.
 - **Write tests and documentation**
   Functional tests help developers to understand the project very quickly. Document (at least) the main goals of your project.
@@ -78,9 +81,10 @@ A Bus Factor is also known as the bread truck scenario, lottery factor, truck fa
 
 - Team substitutability is missing. It seems like everyone is familiar with the product but there is only one person (or a few) that can release it. This can be prevented by automatization.
 - The Bus Factor is hidden. It does not have to be only about the deep knowledge of your project. It can be just one password that is not shared and hides an important part of the project.
-- The documentation is nonexisting. If the developers do not share their ideas, it is very important to write them down. 
+- The documentation is nonexisting. If the developers do not share their ideas, it is very important to write them down.
 
 ## Resources for the Bus Factor
+
 - [Agile Advice: Truck Factor](http://www.agileadvice.com/2005/05/15/agilemanagement/truck-factor/)
 - [A Medium Corporation: Lessons learned about Bus Factor](https://medium.com/@einenlum/lessons-learned-about-bus-factor-1-5-introduction-994b3b0332d3)
 - [A Medium Corporation: The Bus Factor](https://medium.com/tech-tajawal/the-bus-factor-6ea1a3ede6bd)

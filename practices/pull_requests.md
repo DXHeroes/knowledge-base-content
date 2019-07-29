@@ -31,7 +31,7 @@ Also known as Merge Requests.
 
 A pull request is a practice of getting feedback from other programmers and deciding to "merge" or "do not merge" the code before it is merged into the main codebase.
 
-If "do not merge decision" is made, author of the code can address the comments of others and re-submit the code for another round of review. This continues until all issues with code are resolved and the code can be merged. Or until the idea behind the code is no longer in alignment with the project goals and the pull request is rejected. 
+If "do not merge decision" is made, author of the code can address the comments of others and re-submit the code for another round of review. This continues until all issues with code are resolved and the code can be merged. Or until the idea behind the code is no longer in alignment with the project goals and the pull request is rejected.
 For more information, see the Code Review practice.
 
 Pull request can also trigger CI/CD to make sure all automated tests pass before the code can be merged. For more infomration, see Continuous Integration and Continuous Delivery.

@@ -4,25 +4,25 @@ aspect: culture
 stages:
   - development
   - maintenance
-short_description: "Meaningless work can be one of these two cases: 1. A feeling that the work has no meaning, the team members do not have a sense of purpose. 2. A work on a product that is not valuable."
+short_description: 'Meaningless work can be one of these two cases: 1. A feeling that the work has no meaning, the team members do not have a sense of purpose. 2. A work on a product that is not valuable.'
 tags:
-- meaning
-- value
-- profit
-- purpose
-- demotivated team
-- not my problem mentality
-- rituals
-- meetings
-- mentality
+  - meaning
+  - value
+  - profit
+  - purpose
+  - demotivated team
+  - not my problem mentality
+  - rituals
+  - meetings
+  - mentality
 keywords:
-- meaning
-- value
-- profit
-- purpose
-- ritual
-- meeting
-- architecture
+  - meaning
+  - value
+  - profit
+  - purpose
+  - ritual
+  - meeting
+  - architecture
 ---
 
 # Meaningless Work
@@ -46,7 +46,7 @@ The management should be aware of how the employees feel. If they are not motiva
 - Neverending meetings or useless reports that consume time can be cut down by regular rituals (see [Rituals Definition](/practices/rituals-definition)). The goal is to find a balance between having too many and too little rituals.
 - Another reason is a lack of information. The developers do not understand why they have implement this thing. They did not get any explanation.
 - The architecture is way too old fashioned. To change something takes so much time! For example, mainframe - it is so enormous and old that it cannot be properly tested. The architecture is underdimenzioned. The opposite is an overdimenzioned architecture - to build anything takes too much time.
--  People are doing a repetitive work that can be automated. The companies do not use [continuous integration](/practices/continuous-integration) - for example, they implement everything to production by hand even though they can automatize the process.
+- People are doing a repetitive work that can be automated. The companies do not use [continuous integration](/practices/continuous-integration) - for example, they implement everything to production by hand even though they can automatize the process.
 
 ## Resources for the Meaningless Work
 

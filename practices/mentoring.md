@@ -1,10 +1,10 @@
 ---
 slug: mentoring
 aspect: culture
-stages: 
+stages:
   - building_team
 short_description: Mentoring is a supportive learning relationship between a mentor who shares knowledge, experience, and wisdom and mentee who is ready and willing to benefit from this exchange, to enrich their professional journey.
-tags: 
+tags:
   - mentoring
   - coaching
   - leadership
@@ -66,36 +66,38 @@ Your **organization** can gain from a successful mentoring program the following
 ## How to Implement Mentoring
 
 1. **Set parameters of the mentoring program**
-  For example:
-  - The goals of the program
-  - The proper mentoring model
-  - Other critical components of the program
+   For example:
+
+- The goals of the program
+- The proper mentoring model
+- Other critical components of the program
 
 2. **Find mentors**
-  For a pilot mentoring program in your organization, you will need a base of mentors, such as managers and any stakeholders who can bring value to the process. Do not forget to diversify mentor profiles ranging from academics to practitioners. Experienced entrepreneurs and investors, can provide an enriching experience for the company as well.
-  **Tip:** How to recognize a good mentor? He or she:
-    - is committed to learning and helping others learn, 
-    - is self-aware, empathetic and a good listener, 
-    - encourages the mentee to speak, 
-    - gives importance to relationships,
-    - provides a constructive challenge, 
-    - has intuitive wisdom from life experience and shares it,
-    - steps back from the detail,
-    - offers friendship, and
-    - observes and reflects.
+   For a pilot mentoring program in your organization, you will need a base of mentors, such as managers and any stakeholders who can bring value to the process. Do not forget to diversify mentor profiles ranging from academics to practitioners. Experienced entrepreneurs and investors, can provide an enriching experience for the company as well.
+   **Tip:** How to recognize a good mentor? He or she:
+
+   - is committed to learning and helping others learn,
+   - is self-aware, empathetic and a good listener,
+   - encourages the mentee to speak,
+   - gives importance to relationships,
+   - provides a constructive challenge,
+   - has intuitive wisdom from life experience and shares it,
+   - steps back from the detail,
+   - offers friendship, and
+   - observes and reflects.
 
 3. **Find mentees**
-  Find mentees and complete the task force, especially from a cross-section of the organization.
+   Find mentees and complete the task force, especially from a cross-section of the organization.
 
 4. **Match participants**
-  Allow the pairs to meet and get to know each other. This is as much about respect as anything else and it works both ways. 
-  **Tip:** Generally, mentees that pick their own mentor tend to have more successful outcomes than those who were assigned a mentor from the program administrator. 
+   Allow the pairs to meet and get to know each other. This is as much about respect as anything else and it works both ways.
+   **Tip:** Generally, mentees that pick their own mentor tend to have more successful outcomes than those who were assigned a mentor from the program administrator.
 
 5. **Give the participants ample space**
-  Introduce them the rules but allow them to set up their own way how to respect them.
+   Introduce them the rules but allow them to set up their own way how to respect them.
 
 6. **Evaluate results at the end of the program**
-  After the mentoring program is completed and the goals set in the first step are accomplished, gather feedback from mentors and mentees. Do not also forget the mentee's managers. They can tell you valuable findings.
+   After the mentoring program is completed and the goals set in the first step are accomplished, gather feedback from mentors and mentees. Do not also forget the mentee's managers. They can tell you valuable findings.
 
 ## Common Pitfalls of Mentoring
 
@@ -106,7 +108,7 @@ Your **organization** can gain from a successful mentoring program the following
   Establish clear objectives for your mentoring program and tie them to the organizational objectives.
 
 - **Poor matching**
-  The worst possible option is the inability to announce if the mentorship is not working. Track the progress of each mentoring partnership during the program. 
+  The worst possible option is the inability to announce if the mentorship is not working. Track the progress of each mentoring partnership during the program.
 
 - **Not enough structure and guidance**
   Nominate a mentoring program administrator that participants can go to when they have questions, issues, and challenges. In the other hand, too much structured program causes that participants feel bound and can not unwind.

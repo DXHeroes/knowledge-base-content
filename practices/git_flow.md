@@ -2,7 +2,7 @@
 slug: git-flow
 aspect: processes
 stages:
-- development
+  - development
 short_description: Git Flow is a specific branching system for Git. It helps the team to better control and add different project versions.
 tags:
   - git
@@ -24,6 +24,7 @@ keywords:
 # Git Flow
 
 ## What Is a Git Flow
+
 Git Flow is one of many styles of Git workflows - a branching model set for Git. It is a huge framework for large projects and it can be utilized for your team’s needs. Git Flow describes the project’s release cycle and adds specific roles to different branches. It defines when and how are the branches interacting with each other. In this model, there are two types of branches: Master and Develop. Develop is an integration branch for features. Master stores the official release history. This branching design was published by [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) in 2009 and became very popular ever since.
 
 ![Git Flow branching model](/files/git_flow.png)
@@ -57,6 +58,7 @@ Git Flow is one of many styles of Git workflows - a branching model set for Git.
 - [Meaningless work](/issues/meaningless-work)
 
 ## How to Implement the Git Flow
+
 There are lots of different applications that support Git Flow branching model and have specific feature settings for Git Flow (such as [SourceTree](https://www.sourcetreeapp.com/), [SmartGit](https://www.syntevo.com/smartgit/) or [GitKraken](https://www.gitkraken.com/). Pick the application suitable for your operation system to initialize the Git Flow. Customize your project setup by following these steps:
 
 1. Start using git-flow by cloning an existing git repository.
@@ -74,6 +76,7 @@ There are lots of different applications that support Git Flow branching model a
 - The team has too many features and is unable to finish them before the release. Development is drifting away from production.
 
 ## Resources for the Git Flow
+
 - [Atlassian: Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Nvie: A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Git Tower: Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/git-flow)

@@ -1,9 +1,9 @@
 ---
-slug: "user-stories"
-aspect: "processes"
+slug: 'user-stories'
+aspect: 'processes'
 stages:
-  - "development"
-short_description: In an Agile environment, teamwork is divided into small pieces called user stories. It helps with sprint planning. They are written in a basic language. 
+  - 'development'
+short_description: In an Agile environment, teamwork is divided into small pieces called user stories. It helps with sprint planning. They are written in a basic language.
 tags:
   - product
   - framework
@@ -21,17 +21,18 @@ keywords:
   - estimating
   - implementation
   - epic
---- 
+---
 
 # User Stories
 
 ## What Is a User Story
+
 A user story (US) is the smallest chunk of work in an agile framework. It divides a large amount of product functionality into smaller functional increments that should be finished in one sprint. This practice helps with sprint planning and estimating the time spent on development. User stories are usually building blocks of a larger agile framework, such as epic or feature. Scrum Master watches over the US life cycle. The US are useful for everyone (for example, an analyst needs them for a product description, a tester reads them to know what has to be tested).
 
 **How to Write a User Story**
 
 - User stories are usually written by a Product Owner who also defines the prioritization.
-- A US is just a few sentences written in a simple language without going into detail. 
+- A US is just a few sentences written in a simple language without going into detail.
 - They follow a simple template, such as: "as a \<type of user\>, I want \<some goal\> so that \<some reason\>".
 - Work is divided into US during grooming sessions where the team estimates stories and assign story points. Every team member grooms every US even though they are not going to work on it.
 - A US can be written on a post-it note and stick it on a board, or created in software.
@@ -49,12 +50,13 @@ A user story (US) is the smallest chunk of work in an agile framework. It divide
 Story points (SP) define the effort needed to implement a US. A US with 2 SP should require twice as much effort to finish it than a US with 1 SP. Every team has to decide what SP mean to them regarding the complexity of their project. It takes time to settle the value of SP - the team has to compare previous experiences.
 
 ## Why You Might Want User Stories
+
 Why not just break the epic into steps? Why bother with creating the user stories? User stories offer the following benefits. User stories:
 
 - are simple and fast to write. It is beneficial for the user because they do not need to understand any specific technical details. It also helps them to express their needs in a simple language.
 - give the team context and associate their work with the value of their effort.
 - keep the focus on the user. By breaking down user needs (= user stories) into smaller features or tasks the team can better concentrate on solving small and immediate customer needs.
-- allow easier collaboration among the team, the Product Owner and users. They discuss and review all the US every sprint planning meeting. That encourage the team to approach their work and the goal achievement critically and creatively. 
+- allow easier collaboration among the team, the Product Owner and users. They discuss and review all the US every sprint planning meeting. That encourage the team to approach their work and the goal achievement critically and creatively.
 - allow the team to prioritize more easily. When the US are added to the product backlog, the Product Owner can prioritize the more important US.
 - allow you to track the project development and every closed US is a an achievement which brings a satisfaction.
 

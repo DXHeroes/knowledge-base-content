@@ -6,27 +6,27 @@ stages:
   - maintenance
 short_description: “Not My Problem” mentality is a dangerous phenomenon that can jeopardize your project. Collaboration is a result of a healthy team environment and a good leadership.
 tags:
-- productivity
-- team lead
-- demotivated team
-- culture
-- motivation
-- goal
-- bus factor
-- mentality
+  - productivity
+  - team lead
+  - demotivated team
+  - culture
+  - motivation
+  - goal
+  - bus factor
+  - mentality
 keywords:
-- empowerment
-- team player
-- problem
-- satisfaction
-- disengagement
-- responsibilities
-- leadership
-- help
-- performance
-- environment
-- efficiency
-- empowerment
+  - empowerment
+  - team player
+  - problem
+  - satisfaction
+  - disengagement
+  - responsibilities
+  - leadership
+  - help
+  - performance
+  - environment
+  - efficiency
+  - empowerment
 ---
 
 # "Not My Problem" Mentality
@@ -49,19 +49,20 @@ If the team lead recognizes the “Not My Problem” mentality in the team, they
 ## Reasons of "Not My Problem" Mentality
 
 - **Disengagement**  
-	A feeling of a withdrawn. If you are not satisfied at work, why would you engage with other people's problems?
+   A feeling of a withdrawn. If you are not satisfied at work, why would you engage with other people's problems?
 - **Overwork**  
-	You simply cannot help anyone because you are overloaded with your own work. There is a very high risk of burnout and losing a valuable employee.
+   You simply cannot help anyone because you are overloaded with your own work. There is a very high risk of burnout and losing a valuable employee.
 - **Unclear responsibilities**  
-	If the employees do not have a clearly defined roles, their work becomes less efficient and the collaboration stagnates. “Not My Problem” mentality spreads.
+   If the employees do not have a clearly defined roles, their work becomes less efficient and the collaboration stagnates. “Not My Problem” mentality spreads.
 - **Bad examples**  
-	If the senior leaders do not seem to go the extra mile, why should the employees bother. Bad example can trigger “Not My Problem” mentality very quickly.
+   If the senior leaders do not seem to go the extra mile, why should the employees bother. Bad example can trigger “Not My Problem” mentality very quickly.
 - **No recognition**  
-	It does not have to be a huge pay rise but sometimes just a simple “good job” feels like the boss recognized your extra work. Feeling the appreciation encourages employees to walk the extra mile and be good team players.
+   It does not have to be a huge pay rise but sometimes just a simple “good job” feels like the boss recognized your extra work. Feeling the appreciation encourages employees to walk the extra mile and be good team players.
 - **Bad team leads**  
   The team leads are not the team players at the first place. If they cannot identify themselves with the team, they can spread the “Not My Problem” mentality. The team members’ problems should be their problems as well.
 
 ## Resources for "Not My Problem" Mentality
+
 - [Medium: “It’s Not My Problem”](https://medium.com/@CS1201/it-s-not-my-problem-7cd17f6aa421)
 - [Trello: The Pitfalls of the Phrase “That's Not My Job!”](https://blog.trello.com/pitfalls-of-phrase-thats-not-my-job)
 - [Recruiter: How to Respond When an Employee Says, ‘That’s Not My Job!’](https://www.recruiter.com/i/how-to-respond-when-an-employee-says-thats-not-my-job/)

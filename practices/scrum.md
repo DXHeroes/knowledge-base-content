@@ -78,7 +78,7 @@ The Guide explains the Scrum within a definition which consists of Scrum's roles
 1. **Consider whether Scrum is appropriate for your project**  
    Scrum fits perfectly into complex projects where is a high level of requirements and a very wide scope in the future. Scrum is appropriate when the customer needs are fast-changing.
 2. **Create the initial Product Backlog**  
-   It is a priority list of all features that need to be done within the project. The Project 
+   It is a priority list of all features that need to be done within the project. The Project
    usually contains three types of work items: Epic, User stories, and Tasks.
 3. **Appoint a Scrum Master and a Product Owner**  
    The Scrum Master ensures that the team is effective and progressive. His role does not imply dictating what the team will work on. The main function is to lead the team through the Scrum work system.  
@@ -91,9 +91,9 @@ The Guide explains the Scrum within a definition which consists of Scrum's roles
    The team brainstorms and decides on what and how much they can complete in the upcoming sprint. The Product Owner is actively involved as well. Based on his/her prioritization, they pick items from the product backlog and place them into the sprint backlog. The meeting is called the Sprint planning.
 7. **Make work and Daily Meetings (stand-ups) visible**  
    Every day at the same time, and for a maximum of 15 minutes, the team and the Scrum Master participate in the Daily, where three key questions are answered:
-    - "What did I do yesterday to help the team finish the Sprint?"
-    - "What am I going to do tomorrow to help the team finish the Sprint?"
-    - "What obstacles do I have in my path or in the team’s path?"
+   - "What did I do yesterday to help the team finish the Sprint?"
+   - "What am I going to do tomorrow to help the team finish the Sprint?"
+   - "What obstacles do I have in my path or in the team’s path?"
 8. **Arrange the Sprint Review**  
    In that Scrum meeting, there is essential to show real progress on the product to make decisions in case where reality is not in line with expectation.
 9. **The Retrospective of the Sprint**  

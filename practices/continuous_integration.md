@@ -1,7 +1,7 @@
 ---
 slug: continuous-integration
 aspect: processes
-stages: 
+stages:
   - development
 short_description: Continuous Integration is a software development practice that makes developers integrate code changes into a shared repository routinely and frequently. Usually, each person integrates at least daily and that ensures them that their code changes do not break anything.
 tags:
@@ -31,7 +31,7 @@ keywords:
 
 ## What Is a Continuous Integration
 
-Continuous Integration (CI) is a practice of daily integrating code changes. Everything that has been developed keeps integrating together on a daily basis. Each integration is automatically and immediately verified and tested to detect any possible errors. 
+Continuous Integration (CI) is a practice of daily integrating code changes. Everything that has been developed keeps integrating together on a daily basis. Each integration is automatically and immediately verified and tested to detect any possible errors.
 
 CI helps to develop the product faster - if you do the integration as the last step of the developing process, the project can get stuck for a long time before it is finished. It is impossible to estimate how long the whole integration takes. It is much better to do it immediately, frequently and fix the errors as soon as they are found. That way the workflow is more efficient and the cognitive load is reduced.
 
@@ -57,6 +57,7 @@ The CI helps your team with:
   New members can get into the project much easier. CI enables them to have a clear vision of the building process.
 
 ## Issues the Continuous Integration Helps to Solve
+
 - [Demotivated team](/issues/demotivated-team)
 - [Increased cost](/issues/increased-cost)
 - Unsuccessful product
@@ -84,7 +85,7 @@ The CI helps your team with:
 ## Common Pitfalls of the Continuous Integration
 
 - **Too much work**
-  It seems like implementing the CI would bring more work for the developers. The opposite is true - you already have to build, test and deploy your product. If you do it continuously, it consumes less time. The more complex the product gets, the more difficult it is to manage it. 
+  It seems like implementing the CI would bring more work for the developers. The opposite is true - you already have to build, test and deploy your product. If you do it continuously, it consumes less time. The more complex the product gets, the more difficult it is to manage it.
 - **Relying on the CI too much**
   The CI is as good as good are the test results. If the developers have to fix the problems too often, it slows down the development.
 - **Hardware/Software costs**
@@ -93,6 +94,7 @@ The CI helps your team with:
   Implementing the CI can be time-consuming. Writing the tests takes a long time. Ensure that you do not spend more time implementing this practice than actually developing the product. On the other hand, even small projects can benefit from the CI if they use the proper CI tools that are easy to set up. Try, for example, [Travis CI](https://travis-ci.org/) or [Circle CI](https://circleci.com/).
 
 ## Resources for the Continuous Integration
-- [FPComplete: Continuous Integration Delivery Best Practices](https://www.fpcomplete.com/blog/continuous-integration-delivery-best-practices) 
+
+- [FPComplete: Continuous Integration Delivery Best Practices](https://www.fpcomplete.com/blog/continuous-integration-delivery-best-practices)
 - [Code-Maze: What Is Continuous Integration](https://code-maze.com/what-is-continuous-integration/#benefitsofci)
 - [ThoughtWorks: Continuous Integration](https://www.thoughtworks.com/continuous-integration)

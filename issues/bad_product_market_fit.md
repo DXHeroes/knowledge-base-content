@@ -1,7 +1,7 @@
 ---
 slug: bad-product-market-fit
 aspect: architecture
-stages: 
+stages:
   - research
 short_description: "Bad product-market fit means that the market does not want your product. Products the market does not want waste not only money but also the team members' time."
 tags:
@@ -46,10 +46,11 @@ Why so many companies spend all their money but never find a product-market fit?
 
 Do you remember once gigantic company Kodak? It used to be a synonym for photography. The irony of the fall of this empire is that Kodak actually invented the first digital camera in 1975. They just never saw the future in digital photographs and did not believe that it will bring a revolution in photography. They saw their market declining but believed that the customers will overcome this period. They misjudged the customer segment and did not innovate - that was like signing their own death sentence.
 
-- [Design Sprint](/practices/design-sprint) or [Lean Canvas](/practices/lean-canvas) are tools that can help you find a product-market fit. 
+- [Design Sprint](/practices/design-sprint) or [Lean Canvas](/practices/lean-canvas) are tools that can help you find a product-market fit.
 - If you achieve a product-market fit, it does not mean that you won. You have to keep looking for signs that your customer segment is changing. Regular surveys and tracking the customers' feedback is a way to keep track.
 
 ## Resources For the Product-Market Fit
+
 - [Forbes: How To Achieve Product-Market Fit](https://www.forbes.com/sites/hayleyleibson/2018/01/18/how-to-achieve-product-market-fit/#5f8e539a476b)
 - [PM Archive: Guide To Startups](https://pmarchive.com/guide_to_startups_part4.html)
 - [UX Planet: Understanding Product/Market Fit: From Start to Finish](https://uxplanet.org/understanding-product-market-fit-from-start-to-finish-596a4653814)

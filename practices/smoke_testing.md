@@ -1,7 +1,7 @@
 ---
 slug: smoke-testing
 aspect: tooling
-stages: 
+stages:
   - launch
 short_description: It is a test aimed to verify that the most important features of the product really work. This term was used during testing hardware and the product passed the test when it did not burn or smoke.
 tags:
@@ -41,6 +41,7 @@ Smoke Testing is typically used for:
 It is always a good idea to apply Smoke Testing from the user experience point of view, for example, if we run an e-shop, the Smoke Test should be focused on the main functions, such as the user's ability to log in, or if he adds goods to the "basket", so it appears there indeed, and so on.
 
 ## Issues the Smoke Testing Helps to Solve
+
 - [Increased cost](/issues/increased-cost)
 - [Demotivated team](/issues/demotivated-team)
 - [Poor code quality](/issues/poor-code-quality)
@@ -63,17 +64,19 @@ For the correct application of Smoke Tests, the following rules apply:
 
 **Example of the Smoke Test:**
 
-Test scenario | Description | Test Steps | Expected Result | Status
---- | --- | --- | --- | ---
-Login with valid credentials | Test of login into the application to ensure that a valid user is able to log-in | 1. Open the application<br /> 2. Select the log-in function<br /> 3. Enter valid username and password<br /> 4. Press ENTER or click on the log-in button | The user should be logged in | Passed
+| Test scenario                | Description                                                                      | Test Steps                                                                                                                                                | Expected Result              | Status |
+| ---------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------ |
+| Login with valid credentials | Test of login into the application to ensure that a valid user is able to log-in | 1. Open the application<br /> 2. Select the log-in function<br /> 3. Enter valid username and password<br /> 4. Press ENTER or click on the log-in button | The user should be logged in | Passed |
 
 ## Common Pitfalls of the Smoke Testing
+
 - Confuse Smoke Testing with Regression Testing
 - Too many scenarios and a lot of too detailed tests which increase the time for testing
 - Smoke Test is part of the functional testing
 - Small or missing automation of the test
 
 ## Resources for the Smoke Testing
+
 - Guru99: [What is Smoke Testing? How to do with EXAMPLES](https://www.guru99.com/smoke-testing.html)
 - QAFox: [What is Smoke Testing ?](http://www.qafox.com/smoke-testing/)
 - ReQtest: [11 Quick Tips to Master Smoke Testing](https://reqtest.com/testing-blog/smoke-testing-2/)

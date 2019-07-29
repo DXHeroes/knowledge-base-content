@@ -1,7 +1,7 @@
 ---
 slug: performance-testing
 aspect: processes
-stages: 
+stages:
   - launch
 short_description: Performance Testing is a useful practice to verify if the product works as expected. Its goal is to identify the product's bottlenecks - what slows down the product performance.
 keywords:
@@ -48,9 +48,10 @@ Types of Performance Tests:
 
 ## Why You Might Want the Performance Testing
 
-Performance Testing is a useful tool to locate performance problems by highlighting where the product fails. It verifies if the product works as expected. It can be also used to compare two or more products. The goal of Performance Testing is not to find bugs but to eliminate performance bottlenecks (lessening of throughput that slower the speed, usually caused by an overloaded network). 
+Performance Testing is a useful tool to locate performance problems by highlighting where the product fails. It verifies if the product works as expected. It can be also used to compare two or more products. The goal of Performance Testing is not to find bugs but to eliminate performance bottlenecks (lessening of throughput that slower the speed, usually caused by an overloaded network).
 
 ## Issues the Performance Testing Helps to Solve
+
 - [Poor code quality](/issues/poor-code-quality)
 - [Increased cost](/issues/increased-cost)
 - [Meaningless work](/issues/meaningless-work)
@@ -74,7 +75,7 @@ Follow these steps:
 - **Implement the test design**
   Develop performance tests.
 - **Execute the test**
-  Run and monitor your tests. 
+  Run and monitor your tests.
 - **Analyze, repair, and retest**
   Evaluate the data after the testing. Compare it to your expectations, repair, and run the performance tests again using different parameters.
 
