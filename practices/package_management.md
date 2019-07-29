@@ -74,14 +74,15 @@ Package managers:
 - The dependency security audit is being ignored. 
 - Many different packages are being used or each developer uses a different package. They can contain different properties and act differently. 
 - Libraries needed for development are added to the global dependencies. 
-- Lock File is not respected. 
+- Lockfile is not respected. 
 
-**What Is a File Locking**
-
-File locking is a useful feature for restricting other users from changing a specific computer file. The locked file can be managed only by one person at a time. This prevents interceding updates on the same files. Modern file locking systems allow multiple users to access the file but only the first one can modify it. Not respecting the lock file means that if the developer makes some changes and a previous file version is locked, the changes are not saved and the other users are going to download a not updated version (the locked one).
+**What Is a Lockfile**
+  - A package-lock.json lockfile keeps the information about installed packages and it should be commited into your package manager source repositories. It is generated automatically for any operations. It is used for describing the dependency tree so the coworkers are guaranteed to install exactly the same dependencies. It also lets you "travel back in time" and check any former dependency tree. It allows your package manager to skip repeated metadata resolutions for previously-installed packages and, therefore, makes the installation much faster. Not commiting the lockfile to your source control results in installing two different modules from the same package.json.
 
 ## Resources for the Package Management
 
 - [freeCodeCamp: An introduction to how JavaScript package managers work](https://www.freecodecamp.org/news/javascript-package-managers-101-9afd926add0a/) 
 - [Devopedia: Package Manager](https://devopedia.org/package-manager#Linode-2017) 
 - [Opensource: The evolution of package managers](https://opensource.com/article/18/7/evolution-package-managers) 
+- [npm Documentation: npm-package-lock.json
+A manifestation of the manifest](https://docs.npmjs.com/files/package-lock.json)
