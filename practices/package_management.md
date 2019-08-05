@@ -6,12 +6,13 @@ stages:
 short_description: Package management allows you to automatically download, install, and update software using remote repositories and in a consistent manner. Package managers are software tools that eliminate maintaining the software manually.
 tags:
 - package
-- manager
-- archive
-- configure
+- library
 - install
-- upgrade
-- lock file
+- lockfile
+- git
+- linter
+- code
+- semver
 keywords:
 - install
 - configure
@@ -19,6 +20,10 @@ keywords:
 - archive
 - metadata
 - repository
+- lock file
+- lockfile
+- package management
+- semver
 ---
 
 # Package Management
@@ -33,15 +38,13 @@ Package managers are necessary for installing software on Linux. This is a diffe
 
 Here are some examples of package managers:
 
-- [apk-tools](http://apk-tools.sourceforge.net/) for UNIX like RAM-based embedded systems
-- [dpkg](https://wiki.debian.org/Teams/Dpkg) for Debian (and now Ubuntu)
 - [npm](https://en.wikipedia.org/wiki/Npm) and [Yarn](https://yarnpkg.com/lang/en/) for Javascript
 - [Bundler](https://bundler.io/) for Ruby
 - [Apache](https://maven.apache.org/) for Java
 - [Composer](https://getcomposer.org/) for PHP
-- [Steam](https://store.steampowered.com/) - a game platfor, works on Windows NT, OS X, and Linux
-- [Mac App Store](https://www.apple.com/) - official digital distribution platform for OS X apps
-- [NuGet](https://www.nuget.org/) - for Windows, available as a plugin for Visual Studio
+- [NuGet](https://www.nuget.org/) - for .NET
+- [apk-tools](http://apk-tools.sourceforge.net/) for UNIX like RAM-based embedded systems
+- [dpkg](https://wiki.debian.org/Teams/Dpkg) for Debian (and now Ubuntu)
 
 ## Why You Might Want the Package Management
 
@@ -78,12 +81,11 @@ Package managers:
 
 **What Is a Lockfile**
 
- A package-lock.json lockfile keeps the information about installed packages and it should be commited into your package manager source repositories. It is generated automatically for any operations. It is used for describing the dependency tree so the coworkers are guaranteed to install exactly the same dependencies. It also lets you "travel back in time" and check any former dependency tree. It allows your package manager to skip repeated metadata resolutions for previously-installed packages and, therefore, makes the installation much faster. Not commiting the lockfile to your source control results in installing two different modules from the same package.json.
+ A lockfile keeps the information about installed packages and it should be commited into your package manager source repositories. It is generated automatically for any operations. It is used for describing the dependency tree so the coworkers are guaranteed to install exactly the same dependencies. It also lets you "travel back in time" and check any former dependency tree. It allows your package manager to skip repeated metadata resolutions for previously-installed packages and, therefore, makes the installation much faster. Not commiting the lockfile to your source control results in installing two different modules from the same dependency definition.
 
 ## Resources for the Package Management
 
 - [freeCodeCamp: An introduction to how JavaScript package managers work](https://www.freecodecamp.org/news/javascript-package-managers-101-9afd926add0a/) 
 - [Devopedia: Package Manager](https://devopedia.org/package-manager#Linode-2017) 
 - [Opensource: The evolution of package managers](https://opensource.com/article/18/7/evolution-package-managers) 
-- [npm Documentation: npm-package-lock.json
-A manifestation of the manifest](https://docs.npmjs.com/files/package-lock.json)
+- [npm Documentation: npm-package-lock.json A manifestation of the manifest](https://docs.npmjs.com/files/package-lock.json)
