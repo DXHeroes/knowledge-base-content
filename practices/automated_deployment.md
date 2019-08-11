@@ -1,5 +1,5 @@
 ---
-slug: automated_deployment
+slug: automated-deployment
 aspect: processes
 stages:
   - development
