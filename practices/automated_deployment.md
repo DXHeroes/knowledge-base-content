@@ -37,22 +37,22 @@ The key objective of the Automated Deployment is to minimize a need for manual i
 
 We can classify Automated Deployment approaches into different categories according to the level of automation coverage across environments:
 
-## 1. Continuous Integration
+1. Continuous Integration
 
 Continuous Integration is a practice of daily integrating code changes. Everything that has been developed keeps integrating daily. Each integration is automatically and immediately verified and tested to detect possible errors.
 
-## 2. Continuous Delivery
+2. Continuous Delivery
 
 Continuous Delivery is a practice of keeping the code in a deployable state at any given time. Continuous Delivery is an extension of Continuous Integration to automate release to the staging environment. With Continuous Delivery, you have a production-ready version of your build.
 
-## 3. Continuous Deployment
+3. Continuous Deployment
 
 Continuous Deployment is a practice of fully automating the entire process of the Deployment Pipeline. Every change in the source code is deployed to production automatically, without explicit approval from a developer.
 
 ![Automated Deployment](/files/automated_deployment.png)
 
 
-## Why You Might Want deployment to be automated
+## Why You Might Want the Deployment to be Automated
 
 The Automated Deployment helps your team with:
 - **Reducing possibility of errors**
