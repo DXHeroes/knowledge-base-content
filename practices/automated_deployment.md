@@ -15,8 +15,8 @@ tags:
   - unit tests
   - devops
 keywords:
-  - continous integration
-  - continous delivery
+  - continuous integration
+  - continuous delivery
   - effective deployment
   - deployment pipeline
   - devops
@@ -37,17 +37,17 @@ The key objective of the Automated Deployment is to minimize a need for the manu
 
 We can classify Automated Deployment approaches into different categories according to level of automation coverage accross enviroments:
 
-## 1. Continous Integration
+## 1. Continuous Integration
 
 Continuous Integration is a practice of daily integrating code changes. Everything that has been developed keeps integrating together on a daily basis. Each integration is automatically and immediately verified and tested to detect possible errors.
 
-## 2. Continous Delivery
+## 2. Continuous Delivery
 
-Continous Delivery is a practice of keeping the code in a deployable state at any given time. Continous Delivery is an extension of Continous Integration to automate release to staging enviroment. With Continous Delivery you have production-ready version of your build.
+Continuous Delivery is a practice of keeping the code in a deployable state at any given time. Continuous Delivery is an extension of Continuous Integration to automate release to staging enviroment. With Continuous Delivery you have production-ready version of your build.
 
-## 3. Continous Deployment
+## 3. Continuous Deployment
 
-Continous Deployment is a practice of fully automating the entire process of Deployment Pipeline. Every change in the source code is deployed to production automatically, without explicit approval from a developer.
+Continuous Deployment is a practice of fully automating the entire process of Deployment Pipeline. Every change in the source code is deployed to production automatically, without explicit approval from a developer.
 
 ![Automated Deployment](/files/automated_deployment.png)
 
@@ -89,4 +89,4 @@ The Automated Deployment helps your team with:
 
 ## Resources for the Automated Deployment
 - [Electric Cloud: Deployment Automation](http://electric-cloud.com/wiki/display/releasemanagement/Deployment+Automation)
-- [Atlassian: Practical Continous Deployment](https://www.atlassian.com/blog/continuous-delivery/practical-continuous-deployment)
+- [Atlassian: Practical Continuous Deployment](https://www.atlassian.com/blog/continuous-delivery/practical-continuous-deployment)
