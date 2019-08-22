@@ -130,3 +130,4 @@ The Guide explains the Scrum within a definition which consists of Scrum's roles
 - [Hexta: 7 Tips To Know When To Use Scrum in Your Project](https://www.hexacta.com/2018/09/10/7-tips-to-know-when-to-use-scrum-in-your-project/)
 - [Dummies.com: 10 Scrum Pitfalls to Avoid](https://www.dummies.com/careers/project-management/10-scrum-pitfalls-to-avoid/)
 - [Scrum Study: Understanding The Common Pitfalls in Scrum – Part 1](http://blog.scrumstudy.com/understanding-the-common-pitfalls-in-scrum-part-1/)
+- [12 common mistakes made when using Story Points](https://medium.com/@mdalmijn/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7)
