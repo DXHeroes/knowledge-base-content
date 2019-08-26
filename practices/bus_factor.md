@@ -1,6 +1,5 @@
 ---
 slug: 'bus-factor'
-aspect: 'culture'
 stages:
   - 'phase_out'
 short_description: A Bus Factor measures the minimum number of team members who have to be hit by a bus to put the project in jeopardy. The goal is to increase your Bus Factor as much as possible.

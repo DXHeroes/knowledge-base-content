@@ -1,6 +1,5 @@
 ---
 slug: smoke-testing
-aspect: tooling
 stages:
   - launch
 short_description: It is a test aimed to verify that the most important features of the product really work. This term was used during testing hardware and the product passed the test when it did not burn or smoke.

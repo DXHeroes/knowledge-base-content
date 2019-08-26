@@ -1,6 +1,5 @@
 ---
 slug: semantic-versioning
-aspect: processes
 stages:
   - development
 short_description: Semantic Versioning is a universal software versioning system. It helps users to understand what is the stage of the product.

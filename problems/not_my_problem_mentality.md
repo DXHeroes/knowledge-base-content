@@ -1,6 +1,5 @@
 ---
 slug: not-my-problem-mentality
-aspect: culture
 stages:
   - development
   - maintenance

@@ -1,6 +1,5 @@
 ---
 slug: 'user-stories'
-aspect: 'processes'
 stages:
   - 'development'
 short_description: In an Agile environment, teamwork is divided into small pieces called user stories. It helps with sprint planning. They are written in a basic language.

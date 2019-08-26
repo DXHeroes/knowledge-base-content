@@ -1,6 +1,5 @@
 ---
 slug: performance-testing
-aspect: processes
 stages:
   - launch
 short_description: Performance Testing is a useful practice to verify if the product works as expected. Its goal is to identify the product's bottlenecks - what slows down the product performance.

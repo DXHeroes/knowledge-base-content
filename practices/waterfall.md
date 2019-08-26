@@ -1,6 +1,5 @@
 ---
 slug: waterfall
-aspect: processes
 stages:
   - development
 short_description: The Waterfall methodology is a linear project management approach where customer's requirements are collected at the beginning of the project. Then a sequential project plan is created to satisfy those requirements. The concept is appropriate for small and clear projects.

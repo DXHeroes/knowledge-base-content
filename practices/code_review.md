@@ -1,6 +1,5 @@
 ---
 slug: code-review
-aspect: 'processes'
 stages:
   - development
 short_description: Code review is an important practice for checking each other's code. The reviewers are other developers from the team. The goal is to uncover potential mistakes that could slip through testing.

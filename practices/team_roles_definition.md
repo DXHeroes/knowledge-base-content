@@ -1,6 +1,5 @@
 ---
 slug: team-roles-definition
-aspect: architecture
 stages:
   - building_team
 short_description: Team roles describe interactions of the team members. The goal of defining the team roles is to make the progress of the team smoother and easier.

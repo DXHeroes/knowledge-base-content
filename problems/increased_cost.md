@@ -1,6 +1,5 @@
 ---
 slug: increased-cost
-aspect: architecture
 stages:
   - research
 short_description: It is not an easy task to measure the cost of software development. Two projects are never the same, it can be a small application or a complex system. It is important to try to reduce the possible increase in cost.

@@ -1,6 +1,5 @@
 ---
 slug: mentoring
-aspect: culture
 stages:
   - building_team
 short_description: Mentoring is a supportive learning relationship between a mentor who shares knowledge, experience, and wisdom and mentee who is ready and willing to benefit from this exchange, to enrich their professional journey.

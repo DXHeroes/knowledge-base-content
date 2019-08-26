@@ -1,6 +1,5 @@
 ---
 slug: minimum-viable-product
-aspect: architecture
 stages:
   - research
 short_description: The Minimum Viable Product (MVP) is a scope of a product with the smallest possible functionality which is able to provide meaningful feedback from users.

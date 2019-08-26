@@ -1,6 +1,5 @@
 ---
 slug: pilot-project
-aspect: processes
 stages:
   - launch
 short_description: A pilot project is a small-scale version of your larger project that helps you catch potential errors before the full implementation.

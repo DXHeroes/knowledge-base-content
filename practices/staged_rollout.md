@@ -1,6 +1,5 @@
 ---
 slug: staged-rollout
-aspect: processes
 stages:
   - development
 short_description: A staged rollout enables you to release the upcoming product version slowly in a gradual way. You can slowly increase the percentage of users who receive the update.

@@ -1,6 +1,5 @@
 ---
 slug: agile-events
-aspect: culture
 stages:
   - development
 short_description: Agile Events are necessary meetings for keeping up the good work. They are usually time-boxed and the most common Agile framework that uses these periodic rituals is Scrum.
