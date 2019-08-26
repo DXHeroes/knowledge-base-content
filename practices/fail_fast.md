@@ -1,6 +1,5 @@
 ---
 slug: fail-fast
-aspect: processes
 stages:
   - research
 short_description: Fail fast is a method used during a recurrent approach to determine whether an idea has a value for the client or solution. An important goal is to minimize losses when testing reveals something is not working and quickly try something else.

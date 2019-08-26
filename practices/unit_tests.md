@@ -1,6 +1,5 @@
 ---
 slug: unit-tests
-aspect: processes
 stages:
   - development
 short_description: Unit tests are a foundation of your testing. They test the smallest pieces of code called units that have to be isolated from a system. Unit tests are small, cheap and easy to maintain. The number of unit tests outnumbers any other types of tests.

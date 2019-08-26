@@ -1,6 +1,5 @@
 ---
 slug: bad-product-market-fit
-aspect: architecture
 stages:
   - research
 short_description: "Bad product-market fit means that the market does not want your product. Products the market does not want waste not only money but also the team members' time."

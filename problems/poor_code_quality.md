@@ -1,6 +1,5 @@
 ---
 slug: poor-code-quality
-aspect: architecture
 stages:
   - development
 short_description: Poor code quality mainly describes buggy code or code with high coupling and low cohesion that is difficult to maintain. Poor code quality can also lead to frequent code repetition or suspiciously slow implementation.

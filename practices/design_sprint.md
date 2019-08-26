@@ -1,6 +1,5 @@
 ---
 slug: 'design-sprint'
-aspect: 'architecture'
 stages:
   - 'research'
 short_description: A Design Sprint is a framework that reduces the risks associated with product development. It is an intense process done by a small team in just 3 - 5 days.

@@ -1,6 +1,5 @@
 ---
 slug: meaningless-work
-aspect: culture
 stages:
   - development
   - maintenance

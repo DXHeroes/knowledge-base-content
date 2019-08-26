@@ -1,6 +1,5 @@
 ---
 slug: continuous-integration
-aspect: processes
 stages:
   - development
 short_description: Continuous Integration is a software development practice that makes developers integrate code changes into a shared repository routinely and frequently. Usually, each person integrates at least daily and that ensures them that their code changes do not break anything.

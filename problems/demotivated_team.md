@@ -1,6 +1,5 @@
 ---
 slug: demotivated-team
-aspect: culture
 stages:
   - development
   - maintenance

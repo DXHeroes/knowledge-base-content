@@ -1,6 +1,5 @@
 ---
 slug: lean-canvas
-aspect: architecture
 stages:
   - research
 short_description: A Lean Canvas is a 1-page chart with 9 basic building blocks. It helps to identify problems and solutions for your product.

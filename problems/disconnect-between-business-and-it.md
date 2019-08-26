@@ -1,6 +1,5 @@
 ---
 slug: disconnect-between-business-and-it
-aspect: culture
 stages:
   - development
 short_description: Modern companies sometimes forget to focus more on the long term IT innovations. They make critical financial decisions without the correct IT-business insight.

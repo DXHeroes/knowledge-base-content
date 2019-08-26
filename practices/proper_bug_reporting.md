@@ -1,6 +1,5 @@
 ---
 slug: proper-bug-reporting
-aspect: processes
 stages:
   - development
 short_description: Proper bug reporting is a crucial practice for development. It helps to understand where the product lacks its functionality or performance. A bugs report is a description of bugs found by testers.

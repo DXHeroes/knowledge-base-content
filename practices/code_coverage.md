@@ -1,6 +1,5 @@
 ---
 slug: code-coverage
-aspect: processes
 stages:
   - development
 short_description: Code coverage measures the percentage of source code lines that are covered by automated tests.

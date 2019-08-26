@@ -1,6 +1,5 @@
 ---
 slug: wireframing
-aspect: architecture
 stages:
   - research
 short_description: Wireframing is a visual tool to create a scheme of the user interface (UI) without focusing on graphic design. It helps to get a better picture of the elements that will be programmed.

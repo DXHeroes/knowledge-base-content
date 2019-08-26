@@ -1,6 +1,5 @@
 ---
 slug: clickable-prototype
-aspect: architecture
 stages:
   - research
 short_description: Clickable prototypes are interactive demos of a website or software application. These are often used to gather feedback early in the project lifecycle, before the project goes into the final stage of development.

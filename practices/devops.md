@@ -1,6 +1,5 @@
 ---
 slug: devops
-aspect: processes
 stages:
   - development
 short_description: DevOps is a set of practices that brings development and operations teams together. The collaboration helps to release software much faster.

@@ -1,6 +1,5 @@
 ---
 slug: scrum
-aspect: culture
 stages:
   - development
 short_description: Scrum is an agile framework focused on a productive and creative delivery of complex products with an emphasis on the highest possible value. Scrum is lightweight, simple to understand and difficult to master.

@@ -1,6 +1,5 @@
 ---
 slug: retrospective
-aspect: tooling
 stages:
   - phase_out
   - development

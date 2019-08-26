@@ -1,6 +1,5 @@
 ---
 slug: git-flow
-aspect: processes
 stages:
   - development
 short_description: Git Flow is a specific branching system for Git. It helps the team to better control and add different project versions.

@@ -1,6 +1,5 @@
 ---
 slug: pull-requests
-aspect: processes
 stages:
   - development
 short_description: Pull requests tell other team members that you changed something in the code and pushed the change to a branch in a git repository. Then other members can review and discuss the changes before the changes are merged into the master branch.

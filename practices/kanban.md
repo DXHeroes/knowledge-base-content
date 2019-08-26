@@ -1,6 +1,5 @@
 ---
 slug: kanban
-aspect: processes
 stages:
   - development
 short_description: Kanban is a Lean method focused on managing a continuous delivery of products with avoiding the "bottleneck effect". It helps teams work together and more effectively.

@@ -1,6 +1,5 @@
 ---
 slug: package-management
-aspect: processes
 stages:
 - development
 short_description: Package management allows you to automatically download, install, and update software using remote repositories and in a consistent manner. Package managers are software tools that eliminate maintaining the software manually.

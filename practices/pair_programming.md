@@ -1,6 +1,5 @@
 ---
 slug: pair-programming
-aspect: processes
 stages:
   - development
 short_description: Pair programming is a technique of two programmers sharing a single workstation. The "driver" writes everything down and the "navigator" watches and makes suggestions. They switch the roles when necessary.

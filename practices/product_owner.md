@@ -1,6 +1,5 @@
 ---
 slug: product-owner
-aspect: architecture
 stages:
   - building_team
 short_description: A Product Owner represents the voice of stakeholders. The Product Owner decides what needs to be delivered by the developers to satisfy the stakeholders and to maximize the value of the product.

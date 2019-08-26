@@ -1,6 +1,5 @@
 ---
 slug: tech-lead
-aspect: culture
 stages:
   - building_team
 short_description: A tech lead is an experienced developer who ensures that team members follow major technical decision. It should be a person with a desire to learn and share new concepts and technologies.

@@ -1,6 +1,5 @@
 ---
 slug: value-proposition
-aspect: architecture
 stages:
   - research
 short_description: A Value Proposition Canvas is a model that helps to ensure that a product covers customer’s requirements. It defines the customer segment and the value proposition.
