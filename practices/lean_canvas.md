@@ -63,11 +63,11 @@ A simple visual chart helps with communicating the offer to customers. It is cle
 
 Lean Canvas is also an easy tool for the team to help them understand the business product.
 
-## Issues the Lean Canvas Solves
+## Problems the Lean Canvas Solves
 
-- [Increased cost](/issues/increased-cost)
-- [Bad product-market fit](/issues/bad-product-market-fit)
-- [Meaningless work](/issues/meaningless-work)
+- [Increased cost](/problems/increased-cost)
+- [Bad product-market fit](/problems/bad-product-market-fit)
+- [Meaningless work](/problems/meaningless-work)
 
 ## How to Implement the Lean Canvas
 

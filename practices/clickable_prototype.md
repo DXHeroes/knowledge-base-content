@@ -47,10 +47,10 @@ A clickable prototype is used as a presentation of the various project stakehold
 
 Based on text above, process of software development which uses prototyping can be faster and more cost-effective than programming.
 
-## Issues the Clickable Prototype Solves
+## Problems the Clickable Prototype Solves
 
-- [Demotivated team](/issues/demotivated-team)
-- [Increased cost](/issues/increased-cost)
+- [Demotivated team](/problems/demotivated-team)
+- [Increased cost](/problems/increased-cost)
 - Disconnection with business
 
 ## How to Implement the Clickable Prototype

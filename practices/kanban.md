@@ -35,15 +35,15 @@ Kanban is summarized by the premise: "Stop Starting, Start Finishing". Teams con
 - In comparison with the Waterfall methodology, Kanban brings faster delivery of features thanks to shorter cycle times.
 - Compared to Scrum, Kanban uses fewer meetings and supporting processes. For example, there is no need for any control measures, such as velocity.
 
-## Issues the Kanban Helps to Solve
+## Problems the Kanban Helps to Solve
 
-- [Demotivated team](/issues/demotivated-team)
+- [Demotivated team](/problems/demotivated-team)
 - Unsuccessful product
 - Unnecessary functions
 - Expensive development
 - Sunk cost
 - Toxic team culture
-- [Meaningless work](/issues/meaningless-work)
+- [Meaningless work](/problems/meaningless-work)
 
 ## How to Implement Kanban
 
@@ -74,7 +74,7 @@ In addition, Kanban encourages collaboratively improving, experimental evolving,
   **Tip:** There are many approaches for setting initial WIP limits, for example, "two items per person", "start with the number what you do now", or "n-1" (setting one under the number of team members may cause greater collaboration by forcing team members to work together).
 
 - **Nobody respects the Kanban board**
-  Issues appear directly to "done" stage without being picked out from the backlog and going through the workflow. Do not forget, the purpose of a Kanban board is a visualization of everything the team does. It helps to estimate the team’s capacity and utilize them to their maximum level.
+  Problems appear directly to "done" stage without being picked out from the backlog and going through the workflow. Do not forget, the purpose of a Kanban board is a visualization of everything the team does. It helps to estimate the team’s capacity and utilize them to their maximum level.
 
 - **Focus On Tools**
   In brief, tools are not important - people and principles are.

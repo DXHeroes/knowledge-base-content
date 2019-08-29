@@ -39,12 +39,12 @@ Penetration testing requires experienced network security professionals with in-
 - secure user data
 - follow regulations and certifications you might need
 
-## Issues the Penetration Testing Solve
+## Problems the Penetration Testing Solve
 
-- [Poor code quality](/issues/poor-code-quality)
-- [Increased cost](/issues/increased-cost)
-- [Demotivated team](/issues/demotivated-team)
-- [Meaningless work](/issues/meaningless-work)
+- [Poor code quality](/problems/poor-code-quality)
+- [Increased cost](/problems/increased-cost)
+- [Demotivated team](/problems/demotivated-team)
+- [Meaningless work](/problems/meaningless-work)
 - Unhappy clients
 
 ## How to Implement the Penetration Testing

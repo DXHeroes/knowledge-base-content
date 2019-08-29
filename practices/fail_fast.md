@@ -49,17 +49,17 @@ The main philosophy of the fail fast principle is to avoid or reduce the sunk co
 The whole problem stems from the natural human nature of continuing to do meaningless work because of the internal guilt of failure.
 Fail Fast is one of the main practices that the team should adopt mostly in the Research phase. Conversely, the correct application of this principle can connect the team and allow it to focus on substantial solutions to real problems. Often, when applying this principle, teams also report an increase in motivation and relief from the opportunity of finding a truly meaningful product development path.
 
-## Issues the Fail Fast Philosophy Helps to Solve
+## Problems the Fail Fast Philosophy Helps to Solve
 
-- [Demotivated team](/issues/demotivated-team)
-- [Increased cost](/issues/increased-cost)
+- [Demotivated team](/problems/demotivated-team)
+- [Increased cost](/problems/increased-cost)
 - Unsuccessful product
 - Unnecessary functions
 - Expensive development
 - Unhappy clients
-- [Meaningless work](/issues/meaningless-work)
+- [Meaningless work](/problems/meaningless-work)
 - Toxic team culture
-- ["Not my problem" mentality](/issues/not-my-problem-mentality)
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
 
 ## How to Implement the Fail Fast Philosophy
 

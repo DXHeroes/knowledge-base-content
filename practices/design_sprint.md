@@ -72,11 +72,11 @@ The Design Sprint process helps to:
 - save time. The number of meetings is significantly reduced.
 - save the money. The team avoids unknowns or assumptions as long as they understand the risks.
 
-## Issues the Design Sprint Solves
+## Problems the Design Sprint Solves
 
-- [Bad product-market fit](/issues/bad-product-market-fit)
+- [Bad product-market fit](/problems/bad-product-market-fit)
 - Team involvement
-- [Meaningless work](/issues/meaningless-work)
+- [Meaningless work](/problems/meaningless-work)
 
 ## How to Implement the Design Sprint
 

@@ -51,14 +51,14 @@ There can be one tech lead for one team or one tech lead for the back-end and an
 - available and approachable
 - a mediator of technical decisions
 
-## Issues the Tech Lead Solves
+## Problems the Tech Lead Solves
 
-- [Bad product-market fit](/issues/bad-product-market-fit)
-- [Demotivated team](/issues/demotivated-team)
+- [Bad product-market fit](/problems/bad-product-market-fit)
+- [Demotivated team](/problems/demotivated-team)
 - Unsuccessful product
 - Unhappy clients
-- [Disconnect Between Business and IT](issues/disconnect-between-business-and-it)
-- ["Not My Problem" Mentality](issues/not-my-problem-mentality)
+- [Disconnect Between Business and IT](problems/disconnect-between-business-and-it)
+- ["Not My Problem" Mentality](problems/not-my-problem-mentality)
 
 ## How to Implement the Tech Lead
 

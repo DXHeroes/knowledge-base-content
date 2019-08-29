@@ -56,11 +56,11 @@ Package managers:
 - can maintain the project versions (automatically upload them online) so everyone uses the newest version
 - allow you to manage someone else’s open-source code with certainty that the build is consistent within the developers and environments
 
-## Issues the Package Management Solves
+## Problems the Package Management Solves
 
-- [Increased cost](/issues/increased-cost)
-- [Poor code quality](/issues/poor-code-quality)
-- [Meaningless work](/issues/meaningless-work)
+- [Increased cost](/problems/increased-cost)
+- [Poor code quality](/problems/poor-code-quality)
+- [Meaningless work](/problems/meaningless-work)
 
 ## How to Implement the Package Management
 

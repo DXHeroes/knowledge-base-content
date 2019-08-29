@@ -49,11 +49,11 @@ Types of Performance Tests:
 
 Performance Testing is a useful tool to locate performance problems by highlighting where the product fails. It verifies if the product works as expected. It can be also used to compare two or more products. The goal of Performance Testing is not to find bugs but to eliminate performance bottlenecks (lessening of throughput that slower the speed, usually caused by an overloaded network).
 
-## Issues the Performance Testing Helps to Solve
+## Problems the Performance Testing Helps to Solve
 
-- [Poor code quality](/issues/poor-code-quality)
-- [Increased cost](/issues/increased-cost)
-- [Meaningless work](/issues/meaningless-work)
+- [Poor code quality](/problems/poor-code-quality)
+- [Increased cost](/problems/increased-cost)
+- [Meaningless work](/problems/meaningless-work)
 - Insufficient performance
 - Disconnect with business
 

@@ -45,11 +45,11 @@ A Bus Factor is also known as the bread truck scenario, lottery factor, truck fa
 - Sharing knowledge prevents the project from falling apart.
 - Trying to increase the Bus Factor continuously can give you a good control over your projects.
 
-## Issues that Increasing the Bus Factor Solves
+## Problems that Increasing the Bus Factor Solves
 
-- ["Not my problem" mentality](/issues/not-my-problem-mentality)
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - Disconnect with business
-- [Meaningless work](/issues/meaningless-work)
+- [Meaningless work](/problems/meaningless-work)
 
 ## How to Increase the Bus Factor
 

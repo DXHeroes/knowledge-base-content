@@ -47,10 +47,10 @@ You can use the wireframes to:
 - give the graphic designers a basis to create the UI.
 - communicate the functionalities without the distraction of any visual design elements.
 
-## Issues the Wireframing Solves
+## Problems the Wireframing Solves
 
-- [Increased cost](/issues/increased-cost)
-- [Meaningless work](/issues/meaningless-work)
+- [Increased cost](/problems/increased-cost)
+- [Meaningless work](/problems/meaningless-work)
 - Disconnect with business
 - Lack of motivation
 

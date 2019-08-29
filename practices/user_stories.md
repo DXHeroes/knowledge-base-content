@@ -59,12 +59,12 @@ Why not just break the epic into steps? Why bother with creating the user storie
 - allow the team to prioritize more easily. When the US are added to the product backlog, the Product Owner can prioritize the more important US.
 - allow you to track the project development and every closed US is a an achievement which brings a satisfaction.
 
-## Issues User Stories Solve
+## Problems User Stories Solve
 
-- [Demotivated team](/issues/demotivated-team)
-- [Increased cost](/issues/increased-cost)
-- [Meaningless work](/issues/meaningless-work)
-- ["Not my problem" mentality](/issues/not-my-problem-mentality)
+- [Demotivated team](/problems/demotivated-team)
+- [Increased cost](/problems/increased-cost)
+- [Meaningless work](/problems/meaningless-work)
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - Unnecessary functions
 - Expensive development
 - Unhappy clients

@@ -28,7 +28,7 @@ The Waterfall methodology is a linear project management approach where customer
 - It works well in situations where the expected scenario of the project will be probably familiar with several knowns. Or in situations where you can exactly determine the requirements at the beginning of the project.
 - In contrast to Agile methodologies, it is easier to document results due to non-changing outputs.
 
-## Issues the Waterfall Helps to Solve
+## Problems the Waterfall Helps to Solve
 
 - Expensive development
 - Sunk cost

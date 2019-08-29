@@ -41,9 +41,9 @@ CC is usually calculated in a continuous integration library, for example, [GitL
 - CC can reveal major mistakes during early software phases (building or compiling). It can serve as a Smoke Test.
 - In order to get an official certification, some software is required to use CC. It is mandatory, for example, for air and space transportation, rail transportation, the automotive industry, or for medical applications.
 
-## Issues the Code Coverage Solves
+## Problems the Code Coverage Solves
 
-- [Poor code quality](/issues/poor-code-quality)
+- [Poor code quality](/problems/poor-code-quality)
 
 ## How to Implement the Code Coverage
 

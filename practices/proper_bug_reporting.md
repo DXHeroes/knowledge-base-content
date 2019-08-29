@@ -42,11 +42,11 @@ A good bug reports:
 
 Bug reporting can be automatized or semi-automatized. Some of the most popular bug tracking software tools are [Airbrake](https://airbrake.io/), [Sentry.io](https://sentry.io/), [Backlog](https://backlog.com/), [ReQtest](https://reqtest.com/), or [Bugzilla](https://www.bugzilla.org/).
 
-## Issues the Proper Bug Reporting Helps to Solve
+## Problems the Proper Bug Reporting Helps to Solve
 
-- [Poor code quality](/issues/poor-code-quality)
-- [Demotivated team](/issues/demotivated-team)
-- [Increased cost](/issues/increased-cost)
+- [Poor code quality](/problems/poor-code-quality)
+- [Demotivated team](/problems/demotivated-team)
+- [Increased cost](/problems/increased-cost)
 
 ## How to Implement the Bug Reporting
 

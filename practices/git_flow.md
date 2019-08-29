@@ -47,14 +47,14 @@ Git Flow is one of many styles of Git workflows - a branching model set for Git.
 - You can always commit the changes and create a new feature branch when you need to interrupt your work. You can come back to your feature at any time.
 - Hotfix branches allow your team to make emergency changes. You do not have to worry that you would accidentally merge in a new development at the same time.
 
-## Issues the Git Flow Solves
+## Problems the Git Flow Solves
 
-- [Poor code quality](/issues/poor-code-quality)
+- [Poor code quality](/problems/poor-code-quality)
 - Unhappy clients
 - Toxic team culture
 - Knowledge hoarding
-- ["Not my problem" mentality](/issues/not-my-problem-mentality)
-- [Meaningless work](/issues/meaningless-work)
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
+- [Meaningless work](/problems/meaningless-work)
 
 ## How to Implement the Git Flow
 

@@ -45,11 +45,11 @@ Linters are available for most programming languages. Here are the most common o
 - It improves the code readability. It unifies the style within the team and therefore safes the time during the code review.
 - It can automatically correct some mistakes (auto fix).
 
-## Issues the Linting Solves
+## Problems the Linting Solves
 
-- [Increased cost](/issues/increased-cost)
-- [Poor code quality](/issues/poor-code-quality)
-- [Meaningless work](/issues/meaningless-work)
+- [Increased cost](/problems/increased-cost)
+- [Poor code quality](/problems/poor-code-quality)
+- [Meaningless work](/problems/meaningless-work)
 
 ## How to Implement the Linting
 

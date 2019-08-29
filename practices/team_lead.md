@@ -49,11 +49,11 @@ A good team lead helps your team with:
 - communicating with management
 - creating a dependable and reliable workplace
 
-## Issues the Team Lead Solves
+## Problems the Team Lead Solves
 
-- [Bad product-market fit](/issues/bad-product-market-fit)
-- [Demotivated team](/issues/demotivated-team)
-- ["Not My Problem" Mentality](/issues/not-my-problem-mentality)
+- [Bad product-market fit](/problems/bad-product-market-fit)
+- [Demotivated team](/problems/demotivated-team)
+- ["Not My Problem" Mentality](/problems/not-my-problem-mentality)
 - Unsuccessful product
 - Unhappy clients
 - Disconnection with business

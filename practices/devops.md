@@ -84,11 +84,11 @@ Sharing is crucial. If the teams share responsibilities, they share success as w
 - Lack of dedicated resources: the company believes that everyone uses DevOps practices but in reality, they do not identify themselves with the DevOps.
 - DevOps Engineers work only as one of the other developers and does not create the culture change. The operations team does not trust them and do not cooperate.
 
-## Issues the Devops Solves
+## Problems the Devops Solves
 
-- [Increased cost](/issues/increased-cost)
-- [Demotivated team](/issues/demotivated-team)
-- ["Not my problem" mentality](/issues/not-my-problem-mentality)
+- [Increased cost](/problems/increased-cost)
+- [Demotivated team](/problems/demotivated-team)
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - Developer vs Operations wars
 - Overwhelmed operations
 - Long feedback loops

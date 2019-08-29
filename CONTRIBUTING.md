@@ -40,15 +40,15 @@ Source: [How to Become a Technical Writer: A Beginner’s Guide](https://www.ins
 **Repository folders**
 
 - There are 3 important folders in the root of the repository:
-  - [**files**](https://github.com/DXHeroes/knowledge-base/tree/master/files) - stores all images and other files necessary for articles (issue/practice)
-  - [**issues**](https://github.com/DXHeroes/knowledge-base/tree/master/issues) - stores all DX issues
+  - [**files**](https://github.com/DXHeroes/knowledge-base/tree/master/files) - stores all images and other files necessary for articles (problem/practice)
+  - [**problems**](https://github.com/DXHeroes/knowledge-base/tree/master/problems) - stores all DX problems
   - [**practices**](https://github.com/DXHeroes/knowledge-base/tree/master/practices) - stores all DX practices
 
 **File Format**
 
 - Articles are written in [markdown](https://guides.github.com/features/mastering-markdown/)
 - Names of the file should be [snake_cased](https://en.wikipedia.org/wiki/Snake_case) (`lower_case_with_underscores`)
-- Put your file to correct folder based on the type of your article ([issue](https://github.com/DXHeroes/knowledge-base/tree/master/issues)/[practice](https://github.com/DXHeroes/knowledge-base/tree/master/practices)). E.g. practice pull request [on the Knowledge Base](https://developerexperience.io/practices/pull-requests) and [in the repository](https://github.com/DXHeroes/knowledge-base/blob/master/practices/pull_requests.md)
+- Put your file to correct folder based on the type of your article ([problem](https://github.com/DXHeroes/knowledge-base/tree/master/problems)/[practice](https://github.com/DXHeroes/knowledge-base/tree/master/practices)). E.g. practice pull request [on the Knowledge Base](https://developerexperience.io/practices/pull-requests) and [in the repository](https://github.com/DXHeroes/knowledge-base/blob/master/practices/pull_requests.md)
 
 **Content Format**
 
@@ -74,7 +74,7 @@ Example article: [pull request](https://github.com/DXHeroes/knowledge-base/blob/
     - max. 250 characters long
   - **tags**
     - visible for use in the Article detail
-    - used to connect issues and practices with other similar areas than aspect or stage
+    - used to connect problems and practices with other similar areas than aspect or stage
     - each tag has it's own detail (e.g. [tag design](https://developerexperience.io/tags/desing))
     - amount of tags for the article is not limited
   - **keywords**
@@ -86,10 +86,10 @@ Example article: [pull request](https://github.com/DXHeroes/knowledge-base/blob/
   - **headlines**
 
     - first H1 is recognized as the name of the article
-    - We want to keep similar structure of all articles informing about the practice or issue. So we require to keep only few specific H2 headings:
+    - We want to keep similar structure of all articles informing about the practice or problem. So we require to keep only few specific H2 headings:
       - `What Is a %{name}`
       - `Why You Might Want the %{name}`
-      - `Issues the %{name} Helps to Solve`
+      - `Problems the %{name} Helps to Solve`
       - `How to Implement the %{name}?`
       - `Common Pitfalls of the %{name}`
       - `Resources for the %{name}`

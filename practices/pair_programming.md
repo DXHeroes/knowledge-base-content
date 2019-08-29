@@ -43,14 +43,14 @@ Frankly, although it can be very useful, pair programming is not very popular. I
 - **Better team culture**  
    Team members get to know each other better if they work in pairs. They get closer and have more subjects to talk about. This leads to a friendlier atmosphere. Coding can be very lonely under other circumstances - reducing this loneliness should be an important goal for every company.
 
-## Issues the Pair Programming Solves
+## Problems the Pair Programming Solves
 
-- [Poor code quality](/issues/poor-code-quality)
-- [Increased cost](/issues/increased-cost)
-- [Demotivated team](/issues/demotivated-team)
-- [Low Bus Factor](/issues/bus-factor)
-- [Meaningless work](/issues/meaningless-work)
-- ["Not my problem" mentality](/issues/not-my-problem-mentality)
+- [Poor code quality](/problems/poor-code-quality)
+- [Increased cost](/problems/increased-cost)
+- [Demotivated team](/problems/demotivated-team)
+- [Low Bus Factor](/problems/bus-factor)
+- [Meaningless work](/problems/meaningless-work)
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - Knowledge hoarding
 
 ## How to Implement the Pair Programming

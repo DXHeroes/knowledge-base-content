@@ -56,12 +56,12 @@ In the basic form it answers three questions:
   "It is insane to do the same things and expecting different results." - Albert Einstein.
   Solving problems and subsequently delivering more value to your customers requires a change in the way of working.
 
-## Issues the Retrospective Helps to Solve
+## Problems the Retrospective Helps to Solve
 
-- [Demotivated team](/issues/demotivated-team)
-- [Increased cost](/issues/increased-cost)
-- [Meaningless work](/issues/meaningless-work)
-- ["Not my problem" mentality](/issues/not-my-problem-mentality)
+- [Demotivated team](/problems/demotivated-team)
+- [Increased cost](/problems/increased-cost)
+- [Meaningless work](/problems/meaningless-work)
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - Expensive development
 - Toxic team culture
 - Disconnection with business
