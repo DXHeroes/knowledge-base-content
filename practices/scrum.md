@@ -58,13 +58,13 @@ The Guide explains the Scrum within a definition which consists of Scrum's roles
 - **High team morale**  
   Scrum emphasizes on self-organization, collaboration, working cross-functionally and sustainable work practices. Being part of that team allows people to be creative, innovative, and acknowledged for their expertise.
 
-## Issues the Scrum Helps to Solve
+## Problems the Scrum Helps to Solve
 
-- [Demotivated team](/issues/demotivated-team)
-- [Increased cost](/issues/increased-cost)
-- [Bad product-market fit](/issues/bad-product-market-fit)
-- [Meaningless work](/issues/meaningless-work)
-- ["Not my problem" mentality](/issues/not-my-problem-mentality)
+- [Demotivated team](/problems/demotivated-team)
+- [Increased cost](/problems/increased-cost)
+- [Bad product-market fit](/problems/bad-product-market-fit)
+- [Meaningless work](/problems/meaningless-work)
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - Unsuccessful product
 - Unnecessary functions
 - Expensive development

@@ -50,11 +50,11 @@ A good Product Owner should:
 
 A PO is responsible for the product and helps to develop it. The responsibility is also to catch possible problems related to the product. This role is critical to linking Agile Development Teams to the business, which increases the acceptance of the product. A projects without a Project Owner can struggle with not enough feedback and it risks being disconnected from the stakeholders. In the end, it is all about the money and the PO is primarily responsible for delivering maximum value to the business.
 
-## Issues the Product Owner Solves
+## Problems the Product Owner Solves
 
-- [Bad product-market fit](/issues/bad-product-market-fit)
-- [Demotivated team](/issues/demotivated-team)
-- ["Not my problem" mentality](/issues/not-my-problem-mentality)
+- [Bad product-market fit](/problems/bad-product-market-fit)
+- [Demotivated team](/problems/demotivated-team)
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - Unsuccessful product
 - Unhappy clients
 - Disconnection with business

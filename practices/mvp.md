@@ -50,12 +50,12 @@ The key idea of MVP is that you produce the MVP version to customers and observe
 ![MVP](/files/mvp.png)
 [Hackernoon.com: Mindset Change: MVP vs. SLC.](https://hackernoon.com/mindset-change-mvp-vs-slc-d087a7f87be3)
 
-## Issues the MVP Solves
+## Problems the MVP Solves
 
-- [Increased cost](/issues/increased-cost)
-- [Bad product-market fit](/issues/bad-product-market-fit)
-- [Demotivated team](/issues/demotivated-team)
-- [Meaningless work](/issues/meaningless-work)
+- [Increased cost](/problems/increased-cost)
+- [Bad product-market fit](/problems/bad-product-market-fit)
+- [Demotivated team](/problems/demotivated-team)
+- [Meaningless work](/problems/meaningless-work)
 - Unsuccessful product
 - Unnecessary functions
 - Expensive development

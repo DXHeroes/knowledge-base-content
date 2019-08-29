@@ -53,13 +53,13 @@ Your **organization** can gain from a successful mentoring program the following
 - Interconnection of employees with valuable knowledge and information to other employees in need of such information
 - Support for a multicultural environment by creating relationships among diverse employees
 
-## Issues the Mentoring Helps to Solve
+## Problems the Mentoring Helps to Solve
 
-- [Demotivated team](/issues/demotivated-team)
+- [Demotivated team](/problems/demotivated-team)
 - Disconnection with business
 - Knowledge hoarding
 - Long team onboarding
-- [Meaningless work](/issues/meaningless-work)
+- [Meaningless work](/problems/meaningless-work)
 - Toxic team culture
 
 ## How to Implement Mentoring

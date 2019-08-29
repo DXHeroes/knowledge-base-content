@@ -35,7 +35,7 @@ const validate = async () => {
   const changedMds = [
     ...danger.git.created_files,
     ...danger.git.modified_files
-  ].filter(path => path.match(/(issues|practices)\/.*\.md/));
+  ].filter(path => path.match(/(problems|practices)\/.*\.md/));
 
   for (const mdFile of changedMds) {
     const validationResult: ValidationResult = await validateArticle(mdFile);

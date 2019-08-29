@@ -63,7 +63,7 @@ It is easy to increase the development cost by:
 
 4. **Manage**
    A good Project Management can save a lot of time and money. Make reasonable deadlines, check the developers regularly but do not micromanage them. Motivate the team and listen to everyone.
-   For more information, see [Demotivated Team](/issues/demotivated-team).
+   For more information, see [Demotivated Team](/problems/demotivated-team).
 
 5. **Speed up the marketing**
    The product can be marketed before it is even finished.

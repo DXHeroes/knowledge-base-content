@@ -54,10 +54,10 @@ The left side of the diagram (the square) answers the question of **why**. It de
 
 The Value Proposition Canvas makes you think differently about the customers. The tool identifies what the customer wants and helps to create a product that matches the customer’s criteria. With a clear customer profile, it is easier to describe how the product creates value for that customer.
 
-## Issues the Value Proposition Canvas Solves
+## Problems the Value Proposition Canvas Solves
 
-- [Bad product-market fit](/issues/bad-product-market-fit)
-- [Meaningless work](/issues/meaningless-work)
+- [Bad product-market fit](/problems/bad-product-market-fit)
+- [Meaningless work](/problems/meaningless-work)
 
 ## How to Implement the Value Proposition Canvas
 

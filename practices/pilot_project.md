@@ -34,12 +34,12 @@ This technique is very popular in the gaming industry. Companies select groups o
 - The testing is a great opportunity to get feedback from your clients (or a group of people close to your target population).
 - You can build a core group of pilot testers to test other products.
 
-## Issues the Pilot Project Solves
+## Problems the Pilot Project Solves
 
-- [Poor code quality](/issues/poor-code-quality)
-- [Increased cost](/issues/increased-cost)
-- [Demotivated team](/issues/demotivated-team)
-- [Meaningless work](/issues/meaningless-work)
+- [Poor code quality](/problems/poor-code-quality)
+- [Increased cost](/problems/increased-cost)
+- [Demotivated team](/problems/demotivated-team)
+- [Meaningless work](/problems/meaningless-work)
 - Unhappy clients
 
 ## How to Implement the Pilot Project

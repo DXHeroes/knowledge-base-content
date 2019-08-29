@@ -54,11 +54,11 @@ Docker is:
 
 - Docker creates a consistent work environment that is necessary for recreating applications and their functionalities. Wrapping everything into containers means that the application you build runs on other devices without friction.
 
-## Issues the Dockerizing Solves
+## Problems the Dockerizing Solves
 
-- [Increased cost](/issues/increased-cost)
-- [Poor code quality](/issues/poor-code-quality)
-- [Meaningless work](/issues/meaningless-work)
+- [Increased cost](/problems/increased-cost)
+- [Poor code quality](/problems/poor-code-quality)
+- [Meaningless work](/problems/meaningless-work)
 - Long team onboarding
 
 ## How to Implement the Dockerizing

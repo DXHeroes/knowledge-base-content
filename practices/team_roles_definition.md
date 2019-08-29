@@ -65,11 +65,11 @@ Team roles represent a tendency to interact with others in a specific way to mak
 
 Belbin recognized that the team success depends on the behavior of the team members. Defining various team roles allows you to match job requirements with the appropriate skills and therefore, you can create a well-balanced team. Belbin’s research shows that the team tends to work more cohesively if the team members understand their individual roles. Familiarity leads to better performance, sharing information engages team members to find constructive solutions and ideas. It reduces misunderstandings and disputes. Finding a good match between the team members and their roles eliminates mistakes and improve quality of work.
 
-## Issues the Team Roles Solve
+## Problems the Team Roles Solve
 
-- [Demotivated team](/issues/demotivated-team)
-- ["Not my problem" mentality](/issues/not-my-problem-mentality)
-- [Toxic team culture](/issues/toxic-team-culture)
+- [Demotivated team](/problems/demotivated-team)
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
+- [Toxic team culture](/problems/toxic-team-culture)
 - Unsuccessful product
 - Unhappy clients
 

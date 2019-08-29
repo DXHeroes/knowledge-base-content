@@ -49,11 +49,11 @@ Software documentation helps:
 - to improve your brand. High-quality end-user documentation ensures your customers that you are there to support them and help them.
 - with communication. Software documentation serves as a communication tool between the team members, stakeholders, and your future self.
 
-## Issues the Software Documentation Solves
+## Problems the Software Documentation Solves
 
-- [Poor code quality](/issues/poor-code-quality)
-- ["Not my problem" mentality](/issues/not-my-problem-mentality)
-- [Meaningless work](/issues/meaningless-work)
+- [Poor code quality](/problems/poor-code-quality)
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
+- [Meaningless work](/problems/meaningless-work)
 - Unhappy clients
 - Toxic team culture
 - Knowledge hoarding
@@ -77,7 +77,7 @@ Software documentation helps:
 
 - What Is a /name/
 - Why You Might Want the /name/
-- Issues the /name/ Solves
+- Problems the /name/ Solves
 - How to Implement the /name/
 - Common Pitfalls of the /name/
 - Resources for the /name/

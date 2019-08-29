@@ -40,15 +40,15 @@ There are two types of runbooks:
 - It lets you focus on important tasks without worrying that you will not remember all the procedures.
 - Also, the more you put into your runbooks, the more likely are your products reproducible and therefore sellable.
 
-## Issues the Runbook Solves
+## Problems the Runbook Solves
 
-- [Increased cost](/issues/increased-cost)
-- [Poor code quality](/issues/poor-code-quality)
-- [Meaningless work](/issues/meaningless-work)
+- [Increased cost](/problems/increased-cost)
+- [Poor code quality](/problems/poor-code-quality)
+- [Meaningless work](/problems/meaningless-work)
 - Unhappy clients
 - Toxic team culture
 - Knowledge hoarding
-- ["Not my problem" mentality](/issues/not-my-problem-mentality)
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
 
 ## How to Implement the Runbook
 

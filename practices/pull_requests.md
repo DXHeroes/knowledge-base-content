@@ -42,9 +42,9 @@ Pull request can also trigger CI/CD to make sure all automated tests pass before
 - The knowledge of the codebase is spread more evenly in the team when pull requests practice is in place.
 - The Team Leader or the senior colleague can use pull requests to continually evaluate performances of other team members.
 
-## Issues the Pull Request Helps to Solve
+## Problems the Pull Request Helps to Solve
 
-- [Poor code quality](/issues/poor-code-quality)
+- [Poor code quality](/problems/poor-code-quality)
 - Knowledge hoarding
 - Toxic team culture
 

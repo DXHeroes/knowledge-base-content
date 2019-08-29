@@ -35,9 +35,9 @@ A staged rollout gives you time to analyze your product stability and its perfor
 - It gives you time to make improvements and to introduce the changes to your stakeholders.
 - It minimizes negative effects on productivity. If you want to implement some changes in your company, the tested group may be not as productive as usual. But it is still better than when all of the users have to get used to the change at the same time.
 
-## Issues the Staged Rollout Solves
+## Problems the Staged Rollout Solves
 
-- [Meaningless work](/issues/meaningless-work)
+- [Meaningless work](/problems/meaningless-work)
 - Team involvement
 - Unhappy clients
 - Unsuccessful product

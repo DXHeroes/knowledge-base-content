@@ -89,11 +89,11 @@ Every project phase needs its own set of rituals. Those rituals help the team to
 
 Even though the events are here to help, developers struggle to find every single meeting useful. The most hated meetings are the daily standups because they sometimes seem like a waste of time even if they last just a few minutes. But to be fair, the daily standups are really important for sharing knowledge, finding problems sooner, measuring the progress and last but not least, building team unity.
 
-## Issues the Agile Events Solve
+## Problems the Agile Events Solve
 
-- [Bad product-market fit](/issues/bad-product-market-fit)
-- [Demotivated team](/issues/demotivated-team)
-- ["Not My Problem" Mentality](/issues/not-my-problem-mentality)
+- [Bad product-market fit](/problems/bad-product-market-fit)
+- [Demotivated team](/problems/demotivated-team)
+- ["Not My Problem" Mentality](/problems/not-my-problem-mentality)
 - Unsuccessful product
 - Unhappy clients
 - Disconnection with business

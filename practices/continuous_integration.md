@@ -55,14 +55,14 @@ The CI helps your team with:
 - **Better integration of new members**
   New members can get into the project much easier. CI enables them to have a clear vision of the building process.
 
-## Issues the Continuous Integration Helps to Solve
+## Problems the Continuous Integration Helps to Solve
 
-- [Demotivated team](/issues/demotivated-team)
-- [Increased cost](/issues/increased-cost)
+- [Demotivated team](/problems/demotivated-team)
+- [Increased cost](/problems/increased-cost)
 - Unsuccessful product
 - Toxic team culture
-- ["Not my problem" mentality](/issues/not-my-problem-mentality)
-- [Meaningless work](/issues/meaningless-work)
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
+- [Meaningless work](/problems/meaningless-work)
 
 ## How to Implement the Continuous Integration
 

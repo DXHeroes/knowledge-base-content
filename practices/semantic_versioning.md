@@ -67,10 +67,10 @@ Keep in mind, that SemVer starts at 0.1.0. Not at 0.0.1, as you might assume. Th
 - SemVer helps to explain what type of changes were made. It also informs users about possible software updates.
 - SemVer lets you know which version of a product is no longer backwards compatible.
 
-## Issues the Semantic Versioning Solves
+## Problems the Semantic Versioning Solves
 
-- [Demotivated team](/issues/demotivated-team)
-- [Meaningless work](/issues/meaningless-work)
+- [Demotivated team](/problems/demotivated-team)
+- [Meaningless work](/problems/meaningless-work)
 - Unsuccessful product
 - Unnecessary functions
 - Expensive development
