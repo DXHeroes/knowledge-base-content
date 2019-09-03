@@ -69,29 +69,29 @@ These are the few signs of a toxic team culture:
 
 ## Reasons for the Toxic Team Culture
 
-**Who or what is responsible for the toxic culture in your team?**
-To be fair, it is not always just a problem of bad management. Individuals at every level can contribute to the toxicity. Anyone can spread rumors or feed the dark atmosphere otherwise. It is often a combination of separated business leaders, bad management and disengaged employees. The core values of the company are not defined or not shared.
+**Who or what is responsible for the toxic culture in your team?**  
+    To be fair, it is not always just a problem of bad management. Individuals at every level can contribute to the toxicity. Anyone can spread rumors or feed the dark atmosphere otherwise. It is often a combination of separated business leaders, bad management and disengaged employees. The core values of the company are not defined or not shared.
 
-**How to cure a toxic culture?**
-Anyone can participate in healing this unfortunate environment. The problem is that everyone can come up with an excuse why not to get engaged. Low-level employees might be scared of getting fired when they speak up. Mid-level managers can feel that they do not have enough power to deal with this situation. High-level management does not want to jeopardize their position. The CEO does not know about the problem because people do not feel like they can talk to him.
+**How to cure a toxic culture?**  
+    Anyone can participate in healing this unfortunate environment. The problem is that everyone can come up with an excuse why not to get engaged. Low-level employees might be scared of getting fired when they speak up. Mid-level managers can feel that they do not have enough power to deal with this situation. High-level management does not want to jeopardize their position. The CEO does not know about the problem because people do not feel like they can talk to him.
 
-**Talk and listen**
-Start with talking to each other. Face-to-face communication is crucial. One-to-one sessions can help the manager to get precious information from a frustrated employee. Maybe not immediately but if the employees gain trust after a few sessions, they can start talking.
+**Talk and listen**  
+    Start with talking to each other. Face-to-face communication is crucial. One-to-one sessions can help the manager to get precious information from a frustrated employee. Maybe not immediately but if the employees gain trust after a few sessions, they can start talking.
 
-**Quarantine**
-If you identify the person who spreads the toxic culture, you have to keep their interactions with the rest of the team members to a minimum. Revisit and document the employee’s toxic behavior. Talk to them and explain why is it not ok.
+**Quarantine**  
+    If you identify the person who spreads the toxic culture, you have to keep their interactions with the rest of the team members to a minimum. Revisit and document the employee’s toxic behavior. Talk to them and explain why is it not ok.
 
-**Evaluate and monitor**
-Evaluate each employee’s behavior regularly.
+**Evaluate and monitor**  
+    Evaluate each employee’s behavior regularly.
 
-**Assign realistic workloads**
-Be aware of how long each task takes. Ask the employees, reconsider wrong decisions.
+**Assign realistic workloads**  
+    Be aware of how long each task takes. Ask the employees, reconsider wrong decisions.
 
-**Reward**
-Let the employees recognize each other. Encourage them to express and receive appreciation from each other as frequently as possible.
+**Reward**  
+    Let the employees recognize each other. Encourage them to express and receive appreciation from each other as frequently as possible.
 
 **Same rules**  
- Treat everyone equally.
+    Treat everyone equally.
 
 ## Resources for the Toxic Team Culture
 
