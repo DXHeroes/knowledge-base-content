@@ -26,7 +26,7 @@ keywords:
 
 ## What Is a README
 
-A README is a text file that introduces a product to a user. It contains information that is needed to understand why the product is useful and to be able to use it. A README file is usually the first thing the user sees in the directory of the product. It is most commonly written in a Markdown, which is a lightweight markup language with plain text format (for more information, see Wikipedia: [Markdown](https://en.wikipedia.org/wiki/Markdown)).
+A README is a text file that introduces a product to a user. It contains information that explains why the product is useful. It also ensures that the user knows how to use the product. A README file is usually the first thing the user sees in the directory of the product. It is most commonly written in a Markdown, which is a lightweight markup language with plain text format (for more information, see Wikipedia: [Markdown](https://en.wikipedia.org/wiki/Markdown)).
 
 A README file typically includes (at least) some of the following sections:
 
