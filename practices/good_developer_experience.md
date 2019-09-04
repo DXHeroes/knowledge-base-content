@@ -3,7 +3,7 @@ slug: good-developer-experience
 aspect:
 stages:
 -
-short_description: Only a developer with a good Developer Experience (DX) can create an exceptional software. If the DX is good, it is less likely that the developers would leave the company. Keeping developers happy should be an integral part of a successful company.
+short_description: Only a developer with a good Developer Experience (DX) can create exceptional software. If the DX is good, it is less likely that the developers would leave the company. Keeping developers happy should be an integral part of a successful company.
 tags:
 - experience
 - user
@@ -26,12 +26,12 @@ keywords:
 
 ## What Is a Good Developer Experience
 
-The Developer Experience (DX) describes the experience developers have while using or working on your product. It is a package of positive and also negative feelings. In many companies, more common than dealing with DX is trying to make a User Experience (UX) as good as possible. This approach is unfortunate - developers are users too! They use your product, frameworks, tools, etc. and they have some experience from using it. It is up to you to decide if this experience is going to be a good one or a bad one. But remember, their satisfaction and happiness are crucial for the success of your project. Happy developers are necessary for creating exceptional software in the long term. By having a positive developer experience, you can ensure that your developers are happy and satisfied and are less likely to leave your team.
+The Developer Experience (DX) describes the experience developers have while using or working on your product. It is a package of positive and also negative feelings. In many companies, more common than dealing with DX is trying to make a User Experience (UX) as good as possible. This approach is unfortunate - developers are users too! They use your product, frameworks, tools, etc. and they have some experience of using it. It is up to you to decide if this experience is going to be a good one or a bad one. But remember, their satisfaction and happiness are crucial for the success of your project. Happy developers are necessary for creating exceptional software in the long term. By having a positive developer experience, you can ensure that your developers are happy and satisfied and are less likely to leave your team.
 
 We define a great DX by these four factors:
 
 1.  Fitting architecture
-		- Find a compromise between a simpler and a more complex architecture. Simple means more pain later, complex brings more pain now. Consider the size of your project and your team. A good architecture is difficult to break, has short feedback loops and it has a great introspection.
+		- Find a compromise between a simpler and more complex architecture. Simple means more pain later, complex brings more pain now. Consider the size of your project and your team. Good architecture is difficult to break, has short feedback loops and it has a great introspection.
 
 2.  Great tools
 		- Automate as much as possible. Repetitive tasks are exhausting. Automation lets your team understand the configurations.
@@ -52,17 +52,17 @@ The teams with good DX are high productive teams and they have these traits:
 -   Great sense of ownership and responsibilities
 		They are responsible for the success. Every team member should have a responsibility for the company’s success.
 
--   Common goal with the team and the company, between divisions etc.
+-   A common goal with the team and the company, between divisions, etc.
 
 -   Friendliness and honesty
-		We call it “hey bro” culture. We emphasise sincerity with great respect.
+		We call it “hey bro” culture. We emphasize sincerity with great respect.
 
 -   Allows for failure
 		Developers should be brave and take risks. But the risks should always be calculated and the developers have to be aware of how much of a boom every action can cause.
 
 Traits of culture with bad DX:
 
--   Finger pointing
+-   Finger-pointing
 		For example, team members blame each other for poor work. This is a very toxic thing but it happens a lot.
 
 -   Big penalty for a failure
@@ -74,7 +74,7 @@ Traits of culture with bad DX:
 		Unhealthy competitiveness between teams (for example, this guy was promoted because he did a better job than me)
 
 -   Diluted responsibility
-In big companies, nobody is responsible for anything. It takes balls to say: “sorry guys, I screwed up”. It is crucial to be able to take the responsibility.
+In big companies, nobody is responsible for anything. It takes balls to say: “sorry guys, I screwed up”. It is crucial to be able to take responsibility.
 
 ## Problems the Good Developer Experience Solves
 
@@ -104,7 +104,7 @@ If your developer has to stay late to finish a task, it is not only the time the
 
 -   Giving too much information to developers too soon.
 -   Giving too little information to developers when they need more.
--   Overusing processes can result into:
+-   Overusing processes can result in:
 		-   the mentality of “one size fits all”
 		-   the over-engineering tendencies
 		-   thinking that agile = an excuse to throw more work at the developers
