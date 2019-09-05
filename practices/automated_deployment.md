@@ -1,6 +1,5 @@
 ---
 slug: automated-deployment
-aspect: processes
 stages:
   - development
 short_description: An Automated Deployment is a practice that allows application to be deployed across various stages of development process - from development to production
@@ -64,9 +63,9 @@ The Automated Deployment helps your team with:
 
 ## Issues the Automated Deployment Helps to Solve
 
-- [Increased cost](/issues/increased_cost)
-- [Poor Code Quality](/issues/poor_code_quality)
-- [Meaningless Work](/issues/meaningless_work)
+- [Increased cost](/problems/increased_cost)
+- [Poor Code Quality](/problems/poor_code_quality)
+- [Meaningless Work](/problems/meaningless_work)
 - Developers vs. Opearations wars
 - No runtime version management
 - Long Feedback Loops
