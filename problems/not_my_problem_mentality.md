@@ -28,9 +28,9 @@ keywords:
   - empowerment
 ---
 
-# "Not My Problem" Mentality
+# Not My Problem Mentality
 
-## What Is a "Not My Problem" Mentality
+## What Is a Not My Problem Mentality
 
 One of the very dangerous approaches to a team work is “Not My Problem” mentality. It is not a team player’s mindset. It can endanger your team’s productivity, your relationships, the product, or, in the worst case scenarios, even lives. It is easy to walk away from a car accident thinking that someone else is going to take care of the problem. It is easy to walk away from an upset colleague without asking if they need any help. In the end, we both have a lot of work, right?
 
@@ -45,7 +45,7 @@ Basically, if you are satisfied with your job, you are more likely to help other
 
 If the team lead recognizes the “Not My Problem” mentality in the team, they should discuss it at the team meetings with the whole team. Make a step by step procedure how to deal with a problem so everyone knows how to deal with it every time it occurs. If it is something rather delicate, let the team members report the problem anonymously.
 
-## Reasons of "Not My Problem" Mentality
+## Reasons of Not My Problem Mentality
 
 - **Disengagement**  
    A feeling of a withdrawn. If you are not satisfied at work, why would you engage with other people's problems?
@@ -60,7 +60,7 @@ If the team lead recognizes the “Not My Problem” mentality in the team, they
 - **Bad team leads**  
   The team leads are not the team players at the first place. If they cannot identify themselves with the team, they can spread the “Not My Problem” mentality. The team members’ problems should be their problems as well.
 
-## Resources for "Not My Problem" Mentality
+## Resources for Not My Problem Mentality
 
 - [Medium: “It’s Not My Problem”](https://medium.com/@CS1201/it-s-not-my-problem-7cd17f6aa421)
 - [Trello: The Pitfalls of the Phrase “That's Not My Job!”](https://blog.trello.com/pitfalls-of-phrase-thats-not-my-job)
