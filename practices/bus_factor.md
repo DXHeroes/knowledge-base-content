@@ -53,28 +53,28 @@ A Bus Factor is also known as the bread truck scenario, lottery factor, truck fa
 
 ## How to Increase the Bus Factor
 
-- **Reassign**
-  Usually, the project relies on one or a few "heroes". The company has to be prepared for them to leave. Reassign the heroes to a different part of your project or to a completely different task. Their replacement will have time to ask them questions while the heroes are still part of the company. The heroes can be very useful in their new area as well.
-- **Code reviews**
-  Code review helps to find bugs and helps to ensure that other developers get familiar with your project. Also, shared responsibility creates a friendlier atmosphere.
-  For more information, see Code Reviews.
-- **Improve the level of your juniors**
+- **Reassign**  
+  Usually, the project relies on one or a few "heroes". The company has to be prepared for them to leave. Reassign the heroes to a different part of your project or to a completely different task. Their replacement will have time to ask them questions while the heroes are still part of the company. The heroes can be very useful in their new area as well.  
+- **Code reviews**  
+  Code review helps to find bugs and helps to ensure that other developers get familiar with your project. Also, shared responsibility creates a friendlier atmosphere.  
+  For more information, see [Code Review](/practices/code-review).  
+- **Improve the level of your juniors**  
   It is important to let the juniors become valuable team members as soon as possible. Do not always give complex and difficult projects to the senior developers. Juniors might spend longer time figuring the projects out, but they can always ask for help. Discussing the issues with more advanced colleagues makes juniors grow fast.
-- **Pair programming**
+- **Pair programming**  
   Fixing the bugs can be done by someone who did not write the code (if it does not need to be fixed as soon as possible).
-  For more information, see Pair Programming.
-- **Regular meetings**
+  For more information, see [Pair Programming](/practices/pair-programming).
+- **Regular meetings**  
   If your team does not do daily standups, ensure to meet all the team members from time to time to share critical information.
   For more information, see Ritual Definition.
-- **Write explicit code**
+- **Write explicit code**  
   It is very helpful if anyone can read your code. You can improve your style, structure, or naming. Also commenting is useful.
-  For more information, see Poor Code Quality.
-- **Stay close to the domain**
+  For more information, see [Poor Code Quality](/problems/poor-code-quality).
+- **Stay close to the domain**  
   You should understand your client’s domain. You can use the same vocabulary as your client to save by trying to understand what they are trying to say. Help them with the description. Write it all down in a glossary.
   For more information, see Domain Driven Design.
-- **Write tests and documentation**
+- **Write tests and documentation**  
   Functional tests help developers to understand the project very quickly. Document (at least) the main goals of your project.
-  For more information, see Software Documentation, or Performance Test.
+  For more information, see [Software Documentation](/practices/software-documentation), or [Performance Testing](/practices/performance-testing).
 
 ## Common Pitfalls of Increasing the Bus Factor
 
