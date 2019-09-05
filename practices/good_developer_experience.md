@@ -1,8 +1,12 @@
 ---
 slug: good-developer-experience
-aspect:
 stages:
--
+- research and analysis
+- building a team
+- development
+- launch
+- maintenance
+- phase out
 short_description: Only a developer with a good Developer Experience (DX) can create exceptional software. If the DX is good, it is less likely that the developers would leave the company. Keeping developers happy should be an integral part of a successful company.
 tags:
 - experience
@@ -111,7 +115,7 @@ If your developer has to stay late to finish a task, it is not only the time the
 
 ## Resources for the Good Developer Experience
 
--   [Hackernoon: The Best Practices for a Great Developer Experience (DX)](https://hackernoon.com/the-best-practices-for-a-great-developer-experience-dx-9036834382b0)
--   [Youtube: Vratislav Kalenda: The only way how to have happy & productive developers [DevFest CZ 2018]](https://www.youtube.com/watch?v=X4NSLo97Az8)
--   [Cristiano Betta: The 7 Sins of Developer Experience](https://betta.io/blog/2017/11/10/the-seven-sins-of-developer-experience/)
--   [The AppsLab: Developer Experience: What and Why](http://theappslab.com/2017/04/04/developer-experience-what-and-why/)
+-   Hackernoon: [The Best Practices for a Great Developer Experience (DX)](https://hackernoon.com/the-best-practices-for-a-great-developer-experience-dx-9036834382b0)
+-   Youtube: [Vratislav Kalenda: The only way how to have happy & productive developers [DevFest CZ 2018]](https://www.youtube.com/watch?v=X4NSLo97Az8)
+-   Cristiano Betta: [The 7 Sins of Developer Experience](https://betta.io/blog/2017/11/10/the-seven-sins-of-developer-experience/)
+-   The AppsLab: [Developer Experience: What and Why](http://theappslab.com/2017/04/04/developer-experience-what-and-why/)
