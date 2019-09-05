@@ -5,10 +5,12 @@ stages:
 short_description: Software documentation explains how the product works or how to use it. Different types of software documentation are created through the whole product development lifecycle.
 tags:
   - documentation
-  - internal
-  - external
-  - technical
+  - product
+  - information
+  - description
+  - introduction
   - writing
+  - readme
 keywords:
   - documentation
   - reference
