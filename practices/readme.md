@@ -1,6 +1,5 @@
 ---
 slug: readme
-aspect: processes
 stages:
   - 'development'
 short_description: A README is a text file that contains important information about the product. It is the first thing the user sees in the directory of the product. It helps the user to understand what does the product do and how to use it.
