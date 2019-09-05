@@ -62,19 +62,19 @@ A Bus Factor is also known as the bread truck scenario, lottery factor, truck fa
   It is important to let the juniors become valuable team members as soon as possible. Do not always give complex and difficult projects to the senior developers. Juniors might spend longer time figuring the projects out, but they can always ask for help. Discussing the issues with more advanced colleagues makes juniors grow fast.
 - **Pair programming**  
   Fixing the bugs can be done by someone who did not write the code (if it does not need to be fixed as soon as possible).
-  For more information, see [Pair Programming](119/practices/pair-programming).
+  For more information, see [Pair Programming](/practices/pair-programming).
 - **Regular meetings**  
   If your team does not do daily standups, ensure to meet all the team members from time to time to share critical information.
   For more information, see Ritual Definition.
 - **Write explicit code**  
   It is very helpful if anyone can read your code. You can improve your style, structure, or naming. Also commenting is useful.
-  For more information, see [Poor Code Quality](problems/poor-code-quality).
+  For more information, see [Poor Code Quality](/problems/poor-code-quality).
 - **Stay close to the domain**  
   You should understand your client’s domain. You can use the same vocabulary as your client to save by trying to understand what they are trying to say. Help them with the description. Write it all down in a glossary.
   For more information, see Domain Driven Design.
 - **Write tests and documentation**  
   Functional tests help developers to understand the project very quickly. Document (at least) the main goals of your project.
-  For more information, see [Software Documentation](practices/software-documentation), or [Performance Testing](/practices/performance-testing).
+  For more information, see [Software Documentation](/practices/software-documentation), or [Performance Testing](/practices/performance-testing).
 
 ## Common Pitfalls of Increasing the Bus Factor
 
