@@ -23,11 +23,11 @@ keywords:
   - startup
   - value proposition
   - value proposition canvas
-  - Design Sprint
+  - design sprint
   - user journey
   - user flow
   - wireframe
-  - Clickable Prototypee
+  - clickable prototype
   - user tests
   - ux testing
   - fail fast
