@@ -7,28 +7,27 @@ tags:
   - design sprint
   - framework
   - process
-  - product
   - validation
   - lean canvas
   - fail fast
   - mvp
   - retrospective
   - value proposition
-  - feedback
-  - decision
+  - agile events
+  - rituals
 keywords:
   - fail fast
   - value proposition
   - retrospective
-  - map
-  - sketch
-  - decision
   - prototype
   - decision maker
   - facilitator
-  - feedback
-  - challenge
-  - risks
+  - meaningless work
+  - scrum
+  - agile events
+  - scrum events
+  - agile ceremonies
+
 ---
 
 # Design Sprint
@@ -39,44 +38,47 @@ The Design Sprint is a five-phase process to get a tangible product prototype in
 
 The Design Sprint uses design thinking to reduce risks of launching a new product, service or a feature. It is a unique way how to get the feedback without going the full cycle.
 
-![Design Sprint](/files/design_sprint.png)
+![Design Sprint](/files/design_sprint.png)  
 [Wikipedia.org - Design Sprint](https://en.wikipedia.org/wiki/Design_sprint)
 
 ### Phases of the Design Sprint
 
-1. **Map**
-   Map the problems and identify the important areas to focus on. Set a long term goal.
+1.  **Map**
+        Map the problems and identify the important areas to focus on. Set a long term goal.
+2.  **Sketch**
+        Sketch down the creative ways how to solve the problem on the paper.
+3.  **Decide**
+        Remove the unfeasible ideas from the first two phases. Make a storyboard and decide what should be prototyped. The final choice is made by Decision Makers.
 
-2. **Sketch**
-   Sketch down the creative ways how to solve the problem on the paper.
+4.  **Prototype**
+        Make a realistic prototype that can be tested by potential or existing customers.
 
-3. **Decide**
-   Remove the unfeasible ideas from the first two phases. Make a storyboard and decide what should be prototyped. The final choice is made by Decision Makers.
+5.  **Test**
+        Run the user testing and get the feedback.
 
-4. **Prototype**
-   Make a realistic prototype that can be tested by potential or existing customers.
-
-5. **Test**
-   Run the user testing and get the feedback.
-
-![Phases of Design Sprint](/files/design_sprint_phases.jpeg)
-[What’s a Design Sprint and why is it important?](https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09)
+![Phases of Design Sprint](/files/design_sprint_phases.jpeg)  
+UX Planet: [What’s a Design Sprint and why is it important?](https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09)
 
 ## Why You Might Want the Design Sprint
 
 The Design Sprint process helps to:
 
-- assure the team that they are heading in the right direction.
-- understand the visions and risks. It enables the team to see the world through the customer's eyes.
-- empower every member of the team to contribute to the project.
-- save time. The number of meetings is significantly reduced.
-- save the money. The team avoids unknowns or assumptions as long as they understand the risks.
+-   assure the team that they are heading in the right direction.
+-   understand the visions and risks. It enables the team to see the world through the customer's eyes.
+-   empower every member of the team to contribute to the project.
+-   save time. The number of meetings is significantly reduced.
+-   save the money. The team avoids unknowns or assumptions as long as they understand the risks.
 
 ## Problems the Design Sprint Solves
 
-- [Bad product-market fit](/problems/bad-product-market-fit)
-- Team involvement
-- [Meaningless work](/problems/meaningless-work)
+-   [Demotivated team](/problems/demotivated-team)
+-   [Increased cost](/problems/increased-cost)
+-   [Bad product-market fit](/problems/bad-product-market-fit)
+-   [Meaningless work](/problems/meaningless-work)
+-   ["Not my problem" mentality](/problems/not-my-problem-mentality)
+-   Unhappy client
+-   [Toxic team culture](/problems/toxic-team-culture)
+-   [Disconnect Between Business and IT](/problems/disconnect-between-business-adnd-it)
 
 ## How to Implement the Design Sprint
 
@@ -88,27 +90,27 @@ The **Decision Maker** (or the Decider) has the ultimate authority to select wha
 
 The preparation is very important:
 
-- Find a good Facilitator.
-- Define the challenge (not too vague).
-- Block out the entire week for the whole team.
-- Book a room. Forbid anything that could distract the team from focusing (for example, mobile phones).
-- Distribute enough post-it notes, ensure there is a whiteboard in the room and enough markers.
-- Follow the five-step process from above.
+-   Find a good Facilitator.
+-   Define the challenge (not too vague).
+-   Block out the entire week for the whole team.
+-   Book a room. Forbid anything that could distract the team from focusing (for example, mobile phones).
+-   Distribute enough post-it notes, ensure there is a whiteboard in the room and enough markers.
+-   Follow the five-step process from above.
 
 Ensure that everyone understands what they should do during the first two phases (assign homework so they can prepare by themselves). Collect and store everything from the room (for example, collect the post-it notes, take photos of the whiteboard, etc.).
 
 ## Common Pitfalls of the Design Sprint
 
-- The Design Sprint is commonly mistaken with a workshop.
-- It is necessary to clearly define experts and targets.
-- It is important to make the goal broad enough but not too vague so that the team has enough room for coming up with new ideas.
-- The decision maker should be able to suppress their ego.
+-   The Design Sprint is commonly mistaken with a workshop.
+-   It is necessary to clearly define experts and targets.
+-   It is important to make the goal broad enough but not too vague so that the team has enough room for coming up with new ideas.
+-   The decision maker should be able to suppress their ego.
 
 ## Resources for the Design Sprint
 
-- [The Sprint book](https://www.thesprintbook.com/)
-- Thoughtbot: [The Product Design Sprint](https://thoughtbot.com/blog/the-product-design-sprint)
-- InVision: [The Design Sprint](https://www.invisionapp.com/design-defined/design-sprint)
-- GV: [The Design Sprint](https://www.gv.com/sprint/)
-- Google Products: [The Design Sprints](https://designsprintkit.withgoogle.com/introduction/overview)
-- UX Planet: [What’s a Design Sprint and why is it important?](https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09)
+-   [The Sprint book](https://www.thesprintbook.com/)
+-   Thoughtbot: [The Product Design Sprint](https://thoughtbot.com/blog/the-product-design-sprint)
+-   InVision: [The Design Sprint](https://www.invisionapp.com/design-defined/design-sprint)
+-   GV: [The Design Sprint](https://www.gv.com/sprint/)
+-   Google Products: [The Design Sprints](https://designsprintkit.withgoogle.com/introduction/overview)
+-   UX Planet: [What’s a Design Sprint and why is it important?](https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09)

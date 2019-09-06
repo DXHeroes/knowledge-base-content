@@ -9,7 +9,7 @@ tags:
   - ux/ui
   - design
   - prototyping
-  - clickable prototype
+  - Clickable Prototypee
   - prototyping
 keywords:
   - sketch
@@ -40,7 +40,7 @@ You can use the wireframes to:
 
 - see quickly if you did not forget anything.
 - make changes to the UI scheme without ruining the visual design.
-- transform it into a clickable prototype.
+- transform it into a Clickable Prototypee.
 - test the UI on users (to a limited extent).
 - test more variants of the UI on users at a low price.
 - show to the business stakeholders to ensure that their requirements are taken into account.

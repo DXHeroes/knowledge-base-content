@@ -60,17 +60,14 @@ The Guide explains the Scrum within a definition which consists of Scrum's roles
 
 ## Problems the Scrum Helps to Solve
 
-- [Demotivated team](/problems/demotivated-team)
-- [Increased cost](/problems/increased-cost)
-- [Bad product-market fit](/problems/bad-product-market-fit)
-- [Meaningless work](/problems/meaningless-work)
-- ["Not my problem" mentality](/problems/not-my-problem-mentality)
-- Unsuccessful product
-- Unnecessary functions
-- Expensive development
-- Unhappy client
-- Toxic team culture
-- Disconnection with business
+-   [Demotivated team](/problems/demotivated-team)
+-   [Increased cost](/problems/increased-cost)
+-   [Bad product-market fit](/problems/bad-product-market-fit)
+-   [Meaningless work](/problems/meaningless-work)
+-   ["Not my problem" mentality](/problems/not-my-problem-mentality)
+-   Unhappy client
+-   Toxic team culture
+-   Disconnection with business
 
 ## How to Implement Scrum
 
