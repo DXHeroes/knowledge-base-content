@@ -1,12 +1,12 @@
 ---
 slug: good-developer-experience
 stages:
-- research and analysis
-- building a team
+- research
+- building_team
 - development
 - launch
 - maintenance
-- phase out
+- phase_out
 short_description: Only a developer with a good Developer Experience (DX) can create exceptional software. If the DX is good, it is less likely that the developers would leave the company. Keeping developers happy should be an integral part of a successful company.
 tags:
 - experience
@@ -16,6 +16,7 @@ tags:
 - culture
 - communication
 - emotion
+- developer experience
 keywords:
 - experience
 - satisfaction
