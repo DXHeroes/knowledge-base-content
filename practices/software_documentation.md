@@ -32,14 +32,19 @@ There are two types of software documentation: **internal** and **external**.
 
 **Internal documentation:**
 
-- **Team documentation**: Project plans, status reports, meeting notes or anything that the team may need for work.
-- **Reference documentation**: Company’s policies, legal processes and other information for the employees about the company’s important topics. Reference documentation is usually sent by the HR department.
-- **Project documentation**: Proposals, design guidelines, roadmaps, and other information useful for product development.
+- **Team documentation**  
+  Project plans, status reports, meeting notes or anything that the team may need for work.
+- **Reference documentation**  
+  Company’s policies, legal processes and other information for the employees about the company’s important topics. Reference documentation is usually sent by the HR department.
+- **Project documentation**  
+  Proposals, design guidelines, roadmaps, and other information useful for product development.
 
 **External documentation:**
 
-- **System documentation**: Description of the code, API, and other processes that developers need for creating a specific product.
-- **End-user documentation**: Readme, installation guides, tutorials and other types of product documentation provided for the end users.
+- **System documentation**  
+  Description of the code, API, and other processes that developers need for creating a specific product.
+- **End-user documentation**  
+  Readme, installation guides, tutorials and other types of product documentation provided for the end users.
 
 ## Why You Might Want the Software Documentation
 

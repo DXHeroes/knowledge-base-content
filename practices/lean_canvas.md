@@ -1,7 +1,7 @@
 ---
 slug: lean-canvas
 stages:
-- research
+  - research
 short_description: A Lean Canvas is a 1-page chart with 9 basic building blocks. It helps to identify problems and solutions for your product.
 tags:
   - lean canvas
@@ -25,6 +25,7 @@ keywords:
   - model canvas
   - lean startup
 ---
+
 # Lean Canvas
 
 ## What Is a Lean Canvas
@@ -48,11 +49,11 @@ The whole team has to participate in creating the Lean Canvas model. All the 9 f
 
 To get the correct output, the scheme requires data from the following list of teams:
 
--   Business Team
--   Analytic Team
--   Compliance Team (for defining the customers' segment)
--   Technical Leaders
--   Product Management
+- Business Team
+- Analytic Team
+- Compliance Team (for defining the customers' segment)
+- Technical Leaders
+- Product Management
 
 ## Why You Might Want the Lean Canvas
 
@@ -64,39 +65,39 @@ Lean Canvas is also an easy tool for the team to help them understand the busine
 
 ## Problems the Lean Canvas Solves
 
--   [Demotivated team](/problems/demotivated-team)
--   [Increased cost](/problems/increased-cost)
--   [Bad product-market fit](/problems/bad-product-market-fit)
--   [Meaningless work](/problems/meaningless-work)
--   ["Not my problem" mentality](/problems/not-my-problem-mentality)
--   Unhappy client
--   [Toxic team culture](/problems/toxic-team-culture)
--   Disconnection with business
+- [Demotivated team](/problems/demotivated-team)
+- [Increased cost](/problems/increased-cost)
+- [Bad product-market fit](/problems/bad-product-market-fit)
+- [Meaningless work](/problems/meaningless-work)
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
+- Unhappy client
+- [Toxic team culture](/problems/toxic-team-culture)
+- Disconnection with business
 
 ## How to Implement the Lean Canvas
 
 The chart can be created:
 
--   as the very first step when designing a new product
--   during strategic planning sessions
--   for the whole product or business plan
--   for each product feature
--   with the team
--   with the business partners
+- as the very first step when designing a new product
+- during strategic planning sessions
+- for the whole product or business plan
+- for each product feature
+- with the team
+- with the business partners
 
 All you have to do is to get the right people from your company or/and your business partners together and fill the chart. You can use a Lean Canvas generator, such as [Canvanizer](https://canvanizer.com/) or [Leanstack](https://leanstack.com/).
 
 ## Common Pitfalls of the Lean Canvas
 
--   Make sure to fill the chart with an open mind. A common mistake is to have the conclusions already in mind and to adjust the chart to reach them.
--   Avoid refilling the chart if the conclusions are not as positive as expected.
--   Lean Canvas is commonly mistaken to be a tool only for startups. The chart can be used by a company of any size and any business approach. It was proven to be useful for documenting the product at any stage of development.
+- Make sure to fill the chart with an open mind. A common mistake is to have the conclusions already in mind and to adjust the chart to reach them.
+- Avoid refilling the chart if the conclusions are not as positive as expected.
+- Lean Canvas is commonly mistaken to be a tool only for startups. The chart can be used by a company of any size and any business approach. It was proven to be useful for documenting the product at any stage of development.
 
 ## Resources for the Lean Canvas
 
--   Leanstack: [The Lean Canvas](https://leanstack.com/leancanvas)
--   Medium: [Lean Canvas is the New Business Plan](https://medium.com/@inspire9/lean-canvas-is-the-new-business-plan-513dbfebbe8b)
--   Leanstack: [Why Lean Canvas vs Business Model Canvas?](https://blog.leanstack.com/why-lean-canvas-vs-business-model-canvas-af62c0f250f0)
--   Leanstack: [Why and How to Model a Non-profit on the Lean Canvas](https://blog.leanstack.com/why-and-how-to-model-a-non-profit-on-the-lean-canvas-514e4acf1051)
--   Leanstack: [A Lean Canvas is NOT Enough to Replace a Business Plan](https://blog.leanstack.com/a-lean-canvas-is-not-enough-to-replace-a-business-plan-36a28888b2fd)
--   Youtube: [Lean Canvas Example](https://www.youtube.com/watch?v=2nW9lg-fenY)
+- Leanstack: [The Lean Canvas](https://leanstack.com/leancanvas)
+- Medium: [Lean Canvas is the New Business Plan](https://medium.com/@inspire9/lean-canvas-is-the-new-business-plan-513dbfebbe8b)
+- Leanstack: [Why Lean Canvas vs Business Model Canvas?](https://blog.leanstack.com/why-lean-canvas-vs-business-model-canvas-af62c0f250f0)
+- Leanstack: [Why and How to Model a Non-profit on the Lean Canvas](https://blog.leanstack.com/why-and-how-to-model-a-non-profit-on-the-lean-canvas-514e4acf1051)
+- Leanstack: [A Lean Canvas is NOT Enough to Replace a Business Plan](https://blog.leanstack.com/a-lean-canvas-is-not-enough-to-replace-a-business-plan-36a28888b2fd)
+- Youtube: [Lean Canvas Example](https://www.youtube.com/watch?v=2nW9lg-fenY)

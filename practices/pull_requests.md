@@ -71,6 +71,6 @@ Pull request can also trigger CI/CD to make sure all automated tests pass before
 
 ## Resources for Pull Requests
 
-- [The art of pull request](https://hackernoon.com/the-art-of-pull-requests-6f0f099850f9)
-- [Pull requests on GitHub](https://help.github.com/articles/about-pull-requests/)
-- [Merge requests on GitLab](https://docs.gitlab.com/ee/user/project/merge_requests/)
+- Hackernoon: [The art of pull request](https://hackernoon.com/the-art-of-pull-requests-6f0f099850f9)
+- Github: [Pull requests on GitHub](https://help.github.com/articles/about-pull-requests/)
+- Gitlab: [Merge requests on GitLab](https://docs.gitlab.com/ee/user/project/merge_requests/)
