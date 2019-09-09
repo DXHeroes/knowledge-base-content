@@ -55,7 +55,7 @@ CC is usually calculated in a Continuous Integration library, for example, [GitL
 -   [Poor code quality](/problems/poor-code-quality)
 -   Unsuccessful product
 -   Unhappy clients
--   [Disconnect Between Business and IT](/problems/disconnect-between-business-adnd-it)
+-   [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 -   ["Not my problem" mentality](/problems/not-my-problem-mentality)
 -   [Meaningless work](/problems/meaningless-work)
 
