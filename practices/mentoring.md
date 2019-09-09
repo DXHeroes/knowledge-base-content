@@ -20,7 +20,6 @@ keywords:
   - leadership
   - team roles
   - agile
-  -
 ---
 
 # Mentoring
