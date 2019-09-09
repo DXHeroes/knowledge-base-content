@@ -57,7 +57,7 @@ Fail Fast is one of the main practices that the team should adopt mostly in the 
 -   Unhappy clients
 -   [Meaningless work](/problems/meaningless-work)
 -   ["Not my problem" mentality](/problems/not-my-problem-mentality)
--   [Disconnect Between Business and IT](/problems/disconnect-between-business-adnd-it)
+-   [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 -   [Poor code quality](/problems/poor-code-quality)
 -   [Toxic team culture](/problems/toxic-team-culture)
 
