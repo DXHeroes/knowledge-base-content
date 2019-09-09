@@ -48,7 +48,7 @@ A Bus Factor is also known as the bread truck scenario, lottery factor, truck fa
 -   [Meaningless work](/problems/meaningless-work)
 -   Unsuccessful product
 -   Unhappy clients
--   [Disconnect Between Business and IT](/problems/disconnect-between-business-adnd-it)
+-   [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 -   [Poor code quality](/problems/poor-code-quality)
 -   [Toxic team culture](/problems/toxic-team-culture)
 
