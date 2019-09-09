@@ -53,7 +53,7 @@ Based on text above, process of software development which uses prototyping can 
 -   [Increased cost](/problems/increased-cost)
 -   Unsuccessful product
 -   Unhappy clients
--   [Disconnect Between Business and IT](/problems/disconnect-between-business-adnd-it)
+-   [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 -   [Poor code quality](/problems/poor-code-quality)
 
 ## How to Implement the Clickable Prototype
