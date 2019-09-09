@@ -10,7 +10,7 @@ tags:
   - meaningless work
   - design sprint
   - lean canvas
-  - clickable prototypee
+  - clickable prototype
   - mvp
   - pull requests
   - retrospective
