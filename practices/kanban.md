@@ -55,7 +55,7 @@ Kanban is summarized by the premise: "Stop Starting, Start Finishing". Teams con
 -   ["Not my problem" mentality](/problems/not-my-problem-mentality)
 -   Unhappy client
 -   [Toxic team culture](/problems/toxic-team-culture)
--   [Disconnect Between Business and IT](/problems/disconnect-between-business-adnd-it)
+-   [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 
 ## How to Implement Kanban
 
