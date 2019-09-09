@@ -73,6 +73,6 @@ There is a lot of prototyping tools on the market, such as [Axure](https://www.a
 
 ## Resources for the Clickable Prototype
 
--   KFG Blog: [Why Product Clickable prototype Is Different and What Tools to Use to Make One](https://kfginternational.com/blog/product-clickable-prototype/)
+-   KFG Blog: [Why Product Clickable Prototype Is Different and What Tools to Use to Make One](https://kfginternational.com/blog/product-clickable-prototype/)
 -   Experience UX: [What Is Website Prototype?](https://www.experienceux.co.uk/faqs/what-is-a-website-prototype/)
 -   Pidoco: [Clickable Wireframe](https://pidoco.com/en/help/ux/clickable-wireframe)
