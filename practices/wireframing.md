@@ -9,7 +9,7 @@ tags:
   - ux/ui
   - design
   - prototyping
-  - Clickable Prototypee
+  - Clickable Prototype
   - prototyping
 keywords:
   - sketch
