@@ -74,7 +74,7 @@ Necessary steps to build an MVP:
         A user journey is a series of steps representing a scenario in which a user might interact with the product you are designing. You should think less about particular features and concentrate more on basic activities, such as “find T-shirt” or “receive orders”. These are the types of goals your end-users will have when they use your product.  
 4.  **Prioritized List of Features**  
         Create a list of all necessary features for each goal, prioritize them and categorize them based on priority, for example, “must-have”, “nice-to-have” and “don’t care”. Maybe it will help you if you ask yourself questions, such as “What do my customers want?” or “Do I offer them something beneficial?”  
-        **Tip:** If you want to see how your future product will look, you can even create a wireframe or Clickable Prototypee of your MVP if possible.  
+        **Tip:** If you want to see how your future product will look, you can even create a wireframe or Clickable Prototype of your MVP if possible.  
 5.  **Build, Measure, Learn**  
         After the completion of product development, the product needs to be tested. Collect the feedback from the users, measure the quality and learn, then start improving your product. The process goes on until it is finalized.  
 
