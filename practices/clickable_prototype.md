@@ -4,7 +4,7 @@ stages:
   - research
 short_description: Clickable Prototypes are interactive demos of a website or software application. These are often used to gather feedback early in the project lifecycle, before the project goes into the final stage of development.
 tags:
-  - clicable prototype
+  - clickable prototype
   - wireframing
   - mvp
   - fail fast
