@@ -77,7 +77,7 @@ The DevOps builds culture and trust in your company. It helps with sharing respo
 -   [Bad product-market fit](/problems/bad-product-market-fit)
 -   [Meaningless work](/problems/meaningless-work)
 -   [Toxic team culture](/problems/toxic-team-culture)
--   [Disconnect Between Business and IT](/problems/disconnect-between-business-adnd-it)
+-   [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 
 ## How to Implement the Devops
 
