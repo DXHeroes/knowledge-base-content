@@ -96,7 +96,7 @@ Even though the events are here to help, developers struggle to find every singl
 -   ["Not My Problem" Mentality](/problems/not-my-problem-mentality)
 -   Unsuccessful product
 -   Unhappy clients
--   [Disconnect Between Business and IT](/problems/disconnect-between-business-adnd-it)
+-   [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 -   [Toxic team culture](/problems/toxic-team-culture)
 
 ## How to Implement the Agile Events
