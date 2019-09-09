@@ -1,5 +1,5 @@
 ---
-slug: Linting
+slug: linting
 stages:
   - development
 short_description: Linting is a process of flagging programming and stylistic errors and verifying the code quality. You can also use auto fixer to get rid of the flagged errors.
