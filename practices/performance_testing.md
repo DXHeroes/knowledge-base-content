@@ -4,19 +4,24 @@ stages:
   - launch
 short_description: Performance Testing is a useful practice to verify if the product works as expected. Its goal is to identify the product's bottlenecks - what slows down the product performance.
 keywords:
-  - workload
-  - load
-  - capacity
-  - breaking point
-  - scalability
-  - bottleneck
-  - analyze
-  - evaluate
+  - performance testing
+  - code review
+  - fail fast
+  - ux/ui
+  - retrospective
+  - demotivated team
+  - feedback
+  - testing
 tags:
   - performance testing
-  - testing
-  - workload
-  - scalability
+  - maximum operating capacity
+  - meaningless work
+  - load testing
+  - stress testing
+  - endurance testing
+  - spike testing
+  - volume testing
+  - scalability testing
 ---
 
 # Performance Testing
@@ -27,7 +32,7 @@ Performance Testing is a practice that helps to identify if your product will pe
 
 Testers tend to focus more on the product’s functionality and sometimes neglect the Performance Testing. Performance Testing is an important part of the product development, even though the testers operate separately from the developers. The developers and operations run and maintain the product until it reaches the performance expectations.
 
-Types of Performance Tests:
+**Types of Performance Tests:**
 
 - **Load Testing**  
   tests how the product behaves when multiple users access it at the same time. It identifies the maximum operating capacity of a product.
@@ -42,7 +47,7 @@ Types of Performance Tests:
 - **Scalability Testing**  
   tests if the product can scale up or scale down the user load.
 
-![Performance Testing](/files/performance_testing.png)
+![Performance Testing](/files/performance_testing.png)  
 [Developedia: Software Performance Testing](https://devopedia.org/software-performance-testing)
 
 ## Why You Might Want the Performance Testing
@@ -63,20 +68,20 @@ It is very important to start with a good input. Specify what you expect from th
 
 Follow these steps:
 
-- **Identify the tools and environment**  
+- **Identify the tools and environment**
   Understand the environment where the product will be tested (hardware, software, and network configurations).
-- **Set acceptance criteria**  
+- **Set acceptance criteria**
   Set the product performance goals with all stakeholders.
-- **Plan and design tests**  
+- **Plan and design tests**
   Identify the test scenarios. Create one or two models.
-- **Configure the test environment**  
+- **Configure the test environment**
   Prepare the test environment and tools needed to monitor resources.
-- **Implement the test design**  
-  Develop performance tests.
-- **Execute the test**  
+- **Implement the test design**
+  Develop Performance Tests.
+- **Execute the test**
   Run and monitor your tests.
-- **Analyze, repair, and retest**  
-  Evaluate the data after the testing. Compare it to your expectations, repair, and run the performance tests again using different parameters.
+- **Analyze, repair, and retest**
+  Evaluate the data after the testing. Compare it to your expectations, repair, and run the Performance Tests again using different parameters.
 
 ## Common Pitfalls of the Performance Testing
 
@@ -86,9 +91,9 @@ Follow these steps:
 
 ## Resources for the Performance Testing
 
-- [Capterra: Performance Testing Software](https://www.capterra.com/performance-testing-software/)
-- [Devopedia: Software Performance Testing](https://devopedia.org/software-performance-testing)
-- [DevOps: The Art Of Software Performance Testing](https://devops.com/the-art-of-software-performance-testing/)
-- [Seguetech: What Is Software Performance Testing](https://www.seguetech.com/what-is-software-performance-testing/)
-- [TechTarget: Performance Testing](https://searchsoftwarequality.techtarget.com/definition/performance-testing)
-- [Perpetual Enigma: Why Do We Need Performance Testing?](https://prateekvjoshi.com/2013/08/21/why-do-we-need-performance-testing/)
+- Capterra: [Performance Testing Software](https://www.capterra.com/performance-testing-software/)
+- Devopedia: [Software Performance Testing](https://devopedia.org/software-performance-testing)
+- DevOps: [The Art Of Software Performance Testing](https://devops.com/the-art-of-software-performance-testing/)
+- Seguetech: [What Is Software Performance Testing](https://www.seguetech.com/what-is-software-performance-testing/)
+- TechTarget: [Performance Testing](https://searchsoftwarequality.techtarget.com/definition/performance-testing)
+- Perpetual Enigma: [Why Do We Need Performance Testing?](https://prateekvjoshi.com/2013/08/21/why-do-we-need-performance-testing/)

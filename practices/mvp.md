@@ -47,8 +47,7 @@ The key idea of MVP is that you produce the MVP version to customers and observe
 - Using iterations, you can discover a direction of development which will be optimal.
 - MVP allows you to build a basis of potential customers and find the first product users.
 
-![MVP](/files/mvp.png)
-
+![MVP](/files/mvp.png)  
 [Hackernoon.com: Mindset Change: MVP vs. SLC.](https://hackernoon.com/mindset-change-mvp-vs-slc-d087a7f87be3)
 
 ## Problems the MVP Solves
@@ -59,29 +58,28 @@ The key idea of MVP is that you produce the MVP version to customers and observe
 - [Meaningless work](/problems/meaningless-work)
 - Unsuccessful product
 - Unnecessary functions
-- Expensive development
 - Unhappy clients
 
 ## How to Implement the MVP
 
 Necessary steps to build an MVP:
 
-1. **Problem**  
-   Clarify what problem you solve and for whom. Start by putting yourself in customer’s shoes: "Why do I need this product?" and "How it can help me?"  
-   **Tip:** A practice of [Value Proposition Canvas](/practices/value-proposition) or [Design sprint](/practices/design-sprint) can help you.  
-2. **Competitor analysis**  
-   Do not forget to research what your competitors offer and how can you make your idea unique.  
-   **Tip:** There are various tools available that can help you investigate your competitor's websites or apps. One of them is Similar Web which is free and allows you to get some insights about their monthly traffic, sources of traffic, geographical location of a user and other helpful information.
-3. **User Journey**  
-   A user journey is a series of steps representing a scenario in which a user might interact with the product you are designing. You should think less about particular features and concentrate more on basic activities, such as “find T-shirt” or “receive orders”. These are the types of goals your end-users will have when they use your product.
-4. **Prioritized List of Features**  
-   Create a list of all necessary features for each goal, prioritize them and categorize them based on priority, for example, “must-have”, “nice-to-have” and “don’t care”. Maybe it will help you if you ask yourself questions, such as “What do my customers want?” or “Do I offer them something beneficial?”  
-   **Tip:** If you want to see how your future product will look, you can even create a wireframe or clickable prototype of your MVP if possible.  
-5. **Build, Measure, Learn**  
-   After the completion of product development, the product needs to be tested. Collect the feedback from the users, measure the quality and learn, then start improving your product. The process goes on until it is finalized.
+1.  **Problem**  
+     Clarify what problem you solve and for whom. Start by putting yourself in customer’s shoes: "Why do I need this product?" and "How it can help me?"  
+     **Tip:** A practice of Value Proposition Canvas or Design Sprint can help you.
+2.  **Competitor analysis**
+    Do not forget to research what your competitors offer and how can you make your idea unique.  
+     **Tip:** There are various tools available that can help you investigate your competitor's websites or apps. One of them is Similar Web which is free and allows you to get some insights about their monthly traffic, sources of traffic, geographical location of a user and other helpful information.
+3.  **User Journey**  
+     A user journey is a series of steps representing a scenario in which a user might interact with the product you are designing. You should think less about particular features and concentrate more on basic activities, such as “find T-shirt” or “receive orders”. These are the types of goals your end-users will have when they use your product.
+4.  **Prioritized List of Features**  
+     Create a list of all necessary features for each goal, prioritize them and categorize them based on priority, for example, “must-have”, “nice-to-have” and “don’t care”. Maybe it will help you if you ask yourself questions, such as “What do my customers want?” or “Do I offer them something beneficial?”  
+     **Tip:** If you want to see how your future product will look, you can even create a wireframe or Clickable Prototype of your MVP if possible.
+5.  **Build, Measure, Learn**  
+     After the completion of product development, the product needs to be tested. Collect the feedback from the users, measure the quality and learn, then start improving your product. The process goes on until it is finalized.
 
-![MVP Cycle](/files/mvp_cycle.png)
-['Lean' On Yourself: How To Experiment Your Way To An Awesome Life](https://medium.com/@Tara_Velis/lean-on-yourself-how-to-experiment-your-way-to-an-awesome-life-c8aa3365555f)
+![MVP Cycle](/files/mvp_cycle.png)  
+'Lean' On Yourself: [How To Experiment Your Way To An Awesome Life](https://medium.com/@Tara_Velis/lean-on-yourself-how-to-experiment-your-way-to-an-awesome-life-c8aa3365555f)
 
 ## Common Pitfalls of the MVP
 
@@ -96,6 +94,6 @@ Necessary steps to build an MVP:
 
 ## Resources for the MVP
 
-- [AgileAlliance.org: Minimum Viable Product (MVP)](https://www.agilealliance.org/glossary/mvp)
-- [Net Solutions: A Step-by-Step Guide to Build a Minimum Viable Product (MVP)](https://www.netsolutions.com/insights/how-to-build-an-mvp-minimum-viable-product-a-step-by-step-guide/)
-- [RubyGarage: How to Build a Minimum Viable Product (MVP)](https://rubygarage.org/blog/how-to-build-a-minimum-viable-product)
+- AgileAlliance.org: [Minimum Viable Product (MVP)](https://www.agilealliance.org/glossary/mvp)
+- Net Solutions: [A Step-by-Step Guide to Build a Minimum Viable Product (MVP)](https://www.netsolutions.com/insights/how-to-build-an-mvp-minimum-viable-product-a-step-by-step-guide/)
+- RubyGarage: [How to Build a Minimum Viable Product (MVP)](https://rubygarage.org/blog/how-to-build-a-minimum-viable-product)

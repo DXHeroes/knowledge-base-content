@@ -4,7 +4,7 @@ stages:
   - building_team
 short_description: Team roles describe interactions of the team members. The goal of defining the team roles is to make the progress of the team smoother and easier.
 tags:
-  - team
+  - team roles
   - roles
   - skills
 keywords:
@@ -21,44 +21,38 @@ keywords:
 
 ## What Is the Team Roles Definition
 
-Defining team roles and responsibilities is crucial for any project. The IT industry has a huge range of job titles which can be confusing - it is sometimes difficult to figure out what exactly each job means. Not all of them are required all the time, in every project, for every task. Every team is unique and choosing accurate roles can make your life significantly easier.
+Team roles describe interactions of the team members. The IT industry has a huge range of job titles which can be confusing - it is sometimes difficult to figure out what exactly each job means. Defining team roles and responsibilities is crucial for any project. Not all of them are required all the time, in every project, for every task. Every team is unique and choosing accurate roles can make your life significantly easier.
 
 Team roles represent a tendency to interact with others in a specific way to make the progress of the team easier. Teams need the following nine role types, according to Dr. Meredith Belbin’s "The Coming Shape Of Organization":
 
-1. **Plant**
+1. **Plant**  
    Proposes new ideas and solves difficult problems.
    Example: Director
-
-2. **Resource Investigator**
+2. **Resource Investigator**  
    Explores opportunities, handles external contact.
    Example: [Product Owner](/practices/product-owner)
-3. **Coordinator/Chairman**
+3. **Coordinator/Chairman**  
    Clarifies goals, coordinates resources.
    Example: Project Manager
-4. **Shaper**
+4. **Shaper**  
    An alternative to a coordinator. Gives coherence to team work.
-
-5. **Monitor/Evaluator**
+5. **Monitor/Evaluator**  
    Evaluates ideas, looks for different perspectives.
    Example: Test Analyst, Tester
-
-6. **Teamworker**
+6. **Teamworker**  
    Builds bridges, takes care of the team spirit
    Example: [Team Lead](/practices/team-lead), Scrum Master
-
-7. **Implementer**
+7. **Implementer**  
    Pursues the plans into practice.
    Example: Developer
-
-8. **Completer/Finisher**
+8. **Completer/Finisher**  
    Searches for errors.  
    Example: Tester, QA Manager
-
-9. **Specialist**
+9. **Specialist**  
    Provides scarce knowledge and skills.
    Example: Senior Developer
 
-![Belbin Team Roles](/files/team_roles_definition.png)
+![Belbin Team Roles](/files/team_roles_definition.png)  
 [Belbin Team Roles](https://www.prepearl.net/belbin-team-roles/)
 
 ## Why You Might Want the Team Roles
@@ -79,7 +73,7 @@ Belbin recognized that the team success depends on the behavior of the team memb
  Team roles and their responsibilities are not always necessarily static. Team members can adopt different roles at different times, team roles develop and mature.
 
 **Hiring**  
- It is important to define the roles you need in your team and then recruit, hire, train, and retain the right people. Define the roles before hiring! Look into the applicants’ qualifications, characteristics, strengths, and weeknesses. Explain clearly their responsibilities to them.
+ It is important to define the roles you need in your team and then recruit, hire, train, and retain the right people. Define the roles before hiring! Look into the applicants’ qualifications, characteristics, strengths, and weaknesses. Explain clearly their responsibilities to them.
 
 **Understanding**  
  Each team member also has to know their superiors, corresponding expectations, experience and educational requirements, team goals, and how they will be evaluated.
@@ -89,7 +83,7 @@ Belbin recognized that the team success depends on the behavior of the team memb
 
 ## Common Pitfalls of the Team Roles
 
-- A plant ignores incidentals and does not comunicate effectively.
+- A plant ignores incidentals and does not communicate effectively.
 - A resource investigator is over-optimistic and loses interest when the initial enthusiasm passes.
 - A coordinator can be seen as manipulative.
 - A sharper offends people's feelings.
