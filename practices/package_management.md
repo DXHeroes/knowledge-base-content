@@ -1,25 +1,25 @@
 ---
 slug: package-management
 stages:
-- development
+  - development
 short_description: Package management allows you to automatically download, install, and update software using remote repositories and in a consistent manner. Package managers are software tools that eliminate maintaining the software manually.
 tags:
-- package management
-- library
-- install
-- lockfile
-- git flow
-- linting
-- dockerizing
+  - package management
+  - library
+  - install
+  - lockfile
+  - git flow
+  - linting
+  - dockerizing
 keywords:
-- metadata
-- repository
-- lock file
-- lockfile
-- package management
-- semver
-- automating installing
-- automatic configuring
+  - metadata
+  - repository
+  - lock file
+  - lockfile
+  - package management
+  - semver
+  - automating installing
+  - automatic configuring
 ---
 
 # Package Management
@@ -34,30 +34,30 @@ Package Managers are necessary for installing software on Linux. This is a diffe
 
 Here are some examples of Package Managers:
 
--   [npm](https://en.wikipedia.org/wiki/Npm) and [Yarn](https://yarnpkg.com/lang/en/) for Javascript
--   [Bundler](https://bundler.io/) for Ruby
--   [Apache](https://maven.apache.org/) for Java
--   [Composer](https://getcomposer.org/) for PHP
--   [NuGet](https://www.nuget.org/) -   for .NET
--   [apk-tools](http://apk-tools.sourceforge.net/) for UNIX like RAM-based embedded systems
--   [dpkg](https://wiki.debian.org/Teams/Dpkg) for Debian (and now Ubuntu)
+- [npm](https://en.wikipedia.org/wiki/Npm) and [Yarn](https://yarnpkg.com/lang/en/) for Javascript
+- [Bundler](https://bundler.io/) for Ruby
+- [Apache](https://maven.apache.org/) for Java
+- [Composer](https://getcomposer.org/) for PHP
+- [NuGet](https://www.nuget.org/) - for .NET
+- [apk-tools](http://apk-tools.sourceforge.net/) for UNIX like RAM-based embedded systems
+- [dpkg](https://wiki.debian.org/Teams/Dpkg) for Debian (and now Ubuntu)
 
 ## Why You Might Want the Package Management
 
 Package Managers:
 
--   simplify work for developers
--   allow you to upgrade the packages very fast, you do not have to upgrade one by one
--   save the time
--   also have some advanced features -   for example, they can make a basic audit
--   can maintain the project versions (automatically upload them online) so everyone uses the newest version
--   allow you to manage someone else’s open-source code with certainty that the build is consistent within the developers and environments
+- simplify work for developers
+- allow you to upgrade the packages very fast, you do not have to upgrade one by one
+- save the time
+- also have some advanced features - for example, they can make a basic audit
+- can maintain the project versions (automatically upload them online) so everyone uses the newest version
+- allow you to manage someone else’s open-source code with certainty that the build is consistent within the developers and environments
 
 ## Problems the Package Management Solves
 
--   [Increased cost](/problems/increased-cost)
--   [Poor code quality](/problems/poor-code-quality)
--   [Meaningless work](/problems/meaningless-work)
+- [Increased cost](/problems/increased-cost)
+- [Poor code quality](/problems/poor-code-quality)
+- [Meaningless work](/problems/meaningless-work)
 
 ## How to Implement the Package Management
 
@@ -67,21 +67,21 @@ Package Managers:
 
 ## Common Pitfalls of the Package Management
 
--   The package is not specified and when the new version is published, the package breaks. You have to specify the major version at least.
--   The dependencies are not updated. Important security bugs fixes could be missing.
--   The packages are downloaded and then their code is modified by hand. The changes disappear after the next installation.
--   The dependency security audit is being ignored.
--   Many different packages are being used or each developer uses a different package. They can contain different properties and act differently.
--   Libraries needed for development are added to the global dependencies.
--   Lockfile is not respected.
+- The package is not specified and when the new version is published, the package breaks. You have to specify the major version at least.
+- The dependencies are not updated. Important security bugs fixes could be missing.
+- The packages are downloaded and then their code is modified by hand. The changes disappear after the next installation.
+- The dependency security audit is being ignored.
+- Many different packages are being used or each developer uses a different package. They can contain different properties and act differently.
+- Libraries needed for development are added to the global dependencies.
+- Lockfile is not respected.
 
 **What Is a Lockfile**
 
- A lockfile keeps the information about installed packages and it should be commited into your Package Manager source repositories. It is generated automatically for any operations. It is used for describing the dependency tree so the coworkers are guaranteed to install exactly the same dependencies. It also lets you "travel back in time" and check any former dependency tree. It allows your Package Manager to skip repeated metadata resolutions for previously-installed packages and, therefore, makes the installation much faster. Not commiting the lockfile to your source control results in installing two different modules from the same dependency definition.
+A lockfile keeps the information about installed packages and it should be commited into your Package Manager source repositories. It is generated automatically for any operations. It is used for describing the dependency tree so the coworkers are guaranteed to install exactly the same dependencies. It also lets you "travel back in time" and check any former dependency tree. It allows your Package Manager to skip repeated metadata resolutions for previously-installed packages and, therefore, makes the installation much faster. Not commiting the lockfile to your source control results in installing two different modules from the same dependency definition.
 
 ## Resources for the Package Management
 
--   freeCodeCamp: [An introduction to how JavaScript package managers work](https://www.freecodecamp.org/news/javascript-package-managers-101-9afd926add0a/)
--   Devopedia: [Package Manager](https://devopedia.org/package-manager#Linode-2017)
--   Opensource: [The evolution of package managers](https://opensource.com/article/18/7/evolution-package-managers)
--   npm Documentation: [npm-package-lock.json A manifestation of the manifest](https://docs.npmjs.com/files/package-lock.json)
+- freeCodeCamp: [An introduction to how JavaScript package managers work](https://www.freecodecamp.org/news/javascript-package-managers-101-9afd926add0a/)
+- Devopedia: [Package Manager](https://devopedia.org/package-manager#Linode-2017)
+- Opensource: [The evolution of package managers](https://opensource.com/article/18/7/evolution-package-managers)
+- npm Documentation: [npm-package-lock.json A manifestation of the manifest](https://docs.npmjs.com/files/package-lock.json)

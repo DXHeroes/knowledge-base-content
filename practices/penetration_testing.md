@@ -32,22 +32,22 @@ Penetration Testing requires experienced network security professionals with in-
 
 **Penetration Testing helps you to:**
 
--   avoid financial damage
--   improve security
--   ensure that implemented controls are effective
--   uncover hidden system vulnerabilities before the criminals do
--   maintain the company's image and the customers' trust
--   protect you and your customers
--   secure user data
--   follow regulations and certifications you might need
+- avoid financial damage
+- improve security
+- ensure that implemented controls are effective
+- uncover hidden system vulnerabilities before the criminals do
+- maintain the company's image and the customers' trust
+- protect you and your customers
+- secure user data
+- follow regulations and certifications you might need
 
 ## Problems the Penetration Testing Solve
 
--   [Poor code quality](/problems/poor-code-quality)
--   [Increased cost](/problems/increased-cost)
--   [Demotivated team](/problems/demotivated-team)
--   [Meaningless work](/problems/meaningless-work)
--   Unhappy clients
+- [Poor code quality](/problems/poor-code-quality)
+- [Increased cost](/problems/increased-cost)
+- [Demotivated team](/problems/demotivated-team)
+- [Meaningless work](/problems/meaningless-work)
+- Unhappy clients
 
 ## How to Implement the Penetration Testing
 
@@ -56,15 +56,15 @@ Penetration Testing should be a part of your software development lifecycle, not
 **Penetration Testing involves these stages:**
 
 1.  **Planning and reconnaissance**  
-        Penetration Testers define the goals of the test and find proper testing methods.
+     Penetration Testers define the goals of the test and find proper testing methods.
 2.  **Scanning**  
-        Testers analyze how the system responds to the test.
+     Testers analyze how the system responds to the test.
 3.  **Gaining access**  
-        Attack the system! Testers try to break into the system with a strategy like SQL injection, backdoors, or cross-site scripting to uncover weaknesses.
+     Attack the system! Testers try to break into the system with a strategy like SQL injection, backdoors, or cross-site scripting to uncover weaknesses.
 4.  **Maintaining exploit**  
-        How long can the tester stay in the system? Is it long enough that the actual hacker could gain deeper access?
+     How long can the tester stay in the system? Is it long enough that the actual hacker could gain deeper access?
 5.  **Analysis and configuration review**  
-        Testers make a detailed report on the performed test.
+     Testers make a detailed report on the performed test.
 
 ## Common Pitfalls of the Penetration Testing
 
@@ -74,7 +74,7 @@ If you want to do the Penetration Tests by yourself, you have to train professio
 
 ## Resources for the Penetration Testing
 
--   Tech Target: [pen test (Penetration Testing)](https://searchsecurity.techtarget.com/definition/penetration-testing)
--   Cipher: [The Types of Pentests You Must Know About](http://blog.cipher.com/the-types-of-pentests-you-must-know-about)
--   IT Governance: [Why is Penetration Testing necessary?](https://www.itgovernance.co.uk/media/press-releases/why-is-penetration-testing-necessary)
--   Cybrary: [7 Best Cyber Security Penetration Testing Tools](https://www.cybrary.it/0p3n/7-cyber-security-pentesting-tools/)
+- Tech Target: [pen test (Penetration Testing)](https://searchsecurity.techtarget.com/definition/penetration-testing)
+- Cipher: [The Types of Pentests You Must Know About](http://blog.cipher.com/the-types-of-pentests-you-must-know-about)
+- IT Governance: [Why is Penetration Testing necessary?](https://www.itgovernance.co.uk/media/press-releases/why-is-penetration-testing-necessary)
+- Cybrary: [7 Best Cyber Security Penetration Testing Tools](https://www.cybrary.it/0p3n/7-cyber-security-pentesting-tools/)

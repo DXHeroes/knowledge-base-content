@@ -83,10 +83,13 @@ Unit testing helps you with:
 
 **Unit Testing Best Practice:**
 
-- **Arrange:** Set up the test. Make mocking tests for isolationg the behavior. Use inversion of control.
+- **Arrange**  
+  Set up the test. Make mocking tests for isolationg the behavior. Use inversion of control.  
   For more information, see [DZone: Unit Testing 101: Inversion Of Control](https://www.dzone.com/articles/unit-testing-101-inversion).
-- **Act:** Run the function and run the test.
-- **Assert:** Check if the expected behavior occurred.
+- **Act**  
+  Run the function and run the test.
+- **Assert**  
+  Check if the expected behavior occurred.
 
 ## Common Pitfalls of the Unit Testing
 

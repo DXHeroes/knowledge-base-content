@@ -36,7 +36,7 @@ SemVer uses a sequence of three digits in the format of x.y.z:
 - **z stands for a patch**
   bug fixes, hot-fixes, maintenance releases, backwards compatible
 
-![Semantic Versioning](/files/semantic_versioning.png)
+![Semantic Versioning](/files/semantic_versioning.png)  
 [Geeks For Geeks: Introduction to Semantic Versioning](https://www.geeksforgeeks.org/introduction-semantic-versioning/)
 
 This example of SemVer tells you that this is the fourth major release. It has 7 minor versions with new features. It is also the sixth patch in this minor version (six versions of bug fixes).
@@ -73,9 +73,10 @@ Keep in mind, that SemVer starts at 0.1.0. Not at 0.0.1, as you might assume. Th
 - [Meaningless work](/problems/meaningless-work)
 - Unsuccessful product
 - Unnecessary functions
-- Expensive development
+- [Increased cost](/problems/increased-cost)
+- [Bad product-market fit](/problems/bad-product-market-fit)
 - Unhappy client
-- Toxic team culture
+- [Toxic team culture](problems/toxic-team-culture)
 
 ## How to Implement the Semantic Versioning
 
