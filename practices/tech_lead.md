@@ -27,7 +27,7 @@ keywords:
 
 ## Who Is a Tech Lead
 
-A tech lead (or a technical lead) is a senior leading role for a software engineer, a decision maker. A tech lead is necessary in bigger companies where the roles and skills are not very fungible. Tech leads ensure that every team member understands and follows major technical decisions. They set the programming guidelines, most used libraries and technologies. They also play a management role - they guide the team with company values and help to resolve conflicts. Tech leads also have to understand the needs of the customers and prioritize work according to those needs.
+A tech lead (or a technical lead) is a senior leading role for a software engineer, it is a decision maker. A tech lead is necessary in bigger companies where the roles and skills are not very fungible. Tech leads ensure that every team member understands and follows major technical decisions. They set the programming guidelines, most used libraries and technologies. They also play a management role - they guide the team with company values and help to resolve conflicts. Tech leads also have to understand the needs of the customers and prioritize work according to those needs.
 
 There can be one tech lead for one team or one tech lead for the back-end and another one for the front-end. The role can be performed by someone who has the most knowledge about development. It is less a formal title and more about being a natural leader of the team. The role can be shifted between different team members according to the project that the team is working on, but each project has to have one tech lead.
 

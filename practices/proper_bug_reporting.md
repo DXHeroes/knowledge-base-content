@@ -2,7 +2,7 @@
 slug: proper-bug-reporting
 stages:
   - development
-short_description: Proper bug reporting is a crucial practice for development. It helps to understand where the product lacks its functionality or performance. A bugs report is a description of bugs found by testers.
+short_description: Proper bug reporting is a crucial practice for development. It helps to understand where the product lacks its functionality or performance. Bug reports are descriptions of bugs found by testers.
 tags:
   - bug
   - reporting
@@ -26,7 +26,7 @@ keywords:
 
 ## What Is a Bug Report
 
-Bug reports are the most important tools for developers. They are created by testers who test the product. It is necessary to build an independent test environment before letting the customers use the actual product. The quality of tests and the bug reports have a huge impact on the quality of product development. The bug report should contain all the information needed to document, report, and fix problems that occurred during testing the product.
+Bug reports are descriptions of bugs found by testers - they help to understand where the product lacks its functionality or performance. Bug reports are the most important tools for developers. It is necessary to build an independent test environment before letting the customers use the actual product. The quality of tests and the bug reports have a huge impact on the quality of product development. The bug report should contain all the information needed to document, report, and fix problems that occurred during testing the product.
 
 ## Why You Might Want the Bug Reporting
 
