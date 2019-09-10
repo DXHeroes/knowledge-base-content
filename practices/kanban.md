@@ -70,7 +70,7 @@ Kanban is based on the following key principles:
 
 In addition, Kanban encourages collaboratively improving, experimental evolving, and constant learning by feedback loops.
 
-![Kanban](/files/Kanban.png)  
+![Kanban](/files/kanban.png)  
 Attlasian: [Learn Kanban with Jira Software](https://www.atlassian.com/agile/tutorials/how-to-do-kanban-with-jira-software)
 
 ## Common Pitfalls of Kanban
