@@ -76,7 +76,7 @@ Keep in mind, that SemVer starts at 0.1.0. Not at 0.0.1, as you might assume. Th
 - [Increased cost](/problems/increased-cost)
 - [Bad product-market fit](/problems/bad-product-market-fit)
 - Unhappy client
-- [Toxic team culture](problems/toxic-team-culture)
+- [Toxic team culture](/problems/toxic-team-culture)
 
 ## How to Implement the Semantic Versioning
 
