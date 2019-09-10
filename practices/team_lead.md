@@ -69,7 +69,7 @@ The typical team lead’s responsibilities and characteristics are:
 - organizing meetings
 - programming
 - solving architecture questions
-- Code Reviewing
+- Code Reviews
 - suppressing their ego to not to draw too much attention to themselves
 - decision making
 - dealing with personal conflicts
