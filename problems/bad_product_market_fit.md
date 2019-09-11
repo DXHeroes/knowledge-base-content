@@ -30,7 +30,7 @@ keywords:
 
 ## What Is a Bad Product-Market Fit
 
-It is crucial to achieve a product-market fit. It is the main goal for every company. If the company does not find the product-market fit in a reasonable time period, it could mean a bankrupt. A bad product-market fit basically means that the customers are not satisfied with your product. Mark Andreessen, a co-founder of a Silicon Valley company Andreessen Horowitz, defined the term product-market fit as "being in a good market with a product that can satisfy that market."
+Bad product-market fit means that the market does not want your product. It is crucial to achieve a product-market fit. It is the main goal for every company. If the company does not find the product-market fit in a reasonable time period, it could mean a bankrupt. A bad product-market fit basically means that the customers are not satisfied with your product. Mark Andreessen, a co-founder of a Silicon Valley company Andreessen Horowitz, defined the term product-market fit as "being in a good market with a product that can satisfy that market."
 
 ## Reasons for the Bad Product-Market Fit
 
@@ -50,7 +50,7 @@ Do you remember once gigantic company Kodak? It used to be a synonym for photogr
 
 ## Resources For the Product-Market Fit
 
-- [Forbes: How To Achieve Product-Market Fit](https://www.forbes.com/sites/hayleyleibson/2018/01/18/how-to-achieve-product-market-fit/#5f8e539a476b)
-- [PM Archive: Guide To Startups](https://pmarchive.com/guide_to_startups_part4.html)
-- [UX Planet: Understanding Product/Market Fit: From Start to Finish](https://uxplanet.org/understanding-product-market-fit-from-start-to-finish-596a4653814)
-- [Intercom: The Myths Of Product-Market Fit](https://www.intercom.com/blog/podcasts/the-myths-of-product-market-fit/)
+- Forbes: [How To Achieve Product-Market Fit](https://www.forbes.com/sites/hayleyleibson/2018/01/18/how-to-achieve-product-market-fit/#5f8e539a476b)
+- PM Archive: [Guide To Startups](https://pmarchive.com/guide_to_startups_part4.html)
+- UX Planet: [Understanding Product/Market Fit: From Start to Finish](https://uxplanet.org/understanding-product-market-fit-from-start-to-finish-596a4653814)
+- Intercom: [The Myths Of Product-Market Fit](https://www.intercom.com/blog/podcasts/the-myths-of-product-market-fit/)
