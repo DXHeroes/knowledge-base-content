@@ -36,12 +36,12 @@ keywords:
 
 ## What Is a Demotivated Team
 
-No company wants demotivated developers - it can be a disaster for the business. When there is a lack of motivation, the team members produce less and less work. The relationships change, the communication is poor. The less productive employees get easily distracted by non-work activities and they drag the rest of the team down. Lack of motivation brings apathy, unwillingness to solve problems, or poor customer service. The team can lose important team members and even clients.
+Demotivated team can be a disaster for the business - the team members produce less and less work. The relationships change, the communication is poor. The less productive employees get easily distracted by non-work activities and they drag the rest of the team down. Lack of motivation brings apathy, unwillingness to solve problems, or poor customer service. The team can lose important team members and even clients.
 
 The team leaders should observe their teams and check if they are motivated enough. Talk to them, support them, share the goals with them. There are many useful practices that can help you to motivate your team. For example, [Retrospective](/practices/retrospective), [Bus Factor](/practices/bus-factor), [Mentoring](/practices/mentoring), [Kanban](/practices/kanban), Role Definition, or [Pair Programming](/practices/pair-programming). It is worth spending time with motivating the team. It always brings success.
 
-![Demotivated Team](../files/demotivated_team.jpg)
-[Svitla: What Causes A Lack Of Motivation In Software Developers And How To Prevent It](https://svitla.com/blog/what-causes-a-lack-of-motivation-in-software-developers-and-how-to-prevent-it)
+![Demotivated Team](../files/demotivated_team.jpg)  
+Svitla: [What Causes A Lack Of Motivation In Software Developers And How To Prevent It](https://svitla.com/blog/what-causes-a-lack-of-motivation-in-software-developers-and-how-to-prevent-it)
 
 ## Reasons of the Demotivated Team
 
@@ -62,9 +62,9 @@ Many factors can affect the team motivation. An unmotivated developer's work is 
 
 ## Resources for the Demotivated Team
 
-- [Developer: Seven Tips for Motivating Software Development Teams](https://www.developer.com/mgmt/seven-tips-for-motivating-software-development-teams.html)
-- [Chron: Role of Communication in Employee Motivation](https://smallbusiness.chron.com/role-communication-employee-motivation-11914.html)
-- [Kukunu Engage: Leadership Style: Agile Vs Micromanagement](https://engage.kununu.com/en/blog/leadership-style-agile-vs-micromanagement/)
-- [Chron: How To Motivate A Highly Demotivated Team](https://smallbusiness.chron.com/motivate-highly-demotivated-team-78572.html)
-- [Svitla: What Causes A Lack Of Motivation In Software Developers And How To Prevent It](https://svitla.com/blog/what-causes-a-lack-of-motivation-in-software-developers-and-how-to-prevent-it)
-- [Cocoon Digital Media: Feeling Demotivated As A Web Developer](https://createdbycocoon.com/post/feeling-demotivated-web-developer)
+- Developer: [Seven Tips for Motivating Software Development Teams](https://www.developer.com/mgmt/seven-tips-for-motivating-software-development-teams.html)
+- Chron: [Role of Communication in Employee Motivation](https://smallbusiness.chron.com/role-communication-employee-motivation-11914.html)
+- Kukunu Engage: [Leadership Style: Agile Vs Micromanagement](https://engage.kununu.com/en/blog/leadership-style-agile-vs-micromanagement/)
+- Chron: [How To Motivate A Highly Demotivated Team](https://smallbusiness.chron.com/motivate-highly-demotivated-team-78572.html)
+- Svitla: [What Causes A Lack Of Motivation In Software Developers And How To Prevent It](https://svitla.com/blog/what-causes-a-lack-of-motivation-in-software-developers-and-how-to-prevent-it)
+- Cocoon Digital Media: [Feeling Demotivated As A Web Developer](https://createdbycocoon.com/post/feeling-demotivated-web-developer)
