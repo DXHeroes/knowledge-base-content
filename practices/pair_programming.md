@@ -48,7 +48,7 @@ Frankly, although it can be very useful, pair programming is not very popular. I
 - [Poor code quality](/problems/poor-code-quality)
 - [Increased cost](/problems/increased-cost)
 - [Demotivated team](/problems/demotivated-team)
-- [Low Bus Factor](/problems/bus-factor)
+- [Low Bus Factor](/practice/bus-factor)
 - [Meaningless work](/problems/meaningless-work)
 - ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - Knowledge hoarding
