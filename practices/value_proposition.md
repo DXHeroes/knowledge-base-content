@@ -27,7 +27,7 @@ keywords:
 
 ## What Is a Value Proposition Canvas
 
-Value Proposition Canvas is a tool that helps to understand the customers. It explains who is the customer and why the customer should care about the product. Alexander Osterwalder created the tool as an addition to his Business Model Canvas to focus more on the customer and their requirements.
+Value Proposition Canvas is a visual tool that helps to understand the customer's requirements by defining the customer segment and the value proposition. It explains who is the customer and why the customer should care about the product. Alexander Osterwalder created the tool as an addition to his Business Model Canvas to focus more on the customer and their requirements.
 
 ![Value Proposition Canvas](/files/value_proposition_canvas.png)
 [B2B International: What is the Value Proposition Canvas?](https://www.b2binternational.com/research/methods/faq/what-is-the-value-proposition-canvas/)

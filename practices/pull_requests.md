@@ -7,11 +7,12 @@ tags:
   - pull requests
   - git
   - ci/cd
-  - code review
+  - Code Review
   - teamwork
-  - continuous integration
+  - Continuous Integration
   - continuous delivery
-  - bus factor
+  - Bus Factor
+  - code review
 keywords:
   - git
   - commit
@@ -20,6 +21,7 @@ keywords:
   - code
   - quality
   - merge request
+  - meaningless work
 ---
 
 # Pull Requests
@@ -54,7 +56,7 @@ Pull request can also trigger CI/CD to make sure all automated tests pass before
 2. Adjust the workload for the team so they have enough time for doing the pull requests.
 3. Make rules on who will be reviewing what. The rules will be depending on your goals.
    - If knowledge sharing is a priority, assign the pull request to someone who does not know this part of the codebase.
-   - If a code quality is a priority, let the more senior team members do the review of the more junior members' code. Senior members can do the code review with each other.
+   - If a code quality is a priority, let the more senior team members do the review of the more junior members' code. Senior members can do the Code Review with each other.
    - If culture is especially toxic, a simple round-robin style of pull request assignment can be seen as “fair”.
    - Rules can be usually enforced by Version Control System (CVS).
 4. Demonstrate to the team the pull request flow in your CVS.
@@ -69,6 +71,6 @@ Pull request can also trigger CI/CD to make sure all automated tests pass before
 
 ## Resources for Pull Requests
 
-- [The art of pull request](https://hackernoon.com/the-art-of-pull-requests-6f0f099850f9)
-- [Pull requests on GitHub](https://help.github.com/articles/about-pull-requests/)
-- [Merge requests on GitLab](https://docs.gitlab.com/ee/user/project/merge_requests/)
+- Hackernoon: [The art of pull request](https://hackernoon.com/the-art-of-pull-requests-6f0f099850f9)
+- Github: [Pull requests on GitHub](https://help.github.com/articles/about-pull-requests/)
+- Gitlab: [Merge requests on GitLab](https://docs.gitlab.com/ee/user/project/merge_requests/)

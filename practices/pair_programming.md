@@ -4,20 +4,15 @@ stages:
   - development
 short_description: Pair programming is a technique of two programmers sharing a single workstation. The "driver" writes everything down and the "navigator" watches and makes suggestions. They switch the roles when necessary.
 tags:
-  - programming
+  - pair programming
   - sharing
-  - mentoring
-  - culture
-  - rituals
+  - Mentoring
+  - agile events
+  - code review
+  - feedback
 keywords:
   - pair programming
-  - driver
-  - pilot
-  - navigator
-  - roles
-  - remote
-  - culture
-  - rituals
+  - code review
 ---
 
 # Pair Programming
@@ -59,27 +54,27 @@ Sit in front of the same monitor and share the keyboard and mouse back and forth
 
 These are the main pair programming techniques:
 
-1. **Ping Pong**  
-   The driver writes a test for behavior and then the navigator makes the test pass. Once the test passes, the developers switch the roles.
-2. **Driver-Navigator roles**  
-   This is a looser form of the Ping Pong style. Sit in front of the same monitor and share the keyboard and mouse back and forth. In other words, switch the roles of a driver and a navigator for better results. This way both of the programmers learn to communicate.
-3. **Strong Style pairing**  
-   The driver does nothing than what the navigator tells them to do. The navigator makes all decisions. When the driver has some idea to implement, they give the keyboard to the navigator and the roles switch.
-4. **Unstructured pairing**  
-   When no specific approach is followed, the role switching happens whenever it makes sense. It works only with well-matched pairs and it helps them code even faster.
-5. **Remote pairing**  
-   Each developer works from a different computer and use software to share screens. The driver shares their screen using a conference tool (such as [Google Hangouts](https://tools.google.com/dlpage/hangoutplugin), [Skype](https://www.skype.com/), or [Webex](https://www.webex.com/)) so that the navigator can see what they are typing. Plugins for [Atom](https://atom.io/) let them share their IDE (integrated development environment) and modify the code at the same time.
+1.  **Ping Pong**  
+     The driver writes a test for behavior and then the navigator makes the test pass. Once the test passes, the developers switch the roles.
+2.  **Driver-Navigator roles**  
+     This is a looser form of the Ping Pong style. Sit in front of the same monitor and share the keyboard and mouse back and forth. In other words, switch the roles of a driver and a navigator for better results. This way both of the programmers learn to communicate.
+3.  **Strong Style pairing**  
+     The driver does nothing than what the navigator tells them to do. The navigator makes all decisions. When the driver has some idea to implement, they give the keyboard to the navigator and the roles switch.
+4.  **Unstructured pairing**  
+     When no specific approach is followed, the role switching happens whenever it makes sense. It works only with well-matched pairs and it helps them code even faster.
+5.  **Remote pairing**  
+     Each developer works from a different computer and use software to share screens. The driver shares their screen using a conference tool (such as [Google Hangouts](https://tools.google.com/dlpage/hangoutplugin), [Skype](https://www.skype.com/), or [Webex](https://www.webex.com/)) so that the navigator can see what they are typing. Plugins for [Atom](https://atom.io/) let them share their IDE (integrated development environment) and modify the code at the same time.
 
 ## Common Pitfalls of the Pair Programming
 
-- Pair programming becomes mentoring. Even if one of the programmers is more experienced, pair programming means working together and not mentoring each other. Mentoring can lead to awkwardness and frustration.
+- Pair programming becomes Mentoring. Even if one of the programmers is more experienced, pair programming means working together and not Mentoring each other. Mentoring can lead to awkwardness and frustration.
 - Overdoing it slows down the workflow. Forcing people to spend all day together in front of the same monitor is not efficient. Programmers stop working effectively after a while. 1,5 - 2,5 hours should be the ideal amount of time.
 - The programmers do not communicate effectively and only one of them is doing all the work in the end. The stronger one cannot suppress their ego. The pair programming becomes just observing a coworker how they code. To avoid this issue, it is useful to make the less experienced programmer do the writing.
 
 ## Resources for the Pair Programming
 
-- [Agile Aliance: Pair Programming](https://www.agilealliance.org/glossary/pairing/)
-- [CollabNet: Pair Programming: Agile Programming Best Practices](https://resources.collab.net/agile-101/pair-programming)
-- [Medium: How remote pair programming works and why it can change your life](https://medium.freecodecamp.org/how-remote-pair-programming-works-and-why-it-can-change-your-life-cd7b767dc60f)
-- [Hackernoon: The Pros and Cons Of Pair Programming](https://hackernoon.com/the-ultimate-guide-to-pair-programming-b606625bc784)
-- [Medium: Pair Programming Guide](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)
+- Agile Aliance: [Pair Programming](https://www.agilealliance.org/glossary/pairing/)
+- CollabNet: [Pair Programming: Agile Programming Best Practices](https://resources.collab.net/agile-101/pair-programming)
+- Medium: [How remote pair programming works and why it can change your life](https://medium.freecodecamp.org/how-remote-pair-programming-works-and-why-it-can-change-your-life-cd7b767dc60f)
+- Hackernoon: [The Pros and Cons Of Pair Programming](https://hackernoon.com/the-ultimate-guide-to-pair-programming-b606625bc784)
+- Medium: [Pair Programming Guide](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)

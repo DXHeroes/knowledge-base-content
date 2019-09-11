@@ -26,7 +26,7 @@ keywords:
 
 Unit testing is a way to test units - the smallest components of your software, the smallest piece of code. A unit can be a single function. The goal is to validate that each unit performs as it should. A unit test tests a behavior in isolation to other tests. If the test relies on an external system, it is not a unit test. Unit tests should be written during the design phase, prior to implementation to prevent defects from being deployed to production. They should be run every time the code is changed and provide a clear description of the feature being tested.
 
-Unit test coverage is a subtype of [code coverage](/problems/code-coverage) - it shows which lines of code were tested by unit tests. However, the goal is not to have a 100% unit test coverage. In fact, you should have as few unit tests as possible and cover as many types of behavior as possible. 100% unit test coverage exists only in a perfect world. While writing unit tests focus on behaviors - adding new tests just to improve coverage leads to tests without any purpose and you would be just wasting your time.
+Unit test coverage is a subtype of [Code Coverage](/problems/code-coverage) - it shows which lines of code were tested by unit tests. However, the goal is not to have a 100% unit test coverage. In fact, you should have as few unit tests as possible and cover as many types of behavior as possible. 100% unit test coverage exists only in a perfect world. While writing unit tests focus on behaviors - adding new tests just to improve coverage leads to tests without any purpose and you would be just wasting your time.
 
 Unit testing can be done manually but it is usually automated. In terms of automated tests, there is a concept called **the test pyramid** that shows how to efficiently balance the automated tests.
 
@@ -81,7 +81,7 @@ Unit testing helps you with:
 
 ## Common Pitfalls of the Unit Tests
 
-- The developer tries to reach 100% code coverage and some of the tests are useless.
+- The developer tries to reach 100% Code Coverage and some of the tests are useless.
 - There are more unit tests covering the same behavior.
 - The developer tests the code written by somebody else.
 - Unit tests are mistaken with integration tests.

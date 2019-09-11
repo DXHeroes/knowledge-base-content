@@ -36,7 +36,7 @@ keywords:
 
 ## What Is a Retrospective
 
-A retrospective is an opportunity for the team to inspect itself and create a plan for improvements to be included in the next Sprint. It is a time-boxed meeting, outside of day-to-day routine, to reflect on past events and behaviors. Retrospectives strongly correspondent with the philosophy Fail fast.
+A retrospective is an opportunity for the team to inspect itself and create a plan for improvements to be included in the next Sprint. It is a time-boxed meeting, outside of day-to-day routine, to reflect on past events and behaviors. Retrospectives strongly correspondent with the philosophy Fail Fast.
 
 The retrospective was mostly popularized by Scrum. Now it is commonly used by other agile practices, such as Extremely programming (XP), Kanban, or Lean Development. In none-agile environments, retrospectives are sometimes done after a project is finished to generate “lessons learned as a post mortem”.
 
