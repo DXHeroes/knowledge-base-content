@@ -30,10 +30,10 @@ keywords:
 
 Product Owner (PO) is responsible for maximizing the value of the product created by a Scrum Development Team. PO is the voice of the stakeholder (including customers) and defines what needs to be delivered. PO is also responsible for the Product Backlog and ensures that the backlog is visible and clear to the team. PO gives feedback to the developers and the stakeholders. PO decides what features will be in the product release in close collaboration with the developers and the customers. They do not have to be a part of just one team - if more teams work on the same project, the PO can be a member of all of those teams.
 
-![Product Owner](/files/product_owner.jpg)
+![Product Owner](/files/product_owner.jpg)  
 [Yodiz: How The Product Owner Is Crucial For The Success Of An Agile Team](https://www.yodiz.com/blog/how-the-product-owner-is-crucial-for-the-success-of-an-agile-team/)
 
-A good Product Owner should:
+**A good Product Owner should:**
 
 - have the trust of the business leader paying for the project
 - be a good communicator and should share the stakeholders’ needs with the team

@@ -9,7 +9,7 @@ tags:
   - ux/ui
   - design
   - prototyping
-  - clickable prototype
+  - Clickable Prototype
   - prototyping
 keywords:
   - sketch
@@ -40,7 +40,7 @@ You can use the wireframes to:
 
 - see quickly if you did not forget anything.
 - make changes to the UI scheme without ruining the visual design.
-- transform it into a clickable prototype.
+- transform it into a Clickable Prototype.
 - test the UI on users (to a limited extent).
 - test more variants of the UI on users at a low price.
 - show to the business stakeholders to ensure that their requirements are taken into account.
@@ -65,7 +65,7 @@ When drawing a wireframe, follow these simple rules:
 - The text can be replaced with lorem ipsum.
 - Avoid complicated pictures. Use simple objects like squares or rectangles. Instead of placing a real picture, write an "x". Instead of inserting a video, use a triangle (as a play button).
 
-![Wireframing Samples](/files/wireframing_samples.png)
+![Wireframing Samples](/files/wireframing_samples.png)  
 [Visual Paradigm: How to Draw Wireframe for Android Apps?](https://www.visual-paradigm.com/tutorials/android-wireframe.jsp)
 
 ## Common Pitfalls of Wireframing

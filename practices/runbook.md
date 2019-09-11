@@ -5,11 +5,10 @@ stages:
 short_description: A runbook is a set of standardized documents that describe how to run a computer system. It typically contains a walkthrough how to start, stop, debug and supervise the system.
 tags:
   - runbook
-  - documentation
+  - software documentation
 keywords:
   - runbook
   - playbook
-  - procedure
   - documentation
   - decision
   - timeline
