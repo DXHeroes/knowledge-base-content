@@ -28,13 +28,13 @@ keywords:
 
 # Automated Deployment
 
-## What is an Automated Deployment
+## What Is an Automated Deployment
 
 An Automated Deployment is a practice that allows you to ship code automatically (or partially automatically) across various stages of the development process - from development to production. It contributes to more efficient and reliable deployments.
 
 How do you know that the path your code has to take from development to production does not break its functionalities? To ensure that it does not happen, you should automate as much as possible. And for that, you need a deployment pipeline - the process of taking code from your version control (for example, git) and making it available to users of your application.
 
-We can classify automated deployment approaches into different categories according to the level of automation coverage across environments:
+We can classify Automated Deployment approaches into different categories according to the level of automation coverage across environments:
 
 1. **Continuous Integration**  
    Continuous Integration is a practice of daily integrating code changes. Everything that has been developed keeps integrating daily. Each integration is automatically and immediately verified and tested to detect possible errors.  
@@ -49,7 +49,7 @@ DZone: [Secure and Scalable CI/CD Pipeline With AWS](https://dzone.com/articles/
 
 ## Why You Might Want the Deployment to Be Automated
 
-The automated deployment helps your team with:
+The Automated Deployment helps your team with:
 
 - **Reducing the possibility of errors**  
   Manual deployment is error-prone. Any process involving human input introduces the possibility of errors.
@@ -82,10 +82,10 @@ Follow these steps to set up a basic deployment pipeline:
 
 ## Common Pitfalls of the Automated Deployment
 
-- **Exaggerated reliance on the automated deployment**  
-   It is always good to have an alternative strategy to avoid being stuck when your automated deployment configuration is broken.
+- **Exaggerated reliance on the Automated Deployment**  
+   It is always good to have an alternative strategy to avoid being stuck when your Automated Deployment configuration is broken.
 - **The project is too small**  
-   Implementing automated deployment can be time-consuming. Ensure that you do not spend more time implementing it than actually developing the product.
+   Implementing Automated Deployment can be time-consuming. Ensure that you do not spend more time implementing it than actually developing the product.
 - **Rigid pipeline design**  
    Rigid pipeline prevents the team from optimizing their processes. Pipeline should be structured, flexible, and able to incorporate sudden changes.
 - **Long and slow deployment pipelines**  
