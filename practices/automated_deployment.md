@@ -2,7 +2,7 @@
 slug: automated-deployment
 stages:
   - development
-short_description: An automated deployment allows an application to be deployed across various stages of the development process. It minimizes the need for manual intervention.
+short_description: An Automated Deployment allows an application to be deployed across various stages of the development process. It minimizes the need for manual intervention.
 tags:
   - continuous integration
   - continuous delivery
@@ -30,7 +30,7 @@ keywords:
 
 ## What is an Automated Deployment
 
-Automated deployment is a practice that allows you to ship code automatically (or partially automatically) across various stages of the development process - from development to production. It contributes to more efficient and reliable deployments.
+An Automated Deployment is a practice that allows you to ship code automatically (or partially automatically) across various stages of the development process - from development to production. It contributes to more efficient and reliable deployments.
 
 How do you know that the path your code has to take from development to production does not break its functionalities? To ensure that it does not happen, you should automate as much as possible. And for that, you need a deployment pipeline - the process of taking code from your version control (for example, git) and making it available to users of your application.
 
