@@ -3,7 +3,7 @@ slug: long-feedback-loops
 stages:
 - development
 - research
-short_description:
+short_description: Long feedback loops are frustrating. The goal is to make them as short as possible using the correct tooling and motivating the team. Ensure that every team member understands why are the feedback loops important.
 tags:
 - long feedback loops
 - demotivated team
@@ -32,11 +32,11 @@ With fast feedback, there is fast dealing with problems and, therefore, fast lau
 There can be various reasons:
 
 - **Ignoring the importance of feedback loops**
-- **Ignoring Agile**
+- **Ignoring Agile**  
   The Agile process was created for shortening the feedback loops. Before Agile and its famous Sprints, the feedback took even several months to get.
-- **Getting feedback only at the end of each Sprint**
+- **Getting feedback only at the end of each Sprint**  
    That is the wrong set-up. You need validation from the users as often as possible, especially during the early stages of development.
-- **Wrong tooling**
+- **Wrong tooling**  
    Specialized tools for developers are usually difficult to understand for the users. How to make their lives easier?
 
    - Create a shared space for the entire team to get the feedback you need.
@@ -47,7 +47,7 @@ There can be various reasons:
    - Use [Unit Testing](/practices/unit-testing)
    - And do not forget about [Automated Deployment](/practices/automated-deployment)!
 
-![Feedback Loops](/files/fedback-loops.png)
+![Feedback Loops](/files/feedback-loops.png)
 [Feedback Loops](https://medium.com/@iauro/move-faster-shorten-your-feedback-loops-eb00329f531)
 
 ## Reasons for the Long Feedback Loops
