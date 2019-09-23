@@ -1,10 +1,10 @@
 # DX Knowledge Base
 
-[developerexperience.io](https://developerexperience.io) is an open source knowledge base covering topics about developer experience. You are free to contribute to our curated repository
+[developerexperience.io](https://developerexperience.io) is an open source knowledge base that stores articles related to developer experience.
 
 ## Contributing
 
-Feel free to contribute to the DX Knowledge Base. If you want to contribute, please follow our [Contribution Guide](CONTRIBUTING.md).
+Feel free to contribute to DX Knowledge Base. Please follow our [Contribution Guide](CONTRIBUTING.md).
 
 ## License
 
