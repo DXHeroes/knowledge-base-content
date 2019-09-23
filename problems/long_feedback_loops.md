@@ -21,7 +21,7 @@ keywords:
 ---
 # Long Feedback Loops
 
-## What are Long Feedback Loops
+## What Are Long Feedback Loops
 
 Long Feedback Loops mean that the delay between actions and reactions increases and the team becomes frustrated and demotivated. The shorter are the feedback loops, the better.
 
