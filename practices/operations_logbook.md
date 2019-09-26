@@ -1,9 +1,10 @@
 ---
-Slug: operations-logbook
+Slug: 
+  - operations-logbook
 stages:
   - maintenance
   - development
-short_description: Operations Logbook allows you to collect, store, and share data in real time and dig your historical data easily.
+short_description: Operations Logbook allows you to collect, store, and share data in real time and dig your historical data easily. Record every incident and every important event related to your project.
 tags:
   - operations logbook
   - software documentation
