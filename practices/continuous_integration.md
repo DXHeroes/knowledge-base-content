@@ -32,6 +32,10 @@ keywords:
 
 # Continuous Integration
 
+## TL;DR
+
+Continuous Integration lets you integrate code changes into a shared repository routinely and frequently. Follow these simple rules to make a habit of it.
+
 ## What Is a Continuous Integration
 
 Continuous Integration (CI) is a practice of daily integrating code changes. Everything that has been developed keeps integrating together on a daily basis. Each integration is automatically and immediately verified and tested to detect any possible errors.

@@ -6,7 +6,9 @@ short_description: Unit tests are a foundation of your testing. They test the sm
 tags:
   - testing
   - quality
-  - Code Coverage
+  - code coverage
+  - continuous integration
+  - staged rollout
 keywords:
   - units
   - Code Coverage
@@ -67,7 +69,13 @@ Unit testing helps you with:
 - [Increased cost](/problems/increased-cost)
 - [Meaningless work](/problems/meaningless-work)
 - [Demotivated team](/problems/demotivated-team)
-- Insufficient performance
+- [Bad Product-Market Fit](/problems/bad-product-market-fit)
+- [Demotivated Team](/problems/demotivated-team)
+- Unsuccessful Product
+- Unhappy Clients
+- [Poor Code Quality](/problems/poor-code-quality)
+- [Increased Cost](/problems/increased-cost)
+- [Meaningless Work](/problems/meaningless-work)
 
 ## How to Implement the Unit Testing
 

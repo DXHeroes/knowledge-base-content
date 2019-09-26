@@ -6,6 +6,13 @@ short_description: The Waterfall methodology is a linear project management appr
 tags:
   - waterfall
   - project management
+  - agile events
+  - design sprint
+  - scrum
+  - kanban
+  - mvp
+  - feedback
+  - backlog
 keywords:
   - project management
   - agile
@@ -56,7 +63,7 @@ The Waterfall model follows several phases in the sequential order:
 
 All these phases are cascaded to each other, flowing steadily downwards (like a waterfall) through the phases. You can move to the next phase if the previous one is successfully completed. Usually, you could not revert back to the previous phase perform any change. The phases also do not overlap.
 
-![Waterfall](/files/waterfall.png)
+![Waterfall](/files/waterfall.png)  
 [Testing Freak: What is Waterfall Model in Software Testing and What are Advantages and Disadvantages of Waterfall Model](http://testingfreak.com/waterfall-model-software-testing-advantages-disadvantages-waterfall-model/)
 
 ## Common Pitfalls of Waterfall

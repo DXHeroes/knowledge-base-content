@@ -51,7 +51,7 @@ Package Managers:
 - save the time
 - also have some advanced features - for example, they can make a basic audit
 - can maintain the project versions (automatically upload them online) so everyone uses the newest version
-- allow you to manage someone else’s open-source code with certainty that the build is consistent within the developers and environments
+- allow you to manage someone else’s open source code with certainty that the build is consistent within the developers and environments
 
 ## Problems the Package Management Solves
 
@@ -61,9 +61,9 @@ Package Managers:
 
 ## How to Implement the Package Management
 
-1.  Usually, the user requests a package using the Package Manager (PM).
-2.  The PM finds and downloads the required package from a software repository. Those repositories are available online and every PM has associated configuration files that point to repository location.
-3.  The PM installs the package and advises necessary manual steps.
+1. Usually, the user requests a package using the Package Manager (PM).
+2. The PM finds and downloads the required package from a software repository. Those repositories are available online and every PM has associated configuration files that point to repository location.
+3. The PM installs the package and advises necessary manual steps.
 
 ## Common Pitfalls of the Package Management
 

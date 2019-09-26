@@ -10,6 +10,7 @@ tags:
   - framework
   - design sprint
   - bad product market fit
+  - visualization
 keywords:
   - jobs
   - pain

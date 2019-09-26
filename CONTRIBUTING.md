@@ -82,6 +82,7 @@ Example article: [pull request](https://github.com/DXHeroes/knowledge-base/blob/
     - used for [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization)
     - max. 10 keywords
 - **markdown content**
+
   - everything behind the second `---`
   - **headlines**
 

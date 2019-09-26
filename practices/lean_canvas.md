@@ -12,6 +12,7 @@ tags:
   - feedback
   - mvp
   - visualization
+  - rituals
 
 keywords:
   - lean canvas
@@ -28,6 +29,10 @@ keywords:
 
 # Lean Canvas
 
+## TL;DR
+
+Print this chart, fill the 9 fields and you are ready to build a successful product.
+
 ## What Is a Lean Canvas
 
 Lean Canvas is a very useful visual planning method - it is basically a big chart with 9 fields describing the key assumptions of your business model. It is used for creating a new product or for developing an existing one. It helps you identify the uncertainties and risks. It can be used for the whole product and also for each product feature. Lean Canvas was created by Ash Maurya as a development of the Business Model Canvas.
@@ -37,15 +42,15 @@ The whole team has to participate in creating the Lean Canvas model. All the 9 f
 ![Lean Canvas](/files/lean_canvas.png)
 [Leanstack: What Is The Right Fill Order For A Lean Canvas?](https://blog.leanstack.com/what-is-the-right-fill-order-for-a-lean-canvas-f8071d0c6c8c)
 
-1.  Problem
-2.  Customer segment
-3.  Unique value proposition
-4.  Solution
-5.  Unfair advantage
-6.  Revenue streams
-7.  Cost structure
-8.  Key metrics
-9.  Channels
+1. Problem
+2. Customer segment
+3. Unique value proposition
+4. Solution
+5. Unfair advantage
+6. Revenue streams
+7. Cost structure
+8. Key metrics
+9. Channels
 
 To get the correct output, the scheme requires data from the following list of teams:
 

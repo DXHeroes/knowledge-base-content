@@ -27,6 +27,10 @@ keywords:
 
 # Bus Factor
 
+## TL;DR
+
+A Bus Factor measures the minimum number of team members who have to be hit by a bus to put the project in jeopardy. How to increase your Bus Factor as much as possible? Read for more!
+
 ## What Is a Bus Factor
 
 A Bus Factor defines the number of developers that are vital to a project. If something happens to them (they get hit by a bus), the project is in danger. To get hit by a bus is probably a little extreme. Consider another scenario: if a key team member takes a long vacation, the project can be easily put at risk. The goal is to increase the Bus Factor as much as possible. The best way to increase the number is by sharing the knowledge inside and outside your team.
@@ -50,6 +54,7 @@ A Bus Factor is also known as the bread truck scenario, lottery factor, truck fa
 - Unhappy clients
 - [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 - [Poor code quality](/problems/poor-code-quality)
+- [Demotivated Team](/problems/demotivated-team)
 - [Toxic team culture](/problems/toxic-team-culture)
 
 ## How to Increase the Bus Factor

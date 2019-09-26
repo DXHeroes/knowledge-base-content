@@ -31,6 +31,10 @@ keywords:
 
 # Good Developer Experience
 
+## TL;DR
+
+Do not forget to make your developers happy!
+
 ## What Is a Good Developer Experience
 
 The Developer Experience (DX) describes the experience developers have while using or working on your product. It is a package of positive and also negative feelings. In many companies, more common than dealing with DX is trying to make a User Experience (UX) as good as possible. This approach is unfortunate - developers are users too! They use your product, frameworks, tools, etc. and they have some experience of using it. It is up to you to decide if this experience is going to be a good one or a bad one. But remember, their satisfaction and happiness are crucial for the success of your project. Happy developers are necessary for creating exceptional software in the long term. By having a positive developer experience, you can ensure that your developers are happy and satisfied and are less likely to leave your team.
@@ -75,12 +79,17 @@ We define a great DX by these four factors:
 
 ## Problems the Good Developer Experience Solves
 
-- [Poor code quality](/problems/poor-code-quality)
-- ["Not my problem" mentality](/problems/not-my-problem-mentality)
-- [Meaningless work](/problems/meaningless-work)
-- Unhappy clients
-- [Toxic team culture](problems/toxic-team-culture)
 - Knowledge hoarding
+- [Bad Product-Market Fit](/problems/bad-product-market-fit)
+- [Demotivated Team](/problems/demotivated-team)
+- ["Not My Problem" Mentality](/problems/not-my-problem-mentality)
+- Unsuccessful Product
+- Unhappy Clients
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
+- [Toxic Team Culture](/problems/toxic-team-culture)
+- [Poor Code Quality](/problems/poor-code-quality)
+- [Increased Cost](/problems/increased-cost)
+- [Meaningless Work](/problems/meaningless-work)
 
 ## How to Implement the Good Developer Experience
 

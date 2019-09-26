@@ -45,21 +45,16 @@ Keep in mind, that SemVer starts at 0.1.0. Not at 0.0.1, as you might assume. Th
 **The Three Phases of SemVer:**
 
 1. **Initial Development**
-
-- Major version zero (0.y.z.) is for initial product development.
-- The public API is not stable and anything may change during this phase.
-- Keeping major version at zero lets everyone know that the software is not production-ready yet.
-
+   - Major version zero (0.y.z.) is for initial product development.
+   - The public API is not stable and anything may change during this phase.
+   - Keeping major version at zero lets everyone know that the software is not production-ready yet.
 2. **Pre-release**
-
-- A lot of tests and code changes are done during this product version. A pre-release version is for testing that everything is ok and ready to release.
-- This version is still not production-ready.
-- Add a hyphen and identifier at the end of the version number. For example, a pre-release for version 1.0.0 could be 1.0.0-alpha.1. When you need another build, it becomes 1.0.0-alpha.2, and so on.
-
+   - A lot of tests and code changes are done during this product version. A pre-release version is for testing that everything is ok and ready to release.
+   - This version is still not production-ready.
+   - Add a hyphen and identifier at the end of the version number. For example, a pre-release for version 1.0.0 could be 1.0.0-alpha.1. When you need another build, it becomes 1.0.0-alpha.2, and so on.
 3. **Production**
-
-- When the public API is stable and the product is ready, you can release the major software version (1.y.z).
-- Version numbers in this phase are equal to releases.
+   - When the public API is stable and the product is ready, you can release the major software version (1.y.z).
+   - Version numbers in this phase are equal to releases.
 
 ## Why You Might Want the Semantic Versioning
 
@@ -95,7 +90,7 @@ To use SemVer efficiently, follow these steps:
 
 ## Resources for the Semantic Versioning
 
-- [Geeks For Geeks: Introduction to Semantic Versioning](https://www.geeksforgeeks.org/introduction-semantic-versioning/)
-- [Sitepoint: Semantic Versioning: Why You Should Be Using it](https://www.sitepoint.com/semantic-versioning-why-you-should-using/)
-- [Jering: Semantic Versioning in Practice](https://www.jering.tech/articles/semantic-versioning-in-practice)
-- [Medium: A brief guide to Semantic Versioning](https://medium.com/@jameshamann/a-brief-guide-to-semantic-versioning-c6055d87c90e)
+- Geeks For Geeks: [Introduction to Semantic Versioning](https://www.geeksforgeeks.org/introduction-semantic-versioning/)
+- Sitepoint: [Semantic Versioning: Why You Should Be Using it](https://www.sitepoint.com/semantic-versioning-why-you-should-using/)
+- Jering: [Semantic Versioning in Practice](https://www.jering.tech/articles/semantic-versioning-in-practice)
+- Medium: [A brief guide to Semantic Versioning](https://medium.com/@jameshamann/a-brief-guide-to-semantic-versioning-c6055d87c90e)

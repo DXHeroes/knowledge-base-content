@@ -16,11 +16,9 @@ tags:
   - retrospective
   - scrum
   - value proposition
-  - wireframing
-  - increased cost
-  - bad product market fit
   - penetration testing
   - good developer experience
+  - proper bug reporting
 keywords:
   - fail fast
   - research
@@ -35,18 +33,26 @@ keywords:
 
 # Fail Fast
 
+## TL;DR
+
+Does your idea have a value? Do you want to reduce your debugging effort? Adopt Fail Fast Philosophy!
+
 ## What Is a Fail Fast Philosophy
 
-Fail Fast is a method or a philosophy that is used during a recurrent approach (such as testing and incremental development) to determine whether an idea has a value for the client or the solution. An important goal of this Lean principle is to minimize losses when testing reveals something is not working and quickly try something else, a concept known as pivoting.
+Debugging can be very annoying. How to avoid as many bugs as possible? Try Fail Fast technique - create code that tries to fail as soon as possible. Software that fails immediately and visibly helps you to find and fix bugs easier.
+
+Another part of the Fail Fast Philosophy is this: if you think that your project is likely to fail, stop all the work immediately rather than continue with possible flaws. This is known as **pivoting** - quickly changing directions, just like in basketball.
 
 ![Fail Fast](/files/fail_fast.jpg)  
 [Hackermoon.com: Fail Fast, iterate and pivot](https://hackernoon.com/fail-fast-iterate-and-pivot-8d00d6c00836)
 
 ## Why You Might Want to Fail Fast
 
-Iteration is the most effective way how to go forward. It may help you validate fast your vision with real clients and prepare a really useful application or concept.
+Iteration is the most effective way how to go forward. It may help you to validate fast your vision with real clients and prepare a really useful application or concept.
+
 The main philosophy of the Fail Fast principle is to avoid or reduce the sunk cost effect which is often caused by the effort to develop a product that simply does not work.
 The whole problem stems from the natural human nature of continuing to do meaningless work because of the internal guilt of failure.
+
 Fail Fast is one of the main practices that the team should adopt mostly in the Research phase. Conversely, the correct application of this principle can connect the team and allow it to focus on substantial solutions to real problems. Often, when applying this principle, teams also report an increase in motivation and relief from the opportunity of finding a truly meaningful product development path.
 
 ## Problems the Fail Fast Philosophy Helps to Solve
@@ -101,3 +107,4 @@ Always look at the fail-fast philosophy as on the positive way how to improve yo
 ## Resources for the Fail Fast Philosophy
 
 - DZone.com: [The Fail-Fast Principle in Software Development](https://dzone.com/articles/fail-fast-principle-in-software-development)
+- Martin Fowler: [Fail Fast](https://www.martinfowler.com/ieeeSoftware/failFast.pdf)

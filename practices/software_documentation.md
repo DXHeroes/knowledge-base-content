@@ -4,6 +4,7 @@ stages:
   - 'development'
 short_description: Software documentation explains how the product works or how to use it. Different types of software documentation are created through the whole product development lifecycle.
 tags:
+  - software documentation
   - documentation
   - product
   - information
@@ -12,14 +13,11 @@ tags:
   - writing
   - readme
 keywords:
-  - documentation
+  - software documentation
   - reference
-  - project
-  - external
-  - internal
-  - system
+
   - end-user
-  - standards
+  - roadmaps
 ---
 
 # Software Documentation
@@ -62,8 +60,9 @@ Software documentation helps:
 - ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - [Meaningless work](/problems/meaningless-work)
 - Unhappy clients
-- Toxic team culture
+- [Toxic team culture](/problems/toxic-team-culture)
 - Knowledge hoarding
+- [Long Feedback Loops](/problems/long-feedback-loops)
 
 ## How to Implement the Software Documentation
 

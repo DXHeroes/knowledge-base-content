@@ -7,18 +7,17 @@ tags:
   - code review
   - pull requests
   - feedback
-  - teamwork
-  - code
-  - testing
   - rituals
   - meaningless work
   - feedback
-  - linter
+  - linting
   - code coverage
   - mvp
   - pair programming
   - penetration testing
   - good developer experience
+  - proper bug reporting
+  - fail fast
 keywords:
   - code
   - pull request
@@ -30,6 +29,10 @@ keywords:
 ---
 
 # Code Review
+
+## TL;DR
+
+Code Review is an important practice for checking each other's code. The goal is to uncover potential mistakes that could slip through testing.
 
 ## What Is a Code Review
 
@@ -76,14 +79,14 @@ Code Reviewing is a very important tool for developing process. It improves code
 
 **8 tips for Code Reviewing:**
 
-1.  Know what to look for and ensure that you understand what the code does
-2.  Test the code before Code Reviews
-3.  Do not review for more than 60 minutes at a time or you lose focus
-4.  Review fewer than 400 lines at a time
-5.  Set goals and expectations
-6.  Automate what can be automated with the right tools
-7.  Establish a systematic method of how to fix mistakes
-8.  Give feedback that helps rather than just criticize
+1. Know what to look for and ensure that you understand what the code does
+2. Test the code before Code Reviews
+3. Do not review for more than 60 minutes at a time or you lose focus
+4. Review fewer than 400 lines at a time
+5. Set goals and expectations
+6. Automate what can be automated with the right tools
+7. Establish a systematic method of how to fix mistakes
+8. Give feedback that helps rather than just criticize
 
 ## Common Pitfalls of the Code Review
 
@@ -95,7 +98,7 @@ Code Reviewing is a very important tool for developing process. It improves code
 - The team spends too much time with Code Reviewing when the author creates a pull request for every little code change. Ensure to create pull requests for important code changes.
 - If the reviewer does not do the Code Review immediately, they can lose track.
 
-##Resources for the Code Review
+## Resources for the Code Review
 
 - Perforce: [9 Best Practices for Code Reviews](https://www.perforce.com/blog/qac/9-best-practices-code-reviews)
 - Smartbear: [Resources: Code Review](https://smartbear.com/learn/code-review/)

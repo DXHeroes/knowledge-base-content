@@ -15,6 +15,7 @@ tags:
   - feedback
   - meaningless work
   - visualization
+  - good developer experience
 keywords:
   - agile
   - scrum
@@ -30,6 +31,10 @@ keywords:
 ---
 
 # Kanban
+
+## TL;DR
+
+Learn about a famous agile method with a Japanese name Kanban. It helps your team to concentrate on finishing their tasks and to avoid the "bottleneck effect".
 
 ## What Is Kanban
 
@@ -53,7 +58,7 @@ Kanban is summarized by the premise: "Stop Starting, Start Finishing". Teams con
 - [Bad product-market fit](/problems/bad-product-market-fit)
 - [Meaningless work](/problems/meaningless-work)
 - ["Not my problem" mentality](/problems/not-my-problem-mentality)
-- Unhappy client
+- Unhappy Clients
 - [Toxic team culture](/problems/toxic-team-culture)
 - [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 
@@ -66,7 +71,7 @@ Kanban is based on the following key principles:
 - **Limit of work in progress (WIP)**  
    Teams do not start too many work issues at once. It helps to keep the workflow in the balance.
 - **Manage workflow**  
-   The typical Kanbal practice is also explicit policies, such as WIP limits, acceptance criteria, or clear definition of the flow. For example, when something is finished, the next highest item from the backlog will be picked out.
+   The typical Kanban practice is also explicit policies, such as WIP limits, acceptance criteria, or clear definition of the flow. For example, when something is finished, the next highest item from the backlog will be picked out.
 
 In addition, Kanban encourages collaboratively improving, experimental evolving, and constant learning by feedback loops.
 

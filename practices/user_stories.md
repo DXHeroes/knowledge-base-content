@@ -8,6 +8,8 @@ tags:
   - framework
   - documentation
   - design sprint
+  - visualization
+  -
 keywords:
   - teamwork
   - functionality
@@ -66,10 +68,11 @@ Why not just break the epic into steps? Why bother with creating the user storie
 - [Meaningless work](/problems/meaningless-work)
 - ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - Unnecessary functions
-- Expensive development
 - Unhappy clients
-- Toxic team culture
-- Disconnection with business
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
+- [Toxic Team Culture](/problems/toxic-team-culture)
+- [Poor Code Quality](/problems/poor-code-quality)
+- [Increased Cost](/problems/increased-cost)
 
 ## How to Implement User Stories
 

@@ -28,6 +28,10 @@ keywords:
 
 Also known as Merge Requests.
 
+## TL;DR
+
+Pull requests tell other team members that you changed something in the code and pushed the change to a branch in a git repository.
+
 ## What Is a Pull Request
 
 A pull request is a practice of getting feedback from other programmers and deciding to "merge" or "do not merge" the code before it is merged into the main codebase.
@@ -47,8 +51,12 @@ Pull request can also trigger CI/CD to make sure all automated tests pass before
 ## Problems the Pull Request Helps to Solve
 
 - [Poor code quality](/problems/poor-code-quality)
+- [Demotivated Team](/problems/demotivated-team)
 - Knowledge hoarding
 - Toxic team culture
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
+- [Meaningless work](/problems/meaningless-work)
+- [Toxic team culture](/problems/toxic-team-culture)
 
 ## How to Implement the Pull Requests
 

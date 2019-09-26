@@ -2,7 +2,7 @@
 slug: code-coverage
 stages:
   - development
-short_description: Code Coverage measures the percentage of source code lines that are covered by automated tests.
+short_description: Code Coverage measures the percentage of source code lines that are covered by automated tests. If you have 90% CC, it means that 10% of the source code is not being tested at the moment.
 tags:
   - code coverage
   - mvp
@@ -10,12 +10,11 @@ tags:
   - testing
   - unit testing
   - integration testing
-  - code review
-  - linter
-  - feedback
-  - code reviews
-  - continuous integration
+  - penetration testing
+  - performance testing
   - good developer experience
+  - fail fast
+  - code review
 keywords:
   - code coverage
   - reporting
@@ -30,6 +29,10 @@ keywords:
 ---
 
 # Code Coverage
+
+## TL;DR
+
+How many lines of your code are covered by automated tests? Did you miss any by accident? Use Code Coverage to check it out!
 
 ## What Is a Code Coverage
 

@@ -36,6 +36,10 @@ keywords:
 
 # Devops
 
+## TL;DR
+
+DevOps is a set of practices that brings development and operations teams together. Read how to make them collaborate and, therefore, deliver software much faster.
+
 ## What Is a Devops
 
 DevOps is a set of practices that combines the work of two teams: software development (Dev) and information technology operations (Ops). These two teams usually work separately, which is not always efficient. If they implement the DevOps strategy and start to collaborate, they can build, test and release software much faster and safer. DevOps is both technology and a culture change, it can be difficult to implement it. The teams have a DevOps Engineer to help them with this change and with the collaboration.
@@ -44,19 +48,16 @@ DevOps is a set of practices that combines the work of two teams: software devel
 
 The DevOps Engineer can be originally from one of the teams. After the implementation of the DevOps strategy, they become part of the other team as well. The role needs someone with hard and soft skills to blur the barriers between the teams.
 
-### Skills the DevOps Engineer Needs
+**Skills the DevOps Engineer Needs:**
 
-**Soft Skills**
-
-- Especially communication skills - they have to be able to explain complex situations
-- They need empathy to be able to talk to both teams
-- They have to be good problem solvers
-
-**Understanding of tools and technologies**
-They have to understand what tools or programs the developers use
-
-**Knowledge of coding**
-At least a basic knowledge of coding is necessary
+- **Soft Skills**
+  - Especially communication skills - they have to be able to explain complex situations
+  - They need empathy to be able to talk to both teams
+  - They have to be good problem solvers
+- **Understanding of tools and technologies**
+  - They have to understand what tools or programs the developers use
+- **Knowledge of coding**
+  - At least a basic knowledge of coding is necessary
 
 **Flexibility**
 The DevOps Engineer has to be time flexible. Sometimes problems in different fields rely on them. It is necessary to be able to cover it all.
@@ -71,9 +72,7 @@ The DevOps builds culture and trust in your company. It helps with sharing respo
 - [Demotivated team](/problems/demotivated-team)
 - ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - Developer vs Operations wars
-- Overwhelmed operations
-- Long feedback loops
-- Long incident resolution times
+- [Long feedback loops](/problems/long-feedback-loops)
 - [Increased cost](/problems/increased-cost)
 - [Bad product-market fit](/problems/bad-product-market-fit)
 - [Meaningless work](/problems/meaningless-work)

@@ -2,7 +2,7 @@
 slug: clickable-prototype
 stages:
   - research
-short_description: Clickable Prototypes are interactive demos of a website or software application. These are often used to gather feedback early in the project lifecycle, before the project goes into the final stage of development.
+short_description: Clickable Prototypes are interactive demos of a website or a software application. These are often used to gather feedback early in the project lifecycle, before the project goes into the final stage of development.
 tags:
   - clickable prototype
   - wireframing
@@ -14,6 +14,7 @@ tags:
   - demotivated team
   - feedback
   - good developer experience
+  - visualization
 keywords:
   - prototyping
   - ux tests
@@ -26,6 +27,10 @@ keywords:
 
 # Clickable Prototype
 
+## TL;DR
+
+Get feedback on your product by creating a Clickable Prototype! Read how to create an efficient one.
+
 ## What Is a Clickable Prototype
 
 A Clickable Prototype shows a visual representation of the user interface of a website or software application. Unlike static wireframes or mockups, it can show more than one state of the application - for example, a drop-down menu may appear. The interactive experience is very similar to a finalized application.
@@ -37,13 +42,16 @@ Openclassrooms: [Create and test your clickable prototype](https://openclassroom
 
 ## Why You Might Want the Clickable Prototype
 
-A Clickable Prototype is used as a presentation of the various project stakeholders to gather more accurate feedback (typically via UX tests) from:
+A Clickable Prototype is used as a presentation of the future product to gather more accurate feedback (typically via UX tests) from:
 
-- Product owners/decision makers choose what is in and out of scope and what is part of MVP. Clickable Prototypes help to generate support, gain agreement or even investment for the project.
-- Developers better understand the product. A prototype may reduce misunderstanding between developers and product owners or UX experts.
-- End users get better product. By using prototyping as an agile tool it is possible to test theories and ideas (for example, design or layout of the website). Prototypes helps prevent changes on the finalized product.
+- **Product owners/decision makers**  
+  They choose what is in and out of scope and what is part of [MVP](/practices/mvp). Clickable Prototypes help to generate support, gain agreement or even investment for the project.
+- **Developers**  
+  It helps them to better understand the product. A prototype may reduce misunderstanding between developers and product owners or UX experts.
+- **End users**  
+   It lets them realize what they want. By using prototyping as an agile tool it is possible to test theories and ideas (for example, design or layout of the website). Prototypes helps prevent changes on the finalized product.
 
-Based on text above, process of software development which uses prototyping can be faster and more cost-effective than programming.
+Based on the text above, process of software development which uses prototyping can be faster and more cost-effective than programming.
 
 ## Problems the Clickable Prototype Solves
 
@@ -53,6 +61,7 @@ Based on text above, process of software development which uses prototyping can 
 - Unhappy clients
 - [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 - [Poor code quality](/problems/poor-code-quality)
+- [Bad Product-Market Fit](/problems/bad-product-market-fit)
 
 ## How to Implement the Clickable Prototype
 
@@ -64,10 +73,14 @@ There is a lot of prototyping tools on the market, such as [Axure](https://www.a
 
 ## Common Pitfalls of Clickable Prototype
 
-- A Clickable Prototype usually clarifies communication between decision makers and the rest of the team. Sometimes it can conversely cause a slowdown of development, for example UX specialist/prototyper is on the other end of the globe than product owner and developer. Communication can be in this case very difficult.
-- It follows the point above: sometimes can be programming cheaper and faster than prototyping and a paper or blackboard wireframe might be sufficient. Consider whether it is necessary.
-- The level of detail of the Clickable Prototypes should depend on the type of project. For example, a prototype for usability testing may be more closer to the reality than for presentation on management board.
-- Stakeholders sometimes think the product is done. Make sure that they have enough information.
+- **Slowdown**  
+  A Clickable Prototype usually clarifies communication between decision makers and the rest of the team. Sometimes it can conversely cause a slowdown of development, for example UX specialist/prototyper is on the other end of the globe than product owner and developer. Communication can be in this case very difficult.
+- **Unnecessary**  
+  It follows the point above: sometimes can be programming cheaper and faster than prototyping and a paper or a blackboard wireframe might be sufficient. Consider whether it is necessary.
+- **Too many details**  
+  The level of detail of the Clickable Prototypes should depend on the type of project. For example, a prototype for usability testing might be closer to the reality than for presentation on management board.
+- **Stakeholders are confused**  
+  Stakeholders sometimes think that the Prototype is the final product. Ensure that they have enough information about what the Prototypes are for.
 
 ## Resources for the Clickable Prototype
 

@@ -6,6 +6,15 @@ short_description: A runbook is a set of standardized documents that describe ho
 tags:
   - runbook
   - software documentation
+  - visualization
+  - proper bug reporting
+  - poor code quality
+  - feedback
+  - code review
+  - linting
+  - description
+  - writing
+  - readme
 keywords:
   - runbook
   - playbook
@@ -26,7 +35,7 @@ A runbook (also referred to as a playbook) is a compilation of procedures and op
 ![Decision Tree](/files/runbook.png)
 [Dfarq: What is a runbook?](https://dfarq.homeip.net/what-is-a-runbook/)
 
-The goal of a runbook is to allow other operators, with prerequisite expertise, to run and troubleshoot the system effectively. Runbooks can be electronic or an actual book. The electronic version offers an advantage of copy+paste the commands which speeds up the procedure. Runbook automation allows you to automate the operations using tools, such as [Rundeck](https://www.rundeck.com/open-source), or [Microsoft Azure](https://azure.microsoft.com).
+The goal of a runbook is to allow other operators, with prerequisite expertise, to run and troubleshoot the system effectively. Runbooks can be electronic or an actual book. The electronic version offers an advantage of copy+paste the commands which speeds up the procedure. Runbook automation allows you to automate the operations using tools, such as [Rundeck](https://www.rundeck.com/open source), or [Microsoft Azure](https://azure.microsoft.com).
 
 There are two types of runbooks:
 

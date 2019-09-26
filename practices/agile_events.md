@@ -33,16 +33,18 @@ keywords:
   - sprint refinement
   - design sprint
   - product backlog refinement
-  - backlog rooming
+  - backlog grooming
   - iteration
   - demotivated team
   - retrospective
   - meaningless work
-  - ritual
-  - event
 ---
 
 # Agile Events
+
+## TL;DR
+
+Clear and regular Agile Events are important for an effective work. What are the most common rituals? Read more in this article.
 
 ## What Are Agile Events
 
@@ -101,13 +103,16 @@ Even though the events are here to help, developers struggle to find every singl
 
 ## Problems the Agile Events Solve
 
-- [Bad product-market fit](/problems/bad-product-market-fit)
-- [Demotivated team](/problems/demotivated-team)
+- [Bad Product-Market Fit](/problems/bad-product-market-fit)
+- [Demotivated Team](/problems/demotivated-team)
 - ["Not My Problem" Mentality](/problems/not-my-problem-mentality)
-- Unsuccessful product
-- Unhappy clients
+- Unsuccessful Product
+- Unhappy Clients
 - [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
-- [Toxic team culture](/problems/toxic-team-culture)
+- [Toxic Team Culture](/problems/toxic-team-culture)
+- [Poor Code Quality](/problems/poor-code-quality)
+- [Increased Cost](/problems/increased-cost)
+- [Meaningless Work](/problems/meaningless-work)
 
 ## How to Implement the Agile Events
 

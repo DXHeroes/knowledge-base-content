@@ -15,6 +15,7 @@ tags:
   - teamwork
   - product owner
   - ceremony
+  - visualization
 keywords:
   - retrospective
   - agile

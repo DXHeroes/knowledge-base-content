@@ -15,7 +15,6 @@ tags:
   - fail fast
   - demotivated team
   - increased cost
-  - mentality
   - kanban
 keywords:
   - agile
@@ -119,12 +118,11 @@ The Guide explains the Scrum within a definition which consists of Scrum's roles
 
 ## Resources for Scrum
 
-- [Scrum Guides: The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
-- [Scrum.org: What Is Scrum](https://www.scrum.org/resources/what-is-scrum)
-- [Dummies.com: 10 Key Benefits of Scrum](https://www.dummies.com/careers/project-management/10-key-benefits-of-scrum/)
-- [Hexta: How To Implement Scrum in 7 Steps And Not Die Trying](https://www.hexacta.com/2019/01/21/how-to-implement-scrum-in-7-steps-and-not-die-trying/)
-- [Forecast: Implementation of Scrum - 7 Steps](https://blog.forecast.it/implementation-of-scrum-7-steps)
-- [Hexta: 7 Tips To Know When To Use Scrum in Your Project](https://www.hexacta.com/2018/09/10/7-tips-to-know-when-to-use-scrum-in-your-project/)
-- [Dummies.com: 10 Scrum Pitfalls to Avoid](https://www.dummies.com/careers/project-management/10-scrum-pitfalls-to-avoid/)
-- [Scrum Study: Understanding The Common Pitfalls in Scrum – Part 1](http://blog.scrumstudy.com/understanding-the-common-pitfalls-in-scrum-part-1/)
-- [12 common mistakes made when using Story Points](https://medium.com/@mdalmijn/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7)
+- Scrum: [What Is Scrum](https://www.scrum.org/resources/what-is-scrum)
+- Dummies: [10 Key Benefits of Scrum](https://www.dummies.com/careers/project-management/10-key-benefits-of-scrum/)
+- Hexta: [How To Implement Scrum in 7 Steps And Not Die Trying](https://www.hexacta.com/2019/01/21/how-to-implement-scrum-in-7-steps-and-not-die-trying/)
+- Forecast: [Implementation of Scrum - 7 Steps](https://blog.forecast.it/implementation-of-scrum-7-steps)
+- Hexta: [7 Tips To Know When To Use Scrum in Your Project](https://www.hexacta.com/2018/09/10/7-tips-to-know-when-to-use-scrum-in-your-project/)
+- Dummies: [10 Scrum Pitfalls to Avoid](https://www.dummies.com/careers/project-management/10-scrum-pitfalls-to-avoid/)
+- Scrum Study: [Understanding The Common Pitfalls in Scrum – Part 1](http://blog.scrumstudy.com/understanding-the-common-pitfalls-in-scrum-part-1/)
+- Medium: [12 common mistakes made when using Story Points](https://medium.com/@mdalmijn/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7)

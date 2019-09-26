@@ -69,13 +69,13 @@ README contains all the important information about your product. It answers the
 
 ## How to Implement the README
 
-1.  Start writing the README before you publish your product. README should be the first file you create.
-2.  Put it in the top level directory.
-3.  It is recommended to use Markdown language. Keep the format simple.
-4.  Make it thorough but simple. Use short sentences and paragraphs but do not miss any important information.
-5.  Keep it updated.
-6.  Use examples.
-7.  Link to other places if the data is too large or sensitive to keep it in README.
+1. Start writing the README before you publish your product. README should be the first file you create.
+2. Put it in the top level directory.
+3. It is recommended to use Markdown language. Keep the format simple.
+4. Make it thorough but simple. Use short sentences and paragraphs but do not miss any important information.
+5. Keep it updated.
+6. Use examples.
+7. Link to other places if the data is too large or sensitive to keep it in README.
 
 ## Common Pitfalls of the ReadMe
 

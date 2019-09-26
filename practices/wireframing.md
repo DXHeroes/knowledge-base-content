@@ -9,10 +9,13 @@ tags:
   - ux/ui
   - design
   - prototyping
-  - Clickable Prototype
+  - clickable prototype
   - prototyping
+  - visualization
 keywords:
-  - sketch
+  - wireframe
+  - wireframing
+  -
   - scheme
   - graphic
   - grayscale
