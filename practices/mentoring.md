@@ -13,6 +13,7 @@ tags:
   - feedback
   - team lead
   - tech lead
+  - team roles
 keywords:
   - mentoring
   - coaching
@@ -23,6 +24,10 @@ keywords:
 ---
 
 # Mentoring
+
+## TL;DR
+
+Sharing knowledge could be beneficial for both the mentee and the mentor. Learn how to set the right parameters for the mentoring program.
 
 ## What Is Mentoring
 
@@ -62,46 +67,49 @@ Your organization can gain the following benefits from a successful Mentoring pr
 ## Problems the Mentoring Helps to Solve
 
 - [Demotivated team](/problems/demotivated-team)
-- Disconnection with business
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 - Knowledge hoarding
 - Long team onboarding
 - [Meaningless work](/problems/meaningless-work)
-- Toxic team culture
+- [Toxic Team Culture](/problems/toxic-team-culture)
+- [Poor Code Quality](/problems/poor-code-quality)
+- [Increased Cost](/problems/increased-cost)
+- [Meaningless Work](/problems/meaningless-work)
 
 ## How to Implement Mentoring
 
-1.  **Set parameters of the Mentoring program**
+1. **Set parameters for the Mentoring program**
 
-    For example:
+   For example:
 
-    - The goals of the program
-    - The proper Mentoring model
-    - Other critical components of the program
+   - The goals of the program
+   - The proper Mentoring model
+   - Other critical components of the program
 
-2)  **Find mentors**  
-     For a pilot Mentoring program in your organization, you will need a base of mentors, such as managers and any stakeholders who can bring value to the process. Do not forget to diversify mentor profiles ranging from academics to practitioners. Experienced entrepreneurs and investors, can provide an enriching experience for the company as well.
+2. **Find mentors**  
+    For a pilot Mentoring program in your organization, you will need a base of mentors, such as managers and any stakeholders who can bring value to the process. Do not forget to diversify mentor profiles ranging from academics to practitioners. Experienced entrepreneurs and investors, can provide an enriching experience for the company as well.
 
-    **Tip:** How to recognize a good mentor? He or she:
+   **Tip:** How to recognize a good mentor? He or she:
 
-    - is committed to learning and helping others learn
-    - is self-aware, empathetic and a good listener
-    - encourages the mentee to speak
-    - gives importance to relationships
-    - provides a constructive challenge
-    - has intuitive wisdom from life experience and shares it
-    - steps back from the detail
-    - offers friendship
-    - observes and reflects
+   - is committed to learning and helping others learn
+   - is self-aware, empathetic and a good listener
+   - encourages the mentee to speak
+   - gives importance to relationships
+   - provides a constructive challenge
+   - has intuitive wisdom from life experience and shares it
+   - steps back from the detail
+   - offers friendship
+   - observes and reflects
 
-3)  **Find mentees**  
-     Find mentees and complete the task force, especially from a cross-section of the organization.
-4)  **Match participants**  
-     Allow the pairs to meet and get to know each other. This is as much about respect as anything else and it works both ways.  
-     **Tip:** Generally, mentees that pick their own mentor tend to have more successful outcomes than those who were assigned a mentor from the program administrator.
-5)  **Give the participants ample space**  
-     Introduce them the rules but allow them to set up their own way how to respect them.
-6)  **Evaluate results at the end of the program**  
-     After the Mentoring program is completed and the goals set in the first step are accomplished, gather feedback from mentors and mentees. Do not also forget the mentee's managers. They can tell you valuable findings.
+3. **Find mentees**  
+   Find mentees and complete the task force, especially from a cross-section of the organization.
+4. **Match participants**  
+   Allow the pairs to meet and get to know each other. This is as much about respect as anything else and it works both ways.  
+   **Tip:** Generally, mentees that pick their own mentor tend to have more successful outcomes than those who were assigned a mentor from the program administrator.
+5. **Give the participants ample space**  
+   Introduce them the rules but allow them to set up their own way how to respect them.
+6. **Evaluate results at the end of the program**  
+   After the Mentoring program is completed and the goals set in the first step are accomplished, gather feedback from mentors and mentees. Do not also forget the mentee's managers. They can tell you valuable findings.
 
 ## Common Pitfalls of Mentoring
 

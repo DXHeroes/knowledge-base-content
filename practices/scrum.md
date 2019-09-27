@@ -16,6 +16,7 @@ tags:
   - demotivated team
   - increased cost
   - kanban
+  - team roles
 keywords:
   - agile
   - mvp
@@ -31,13 +32,15 @@ keywords:
 
 # Scrum
 
+## TL;DR
+
+Scrum is a framework that enables the team members to work together. It is a set of meetings, tools, and roles that helps the team manage the work. Scrum is simple to understand and difficult to master.
+
 ## What Is Scrum
 
 Scrum is a framework focused on a productive and creative delivery of complex products with an emphasis on the highest possible value.
 
-Besides, for example, Kanban or Extreme programming (XP), it is the most popular agile methodology used since the early 1990s. Co-creators Jeff Sutherland and Ken Schwaber have defined a brief document [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html).
-
-The Guide explains the Scrum within a definition which consists of Scrum's roles, events, artifacts and detailed rules that connects them together:
+Scrum became a very popular agile methodology in the early 1990s together with [Kanban](/practices/kanban) or Extreme programming (XP). Co-creators Jeff Sutherland and Ken Schwaber have defined a brief document [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html). The Guide explains the Scrum within a definition which consists of Scrum's roles, events, artifacts and detailed rules that connects them together:
 
 1. **Roles**  
    The Scrum Team consists of just three roles: Product Owner, Scrum Master and the Team.
@@ -46,7 +49,7 @@ The Guide explains the Scrum within a definition which consists of Scrum's roles
 3. **Artifacts**  
    Artifacts are designed to maximize transparency of key information so that everybody has the same understanding of the artifact. The Scrum Artifacts are Product Backlog, Sprint Backlog, and Increment.
 
-![Scrum](/files/scrum.png)
+![Scrum](/files/scrum.png)  
 [Scrum.org: Scrum Framework Poster](https://www.scrum.org/resources/scrum-framework-poster)
 
 ## Why You Might Want Scrum
@@ -66,8 +69,8 @@ The Guide explains the Scrum within a definition which consists of Scrum's roles
 - [Meaningless work](/problems/meaningless-work)
 - ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - Unhappy client
-- Toxic team culture
-- Disconnection with business
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
+- [Toxic Team Culture](/problems/toxic-team-culture)
 
 ## How to Implement Scrum
 

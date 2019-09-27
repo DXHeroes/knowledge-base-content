@@ -2,13 +2,14 @@
 slug: tech-lead
 stages:
   - building_team
-short_description: A tech lead is an experienced developer who ensures that team members follow major technical decision. It should be a person with a desire to learn and share new concepts and technologies.
+short_description: A Tech Lead is an experienced developer who ensures that team members follow major technical decision. It should be a person with a desire to learn and share new concepts and technologies.
 tags:
   - roles
   - team
   - leader
   - manager
   - management
+  - team roles
 keywords:
   - technology
   - developer
@@ -25,11 +26,15 @@ keywords:
 
 # Tech Lead
 
+## TL;DR
+
+A Tech Lead is a senior developer that ensures that every team member understands the product's technicalities.
+
 ## Who Is a Tech Lead
 
-A tech lead (or a technical lead) is a senior leading role for a software engineer, it is a decision maker. A tech lead is necessary in bigger companies where the roles and skills are not very fungible. Tech leads ensure that every team member understands and follows major technical decisions. They set the programming guidelines, most used libraries and technologies. They also play a management role - they guide the team with company values and help to resolve conflicts. Tech leads also have to understand the needs of the customers and prioritize work according to those needs.
+A Tech Lead (or a technical lead) is a senior leading role for a software engineer, it is a decision maker. A Tech Lead is necessary in bigger companies where the roles and skills are not very fungible. Tech Leads ensure that every team member understands and follows major technical decisions. They set the programming guidelines, most used libraries and technologies. They also play a management role - they guide the team with company values and help to resolve conflicts. Tech Leads also have to understand the needs of the customers and prioritize work according to those needs.
 
-There can be one tech lead for one team or one tech lead for the back-end and another one for the front-end. The role can be performed by someone who has the most knowledge about development. It is less a formal title and more about being a natural leader of the team. The role can be shifted between different team members according to the project that the team is working on, but each project has to have one tech lead.
+There can be one Tech Lead for one team or one Tech Lead for the back-end and another one for the front-end. The role can be performed by someone who has the most knowledge about development. It is less a formal title and more about being a natural leader of the team. The role can be shifted between different team members according to the project that the team is working on, but each project has to have one Tech Lead.
 
 ![Tech Lead](/files/tech_lead.png)
 
@@ -37,7 +42,7 @@ There can be one tech lead for one team or one tech lead for the back-end and an
 
 ## Why You Might Want the Tech Lead
 
-**A good tech lead is:**
+**A good Tech Lead is:**
 
 - great at organization and vision
 - a productive member of the team
@@ -59,30 +64,28 @@ There can be one tech lead for one team or one tech lead for the back-end and an
 - Unhappy clients
 - [Disconnect Between Business and IT](problems/disconnect-between-business-and-it)
 - ["Not My Problem" Mentality](problems/not-my-problem-mentality)
+- [Toxic Team Culture](/problems/toxic-team-culture)
 
 ## How to Implement the Tech Lead
 
-1. It is important to find a tech lead who is not only interested in technical details about your product but also in the newest technologies. They should have a desire to educate themselves continuously in new technologies. Tech leads should not be too conservative.
-
-2. The best circumstances for finding a tech lead are when the team realizes itself that the tech lead is needed. The tech lead should be a person who is naturally respected and trusted within the team.
-
-3. Consider the size of your company: do you need one tech lead for everything? Do you need a tech lead for each framework?
-
-4. Allocate enough time for the tech lead to keep up. The added value is low if they spend most of the time developing. On the other hand, it is important that the tech lead still codes and, therefore, is still an active and an improving developer. According to Patrick Kua (Chief Scientist and former CTO at [N26](https://n26.com/en-eu/), the tech lead should code at least 30% of the time. For more information, see [The Geek’s Guide to Leading Teams](https://www.slideshare.net/thekua/the-geeks-guide-to-leading-teams) presentation.
+1. It is important to find a Tech Lead who is not only interested in technical details about your product but also in the newest technologies. They should have a desire to educate themselves continuously in new technologies. Tech Leads should not be too conservative.
+2. The best circumstances for finding a Tech Lead are when the team realizes itself that the Tech Lead is needed. The Tech Lead should be a person who is naturally respected and trusted within the team.
+3. Consider the size of your company: do you need one Tech Lead for everything? Do you need a Tech Lead for each framework?
+4. Allocate enough time for the Tech Lead to keep up. The added value is low if they spend most of the time developing. On the other hand, it is important that the Tech Lead still codes and, therefore, is still an active and an improving developer. According to Patrick Kua (Chief Scientist and former CTO at [N26](https://n26.com/en-eu/), the Tech Lead should code at least 30% of the time. For more information, see [The Geek’s Guide to Leading Teams](https://www.slideshare.net/thekua/the-geeks-guide-to-leading-teams) presentation.
 
 ## Common Pitfalls of the Tech Lead
 
-- The tech lead spends most time coding.
-- The tech lead is from a different team and not knowing the product enough.
-- The tech lead is a synonym for an enterprise architect.
-- They are just ghost tech leads: they cannot keep up with the work. There should be more tech leads, each product can have its own tech lead in a big corporate company.
-- The tech lead makes all the technical decisions. They become a bottleneck in the team and the other team members might feel demotivated.
+- The Tech Lead spends most time coding.
+- The Tech Lead is from a different team and not knowing the product enough.
+- The Tech Lead is a synonym for an enterprise architect.
+- They are just ghost Tech Leads: they cannot keep up with the work. There should be more Tech Leads, each product can have its own Tech Lead in a big corporate company.
+- The Tech Lead makes all the technical decisions. They become a bottleneck in the team and the other team members might feel demotivated.
 - Being too focused on the technical part of the job can cause forgetting about cultivating the team culture.
-- The tech lead is just a friend of someone from a high company position. If the tech lead does not gain respect and does not understand the product well, the team can fall apart.
+- The Tech Lead is just a friend of someone from a high company position. If the Tech Lead does not gain respect and does not understand the product well, the team can fall apart.
 
 ## Resources for the Technical Lead
 
-- [Always Be Coding: 5 Signs You’re A Tech Lead — Congrats!!](https://abc.danch.me/5-signs-youre-a-tech-lead-congrats-4b89b6b9c071)
-- [Codementor Community: 8 Tips for Being a Good Tech Lead](https://www.codementor.io/npostolovski/8-tips-for-being-a-good-tech-lead-ke35g7em8)
-- [JPL: Is ‘Tech Lead’ an actual role on the team?](https://jp-lambert.me/is-tech-lead-an-actual-role-on-the-team-7c040f2fd29b)
-- [Medium: What It Means To Be a Tech Lead](https://medium.com/@weareqdivision/what-it-means-to-be-a-tech-lead-c406f837045d)
+- Always Be Coding: [5 Signs You’re A Tech Lead — Congrats!!](https://abc.danch.me/5-signs-youre-a-tech-lead-congrats-4b89b6b9c071)
+- Codementor Community: [8 Tips for Being a Good Tech Lead](https://www.codementor.io/npostolovski/8-tips-for-being-a-good-tech-lead-ke35g7em8)
+- JPL: [Is ‘Tech Lead’ an actual role on the team?](https://jp-lambert.me/is-tech-lead-an-actual-role-on-the-team-7c040f2fd29b)
+- Medium: [What It Means To Be a Tech Lead](https://medium.com/@weareqdivision/what-it-means-to-be-a-tech-lead-c406f837045d)

@@ -22,6 +22,10 @@ keywords:
 
 # Staged Rollout
 
+## TL;DR
+
+Test your product on just a few users. This technique is very popular in the gaming industry - gamers are so excited to try a new game even when it is not finished yet.
+
 ## What Is a Staged Rollout
 
 A Staged Rollout is a way for updating your application while reaching only a certain percentage of users. It enables you to release a single product version very slowly - over a period of days. It is a much safer approach than a sudden big-bang release.
@@ -39,12 +43,11 @@ A Staged Rollout gives you time to analyze your product stability and its perfor
 
 ## Problems the Staged Rollout Solves
 
-- [Meaningless work](/problems/meaningless-work)
-- Team involvement
+- [Poor code quality](/problems/poor-code-quality)
 - Unhappy clients
-- Unsuccessful product
-- Unnecessary functions
-- Expensive development
+- Knowledge hoarding
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
+- [Meaningless work](/problems/meaningless-work)
 
 ## How to Implement the Staged Rollout
 

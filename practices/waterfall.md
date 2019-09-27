@@ -37,10 +37,14 @@ The Waterfall methodology is a linear project management approach where customer
 
 ## Problems the Waterfall Helps to Solve
 
-- Expensive development
-- Sunk cost
-- Knowledge hoarding
-- Never ending meetings
+- [Increased cost](/problems/increased-cost)
+- [Bad product-market fit](/problems/bad-product-market-fit)
+- [Demotivated team](/problems/demotivated-team)
+- [Meaningless work](/problems/meaningless-work)
+- Unsuccessful product
+- Unnecessary functions
+- Unhappy clients
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 
 ## How to Implement Waterfall
 

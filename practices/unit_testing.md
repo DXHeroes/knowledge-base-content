@@ -73,9 +73,6 @@ Unit testing helps you with:
 - [Demotivated Team](/problems/demotivated-team)
 - Unsuccessful Product
 - Unhappy Clients
-- [Poor Code Quality](/problems/poor-code-quality)
-- [Increased Cost](/problems/increased-cost)
-- [Meaningless Work](/problems/meaningless-work)
 
 ## How to Implement the Unit Testing
 

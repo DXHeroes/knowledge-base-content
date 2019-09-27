@@ -12,6 +12,10 @@ tags:
   - feedback
   - code review
   - linting
+  - penetration testing
+  - performance testing
+  - unit testing
+  - smoke testing
 keywords:
   - bug
   - bug report

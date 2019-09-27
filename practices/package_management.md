@@ -11,6 +11,7 @@ tags:
   - git flow
   - linting
   - dockerizing
+  - packing applications
 keywords:
   - metadata
   - repository
@@ -24,11 +25,18 @@ keywords:
 
 # Package Management
 
+## TL;DR
+
+Archive and share your files with Package Manager. The archive file contains all the data and you do not have to do any manual installations.
+
 ## What Is a Package Management
 
 Package Managers are tools for automating installing, upgrading, configuring, or removing programs in a consistent manner. A Package Manager creates archive files for your data that can be downloaded from a global registry into your local environment. It eliminates manual installations and updates.
 
 The archive file (package) contains metadata: summary, software description, list of files, version, authorship, targeted architecture, file checksums, licensing, configuration files, and a list of dependencies necessary for running the software. Package Manager ensures that the data is authentic by verifying their digital certificates (and checksums). It can also look up, download, install, and update existing software from a remote repository. It can group packages by functions. It automatically manages the dependencies to ensure that the package is installed with all the required functionalities.
+
+![Package Manager](/files/package_manager)  
+[Package Manager](https://devopedia.org/package-manager)
 
 Package Managers are necessary for installing software on Linux. This is a different approach to Windows, where you download .exe files from a website and run it on your system. In the beginning, every new program had to be compiled, linked, and run. Unix started to use shared libraries but the dependencies still had to be maintained by developers. At the beginning of the 90s, a Package Manager was born so the developers did not have to run commands every time on every machine with the same configurations. Instead, the Package Manager shipped the configurations to other computers. By mid-2010s, Package Managers made their way to Windows.
 
@@ -58,6 +66,7 @@ Package Managers:
 - [Increased cost](/problems/increased-cost)
 - [Poor code quality](/problems/poor-code-quality)
 - [Meaningless work](/problems/meaningless-work)
+- [Demotivated team](/problems/demotivated-team)
 
 ## How to Implement the Package Management
 
@@ -77,7 +86,7 @@ Package Managers:
 
 **What Is a Lockfile**
 
-A lockfile keeps the information about installed packages and it should be commited into your Package Manager source repositories. It is generated automatically for any operations. It is used for describing the dependency tree so the coworkers are guaranteed to install exactly the same dependencies. It also lets you "travel back in time" and check any former dependency tree. It allows your Package Manager to skip repeated metadata resolutions for previously-installed packages and, therefore, makes the installation much faster. Not commiting the lockfile to your source control results in installing two different modules from the same dependency definition.
+A lockfile keeps the information about installed packages and it should be committed into your Package Manager source repositories. It is generated automatically for any operations. It is used for describing the dependency tree so the coworkers are guaranteed to install exactly the same dependencies. It also lets you "travel back in time" and check any former dependency tree. It allows your Package Manager to skip repeated metadata resolutions for previously-installed packages and, therefore, makes the installation much faster. Not committing the lockfile to your source control results in installing two different modules from the same dependency definition.
 
 ## Resources for the Package Management
 

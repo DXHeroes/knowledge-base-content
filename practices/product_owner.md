@@ -13,6 +13,7 @@ tags:
   - team
   - retrospective
   - demotivated team
+  - team roles
 keywords:
   - product owner
   - backlog
@@ -25,6 +26,10 @@ keywords:
 ---
 
 # Product Owner
+
+## TL;DR
+
+A Product Owner represents the voice of stakeholders. Read more to recognize good Product Owners.
 
 ## Who Is a Product Owner
 
@@ -57,7 +62,7 @@ A PO is responsible for the product and helps to develop it. The responsibility 
 - ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - Unsuccessful product
 - Unhappy clients
-- Disconnection with business
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 
 ## Common Pitfalls Associated with the Product Owner
 
@@ -73,9 +78,9 @@ The Product Owner:
 
 ## Resources for the Product Owner
 
-- [Scrum: What Is A Product Owner](https://www.scrum.org/resources/what-is-a-product-owner)
-- [Product Plan: Product Owner](https://www.productplan.com/glossary/product-owner/)
-- [Yodiz: How The Product Owner Is Crucial For The Success Of An Agile Team?](https://www.yodiz.com/blog/how-the-product-owner-is-crucial-for-the-success-of-an-agile-team/)
-- [Search Software Quality: Product Owner](https://searchsoftwarequality.techtarget.com/definition/product-owner)
-- [Premios: What Is A Product Owner And Why Do I Need One?](https://premiosgroup.com/product-owner-need-one/)
-- [Equinox It: Why You Need A Damn Good Product Owner For Your Agile Project](https://www.equinox.co.nz/blog/damn-good-product-owner-agile-project)
+- Scrum: [What Is A Product Owner](https://www.scrum.org/resources/what-is-a-product-owner)
+- Product Plan: [Product Owner](https://www.productplan.com/glossary/product-owner/)
+- Yodiz: [How The Product Owner Is Crucial For The Success Of An Agile Team?](https://www.yodiz.com/blog/how-the-product-owner-is-crucial-for-the-success-of-an-agile-team/)
+- Search Software Quality: [Product Owner](https://searchsoftwarequality.techtarget.com/definition/product-owner)
+- Premios: [What Is A Product Owner And Why Do I Need One?](https://premiosgroup.com/product-owner-need-one/)
+- Equinox It: [Why You Need A Damn Good Product Owner For Your Agile Project](https://www.equinox.co.nz/blog/damn-good-product-owner-agile-project)

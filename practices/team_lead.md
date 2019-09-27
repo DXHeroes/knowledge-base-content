@@ -11,6 +11,7 @@ tags:
   - roles
   - motivation
   - demotivated team
+  - team roles
 keywords:
   - well being
   - goal
@@ -22,22 +23,26 @@ keywords:
 
 # Team Lead
 
+## TL;DR
+
+Team leads are responsible for the team’s well being. Who should be a Team Lead and how to do the job right? Read more!
+
 ## Who Is a Team Lead
 
-The definitions of the team lead role quite differ: companies adjust this role to their specific needs, sometimes team leads do not even have a clear role within the team. This role is often confused with a senior or a manager. But what all team leads have in common is that they make sure that everyone is on the same page in terms of goals, features, and work in general. They ensure that the team members and the stakeholders understand everything and that they feel comfortable after every discussion. They also ensure that the focus is on the right thing at the right time. Their main focus is not the product but the team’s well being. They can have multiple roles within one team but never multiple teams as team leads.
+The definitions of the Team Lead role quite differ: companies adjust this role to their specific needs, sometimes Team Leads do not even have a clear role within the team. This role is often confused with a senior or a manager. But what all the Team Leads have in common is that they make sure that everyone is on the same page in terms of goals, features, and work in general. They ensure that the team members and the stakeholders understand everything and that they feel comfortable after every discussion. They also ensure that the focus is on the right thing at the right time. Their main focus is not the product but the team’s well being. They can have multiple roles within one team but never multiple teams as Team Leads.
 
-So what is the difference between a senior, a manager, and a team lead?
+So what is the difference between a senior, a manager, and a Team Lead?
 
 - **Seniors** are people who deeply understand the project. They teach newcomers and suggest solutions to the most difficult issues.
 - **Managers** have people to work for them. They plan, organize and coordinate and they are part of the company’s hierarchy and does not have to be a programmer.
-- **Team leads** understand perfectly not only the technical side of the project but also the team management. They act as a shield to protect their team from managers and customers. They ensure that the developers are satisfied and motivated. They are the bridge between the team and management.
+- **Team Leads** understand perfectly not only the technical side of the project but also the team management. They act as a shield to protect their team from managers and customers. They ensure that the developers are satisfied and motivated. They are the bridge between the team and management.
 
 ![Management](/files/team_lead.png)
 [Dilbert](https://dilbert.com/strip/2011-04-14)
 
 ## Why You Might Want the Team Lead
 
-A good team lead helps your team with:
+A good Team Lead helps your team with:
 
 - productivity
 - well-being
@@ -56,11 +61,12 @@ A good team lead helps your team with:
 - ["Not My Problem" Mentality](/problems/not-my-problem-mentality)
 - Unsuccessful product
 - Unhappy clients
-- Disconnection with business
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
+- [Toxic Team Culture](/problems/toxic-team-culture)
 
 ## How to Implement the Team Lead
 
-The typical team lead’s responsibilities and characteristics are:
+The typical Team Lead’s responsibilities and characteristics are:
 
 - consideration of new tasks and their delegation
 - motivating team members
@@ -75,17 +81,17 @@ The typical team lead’s responsibilities and characteristics are:
 - dealing with personal conflicts
 - leading by example
 
-Some of those skills cannot be learned. The best team leads get informal and natural recognition from their team. They are often developers themselves and they are recognized for their programming skills. The best way how to choose a team lead is when the team chooses them itself. To be a good team lead, they have to be not only skilled but they need the right motivation (company’s support and financial compensation).
+Some of those skills cannot be learned. The best Team Leads get informal and natural recognition from their team. They are often developers themselves and they are recognized for their programming skills. The best way how to choose a Team Lead is when the team chooses them itself. To be a good Team Lead, they have to be not only skilled but they need the right motivation (company’s support and financial compensation).
 
-Team leads have to know every team member very well, they have to communicate with them and get to know them closely. This skill is crucial because the main role of the team lead is to unite the team. The team lead never says “look what I have accomplished” but always “look what **we** have accomplished”.
+Team Leads have to know every team member very well, they have to communicate with them and get to know them closely. This skill is crucial because the main role of the Team Lead is to unite the team. The Team Lead never says “look what I have accomplished” but always “look what **we** have accomplished”.
 
 ## Common Pitfalls of the Team Lead
 
-The most common pitfall is misunderstanding the role. The team lead is not a mentor, not a manager, not a boss. It is a colleague with more responsibilities.
+The most common pitfall is misunderstanding the role. The Team Lead is not a mentor, not a manager, not a boss. It is a colleague with more responsibilities.
 
-Another problem can occur when the team lead tries to lead everyone the same way. Different people need different motivation! A good team leads understand everyone’s needs because they know the team members well.
+Another problem can occur when the Team Lead tries to lead everyone the same way. Different people need different motivation! A good Team Leads understand everyone’s needs because they know the team members well.
 
-Some team leads want to take credit for the things that go well and point the finger when things go south. As it was mentioned before, good team leads lead by example. They are members of the same team so they should act like it. Appreciate other’s contribution and admit when they do something wrong.
+Some Team Leads want to take credit for the things that go well and point the finger when things go south. As it was mentioned before, good Team Leads lead by example. They are members of the same team so they should act like it. Appreciate other’s contribution and admit when they do something wrong.
 
 ## Resources for the Team Lead
 
