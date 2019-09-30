@@ -27,7 +27,7 @@ keywords:
 
 # Linting
 
-## TL;DR
+**TL;DR**
 
 Avoid stress with Linter! Let it analyze your code and find bugs and stylistic errors. Linter should be your best friend.
 

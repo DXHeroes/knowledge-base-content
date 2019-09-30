@@ -26,7 +26,7 @@ keywords:
 
 # Tech Lead
 
-## TL;DR
+**TL;DR**
 
 A Tech Lead is a senior developer that ensures that every team member understands the product's technicalities.
 

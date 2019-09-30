@@ -35,7 +35,7 @@ keywords:
 
 # MVP
 
-## TL;DR
+**TL;DR**
 
 MVP means Minimal Viable Product. Developers create a product with minimum features just to get feedback for future development.
 

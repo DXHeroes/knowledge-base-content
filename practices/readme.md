@@ -12,6 +12,7 @@ tags:
   - introduction
   - installation
   - writing
+  - user story
 keywords:
   - introduction
   - directory
@@ -24,7 +25,7 @@ keywords:
 
 # README
 
-## TL;DR
+**TL;DR**
 
 The first thing everyone sees in your product directory is README - an introduction of the product to a user. Make it thorough but simple, add every important information, and keep it updated.
 

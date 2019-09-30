@@ -17,6 +17,7 @@ tags:
   - increased cost
   - kanban
   - team roles
+  - user story
 keywords:
   - agile
   - mvp
@@ -32,7 +33,7 @@ keywords:
 
 # Scrum
 
-## TL;DR
+**TL;DR**
 
 Scrum is a framework that enables the team members to work together. It is a set of meetings, tools, and roles that helps the team manage the work. Scrum is simple to understand and difficult to master.
 

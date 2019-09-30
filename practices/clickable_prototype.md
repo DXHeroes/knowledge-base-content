@@ -14,6 +14,8 @@ tags:
   - demotivated team
   - feedback
   - good developer experience
+  - lean canvas
+  - value proposition
   - visualization
 keywords:
   - prototyping
@@ -27,7 +29,7 @@ keywords:
 
 # Clickable Prototype
 
-## TL;DR
+**TL;DR**
 
 Get feedback on your product by creating a Clickable Prototype! Read how to create an efficient one.
 

@@ -32,7 +32,7 @@ keywords:
 
 # Continuous Integration
 
-## TL;DR
+**TL;DR**
 
 Continuous Integration lets you integrate code changes into a shared repository routinely and frequently. Follow these simple rules to make a habit of it.
 

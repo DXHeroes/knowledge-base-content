@@ -23,7 +23,7 @@ keywords:
 
 # Semantic Versioning
 
-## TL;DR
+**TL;DR**
 
 Version your work or you will get lost forever in the updates! Semantic Versioning is a tool that you can use to version the states of your project.
 

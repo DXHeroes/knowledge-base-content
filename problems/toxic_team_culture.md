@@ -9,6 +9,11 @@ tags:
   - atmosphere
   - management
   - employee
+  - demotivated team
+  - not my problem mentality
+  - poor code quality
+  - agile events
+  - good developer experience
 keywords:
   - atmosphere
   - power
@@ -22,6 +27,10 @@ keywords:
 ---
 
 # Toxic Team Culture
+
+**TL;DR**
+
+Dangerous toxic team culture spreads easily. It is often started by a combination of bad management and disinvolved employees. It is crucial to deal with it as soon as possible - learn how to recognize the symptoms.
 
 ## What Is a Toxic Team Culture
 
@@ -56,12 +65,17 @@ These are the few signs of a toxic team culture:
 12. **Skipping meetings**  
     Employees or managers skip meetings and make up some lame excuses. This is very disrespectful to the other team members and their time.
 
+![Toxic Culture](/files/toxic.png)  
+[The Performance Room: 10 signs that show your work culture is toxic](https://www.theperformanceroom.co.uk/10-signs-show-work-culture-toxic/)
+
 ## Reasons for the Toxic Team Culture
 
-- **Who or what is responsible for the toxic culture in your team?**  
-   To be fair, it is not always just a problem of bad management. Individuals at every level can contribute to the toxicity. Anyone can spread rumors or feed the dark atmosphere otherwise. It is often a combination of separated business leaders, bad management and disengaged employees. The core values of the company are not defined or not shared.
-- **How to cure a toxic culture?**  
-  Anyone can participate in healing this unfortunate environment. The problem is that everyone can come up with an excuse why not to get engaged. Low-level employees might be scared of getting fired when they speak up. Mid-level managers can feel that they do not have enough power to deal with this situation. High-level management does not want to jeopardize their position. The CEO does not know about the problem because people do not feel like they can talk to him.
+**Who or what is responsible for the toxic culture in your team?**  
+ To be fair, it is not always just a problem of bad management. Individuals at every level can contribute to the toxicity. Anyone can spread rumors or feed the dark atmosphere otherwise. It is often a combination of separated business leaders, bad management and disengaged employees. The core values of the company are not defined or not shared.
+
+**How to cure a toxic culture?**  
+ Anyone can participate in healing this unfortunate environment. The problem is that everyone can come up with an excuse why not to get engaged. Low-level employees might be scared of getting fired when they speak up. Mid-level managers can feel that they do not have enough power to deal with this situation. High-level management does not want to jeopardize their position. The CEO does not know about the problem because people do not feel like they can talk to him.
+
 - **Talk and listen**  
   Start with talking to each other. Face-to-face communication is crucial. One-to-one sessions can help the manager to get precious information from a frustrated employee. Maybe not immediately but if the employees gain trust after a few sessions, they can start talking.
 - **Quarantine**  

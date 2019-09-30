@@ -33,7 +33,7 @@ keywords:
 
 # Design Sprint
 
-## TL;DR
+**TL;DR**
 
 Create and test your prototype in just 3 - 5 days! Learn how to reduce the risk when creating a new product with five simple steps.
 

@@ -25,13 +25,16 @@ keywords:
 
 # Mentoring
 
-## TL;DR
+**TL;DR**
 
 Sharing knowledge could be beneficial for both the mentee and the mentor. Learn how to set the right parameters for the mentoring program.
 
 ## What Is Mentoring
 
 Mentoring is a supportive learning relationship between a caring individual (mentor) and another individual (mentee). The mentor shares knowledge, experience, and wisdom and the mentee benefits from this exchange. This relationship enriches their professional journeys. The mentor helps the mentee to consider opportunities for their career growth, gain confidence and improve interpersonal skills. The support is based on the mentor’s own experiences and learnings.
+
+![Mentoring](/files/mentoring.jpg)  
+[HR Daily Advisor: 5 Compelling Stats to Know for Your Mentorship Programs](https://hrdailyadvisor.blr.com/2019/06/10/5-compelling-stats-to-know-for-your-mentorship-programs/)
 
 The word mentor comes from Homer's Odyssey. When Odysseus left for the Trojan War he asked Mentor, a senior friend, to help his son Telemachus as a counselor. Therefore, we adopt Mentor's name as a term for “a wise and trusted teacher or counselor”. There are other famous mentors and mentees and their domains:
 

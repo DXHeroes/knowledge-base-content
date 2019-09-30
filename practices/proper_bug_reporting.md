@@ -30,13 +30,18 @@ keywords:
 
 # Proper Bug Reporting
 
-## TL;DR
+**TL;DR**
 
 When testers find bugs, they report it. These reports are really important for developers. Read this article to find out how to write an effective bug report.
 
 ## What Is a Bug Report
 
-Bug reports are descriptions of bugs found by testers - they help to understand where the product lacks its functionality or performance. Bug reports are the most important tools for developers. It is necessary to build an independent test environment before letting the customers use the actual product. The quality of tests and the bug reports have a huge impact on the quality of product development. The bug report should contain all the information needed to document, report, and fix problems that occurred during testing the product.
+Bug reports are descriptions of bugs found by testers - they help to understand where the product lacks its functionality or performance. Bug reports are the most important tools for developers.
+
+It is necessary to build an independent test environment before letting the customers use the actual product. The quality of tests and the bug reports have a huge impact on the quality of product development. The bug report should contain all the information needed to document, report, and fix problems that occurred during testing the product.
+
+![Bug Reporting](/files/bug_reporting.png)  
+[GetApp: Bug Reporting](https://lab.getapp.com/5-bug-tracking-apps-for-killer-bug-reporting/)
 
 ## Why You Might Want the Bug Reporting
 

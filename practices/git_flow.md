@@ -28,7 +28,7 @@ keywords:
 
 # Git Flow
 
-## TL;DR
+**TL;DR**
 
 Git Flow is a specific branching system for Git. It helps the team to better control and add different project versions. Learn how to use it!
 
