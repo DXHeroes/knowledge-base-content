@@ -2,30 +2,40 @@
 slug: code-coverage
 stages:
   - development
-short_description: Code coverage measures the percentage of source code lines that are covered by automated tests.
+short_description: Code Coverage measures the percentage of source code lines that are covered by automated tests.
 tags:
   - code coverage
-  - code
+  - mvp
   - reporting
   - testing
+  - unit testing
+  - integration testing
+  - code review
+  - linter
+  - feedback
+  - code reviews
+  - continuous integration
+  - good developer experience
 keywords:
-  - code
+  - code coverage
   - reporting
   - coverage
   - library
   - code lines
   - function
   - branch
-  - testing
+  - coding
+  - programming
+  - meaningless work
 ---
 
 # Code Coverage
 
 ## What Is a Code Coverage
 
-Code Coverage (CC) measures how many and which specific source code lines are being tested by automated tests (for example, unit or integration test). If you have 90% CC, it means that 10% of the source code is not being tested at the moment. Your goal is to get as close to 100% CC as possible without losing the quality of your code or tests. CC can be used as a key performance indicator for suppliers. The tests should be run by developers, they should not rely only on [continuous integration](/practices/continuous-integration).
+Code Coverage (CC) measures how many and which specific source code lines are being tested by automated tests (for example, unit or integration test). If you have 90% CC, it means that 10% of the source code is not being tested at the moment. Your goal is to get as close to 100% CC as possible without losing the quality of your code or tests. CC can be used as a key performance indicator for suppliers. The tests should be run by developers, they should not rely only on [Continuous Integration](/practices/continuous-integration).
 
-CC is usually calculated in a continuous integration library, for example, [GitLab](https://about.gitlab.com/). This library opens an application that measures the CC automatically. The library provides you with coverage reports, for example:
+CC is usually calculated in a Continuous Integration library, for example, [GitLab](https://about.gitlab.com/). This library opens an application that measures the CC automatically. The library provides you with coverage reports, for example:
 
 - **Function coverage:** how many defined functions have been called.
 - **Statement coverage:** how many statements in the program have been executed.
@@ -44,10 +54,17 @@ CC is usually calculated in a continuous integration library, for example, [GitL
 ## Problems the Code Coverage Solves
 
 - [Poor code quality](/problems/poor-code-quality)
+- Unsuccessful product
+- Unhappy clients
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
+- ["Not my problem" mentality](/problems/not-my-problem-mentality)
+- [Meaningless work](/problems/meaningless-work)
 
 ## How to Implement the Code Coverage
 
-Set up the library for your software and run it under a controlled environment. Use a CC tool to map every executed function. There are a lot of CC tools you can use, for each programming language. For example:
+Set up the library for your software and run it under a controlled environment. Use a CC tool to map every executed function.
+
+There are a lot of CC tools you can use, for each programming language. For example:
 
 - Java: [jUnit](https://junit.org/junit5/), [Cobertura](http://cobertura.github.io/cobertura/), or [JaCoCo](https://www.jacoco.org/)
 - JavaScript: [istanbul](https://istanbul.js.org/), or [JSCover](http://tntim96.github.io/JSCover/)
@@ -56,7 +73,8 @@ Set up the library for your software and run it under a controlled environment. 
 - Ruby: [SimpleCov](https://github.com/colszowka/simplecov)
 - Scala: [Scoverage](http://scoverage.org/)
 
-Update the tests if there are not areas of code that have not been exercised. Developers can check CC reports to advise additional tests to increase the CC. The process can slow down the application so it is not recommended to do it in production.
+Update the tests if there are no areas of code that have not been exercised. Developers can check CC reports to advise additional tests to increase the CC.  
+**Important:** The process can slow down the application so it is not recommended to do it in production.
 
 ## Common Pitfalls of the Code Coverage
 
@@ -66,7 +84,7 @@ Update the tests if there are not areas of code that have not been exercised. De
 
 ## Resources for the Code Coverage
 
-- [Microsoft: Use Code Coverage To Determine How Much Code Is Being Tested](https://docs.microsoft.com/en-us/visualstudio/test/using-code-coverage-to-determine-how-much-code-is-being-tested?view=vs-2019)
-- [Atlassian: Code Coverage](https://www.atlassian.com/continuous-delivery/software-testing/code-coverage)
-- [Innominds: How Does Code Coverage Help In Testing?](https://www.innominds.com/blog/how-does-code-coverage-help-in-testing)
-- [Jeroen Mols: The 100% Code Coverage Problem](https://jeroenmols.com/blog/2017/11/28/coveragproblem/)
+- Microsoft: [Use Code Coverage To Determine How Much Code Is Being Tested](https://docs.microsoft.com/en-us/visualstudio/test/using-code-coverage-to-determine-how-much-code-is-being-tested?view=vs-2019)
+- Atlassian: [Code Coverage](https://www.atlassian.com/continuous-delivery/software-testing/code-coverage)
+- Innominds: [How Does Code Coverage Help In Testing?](https://www.innominds.com/blog/how-does-code-coverage-help-in-testing)
+- Jeroen Mols: [The 100% Code Coverage Problem](https://jeroenmols.com/blog/2017/11/28/coveragproblem/)

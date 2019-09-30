@@ -24,7 +24,7 @@ keywords:
 
 ## Who Is a Team Lead
 
-The definitions of the team lead role quite differ. Companies adjust this role to their specific needs, sometimes team leads do not even have a clear role within the team. This role is often confused with a senior or a manager. But what all team leads have in common is that they make sure that everyone is on the same page in terms of goals, features, and work in general. They ensure that the team members and the stakeholders understand everything and that they feel comfortable after every discussion. They also ensure that the focus is on the right thing at the right time. Their main focus is not the product but the team’s well being. They can have multiple roles within one team but never multiple teams as team leads.
+The definitions of the team lead role quite differ: companies adjust this role to their specific needs, sometimes team leads do not even have a clear role within the team. This role is often confused with a senior or a manager. But what all team leads have in common is that they make sure that everyone is on the same page in terms of goals, features, and work in general. They ensure that the team members and the stakeholders understand everything and that they feel comfortable after every discussion. They also ensure that the focus is on the right thing at the right time. Their main focus is not the product but the team’s well being. They can have multiple roles within one team but never multiple teams as team leads.
 
 So what is the difference between a senior, a manager, and a team lead?
 
@@ -69,7 +69,7 @@ The typical team lead’s responsibilities and characteristics are:
 - organizing meetings
 - programming
 - solving architecture questions
-- code reviewing
+- Code Reviews
 - suppressing their ego to not to draw too much attention to themselves
 - decision making
 - dealing with personal conflicts

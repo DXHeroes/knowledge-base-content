@@ -32,9 +32,9 @@ keywords:
 
 ## What Is a Not My Problem Mentality
 
-One of the very dangerous approaches to a team work is “Not My Problem” mentality. It is not a team player’s mindset. It can endanger your team’s productivity, your relationships, the product, or, in the worst case scenarios, even lives. It is easy to walk away from a car accident thinking that someone else is going to take care of the problem. It is easy to walk away from an upset colleague without asking if they need any help. In the end, we both have a lot of work, right?
+One of the very dangerous approaches to a team work is “Not My Problem” mentality and it is an opposite to a healthy team collaboration. It is not a team player’s mindset. It can endanger your team’s productivity, your relationships, the product, or, in the worst case scenarios, even lives. It is easy to walk away from a car accident thinking that someone else is going to take care of the problem. It is easy to walk away from an upset colleague without asking if they need any help. In the end, we both have a lot of work, right?
 
-![Shrug Emoji](/files/not_my_problem_mentality.png)
+![Shrug Emoji](/files/not_my_problem_mentality.png)  
 [How to Type the Shrug Emoji](https://blog.hubspot.com/marketing/shrug-emoji)
 
 It is true that people have to prioritize their own work. If everyone would be doing everything, they would get lost shortly. Management and a division of labor are needed, to a certain extent.
@@ -62,6 +62,6 @@ If the team lead recognizes the “Not My Problem” mentality in the team, they
 
 ## Resources for Not My Problem Mentality
 
-- [Medium: “It’s Not My Problem”](https://medium.com/@CS1201/it-s-not-my-problem-7cd17f6aa421)
-- [Trello: The Pitfalls of the Phrase “That's Not My Job!”](https://blog.trello.com/pitfalls-of-phrase-thats-not-my-job)
-- [Recruiter: How to Respond When an Employee Says, ‘That’s Not My Job!’](https://www.recruiter.com/i/how-to-respond-when-an-employee-says-thats-not-my-job/)
+- Medium: [“It’s Not My Problem”](https://medium.com/@CS1201/it-s-not-my-problem-7cd17f6aa421)
+- Trello: [The Pitfalls of the Phrase “That's Not My Job!”](https://blog.trello.com/pitfalls-of-phrase-thats-not-my-job)
+- Recruiter: [How to Respond When an Employee Says, ‘That’s Not My Job!’](https://www.recruiter.com/i/how-to-respond-when-an-employee-says-thats-not-my-job/)

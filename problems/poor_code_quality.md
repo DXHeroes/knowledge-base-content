@@ -23,6 +23,8 @@ keywords:
 
 ## What Is the Poor Code Quality?
 
+Poor code quality describes buggy code or code with high coupling and low cohesion that is difficult to maintain.
+
 Poor code quality is an umbrella term for multiple issues with the codebase:
 
 - code that exhibits buggy behavior
