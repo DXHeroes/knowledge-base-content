@@ -1,6 +1,5 @@
 ---
-slug: 
-  - operations-logbook
+slug: operations-logbook
 stages:
   - maintenance
   - development
