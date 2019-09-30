@@ -4,7 +4,7 @@ jobs:
   - stage: test
     language: node_js
     node_js:
-    - '8'
+    - '10'
     cache: yarn
     before_install:
     - echo "Skipping before install"
