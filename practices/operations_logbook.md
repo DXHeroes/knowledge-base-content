@@ -1,5 +1,5 @@
 ---
-Slug: 
+slug: 
   - operations-logbook
 stages:
   - maintenance
