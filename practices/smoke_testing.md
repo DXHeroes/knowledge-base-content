@@ -63,9 +63,7 @@ For the correct application of Smoke Tests, the following rules apply:
 
 **Example of the Smoke Test:**
 
-| Test scenario                | Description                                                                      | Test Steps                                                                                                                                                | Expected Result              | Status |
-| ---------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------ |
-| Login with valid credentials | Test of login into the application to ensure that a valid user is able to log-in | 1. Open the application<br /> 2. Select the log-in function<br /> 3. Enter valid username and password<br /> 4. Press ENTER or click on the log-in button | The user should be logged in | Passed |
+![Smoke Testing Example](/files/smoke_testing_example.png)
 
 ## Common Pitfalls of the Smoke Testing
 
