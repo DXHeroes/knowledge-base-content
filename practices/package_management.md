@@ -12,6 +12,7 @@ tags:
   - linting
   - dockerizing
   - packing applications
+  - lockfileispresent
 keywords:
   - metadata
   - repository
@@ -88,12 +89,8 @@ Package Managers:
   Many different packages are being used or each developer uses a different package. They can contain different properties and act differently.
 - **Libraries**  
   Libraries needed for development are added to the global dependencies.
-- **Lockfile**  
-  Lockfile is not respected.
-
-**What Is a Lockfile?**
-
-A lockfile keeps the information about installed packages and it should be committed into your Package Manager source repositories. It is generated automatically for any operations. It is used for describing the dependency tree so the coworkers are guaranteed to install exactly the same dependencies. It also lets you "travel back in time" and check any former dependency tree. It allows your Package Manager to skip repeated metadata resolutions for previously-installed packages and, therefore, makes the installation much faster. Not committing the lockfile to your source control results in installing two different modules from the same dependency definition.
+- [**Lockfile**](/practices/lockfileispresent)  
+  [Lockfile](/practices/lockfileispresent) is not respected.
 
 ## Resources for the Package Management
 
