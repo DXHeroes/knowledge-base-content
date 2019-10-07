@@ -13,6 +13,7 @@ tags:
   - dockerizing
   - packing applications
   - lockfileispresent
+  - updating the dependencies
 keywords:
   - metadata
   - repository
