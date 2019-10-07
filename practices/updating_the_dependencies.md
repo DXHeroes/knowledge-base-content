@@ -1,7 +1,7 @@
 ---
 slug: updating-the-dependencies
-stages: ‘development’
-- 
+stages: 
+- development
 short_description: Not updating dependencies makes your product more and more difficult to maintain and it can bring security risks.
 tags:
 - updating the dependencies
