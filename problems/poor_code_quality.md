@@ -4,7 +4,7 @@ stages:
   - development
 short_description: Poor code quality mainly describes buggy code or code with high coupling and low cohesion that is difficult to maintain. Poor code quality can also lead to frequent code repetition or suspiciously slow implementation.
 tags:
-  - code quality
+  - poor code quality
   - development
   - code
   - ci/cd
@@ -17,13 +17,21 @@ keywords:
   - obsolete
   - team culture
   - libraries
+  - code quality
 ---
 
 # Poor Code Quality
 
-## What Is the Poor Code Quality?
+**TL;DR**
+
+Poor code quality is something you want to avoid. Learn what can be the reason for the poor performance of your team.
+
+## What Is the Poor Code Quality
 
 Poor code quality describes buggy code or code with high coupling and low cohesion that is difficult to maintain.
+
+![Poor Code Quality](/files/code_quality.png)  
+[xkdc: Code Quality](https://xkcd.com/1513/)
 
 Poor code quality is an umbrella term for multiple issues with the codebase:
 
@@ -38,28 +46,22 @@ If left unchecked, poor code quality can lead to issues in software delivery. It
 
 ## Reasons of the Poor Code Quality
 
-**Team Culture**
+- **Team Culture**
 
-Poor code quality can be caused by a team that "doesn't give a shit". Make sure that the team knows their purpose.
+  - Poor code quality can be caused by a team that ["doesn't give a shit"](/problems/not_my_problem_mentality). Make sure that the team knows their purpose.
+  - Another reason may be a lack of senior expertise within the team.
+  - Poor code quality can be caused by a long-term technical debt accumulation. Give the team some time for refactoring the code and pay-off the technical debt.
 
-Another reason may be a lack of senior expertise within the team.
+- **Processes**  
+  Non-existing or weak quality assurance practices can lead to poor code quality rather quickly.
 
-Poor code quality can be caused by a long-term technical debt accumulation. Give the team some time for refactoring the code and pay-off the technical debt.
+  - Ensure that your team does [code reviews](/practices/code_review) and [pull requests](/practices/pull_requests).
+  - Introduce [Unit Tests](/practices/unit_testing) and [Code Coverage](/practices/code_coverage) to catch bugs early in development.
+  - Implement CI/CD so that code has to pass all the tests before it can be merged. For more information, see [Continuous Integration](/practices/continuous_integration) and Continuous Delivery.
+  - Add testers into the team and employ manual testing.
+  - Ensure that your software development methodology ([Scrum](/practices/scrum)/[Kanban](/practices/kanban)) leaves enough time for refactoring and writing a production quality code. Decrease the team workload and see if the code quality improves.
 
-**Processes**
-
-Non-existing or weak quality assurance practices can lead to poor code quality rather quickly.
-
-- Ensure that your team does code reviews and pull requests.
-- Introduce Unit Tests and Code Coverage to catch bugs early in development.
-- Implement CI/CD so that code has to pass all the tests before it can be merged. For more information, see Continuous Integration and Continuous Delivery.
-- Add testers into the team and employ manual testing.
-- Ensure that your software development methodology (SCRUM/Kanban) leaves enough time for refactoring and writing a production quality code. Decrease the team workload and see if the code quality improves.
-
-**Architecture**
-
-Architecture that has a bad fit with the requirements of the software being written can be the cause for poor code quality.
-
-If you have a problem with code repetition, ensure that your architecture supports code reuse.
-
-The particular functionality you try to deliver can be difficult to implement within your current architecture. It can lead to verbose/buggy/hard to maintain code. Try to modify the architecture so it fits the use case.
+- **Architecture**
+  - Architecture that has a bad fit with the requirements of the software being written can be the cause for poor code quality.
+  - If you have a problem with code repetition, ensure that your architecture supports code reuse.
+  - The particular functionality you try to deliver can be difficult to implement within your current architecture. It can lead to verbose/buggy/hard to maintain code. Try to modify the architecture so it fits the use case.

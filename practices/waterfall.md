@@ -6,34 +6,51 @@ short_description: The Waterfall methodology is a linear project management appr
 tags:
   - waterfall
   - project management
+  - agile events
+  - design sprint
+  - scrum
+  - kanban
+  - mvp
+  - feedback
+  - backlog
 keywords:
   - project management
   - agile
   - scrum
   - kanban
+  - waterfall
+  - royce
 ---
 
 # Waterfall
 
+**TL;DR**
+
+Waterfall model sees the software development as a set of tasks that need to be finished before moving to the next one. Like a waterfall, everything moves strictly downwards (or in one direction). This method is often criticized for it's rigid structure and Agile is widely mentioned as an opposite approach.
+
 ## What Is Waterfall
 
-The Waterfall methodology is a linear project management approach where customer's requirements are collected at the beginning of the project. Then the Project Manager creates a sequential project plan to satisfy those requirements. The concept first introduced in 1970 by Winston W. Royce, and it was quickly adopted in a variety of industries due to its logical sequencing and easy implementation.
+The Waterfall methodology is a linear project management approach where customer's requirements are collected at the beginning of the project. Then the Project Manager creates a sequential project plan to satisfy those requirements. The concept was first introduced in 1970 by [Winston W. Royce](https://en.wikipedia.org/wiki/Winston_W._Royce). It was quickly adopted in a variety of industries due to its logical sequencing and easy implementation.
 
 ## Why You Might Want Waterfall
 
-- The Waterfall model is very simple to understand and use.
-- It may be an effective way for small low-budget projects.
+- The Waterfall model is very simple to understand and to use.
+- It can be an effective way for small low-budget projects.
 - It is suitable for a project in the non-changing environment, such as architectural engineering.
 - Each phase has well-understood milestones, specific deliverables and a review process. Then the project is very rigid, easily manageable and measurable.
-- It works well in situations where the expected scenario of the project will be probably familiar with several knowns. Or in situations where you can exactly determine the requirements at the beginning of the project.
+- It works well in situations where the project development is easily predicted. Or in situations where you can exactly determine the requirements at the beginning of the project.
 - In contrast to Agile methodologies, it is easier to document results due to non-changing outputs.
 
 ## Problems the Waterfall Helps to Solve
 
-- Expensive development
-- Sunk cost
-- Knowledge hoarding
-- Never ending meetings
+- [Increased cost](/problems/increased-cost)
+- [Bad product-market fit](/problems/bad-product-market-fit)
+- [Demotivated team](/problems/demotivated-team)
+- [Meaningless work](/problems/meaningless-work)
+- Unsuccessful product
+- Unnecessary functions
+- Unhappy clients
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 
 ## How to Implement Waterfall
 
@@ -56,19 +73,21 @@ The Waterfall model follows several phases in the sequential order:
 
 All these phases are cascaded to each other, flowing steadily downwards (like a waterfall) through the phases. You can move to the next phase if the previous one is successfully completed. Usually, you could not revert back to the previous phase perform any change. The phases also do not overlap.
 
-![Waterfall](/files/waterfall.png)
+![Waterfall](/files/waterfall.png)  
 [Testing Freak: What is Waterfall Model in Software Testing and What are Advantages and Disadvantages of Waterfall Model](http://testingfreak.com/waterfall-model-software-testing-advantages-disadvantages-waterfall-model/)
 
 ## Common Pitfalls of Waterfall
 
 - **Lack of adaptability**  
   As already mentioned, each phase is discrete and largely exists in isolation. This is especially true with the requirements phase. Once the customer’s requirements are collected, the customers do not play any role in the actual development of the software.
-- **Ignoration of user/customer feedback**  
-  Due to the strict step-by-step process, user or client feedback that is provided in the implementation phase can often be too late. In some cases, it can lead to a devastating realization. A costly and time-consuming solution is to step back to previous phases due to a new requirement or change coming from the customer.
+- **Impossible to change requirements**  
+  The rigid structure of the Waterfall model needs the clients to know all their requirements at the very beginning of the project, which is often impossible. When they see the product in the later stages and change the requirements, the whole project has to be redesigned and go through all the phases again.
+- **Ignoring the client's feedback**  
+  Due to the strict step-by-step process, the client's feedback from the implementation phase can often be too late. In some cases, it can lead to a devastating realization. A costly and time-consuming solution is to step back to previous phases due to a new requirement or change coming from the customer.
 - **Delayed verification**  
   Waterfall model mostly avoids testing until late parts of the life cycle. This means that most bugs or even design issues will be discovered until very late in the process.
 
-Disadvantages of the Waterfall mentioned above tries to solve [Agile](/practices/agile) methodologies, such as [Scrum](/practices/scrum), [Kanban](/practices/kanban), or XP (Extremely Programming).
+Disadvantages of the Waterfall mentioned above tries to solve [Agile](/practices/agile) methodologies, such as [Scrum](/practices/scrum), [Kanban](/practices/kanban), or [XP](https://en.wikipedia.org/wiki/Extreme_programming) (Extreme Programming).
 
 ## Resources for Waterfall
 

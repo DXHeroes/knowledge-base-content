@@ -7,6 +7,12 @@ tags:
   - team roles
   - roles
   - skills
+  - team lead
+  - tech lead
+  - scrum
+  - devops
+  - mentoring
+  - bus factor
 keywords:
   - type
   - explanation
@@ -18,6 +24,10 @@ keywords:
 ---
 
 # Team Roles Definition
+
+**TL;DR**
+
+Who is who in the team? Is it really necessary to define the team roles? Read about Belbin’s research.
 
 ## What Is the Team Roles Definition
 
@@ -57,7 +67,7 @@ Team roles represent a tendency to interact with others in a specific way to mak
 
 ## Why You Might Want the Team Roles
 
-Belbin recognized that the team success depends on the behavior of the team members. Defining various team roles allows you to match job requirements with the appropriate skills and therefore, you can create a well-balanced team. Belbin’s research shows that the team tends to work more cohesively if the team members understand their individual roles. Familiarity leads to better performance, sharing information engages team members to find constructive solutions and ideas. It reduces misunderstandings and disputes. Finding a good match between the team members and their roles eliminates mistakes and improve quality of work.
+Belbin recognized that the team success depends on the behavior of the team members. Defining various team roles allows you to match job requirements with the appropriate skills and, therefore, you can create a well-balanced team. Belbin’s research shows that the team tends to work more cohesively if the team members understand their individual roles. Familiarity leads to better performance, sharing information engages team members to find constructive solutions and ideas. It reduces misunderstandings and disputes. Finding a good match between the team members and their roles eliminates mistakes and improve quality of work.
 
 ## Problems the Team Roles Solve
 
@@ -69,17 +79,14 @@ Belbin recognized that the team success depends on the behavior of the team memb
 
 ## How to Define the Team Roles
 
-**Maturing team roles**  
- Team roles and their responsibilities are not always necessarily static. Team members can adopt different roles at different times, team roles develop and mature.
-
-**Hiring**  
- It is important to define the roles you need in your team and then recruit, hire, train, and retain the right people. Define the roles before hiring! Look into the applicants’ qualifications, characteristics, strengths, and weaknesses. Explain clearly their responsibilities to them.
-
-**Understanding**  
- Each team member also has to know their superiors, corresponding expectations, experience and educational requirements, team goals, and how they will be evaluated.
-
-**Chart**  
- It is a good idea to create a chart once you are finished with creating the team roles. The team members would understand the relationships easier if they can look at it.
+- **Maturing team roles**  
+  Team roles and their responsibilities are not always necessarily static. Team members can adopt different roles at different times, team roles develop and mature.
+- **Hiring**  
+  It is important to define the roles you need in your team and then recruit, hire, train, and retain the right people. Define the roles before hiring! Look into the applicants’ qualifications, characteristics, strengths, and weaknesses. Explain clearly their responsibilities to them.
+- **Understanding**  
+   Each team member also has to know their superiors, corresponding expectations, experience and educational requirements, team goals, and how they will be evaluated.
+- **Chart**  
+  It is a good idea to create a chart once you are finished with creating the team roles. The team members would understand the relationships easier if they can look at it.
 
 ## Common Pitfalls of the Team Roles
 
@@ -95,9 +102,9 @@ Belbin recognized that the team success depends on the behavior of the team memb
 
 ## Resources for the Team Roles Definition
 
-- [The Coming Shape Of Organization](http://www.belbin.ie/the-coming-shape-of-organization/)
-- [Medium: Software Project Team Roles and Responsibilities](https://medium.com/@SherrieRose/software-project-team-roles-and-responsibilities-152a7d575759)
-- [Forbytes: Making sense of the roles in a software project](https://forbytes.com/frequently-asked-questions/roles-and-responsibilities/)
-- [Medium: Software Roles and Titles](https://medium.com/javascript-scene/software-roles-and-titles-e3f0b69c410c)
-- [Chron: The Importance of Recognizing Roles in a Team](https://smallbusiness.chron.com/importance-recognizing-roles-team-31499.html)
-- [Cleverism: How to Define Roles, Responsibilities and Handovers](https://www.cleverism.com/how-to-define-roles-responsibilities-handovers/)
+- Belbin: [The Coming Shape Of Organization](http://www.belbin.ie/the-coming-shape-of-organization/)
+- Medium: [Software Project Team Roles and Responsibilities](https://medium.com/@SherrieRose/software-project-team-roles-and-responsibilities-152a7d575759)
+- Forbytes: [Making sense of the roles in a software project](https://forbytes.com/frequently-asked-questions/roles-and-responsibilities/)
+- Medium: [Software Roles and Titles](https://medium.com/javascript-scene/software-roles-and-titles-e3f0b69c410c)
+- Chron: [The Importance of Recognizing Roles in a Team](https://smallbusiness.chron.com/importance-recognizing-roles-team-31499.html)
+- Cleverism: [How to Define Roles, Responsibilities and Handovers](https://www.cleverism.com/how-to-define-roles-responsibilities-handovers/)
