@@ -51,12 +51,12 @@ Clear and regular Agile Events are important for an effective work. What are the
 
 Agile Events, formerly Agile Ceremonies, are a set of meetings prescribed for Agile frameworks. The most common Agile framework with such rituals is [Scrum](/practices/scrum). It is recommended for the Scrum framework to hold six key events during every Sprint to work efficiently. Those six events are:
 
-1. Daily Standup
-2. Sprint Planning
-3. Sprint Review
-4. Sprint Retrospective
-5. Sprint Refinement
-6. The Sprint
+- Daily Standup
+- Sprint Planning
+- Sprint Review
+- Sprint Retrospective
+- Sprint Refinement
+- The Sprint
 
 ![Agile Events](/files/agile_events.jpg)  
 [Norex.net](https://www.norex.net/)
