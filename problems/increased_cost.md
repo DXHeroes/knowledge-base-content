@@ -13,7 +13,6 @@ tags:
   - design sprint
   - mvp
   - good developer experience
-  -
 keywords:
   - design sprint
   - value proposition
