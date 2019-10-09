@@ -72,7 +72,6 @@ Why not just break the epic into steps? Why bother with creating the user storie
 - [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 - [Toxic Team Culture](/problems/toxic-team-culture)
 - [Poor Code Quality](/problems/poor-code-quality)
-- [Increased Cost](/problems/increased-cost)
 
 ## How to Implement User Stories
 

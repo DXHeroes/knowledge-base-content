@@ -53,7 +53,7 @@ Pull request can also trigger CI/CD to make sure all automated tests pass before
 - [Poor code quality](/problems/poor-code-quality)
 - [Demotivated Team](/problems/demotivated-team)
 - Knowledge hoarding
-- Toxic team culture
+- [Toxic Team Culture](/problems/toxic-team-culture)
 - ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - [Meaningless work](/problems/meaningless-work)
 - [Toxic team culture](/problems/toxic-team-culture)

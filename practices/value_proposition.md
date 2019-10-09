@@ -30,25 +30,25 @@ keywords:
 
 Value Proposition Canvas is a visual tool that helps to understand the customer's requirements by defining the customer segment and the value proposition. It explains who is the customer and why the customer should care about the product. Alexander Osterwalder created the tool as an addition to his Business Model Canvas to focus more on the customer and their requirements.
 
-![Value Proposition Canvas](/files/value_proposition_canvas.png)
+![Value Proposition Canvas](/files/value_proposition_canvas.png)  
 [B2B International: What is the Value Proposition Canvas?](https://www.b2binternational.com/research/methods/faq/what-is-the-value-proposition-canvas/)
 
 The right side of the diagram (the circle) answers the question **who**. It defines the customer segment.
 
-- **Customer Jobs**
+- **Customer Jobs**  
   Customer’s basic needs, the problems they try to solve and the tasks they want to accomplish.
-- **Pains**
+- **Pains**  
   Customer’s fears, concerns, and other negative emotions.
-- **Gains**
+- **Gains**  
   The benefits that the customer wants.
 
 The left side of the diagram (the square) answers the question of **why**. It defines the value proposition.
 
-- **Product & Service**
+- **Product & Service**  
   The products and services you offer to the customer. The offers create gain and relieve pain.
-- **Pain Relievers**
+- **Pain Relievers**  
   A description of how the product relieves the customer’s pains.
-- **Gain Creators**
+- **Gain Creators**  
   How the product creates the customer’s gains.
 
 ## Why You Might Want the Value Proposition Canvas
@@ -57,8 +57,14 @@ The Value Proposition Canvas makes you think differently about the customers. Th
 
 ## Problems the Value Proposition Canvas Solves
 
+- [Increased cost](/problems/increased-cost)
 - [Bad product-market fit](/problems/bad-product-market-fit)
+- [Demotivated team](/problems/demotivated-team)
 - [Meaningless work](/problems/meaningless-work)
+- Unsuccessful product
+- Unnecessary functions
+- Unhappy clients
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 
 ## How to Implement the Value Proposition Canvas
 

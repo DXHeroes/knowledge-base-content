@@ -14,6 +14,7 @@ tags:
   - demotivated team
   - meaningless work
   - mvp
+  - team roles
 keywords:
   - bus factor
   - truck factor

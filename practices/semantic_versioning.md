@@ -23,6 +23,10 @@ keywords:
 
 # Semantic Versioning
 
+## TL;DR
+
+Version your work or you will get lost forever in the updates! Semantic Versioning is a tool that you can use to version the states of your project.
+
 ## What Is a Semantic Versioning
 
 Semantic Versioning (SemVer) is the most popular system of versioning unique states of the project. To have a universal way of versioning helps to keep things clean and simple and to keep track of the software changes.
