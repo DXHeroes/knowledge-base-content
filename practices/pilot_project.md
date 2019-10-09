@@ -8,7 +8,11 @@ tags:
   - testing
   - feedback
   - agile events
-
+  - penetration testing
+  - performance testing
+  - unit testing
+  - smoke testing
+  - wireframing
 keywords:
   - pilot project
   - trial run
@@ -19,7 +23,7 @@ keywords:
 
 # Pilot Project
 
-## TL;DR
+**TL;DR**
 
 A Pilot Project is a small-scale version of your larger project that helps you catch potential errors before the full implementation.
 
@@ -29,7 +33,10 @@ Pilot projects verify new functionalities or applications under real-time operat
 
 The sample of clients is specifically selected - the clients cannot be involved in the product development so they do not know the product very well. They also have to be able to report the errors and the technical details well. Monitoring can be a part of the report.
 
-This technique is very popular in the gaming industry. Companies select groups of people (pilot testers) who can play a game that has not been released yet. This pilot testing is not only good for catching mistakes but also to avoid any reputational risks. It is important that the pilot testers are loyal so there is no risk of information leakage.
+![Pilot Project](/files/pilot-project.jpg)  
+[User Research Institute: Pilot Project](https://www.userresearchinstitute.com/pilot-project-interactive-mobile-web-platform-who-will-benefit-from-the-project/)
+
+This technique is very popular in the gaming industry - gamers are excited to play a game even though it is not finished yet. Companies select groups of people (pilot testers) who can play a game that has not been released yet. This pilot testing is not only good for catching mistakes but also to avoid any reputational risks. It is important that the pilot testers are loyal so there is no risk of information leakage.
 
 ## Why You Might Want the Pilot Project
 
@@ -62,12 +69,18 @@ This technique is very popular in the gaming industry. Companies select groups o
 
 ## Common Pitfalls of the Pilot Project
 
-- The company makes a "big bang" release instead of a careful and slow implementation with the Pilot Project.
-- Inconsistent communication. The pilot testers are not informed. They should know what to focus on.
-- The cost is escalating. This is probably a problem of development.
-- Conflicting software interferes with the pilot software.
-- The pilot testers do not have necessary supporting software.
-- Changes in goals complicate the development.
+- **Big Bang**  
+  The company makes a "big bang" release instead of a careful and slow implementation with the Pilot Project.
+- **Inconsistent communication**  
+  The pilot testers are not informed. They should know what to focus on.
+- **The cost is escalating**  
+  This is probably a problem of development.
+- **Conflicting software**  
+  Conflict software interferes with the pilot software.
+- **Lack of software**  
+  The pilot testers do not have necessary supporting software.
+- **Changes**
+  Changes in goals complicate the development.
 
 ## Resources for the Pilot Project
 

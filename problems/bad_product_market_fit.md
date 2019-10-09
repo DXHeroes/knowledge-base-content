@@ -2,7 +2,7 @@
 slug: bad-product-market-fit
 stages:
   - research
-short_description: "Bad product-market fit means that the market does not want your product. Products the market does not want waste not only money but also the team members' time."
+short_description: Bad product-market fit means that the market does not want your product. Products the market does not want waste not only money but also the team members' time.
 tags:
   - bad product market fit
   - market
@@ -28,9 +28,16 @@ keywords:
 
 # Bad Product-Market Fit
 
+**TL;DR**
+
+When market does not want your product, it means you are done. Achieving a product-market fit is the goal of every business.
+
 ## What Is a Bad Product-Market Fit
 
 Bad product-market fit means that the market does not want your product. It is crucial to achieve a product-market fit. It is the main goal for every company. If the company does not find the product-market fit in a reasonable time period, it could mean a bankrupt. A bad product-market fit basically means that the customers are not satisfied with your product. Mark Andreessen, a co-founder of a Silicon Valley company Andreessen Horowitz, defined the term product-market fit as "being in a good market with a product that can satisfy that market."
+
+![Product-market fit](/files/product_market.jpg)  
+[Product-market fit)(https://openviewpartners.com/blog/from-product-market-fit-to-product-market-price-fit/)
 
 ## Reasons for the Bad Product-Market Fit
 

@@ -11,6 +11,8 @@ tags:
   - design sprint
   - bad product market fit
   - visualization
+  - lean canvas
+  - wireframing
 keywords:
   - jobs
   - pain
@@ -26,6 +28,10 @@ keywords:
 
 # Value Proposition
 
+**TL;DR**
+
+A Value Proposition Canvas is a visual tool. It shows you who the customers are and what are you trying to sell them. Make a Value Proposition Canvas before every offer to clarify for yourself if your proposition matches the client's criteria.
+
 ## What Is a Value Proposition Canvas
 
 Value Proposition Canvas is a visual tool that helps to understand the customer's requirements by defining the customer segment and the value proposition. It explains who is the customer and why the customer should care about the product. Alexander Osterwalder created the tool as an addition to his Business Model Canvas to focus more on the customer and their requirements.
@@ -33,6 +39,7 @@ Value Proposition Canvas is a visual tool that helps to understand the customer'
 ![Value Proposition Canvas](/files/value_proposition_canvas.png)  
 [B2B International: What is the Value Proposition Canvas?](https://www.b2binternational.com/research/methods/faq/what-is-the-value-proposition-canvas/)
 
+**WHO**  
 The right side of the diagram (the circle) answers the question **who**. It defines the customer segment.
 
 - **Customer Jobs**  
@@ -42,6 +49,7 @@ The right side of the diagram (the circle) answers the question **who**. It defi
 - **Gains**  
   The benefits that the customer wants.
 
+**WHY**  
 The left side of the diagram (the square) answers the question of **why**. It defines the value proposition.
 
 - **Product & Service**  
@@ -72,7 +80,7 @@ The Value Proposition Canvas should be a team work. Always start with defining t
 
 Follow these steps:
 
-1. Discuss who the customer is with the team. You can use the Persona Canvas.
+1. Discuss with your team who the customer is. You can use the [Persona Canvas](https://designabetterbusiness.com/2017/09/21/step-into-the-shoes-of-your-customers-with-the-persona-canvas/).
 2. Put your ideas about the customer jobs on the post-it notes. Stick the notes to the canvas.
 3. Write the pains on the post-it notes. Answer the question: “What gets in the way of customer’s jobs?” Stick the notes to the canvas.
 4. Write the gains on the post-it notes. Try to think about what makes the customer happy. Stick the notes to the canvas.

@@ -10,6 +10,10 @@ tags:
   - agile events
   - code review
   - feedback
+  - mvp
+  - good developer experience
+  - proper bug reporting
+  - poor code quality
 keywords:
   - pair programming
   - code review
@@ -17,13 +21,16 @@ keywords:
 
 # Pair Programming
 
-## TL;DR
+**TL;DR**
 
 When two developers work on the same computer, things can get messy. Learn how to benefit from this technique.
 
 ## What Is a Pair Programming
 
 Pair programming is a practice of two programmers working together on the same task at a single computer. Typically, one of them is a driver (or a pilot) and the second one is a navigator. The driver writes the code and the navigator reviews the code and plans the action. The goal is to increase software quality without impacting time to deliver. When two people work on the same project at a single computer, they add as much functionality as if they work separately but it is much higher in quality.
+
+![Pair Programming](/files/pair-programming.svg)  
+[Tuple’s Pair Programming Guide](https://tuple.app/pair-programming-guide/)
 
 Pair programming is a social skill and it takes time to learn it. The programmers have to suppress their egos, they have to listen to each other and be patient. It is a skill that needs to be learned. If you have a team member with experience with pair programming, let them show it to the rest of the team so they can imagine how to do it.
 
@@ -59,15 +66,15 @@ Sit in front of the same monitor and share the keyboard and mouse back and forth
 These are the main pair programming techniques:
 
 1. **Ping Pong**  
-    The driver writes a test for behavior and then the navigator makes the test pass. Once the test passes, the developers switch the roles.
+   The driver writes a test for behavior and then the navigator makes the test pass. Once the test passes, the developers switch the roles.
 2. **Driver-Navigator roles**  
-    This is a looser form of the Ping Pong style. Sit in front of the same monitor and share the keyboard and mouse back and forth. In other words, switch the roles of a driver and a navigator for better results. This way both of the programmers learn to communicate.
+   This is a looser form of the Ping Pong style. Sit in front of the same monitor and share the keyboard and mouse back and forth. In other words, switch the roles of a driver and a navigator for better results. This way both of the programmers learn to communicate.
 3. **Strong Style pairing**  
-    The driver does nothing than what the navigator tells them to do. The navigator makes all decisions. When the driver has some idea to implement, they give the keyboard to the navigator and the roles switch.
+   The driver does nothing than what the navigator tells them to do. The navigator makes all decisions. When the driver has some idea to implement, they give the keyboard to the navigator and the roles switch.
 4. **Unstructured pairing**  
-    When no specific approach is followed, the role switching happens whenever it makes sense. It works only with well-matched pairs and it helps them code even faster.
+   When no specific approach is followed, the role switching happens whenever it makes sense. It works only with well-matched pairs and it helps them code even faster.
 5. **Remote pairing**  
-    Each developer works from a different computer and use software to share screens. The driver shares their screen using a conference tool (such as [Google Hangouts](https://tools.google.com/dlpage/hangoutplugin), [Skype](https://www.skype.com/), or [Webex](https://www.webex.com/)) so that the navigator can see what they are typing. Plugins for [Atom](https://atom.io/) let them share their IDE (integrated development environment) and modify the code at the same time.
+   Each developer works from a different computer and use software to share screens. The driver shares their screen using a conference tool (such as [Google Hangouts](https://tools.google.com/dlpage/hangoutplugin), [Skype](https://www.skype.com/), or [Webex](https://www.webex.com/)) so that the navigator can see what they are typing. Plugins for [Atom](https://atom.io/) let them share their IDE (integrated development environment) and modify the code at the same time.
 
 ## Common Pitfalls of the Pair Programming
 

@@ -8,16 +8,14 @@ tags:
   - demotivated team
   - culture
   - motivation
-  - goal
   - support
   - performance
   - productivity
   - communication
   - team lead
-  - micromanagement
-  - environment
-  - efficiency
-  - mentality
+  - management
+  - mvp
+  - good developer experience
 keywords:
   - demotivated team
   - motivation
@@ -33,6 +31,10 @@ keywords:
 ---
 
 # Demotivated Team
+
+**TL;DR**
+
+Part of a [Good Developer Experience](/practices/good-developer-experience) is being a motivated employee. Avoid the following factors and create a productive climate.
 
 ## What Is a Demotivated Team
 

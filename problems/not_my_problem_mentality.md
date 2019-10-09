@@ -30,6 +30,10 @@ keywords:
 
 # Not My Problem Mentality
 
+**TL;DR**
+
+“Not My Problem” mentality is a dangerous phenomenon that can jeopardize your project. Collaboration is a result of a healthy team environment and a good leadership. Why is your team acting like they do not care about the team work? Read more!
+
 ## What Is a Not My Problem Mentality
 
 One of the very dangerous approaches to a team work is “Not My Problem” mentality and it is an opposite to a healthy team collaboration. It is not a team player’s mindset. It can endanger your team’s productivity, your relationships, the product, or, in the worst case scenarios, even lives. It is easy to walk away from a car accident thinking that someone else is going to take care of the problem. It is easy to walk away from an upset colleague without asking if they need any help. In the end, we both have a lot of work, right?

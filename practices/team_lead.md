@@ -23,21 +23,26 @@ keywords:
 
 # Team Lead
 
-## TL;DR
+**TL;DR**
 
 Team leads are responsible for the team’s well being. Who should be a Team Lead and how to do the job right? Read more!
 
 ## Who Is a Team Lead
 
-The definitions of the Team Lead role quite differ: companies adjust this role to their specific needs, sometimes Team Leads do not even have a clear role within the team. This role is often confused with a senior or a manager. But what all the Team Leads have in common is that they make sure that everyone is on the same page in terms of goals, features, and work in general. They ensure that the team members and the stakeholders understand everything and that they feel comfortable after every discussion. They also ensure that the focus is on the right thing at the right time. Their main focus is not the product but the team’s well being. They can have multiple roles within one team but never multiple teams as Team Leads.
+The definitions of the Team Lead role quite differ: companies adjust this role to their specific needs, sometimes Team Leads do not even have a clear role within the team. This role is often confused with a senior or a manager.
 
-So what is the difference between a senior, a manager, and a Team Lead?
+What all the Team Leads have in common? They ensure that everyone is on the same page in terms of goals, features, and work in general. They ensure that the team members and the stakeholders understand everything and that they feel comfortable after every discussion. They also ensure that the focus is on the right thing at the right time. Their main focus is not the product but the team’s well being. They can have multiple roles within one team but never multiple teams as Team Leads.
 
-- **Seniors** are people who deeply understand the project. They teach newcomers and suggest solutions to the most difficult issues.
-- **Managers** have people to work for them. They plan, organize and coordinate and they are part of the company’s hierarchy and does not have to be a programmer.
-- **Team Leads** understand perfectly not only the technical side of the project but also the team management. They act as a shield to protect their team from managers and customers. They ensure that the developers are satisfied and motivated. They are the bridge between the team and management.
+So what is the difference between a **senior**, a **manager**, and a **Team Lead**?
 
-![Management](/files/team_lead.png)
+- **Seniors**  
+  are people who deeply understand the project. They teach newcomers and suggest solutions to the most difficult issues.
+- **Managers**  
+  have people to work for them. They plan, organize and coordinate and they are part of the company’s hierarchy and does not have to be a programmer.
+- **Team Leads**  
+  understand perfectly not only the technical side of the project but also the team management. They act as a shield to protect their team from managers and customers. They ensure that the developers are satisfied and motivated. They are the bridge between the team and management.
+
+![Management](/files/team_lead.png)  
 [Dilbert](https://dilbert.com/strip/2011-04-14)
 
 ## Why You Might Want the Team Lead
@@ -95,7 +100,7 @@ Some Team Leads want to take credit for the things that go well and point the fi
 
 ## Resources for the Team Lead
 
-- [Gaslight: Team Lead: What is it and Why Do We Care?](https://teamgaslight.com/blog/team-lead-what-is-it-and-why-do-we-care)
-- [luminousmen: Who is a team lead?](https://luminousmen.com/post/who-is-a-team-lead)
-- [Forbes: 5 Common Mistakes Most Leaders Make (And How To Avoid Them)](https://www.forbes.com/sites/deeppatel/2017/11/21/5-common-mistakes-most-leaders-make-and-how-to-avoid-them/#16299f57242d)
-- [Dev: What's the role of an engineering team lead?](https://dev.to/pawel_ledwon/whats-the-role-of-an-engineering-team-lead--47hc)
+- Gaslight: [Team Lead: What is it and Why Do We Care?](https://teamgaslight.com/blog/team-lead-what-is-it-and-why-do-we-care)
+- luminousmen: [Who is a team lead?](https://luminousmen.com/post/who-is-a-team-lead)
+- Forbes: [5 Common Mistakes Most Leaders Make (And How To Avoid Them)](https://www.forbes.com/sites/deeppatel/2017/11/21/5-common-mistakes-most-leaders-make-and-how-to-avoid-them/#16299f57242d)
+- Dev: [What's the role of an engineering team lead?](https://dev.to/pawel_ledwon/whats-the-role-of-an-engineering-team-lead--47hc)

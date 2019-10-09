@@ -14,6 +14,8 @@ tags:
   - feedback
   - testing
   - smoke testing
+  - unit testing
+  - pilot project
 keywords:
   - penetration test
   - ethical hacking
@@ -24,7 +26,7 @@ keywords:
 
 # Penetration Testing
 
-## TL;DR
+**TL;DR**
 
 Friendly cyberattacks exist! Hire hackers to test your security.
 
@@ -71,6 +73,9 @@ Penetration Testing should be a part of your software development lifecycle, not
    How long can the tester stay in the system? Is it long enough that the actual hacker could gain deeper access?
 5. **Analysis and configuration review**  
    Testers make a detailed report on the performed test.
+
+![Penetration Testing](/files/pen-testing.jpg)  
+[imperva: Penetration Testing](https://www.imperva.com/learn/application-security/penetration-testing/)
 
 ## Common Pitfalls of the Penetration Testing
 

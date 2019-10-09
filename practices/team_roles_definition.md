@@ -25,7 +25,7 @@ keywords:
 
 # Team Roles Definition
 
-## TL;DR
+**TL;DR**
 
 Who is who in the team? Is it really necessary to define the team roles? Read about Belbin’s research.
 

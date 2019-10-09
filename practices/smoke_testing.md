@@ -4,6 +4,7 @@ stages:
   - launch
 short_description: It is a test aimed to verify that the most important features of the product really work. This term was used during testing hardware and the product passed the test when it did not burn or smoke.
 tags:
+  - smoke testing
   - testing
   - quality assurance
   - increased cost
@@ -12,6 +13,9 @@ tags:
   - unit testing
   - performance testing
   - penetration testing
+  - unit testing
+  - pilot project
+  - code coverage
 keywords:
   - increased cost
   - testing
@@ -22,7 +26,7 @@ keywords:
 
 # Smoke Testing
 
-## TL;DR
+**TL;DR**
 
 Smoke Testing aims to verify if the most important product features really work. This term was used during testing the hardware and the product passed the test when it did not burn or smoke. How to create an efficient Smoke Test? Read this article!
 
@@ -32,7 +36,7 @@ A Smoke Test is aimed to verify that the most important features of the product 
 Smoke Tests are a subset of test cases which cover the most important functionalities of the product. They also typically answer basic questions like "Does the application run?" or "Does activation of a new functionality do anything?"
 The advantage of the Smoke Tests is in the speed of verification or obtaining a result.
 
-## Why You Might Want the Smoke Testing?
+## Why You Might Want the Smoke Testing
 
 Smoke Testing helps reduce the risk of major product errors. It is usually performed before the start of functional testing of the application, which helps to reduce the cost of testing itself and repairing functional errors.
 

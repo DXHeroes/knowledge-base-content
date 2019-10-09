@@ -13,7 +13,6 @@ tags:
   - mvp
   - visualization
   - rituals
-
 keywords:
   - lean canvas
   - business model canvas
@@ -29,7 +28,7 @@ keywords:
 
 # Lean Canvas
 
-## TL;DR
+**TL;DR**
 
 Print this chart, fill the 9 fields and you are ready to build a successful product.
 

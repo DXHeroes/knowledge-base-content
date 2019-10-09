@@ -35,7 +35,7 @@ keywords:
 
 # Retrospective
 
-## TL;DR
+**TL;DR**
 
 Retrospective is a short and regular meeting where the team members reflect on past events and plan the future Sprint. Read more about effective retrospectives you can have.
 

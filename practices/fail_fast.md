@@ -33,7 +33,7 @@ keywords:
 
 # Fail Fast
 
-## TL;DR
+**TL;DR**
 
 Does your idea have a value? Do you want to reduce your debugging effort? Adopt Fail Fast Philosophy!
 

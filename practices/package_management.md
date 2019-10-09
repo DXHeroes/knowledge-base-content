@@ -25,7 +25,7 @@ keywords:
 
 # Package Management
 
-## TL;DR
+**TL;DR**
 
 Archive and share your files with Package Manager. The archive file contains all the data and you do not have to do any manual installations.
 
@@ -35,7 +35,7 @@ Package Managers are tools for automating installing, upgrading, configuring, or
 
 The archive file (package) contains metadata: summary, software description, list of files, version, authorship, targeted architecture, file checksums, licensing, configuration files, and a list of dependencies necessary for running the software. Package Manager ensures that the data is authentic by verifying their digital certificates (and checksums). It can also look up, download, install, and update existing software from a remote repository. It can group packages by functions. It automatically manages the dependencies to ensure that the package is installed with all the required functionalities.
 
-![Package Manager](/files/package_manager)  
+![Package Manager](/files/package_manager.png)  
 [Package Manager](https://devopedia.org/package-manager)
 
 Package Managers are necessary for installing software on Linux. This is a different approach to Windows, where you download .exe files from a website and run it on your system. In the beginning, every new program had to be compiled, linked, and run. Unix started to use shared libraries but the dependencies still had to be maintained by developers. At the beginning of the 90s, a Package Manager was born so the developers did not have to run commands every time on every machine with the same configurations. Instead, the Package Manager shipped the configurations to other computers. By mid-2010s, Package Managers made their way to Windows.
@@ -76,15 +76,22 @@ Package Managers:
 
 ## Common Pitfalls of the Package Management
 
-- The package is not specified and when the new version is published, the package breaks. You have to specify the major version at least.
-- The dependencies are not updated. Important security bugs fixes could be missing.
-- The packages are downloaded and then their code is modified by hand. The changes disappear after the next installation.
-- The dependency security audit is being ignored.
-- Many different packages are being used or each developer uses a different package. They can contain different properties and act differently.
-- Libraries needed for development are added to the global dependencies.
-- Lockfile is not respected.
+- **Specification**  
+  The package is not specified and when the new version is published, the package breaks. You have to specify the major version at least.
+- **Updating**  
+  The dependencies are not updated. Important security bugs fixes could be missing.
+- **Modifications**  
+  The packages are downloaded and then their code is modified by hand. The changes disappear after the next installation.
+- **Security**  
+  The dependency security audit is being ignored.
+- **Different packages**  
+  Many different packages are being used or each developer uses a different package. They can contain different properties and act differently.
+- **Libraries**  
+  Libraries needed for development are added to the global dependencies.
+- **Lockfile**  
+  Lockfile is not respected.
 
-**What Is a Lockfile**
+**What Is a Lockfile?**
 
 A lockfile keeps the information about installed packages and it should be committed into your Package Manager source repositories. It is generated automatically for any operations. It is used for describing the dependency tree so the coworkers are guaranteed to install exactly the same dependencies. It also lets you "travel back in time" and check any former dependency tree. It allows your Package Manager to skip repeated metadata resolutions for previously-installed packages and, therefore, makes the installation much faster. Not committing the lockfile to your source control results in installing two different modules from the same dependency definition.
 

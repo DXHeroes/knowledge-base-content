@@ -16,6 +16,7 @@ tags:
   - meaningless work
   - visualization
   - good developer experience
+  - user story
 keywords:
   - agile
   - scrum
@@ -32,7 +33,7 @@ keywords:
 
 # Kanban
 
-## TL;DR
+**TL;DR**
 
 Learn about a famous agile method with a Japanese name Kanban. It helps your team to concentrate on finishing their tasks and to avoid the "bottleneck effect".
 

@@ -28,7 +28,7 @@ keywords:
 
 # Bus Factor
 
-## TL;DR
+**TL;DR**
 
 A Bus Factor measures the minimum number of team members who have to be hit by a bus to put the project in jeopardy. How to increase your Bus Factor as much as possible? Read for more!
 

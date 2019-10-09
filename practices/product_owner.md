@@ -27,7 +27,7 @@ keywords:
 
 # Product Owner
 
-## TL;DR
+**TL;DR**
 
 A Product Owner represents the voice of stakeholders. Read more to recognize good Product Owners.
 

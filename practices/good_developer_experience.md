@@ -16,8 +16,8 @@ tags:
   - culture
   - communication
   - emotion
-  - developer experience
   - toxic team culture
+  - motivation
 keywords:
   - experience
   - satisfaction
@@ -31,7 +31,7 @@ keywords:
 
 # Good Developer Experience
 
-## TL;DR
+**TL;DR**
 
 Do not forget to make your developers happy!
 
