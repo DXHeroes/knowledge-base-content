@@ -14,6 +14,7 @@ tags:
   - demotivated team
   - meaningless work
   - mvp
+  - team roles
 keywords:
   - bus factor
   - truck factor
@@ -26,6 +27,10 @@ keywords:
 ---
 
 # Bus Factor
+
+**TL;DR**
+
+A Bus Factor measures the minimum number of team members who have to be hit by a bus to put the project in jeopardy. How to increase your Bus Factor as much as possible? Read for more!
 
 ## What Is a Bus Factor
 
@@ -50,6 +55,7 @@ A Bus Factor is also known as the bread truck scenario, lottery factor, truck fa
 - Unhappy clients
 - [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 - [Poor code quality](/problems/poor-code-quality)
+- [Demotivated Team](/problems/demotivated-team)
 - [Toxic team culture](/problems/toxic-team-culture)
 
 ## How to Increase the Bus Factor

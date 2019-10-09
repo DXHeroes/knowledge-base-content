@@ -5,6 +5,7 @@ stages:
 short_description: Performance Testing is a useful practice to verify if the product works as expected. Its goal is to identify the product's bottlenecks - what slows down the product performance.
 keywords:
   - performance testing
+  - penetration testing
   - code review
   - fail fast
   - ux/ui
@@ -12,6 +13,9 @@ keywords:
   - demotivated team
   - feedback
   - testing
+  - smoke testing
+  - unit testing
+  - pilot project
 tags:
   - performance testing
   - maximum operating capacity
@@ -25,6 +29,10 @@ tags:
 ---
 
 # Performance Testing
+
+**TL;DR**
+
+Does your product work as expected? Run a Performance Test and find it's bottlenecks.
 
 ## What Is Performance Testing
 
@@ -59,8 +67,7 @@ Performance Testing is a useful tool to locate performance problems by highlight
 - [Poor code quality](/problems/poor-code-quality)
 - [Increased cost](/problems/increased-cost)
 - [Meaningless work](/problems/meaningless-work)
-- Insufficient performance
-- Disconnect with business
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 
 ## How to Implement the Performance Testing
 
@@ -68,19 +75,19 @@ It is very important to start with a good input. Specify what you expect from th
 
 Follow these steps:
 
-- **Identify the tools and environment**
+- **Identify the tools and environment**  
   Understand the environment where the product will be tested (hardware, software, and network configurations).
-- **Set acceptance criteria**
+- **Set acceptance criteria**  
   Set the product performance goals with all stakeholders.
-- **Plan and design tests**
+- **Plan and design tests**  
   Identify the test scenarios. Create one or two models.
-- **Configure the test environment**
+- **Configure the test environment**  
   Prepare the test environment and tools needed to monitor resources.
-- **Implement the test design**
+- **Implement the test design**  
   Develop Performance Tests.
-- **Execute the test**
+- **Execute the test**  
   Run and monitor your tests.
-- **Analyze, repair, and retest**
+- **Analyze, repair, and retest**  
   Evaluate the data after the testing. Compare it to your expectations, repair, and run the Performance Tests again using different parameters.
 
 ## Common Pitfalls of the Performance Testing

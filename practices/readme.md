@@ -12,6 +12,7 @@ tags:
   - introduction
   - installation
   - writing
+  - user story
 keywords:
   - introduction
   - directory
@@ -23,6 +24,10 @@ keywords:
 ---
 
 # README
+
+**TL;DR**
+
+The first thing everyone sees in your product directory is README - an introduction of the product to a user. Make it thorough but simple, add every important information, and keep it updated.
 
 ## What Is a README
 
@@ -64,18 +69,18 @@ README contains all the important information about your product. It answers the
 - ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - [Meaningless work](/problems/meaningless-work)
 - Unhappy clients
-- Toxic team culture
+- [Toxic Team Culture](/problems/toxic-team-culture)
 - Knowledge hoarding
 
 ## How to Implement the README
 
-1.  Start writing the README before you publish your product. README should be the first file you create.
-2.  Put it in the top level directory.
-3.  It is recommended to use Markdown language. Keep the format simple.
-4.  Make it thorough but simple. Use short sentences and paragraphs but do not miss any important information.
-5.  Keep it updated.
-6.  Use examples.
-7.  Link to other places if the data is too large or sensitive to keep it in README.
+1. Start writing the README before you publish your product. README should be the first file you create.
+2. Put it in the top level directory.
+3. It is recommended to use Markdown language. Keep the format simple.
+4. Make it thorough but simple. Use short sentences and paragraphs but do not miss any important information.
+5. Keep it updated.
+6. Use examples.
+7. Link to other places if the data is too large or sensitive to keep it in README.
 
 ## Common Pitfalls of the ReadMe
 
