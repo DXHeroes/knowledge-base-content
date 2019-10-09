@@ -26,9 +26,16 @@ keywords:
 
 # Meaningless Work
 
+**TL;DR**
+
+Avoid meaningless work! Learn how to deliver value and stop spending time with tasks without purpose.
+
 ## What Is a Meaningless Work
 
 Meaningless work can be a feeling that the work I am doing has no meaning or it can mean that the product I am working on is not valuable.
+
+![Meaningless Work](/files/sysifos.jpg)  
+[i write: Sysifos](https://iwrite.cz/knizni-a-ha-momenty-2017-cast-2-co-reknete-az-pozdravite/sysifos/)
 
 Work can become meaningless if your team reaches one of these two phases:
 
@@ -43,11 +50,16 @@ The management should be aware of how the employees feel. If they are not motiva
 
 ## Reasons for the Meaningless Work
 
-- The product does not have customers. Typical for startups without validated assignment or prototyping. There are plenty of techniques for the validation, such as [Lean Canvas](/practices/lean-canvas).
-- Neverending meetings or useless reports that consume time can be cut down by regular rituals (see [Rituals Definition](/practices/rituals-definition)). The goal is to find a balance between having too many and too little rituals.
-- Another reason is a lack of information. The developers do not understand why they have implement this thing. They did not get any explanation.
-- The architecture is way too old fashioned. To change something takes so much time! For example, mainframe - it is so enormous and old that it cannot be properly tested. The architecture is underdimenzioned. The opposite is an overdimenzioned architecture - to build anything takes too much time.
-- People are doing a repetitive work that can be automated. The companies do not use [continuous integration](/practices/continuous-integration) - for example, they implement everything to production by hand even though they can automatize the process.
+- **The product does not have customers**  
+   Typical for startups without validated assignment or prototyping. There are plenty of techniques for the validation, such as [Lean Canvas](/practices/lean-canvas).
+- **Neverending meetings or useless reports consume time**  
+   Cut them down by regular [Rituals](/practices/rituals-definition). The goal is to find a balance between having too many and too little rituals.
+- **Lack of information**  
+  The developers do not understand why they have implement this thing. They did not get any explanation.
+- **Old fashioned architecture**  
+  To change something takes so much time! For example, mainframe - it is so enormous and old that it cannot be properly tested. The architecture is underdimenzioned. The opposite is an overdimenzioned architecture - to build anything takes too much time.
+- **People are doing a repetitive work that can be automated**  
+  The companies do not use [continuous integration](/practices/continuous-integration) - for example, they implement everything to production by hand even though they can automatize the process.
 
 ## Resources for the Meaningless Work
 

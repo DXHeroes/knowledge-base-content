@@ -16,6 +16,7 @@ tags:
   - agile events
   - rituals
   - good developer experience
+  - visualization
 keywords:
   - fail fast
   - value proposition
@@ -32,6 +33,10 @@ keywords:
 
 # Design Sprint
 
+**TL;DR**
+
+Create and test your prototype in just 3 - 5 days! Learn how to reduce the risk when creating a new product with five simple steps.
+
 ## What Is a Design Sprint
 
 The Design Sprint is a five-phase process to get a tangible product prototype in a short period of time. This tool helps to describe the product’s benefits, reach the challenge, gain key learnings, and get the product validation by user testing in just 3 to 5 days. The Design Sprint process is similar to Sprints in an Agile development cycle.
@@ -43,20 +48,20 @@ The Design Sprint uses design thinking to reduce risks of launching a new produc
 
 **Phases of the Design Sprint:**
 
-1.  **Map**  
-    Map the problems and identify the important areas to focus on. Set a long term goal.
+1. **Map**  
+   Map the problems and identify the important areas to focus on. Set a long term goal.
 
-2.  **Sketch**  
-    Sketch down the creative ways how to solve the problem on the paper.
+2. **Sketch**  
+   Sketch down the creative ways how to solve the problem on the paper.
 
-3.  **Decide**  
-    Remove the unfeasible ideas from the first two phases. Make a storyboard and decide what should be prototyped. The final choice is made by Decision Makers.
+3. **Decide**  
+   Remove the unfeasible ideas from the first two phases. Make a storyboard and decide what should be prototyped. The final choice is made by Decision Makers.
 
-4.  **Prototype**  
-    Make a realistic prototype that can be tested by potential or existing customers.
+4. **Prototype**  
+   Make a realistic prototype that can be tested by potential or existing customers.
 
-5.  **Test**  
-    Run the user testing and get the feedback.
+5. **Test**  
+   Run the user testing and get the feedback.
 
 ![Phases of Design Sprint](/files/design_sprint_phases.jpeg)  
 UX Planet: [What’s a Design Sprint and why is it important?](https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09)
@@ -84,7 +89,7 @@ The Design Sprint process helps to:
 
 ## How to Implement the Design Sprint
 
-Make a team. The ideal number of people involved in the sprint is 4 to 7. The team includes a Facilitator, a Designer, a Decision Maker, a Product Manager, an Engineer and someone from companies core business departments (for example, Marketing, Content, or Operations).
+Make a team. The ideal number of people involved in the sprint is 4 to 7. The team includes a Facilitator, a Designer, a Decision Maker, a Product Manager, an Engineer, and someone from companies core business departments (for example, Marketing, Content, or Operations).
 
 The **Facilitator** manages the sprint. A good Facilitator leads the meetings and encourages the team to share their ideas and find the solutions. It is mostly a silent or unbiased role in group discussions.
 
