@@ -22,6 +22,7 @@ tags:
   - mvp
   - pair programming
   - good developer experience
+  - user story
 keywords:
   - agile events
   - scrum events
@@ -33,20 +34,22 @@ keywords:
   - sprint refinement
   - design sprint
   - product backlog refinement
-  - backlog rooming
+  - backlog grooming
   - iteration
   - demotivated team
   - retrospective
   - meaningless work
-  - ritual
-  - event
 ---
 
 # Agile Events
 
+**TL;DR**
+
+Clear and regular Agile Events are important for an effective work. What are the most common rituals? Read more in this article.
+
 ## What Are Agile Events
 
-Agile Events, formerly Agile Ceremonies, are a set of meetings prescribed for Agile frameworks. The most common Agile framework with such rituals is [Scrum](/practices/scrum). It is recommended for the Scrum framework to hold five key events during every Sprint to work efficiently. Those five events are:
+Agile Events, formerly Agile Ceremonies, are a set of meetings prescribed for Agile frameworks. The most common Agile framework with such rituals is [Scrum](/practices/scrum). It is recommended for the Scrum framework to hold six key events during every Sprint to work efficiently. Those six events are:
 
 - Daily Standup
 - Sprint Planning
@@ -60,36 +63,25 @@ Agile Events, formerly Agile Ceremonies, are a set of meetings prescribed for Ag
 
 Let us explain what those events mean:
 
-**Daily Standup**
-
-- Also known as **Daily Scrum**.
-- Usually a daily meeting, not more than 15 minutes.
-- Typical for Scrum and Kanban Agile framework.
-- Team members should describe what did they work on yesterday and what are they going to work on today. It should not be detailed.
-
-**Sprint Planning**
-
-- A sprint is a term specific for a Scrum framework. Other types of agile frameworks use “iteration” to define a time-boxed period of development.
-- It is a meeting where the team decides what to do during the sprint. A sprint is usually a two-week period. - The team has to estimate how much work they can complete from the product backlog and the effort involved.
-
-**Iteration Review**
-
-- At the end of a sprint or milestone, the team should review their accomplishments and get feedback from stakeholders.
-- It is typical for Scrum and Kanban. Scrum uses the term **Sprint Review**.
-
-**Retrospective**
-
-- It is a feedback at the end of an iteration. The team gets to know what worked well and what could have been done better. - Scrum and Kanban frameworks use this meeting for creating solutions and developing action plans.
-
-**Product Backlog Refinement**
-
-- Formerly **Backlog Grooming**. This term was officially replaced in 2013 due to negative connotations in British English.
-- In this meeting, the team adds details and estimates the effort for each item from the Product Backlog. The Backlog is updated and the items are prepared for the upcoming sprint.
-- It is an ongoing activity but the team can decide to time-box it.
-
-**The Sprint**
-
-- It is the time-boxed period that contains all the work and all the other events.
+1. **Daily Standup**
+   - Also known as **Daily Scrum**.
+   - Usually a daily meeting, not more than 15 minutes.
+   - Typical for Scrum and Kanban Agile framework.
+   - Team members should describe what did they work on yesterday and what are they going to work on today. It should not be detailed.
+2. **Sprint Planning**
+   - A sprint is a term specific for a Scrum framework. Other types of agile frameworks use “iteration” to define a time-boxed period of development.
+   - It is a meeting where the team decides what to do during the sprint. A sprint is usually a two-week period. - The team has to estimate how much work they can complete from the product backlog and the effort involved.
+3. **Iteration Review**
+   - At the end of a sprint or milestone, the team should review their accomplishments and get feedback from stakeholders.
+   - It is typical for Scrum and Kanban. Scrum uses the term **Sprint Review**.
+4. **Retrospective**
+   - It is a feedback at the end of an iteration. The team gets to know what worked well and what could have been done better. - Scrum and Kanban frameworks use this meeting for creating solutions and developing action plans.
+5. **Product Backlog Refinement**
+   - Formerly **Backlog Grooming**. This term was officially replaced in 2013 due to negative connotations in British English.
+   - In this meeting, the team adds details and estimates the effort for each item from the Product Backlog. The Backlog is updated and the items are prepared for the upcoming sprint.
+   - It is an ongoing activity but the team can decide to time-box it.
+6. **The Sprint**
+   - It is the time-boxed period that contains all the work and all the other events.
 
 The rituals should be chosen wisely. For example, Waterfall methodology does not even operate with the term “daily standup”. It is necessary that the team understands what are the events for. They should be accepted as smoothly as possible. The team can validate the events retrospectively to see if they are really useful.
 
@@ -101,13 +93,16 @@ Even though the events are here to help, developers struggle to find every singl
 
 ## Problems the Agile Events Solve
 
-- [Bad product-market fit](/problems/bad-product-market-fit)
-- [Demotivated team](/problems/demotivated-team)
+- [Bad Product-Market Fit](/problems/bad-product-market-fit)
+- [Demotivated Team](/problems/demotivated-team)
 - ["Not My Problem" Mentality](/problems/not-my-problem-mentality)
-- Unsuccessful product
-- Unhappy clients
+- Unsuccessful Product
+- Unhappy Clients
 - [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
-- [Toxic team culture](/problems/toxic-team-culture)
+- [Toxic Team Culture](/problems/toxic-team-culture)
+- [Poor Code Quality](/problems/poor-code-quality)
+- [Increased Cost](/problems/increased-cost)
+- [Meaningless Work](/problems/meaningless-work)
 
 ## How to Implement the Agile Events
 

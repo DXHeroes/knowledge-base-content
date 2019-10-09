@@ -15,6 +15,7 @@ tags:
   - teamwork
   - product owner
   - ceremony
+  - visualization
 keywords:
   - retrospective
   - agile
@@ -33,6 +34,10 @@ keywords:
 ---
 
 # Retrospective
+
+**TL;DR**
+
+Retrospective is a short and regular meeting where the team members reflect on past events and plan the future Sprint. Read more about effective retrospectives you can have.
 
 ## What Is a Retrospective
 
@@ -63,8 +68,8 @@ In the basic form it answers three questions:
 - [Meaningless work](/problems/meaningless-work)
 - ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - Expensive development
-- Toxic team culture
-- Disconnection with business
+- [Toxic Team Culture](/problems/toxic-team-culture)
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 
 ## How to Implement the Retrospective
 
@@ -106,9 +111,9 @@ A good source of retrospective "games" is [Retromat](https://retromat.org).
 
 ## Resources for the Retrospective
 
-- [Scrum Guides: The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
-- [Retromat: What Is a Retrospective](https://retromat.org/blog/what-is-a-retrospective/)
-- [Wikipedia: Agile Retrospective Resource Wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki)
-- [Agile Alliance: Heartbeat Retrospective](https://www.agilealliance.org/glossary/heartbeatretro/)
-- [Medium: What are the Benefits of Agile Retrospective Meetings?](https://medium.com/@MarutiTech/what-are-the-benefits-of-agile-retrospective-meetings-8826baf8aabd)
-- [Fun Retrospectives: Dot Voting](http://www.funretrospectives.com/dot-voting/)
+- Scrum Guides: [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
+- Retromat: [What Is a Retrospective](https://retromat.org/blog/what-is-a-retrospective/)
+- Wikipedia: [Agile Retrospective Resource Wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki)
+- Agile Alliance: [Heartbeat Retrospective](https://www.agilealliance.org/glossary/heartbeatretro/)
+- Medium: [What are the Benefits of Agile Retrospective Meetings?](https://medium.com/@MarutiTech/what-are-the-benefits-of-agile-retrospective-meetings-8826baf8aabd)
+- Fun Retrospectives: [Dot Voting](http://www.funretrospectives.com/dot-voting/)

@@ -11,6 +11,7 @@ tags:
   - feedback
   - mistakes
   - errors
+  - proper bug reporting
 keywords:
   - style
   - checking
@@ -25,6 +26,10 @@ keywords:
 ---
 
 # Linting
+
+**TL;DR**
+
+Avoid stress with Linter! Let it analyze your code and find bugs and stylistic errors. Linter should be your best friend.
 
 ## What Is a Linting
 

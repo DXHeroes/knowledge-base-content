@@ -16,8 +16,8 @@ tags:
   - culture
   - communication
   - emotion
-  - developer experience
   - toxic team culture
+  - motivation
 keywords:
   - experience
   - satisfaction
@@ -30,6 +30,10 @@ keywords:
 ---
 
 # Good Developer Experience
+
+**TL;DR**
+
+Do not forget to make your developers happy!
 
 ## What Is a Good Developer Experience
 
@@ -75,12 +79,17 @@ We define a great DX by these four factors:
 
 ## Problems the Good Developer Experience Solves
 
-- [Poor code quality](/problems/poor-code-quality)
-- ["Not my problem" mentality](/problems/not-my-problem-mentality)
-- [Meaningless work](/problems/meaningless-work)
-- Unhappy clients
-- [Toxic team culture](problems/toxic-team-culture)
 - Knowledge hoarding
+- [Bad Product-Market Fit](/problems/bad-product-market-fit)
+- [Demotivated Team](/problems/demotivated-team)
+- ["Not My Problem" Mentality](/problems/not-my-problem-mentality)
+- Unsuccessful Product
+- Unhappy Clients
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
+- [Toxic Team Culture](/problems/toxic-team-culture)
+- [Poor Code Quality](/problems/poor-code-quality)
+- [Increased Cost](/problems/increased-cost)
+- [Meaningless Work](/problems/meaningless-work)
 
 ## How to Implement the Good Developer Experience
 
