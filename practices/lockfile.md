@@ -1,5 +1,5 @@
 ---
-slug: lock-file
+slug: lockfile
 stages:
   - development
 short_description: A practice in our DX Scanner called LockFileIsPresent verifies if your source repository contains a lock file. You should always commit the lock file to your source repository.
@@ -10,7 +10,7 @@ tags:
   - git flow
   - linting
   - dockerizing
-  - lockfileispresent
+  - lockfile
 keywords:
   - lockfile
   - lock file
