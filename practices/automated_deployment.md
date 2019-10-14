@@ -2,10 +2,11 @@
 slug: automated-deployment
 stages:
   - development
-short_description: An Automated Deployment allows an application to be deployed across various stages of the development process. It minimizes the need for manual intervention.
+short_description: An Automated Deployment allows an application to be deployed across various stages of the development process. It minimizes the need for manual intervention. Read more to learn how to make it a regular part of your Continuous Deployment. 
 tags:
   - continuous integration
   - continuous delivery
+  - continuous deployment
   - increased cost
   - integration
   - code coverage
@@ -27,6 +28,10 @@ keywords:
 ---
 
 # Automated Deployment
+
+**TL;DR**
+
+If there is one golder rule in programming, it should be **to automate as much as possible**. An Automated Deployment ensures that the path your code has to take from development to production does not break its functionalities. 
 
 ## What Is an Automated Deployment
 
@@ -65,7 +70,7 @@ The Automated Deployment helps your team with:
 - [Meaningless Work](/problems/meaningless_work)
 - Developers vs. Operations wars
 - No runtime version management
-- Long Feedback Loops
+- [Long Feedback Loops](/problems/long_feedback_loops)
 
 ## How to Implement the Automated Deployment
 
