@@ -31,7 +31,7 @@ A practice in our DX Scanner called LockFileIsPresent verifies if your source re
 
 LockFileIsPresent is our DX Scanner practice that tells you if your source repository contains a lock file. Many people decide to ignore the lock files and they do not commit it to Git. What is a lock file and why should your repository contain one?
 
-A lock file contains important information about installed packages and it should always be committed into your [Package Manager](/practices/package_management) source repositories. Not committing the lock file to your source control results in installing two different modules from the same dependency definition.
+A lock file contains important information about installed packages and it should always be committed into your [Package Manager](/practices/package-management) source repositories. Not committing the lock file to your source control results in installing two different modules from the same dependency definition.
 
 **A lock file:**
 
