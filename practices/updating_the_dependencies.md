@@ -18,7 +18,7 @@ keywords:
 - libraries
 - dependencies
 - database
-dx_scanner_covered: true
+covered_by_dx_scanner: true
 ---
 
 # Updating the Dependencies
