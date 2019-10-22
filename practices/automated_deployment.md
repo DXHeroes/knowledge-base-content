@@ -43,13 +43,13 @@ We can classify Automated Deployment approaches into different categories accord
 
 1. **Continuous Integration**  
    Continuous Integration is a practice of daily integrating code changes. Everything that has been developed keeps integrating daily. Each integration is automatically and immediately verified and tested to detect possible errors.  
-   For more information, see [Continuous integration](/practices/continuous_integration).
+   For more information, see [Continuous integration](/practices/continuous-integration).
 2. **Continuous delivery**  
    Continuous delivery is a practice of keeping the code in a deployable state at any given time. Continuous delivery is an extension of the continuous integration to automate release to the staging environment. You have a production-ready version of your build with the continuous delivery.
 3. **Continuous Deployment**  
    Continuous deployment is a practice of fully automating the entire process of the deployment pipeline. Every change in the source code is deployed to production automatically and without explicit approval from a developer.
 
-![Automated Deployment](/files/automated_deployment.png)  
+![Automated Deployment](/files/automated-deployment.png)  
 DZone: [Secure and Scalable CI/CD Pipeline With AWS](https://dzone.com/articles/secure-and-scalable-cicd-pipeline-with-aws)
 
 ## Why You Might Want the Deployment to Be Automated
@@ -65,12 +65,12 @@ The Automated Deployment helps your team with:
 
 ## Issues the Automated Deployment Solves
 
-- [Increased cost](/problems/increased_cost)
-- [Poor Code Quality](/problems/poor_code_quality)
-- [Meaningless Work](/problems/meaningless_work)
+- [Increased cost](/problems/increased-cost)
+- [Poor Code Quality](/problems/poor-code-quality)
+- [Meaningless Work](/problems/meaningless-work)
 - Developers vs. Operations wars
 - No runtime version management
-- [Long Feedback Loops](/problems/long_feedback_loops)
+- [Long Feedback Loops](/problems/long-feedback-loops)
 
 ## How to Implement the Automated Deployment
 
