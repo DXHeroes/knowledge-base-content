@@ -1,8 +1,8 @@
 ---
-slug: lockfile
+slug: lock-file
 stages:
   - development
-short_description: A practice in our DX Scanner called LockFileIsPresent verifies if your source repository contains a lock file. You should always commit the lock file to your source repository.
+short_description: Why does your source repository should always contain a lock file? The package managers would miss important imformation about installed packages without a lock file. It may result to installing two different modules from the same dependency definition.
 tags:
   - lockfile
   - lock file
@@ -25,7 +25,7 @@ keywords:
 
 **TL;DR**
 
-A practice in our DX Scanner called LockFileIsPresent verifies if your source repository contains a lock file. Why you should always commit the lock files to your repository? Read more!
+Why does your source repository should always contain a lock file? The package managers would miss important imformation about installed packages without a lock file. It may result to installing two different modules from the same dependency definition.
 
 ## What Is a Lock File
 
@@ -47,8 +47,8 @@ The package managers need more than just the configuration information - they ne
 
 - The lock file guarantees a consistent install across machines.
 - Your Package Manager will use the lock file to resolve and install modules.
-- The lock file locks the specific version, location, and integrity hash for every package
-- The lock file ensures that the install creates the same version every time, no matter what device
+- The lock file locks the specific version, location, and integrity hash for every package.
+- The lock file ensures that the install creates the same version every time, no matter what device.
 
 ## Problems the Lock File Solves
 
