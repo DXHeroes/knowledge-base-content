@@ -23,7 +23,7 @@ covered_by_dx_scanner: true
 
 # Updating the Dependencies
 
-## TL;DR
+**TL;DR**
 
 Not updating dependencies makes your product more and more difficult to maintain and it can bring security risks.
 
