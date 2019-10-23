@@ -12,7 +12,6 @@ tags:
   - linting
   - dockerizing
   - packing applications
-  - lockfile
   - updating the dependencies
 keywords:
   - metadata
@@ -91,7 +90,7 @@ Package Managers:
   Many different packages are being used or each developer uses a different package. They can contain different properties and act differently.
 - **Libraries**  
   Libraries needed for development are added to the global dependencies.
-- [**Lockfile**](/practices/lockfile)  
+- **Lockfile**
   [Lockfile](/practices/lockfile) is not respected.
 
 **What Is a Lockfile?**
