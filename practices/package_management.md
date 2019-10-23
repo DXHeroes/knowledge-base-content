@@ -23,6 +23,7 @@ keywords:
   - semver
   - automating installing
   - automatic configuring
+covered_by_dx_scanner: true
 ---
 
 # Package Management

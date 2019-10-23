@@ -26,6 +26,7 @@ keywords:
   - container
   - deploy
   - cloud
+covered_by_dx_scanner: true
 ---
 
 # Dockerizing

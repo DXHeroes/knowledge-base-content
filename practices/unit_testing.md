@@ -26,6 +26,7 @@ keywords:
   - assert
   - testing
   - test
+covered_by_dx_scanner: true
 ---
 
 # Unit Testing

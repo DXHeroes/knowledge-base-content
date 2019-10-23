@@ -23,6 +23,7 @@ keywords:
   - structure
   - flagging
   - code style
+covered_by_dx_scanner: true
 ---
 
 # Linting

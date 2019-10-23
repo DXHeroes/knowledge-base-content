@@ -28,6 +28,7 @@ keywords:
   - gitlab
   - jenkins
   - travis
+covered_by_dx_scanner: true
 ---
 
 # Continuous Integration
