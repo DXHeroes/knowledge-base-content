@@ -1,5 +1,5 @@
 ---
-slug: lock-file
+slug: lockfile
 stages:
   - development
 short_description: Why does your source repository should always contain a lock file? The package managers would miss important imformation about installed packages without a lock file. It may result to installing two different modules from the same dependency definition.
@@ -10,7 +10,6 @@ tags:
   - git flow
   - linting
   - dockerizing
-  - lockfile
 keywords:
   - lockfile
   - lock file
