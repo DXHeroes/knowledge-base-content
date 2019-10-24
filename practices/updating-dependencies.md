@@ -22,7 +22,7 @@ keywords:
 covered_by_dx_scanner: true
 ---
 
-# Libraries
+# Updating Dependencies
 
 **TL;DR**
 
