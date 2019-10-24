@@ -1,5 +1,5 @@
 ---
-slug: libraries
+slug: updating-dependencies
 stages:
   - development
 short_description: Updating dependencies from your libraries can be a huge pain. But it is a necessary pain! Your whole project can be jeopardized without regular updates. Automatize and keep track of the dependencies’ changes.
@@ -38,7 +38,7 @@ Here are a few advantages in using libraries:
 - While using the library, the program gains the library’s dependencies and does not have to implement the dependencies itself.
 - The library’s properties can be connected to the program in any lifecycle phase.
 
-## Why You Might Want the Libraries to Be Updated
+## Why You Might Want the Dependencies to Be Updated
 
 Sometimes the updates are arriving almost every day and it can get very annoying. Updating is a pain. It takes a long time and after the update, nothing works as before. But remember - libraries updates might be very important. The dependencies from the specific library you need for your program to be working may change.
 
@@ -52,7 +52,7 @@ You should keep track of those updates, they might contain important changes, fo
 
 You might need some of these changes urgently. Checking them regularly and updating them as soon as possible saves you time and money. You have to update the dependencies anyway, so why to postpone and, therefore, accumulate a maintenance debt?
 
-## Problems the Updated Libraries Solve
+## Problems the Updated Dependencies Solve
 
 - [Increased cost](/problems/increased-cost)
 - [Poor Code Quality](/problems/poor-code-quality)
@@ -61,7 +61,7 @@ You might need some of these changes urgently. Checking them regularly and updat
 - [Long Feedback Loops](/problems/long-feedback-loops)
 - Unhappy Clients
 
-## How to Implement the Updating of Libraries
+## How to Implement the Updating of Dependencies
 
 There are two strategies to implement the regular updates:
 
@@ -82,7 +82,7 @@ Use continuous delivery and continuous deployment. The dependencies updates can 
 
 The second strategy is more expensive than the first one but it lowers the risks. Automation of the updates is probably the best solution.
 
-## Common Pitfalls of Updating the Libraries
+## Common Pitfalls of Updating Dependencies
 
 1. Developers ignore updating the dependencies because they think it would be just a waste of time.
 2. Updating becomes a dependency hell, which can be one of the following problems:
@@ -93,7 +93,7 @@ The second strategy is more expensive than the first one but it lowers the risks
 - The updates get stuck in a vicious circle: the dependency A runs with a specific version of dependency B. The dependency B cannot run without a specific version of dependency A.
 - Diamond dependency: the dependency A depends on dependencies B and C, both B and C depend on the dependency D, but B requires version D.1 and C requires version D.2. Only one version of D can exist in the final executable and the update fails.
 
-## Resources for the Updated Libraries
+## Resources for Updating Dependencies
 
 - Arie Van Deursen: [Library Updating. Risk it Now, or Risk it Later?](https://avandeursen.com/2012/11/11/library-updating-risk-it-now-or-risk-it-later/)
 - Netcetera: [Software dependencies and keeping them up-to-date](https://www.netcetera.com/home/stories/expertise/20170406-software-updates-inside-it.html)
