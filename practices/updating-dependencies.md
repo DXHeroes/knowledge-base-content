@@ -2,7 +2,7 @@
 slug: updating-dependencies
 stages:
   - development
-short_description: Updating dependencies from your libraries can be a huge pain. But it is a necessary pain! Your whole project can be jeopardized without regular updates. Automatize and keep track of the dependencies’ changes.
+short_description: Updating dependencies for your application can be a huge pain. But it is a necessary pain! Your whole project can be jeopardized without regular updates. Automatize and keep track of the dependencies’ changes.
 tags:
   - libraries
   - lockfile
@@ -26,7 +26,7 @@ covered_by_dx_scanner: true
 
 **TL;DR**
 
-Updating dependencies from your libraries can be a huge pain. But it is a necessary pain! Your whole project can be jeopardized without regular updates. Automatize and keep track of the dependencies’ changes.
+Updating dependencies for your application can be a huge pain. But it is a necessary pain! Your whole project can be jeopardized without regular updates. Automatize and keep track of the dependencies’ changes.
 
 ## What Are the Libraries
 
@@ -85,13 +85,13 @@ The second strategy is more expensive than the first one but it lowers the risks
 ## Common Pitfalls of Updating Dependencies
 
 1. Developers ignore updating the dependencies because they think it would be just a waste of time.
-2. Updating becomes a dependency hell, which can be one of the following problems:
-
-- Too many dependencies that require large amounts of disk space.
-- The dependency chain is too long: there is a dependency A, which depend on dependency B, which depend on dependency C, etc.
-- The dependencies are in conflict: two of them cannot be used simultaneously but you need both.
-- The updates get stuck in a vicious circle: the dependency A runs with a specific version of dependency B. The dependency B cannot run without a specific version of dependency A.
-- Diamond dependency: the dependency A depends on dependencies B and C, both B and C depend on the dependency D, but B requires version D.1 and C requires version D.2. Only one version of D can exist in the final executable and the update fails.
+2. Developers do not automatize library updates.
+3. Updating becomes a dependency hell, which can be one of the following problems:
+    - Too many dependencies that require large amounts of disk space.
+    - The dependency chain is too long: there is a dependency A, which depend on dependency B, which depend on dependency C, etc.
+    - The dependencies are in conflict: two of them cannot be used simultaneously but you need both.
+    - The updates get stuck in a vicious circle: the dependency A runs with a specific version of dependency B. The dependency B cannot run without a specific version of dependency A. But most of the package managers solve this problem these days.
+    - Diamond dependency: the dependency A depends on dependencies B and C, both B and C depend on the dependency D, but B requires version D.1 and C requires version D.2. Only one version of D can exist in the final executable and the update fails.
 
 ## Resources for Updating Dependencies
 
