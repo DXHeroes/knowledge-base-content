@@ -103,6 +103,7 @@ Package Managers:
 - **Libraries**  
   Libraries needed for development are added to the global dependencies.
 - **Lockfile**
+
   [Lockfile](/practices/lockfile) is not respected.
 
 **What Is a Lockfile?**
