@@ -26,7 +26,7 @@ covered_by_dx_scanner: true
 
 **TL;DR**
 
-Updating dependencies for your application can be a huge pain. But it is a necessary evil! Your whole project can be jeopardized without regular updates. Automating this process helps keep track of any changes, and allows developers to focus on developing.
+Updating dependencies for your application can be a huge pain. But it is essential. Your whole project can be jeopardized without regular updates. Automating this process helps keep track of any changes, and allows developers to focus on developing.
 
 ## What Is a Library?
 
