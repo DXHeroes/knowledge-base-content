@@ -80,7 +80,7 @@ Package Managers:
 - [Increased cost](/problems/increased-cost)
 - [Poor code quality](/problems/poor-code-quality)
 - [Meaningless work](/problems/meaningless-work)
-- [De-motivated team](/problems/demotivated-team)
+- [Demotivated team](/problems/demotivated-team)
 
 ## How to Implement the Package Management
 
