@@ -1,7 +1,7 @@
-import { message, warn, fail, markdown, danger } from "danger";
-import fetch from "node-fetch";
-import path from "path";
-import fs from "fs";
+import { message, warn, fail, markdown, danger } from 'danger';
+import fetch from 'node-fetch';
+import path from 'path';
+import fs from 'fs';
 
 const validate = async () => {
   const validateArticle = async (article_path: any) => {
@@ -9,19 +9,19 @@ const validate = async () => {
 
     try {
       const response = await fetch(
-        process.env.KB_VALIDATION_URL || "setTheUrl",
+        process.env.KB_VALIDATION_URL || 'setTheUrl',
         {
-          method: "post",
+          method: 'post',
           body: JSON.stringify({
             repo_path: article_path,
-            content: body.toString()
+            content: body.toString(),
           }),
           headers: {
-            "Content-Type": "application/json",
-            "X-DX-Auth": `${process.env.X_DX_AUTH_HEADER}`,
-            Authorization: `${process.env.AUTH_BASE64}`
-          }
-        }
+            'Content-Type': 'application/json',
+            'X-DX-Auth': `${process.env.X_DX_AUTH_HEADER}`,
+            Authorization: `${process.env.AUTH_BASE64}`,
+          },
+        },
       );
       const json = await response.json();
       console.log(json);
@@ -34,7 +34,7 @@ const validate = async () => {
 
   const changedMds = [
     ...danger.git.created_files,
-    ...danger.git.modified_files
+    ...danger.git.modified_files,
   ].filter(path => path.match(/(problems|practices)\/.*\.md/));
 
   for (const mdFile of changedMds) {
@@ -51,7 +51,9 @@ const validate = async () => {
     }
 
     if (validationResult.fails.length == 0) {
-      message("See preview of the article at [https://preview.developerexperience.io/](https://preview.developerexperience.io/)");
+      message(
+        'See preview of the article at [https://preview.developerexperience.io/](https://preview.developerexperience.io/)',
+      );
     }
   }
 };
@@ -62,7 +64,7 @@ validate()
   })
   .catch(error => {
     console.error(error);
-    fail("Something is wrong. The validation failed with server error.");
+    warn('Something is wrong. The validation failed with server error.');
   });
 
 interface ValidationResult {
