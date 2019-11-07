@@ -37,7 +37,7 @@ How many lines of your code are covered by automated tests? Did you miss any by 
 
 ## What Is a Code Coverage
 
-Code Coverage (CC) measures how many and which specific source code lines are being tested by automated tests (for example, unit or integration test). If you have 90% CC, it means that 10% of the source code is not being tested at the moment. Your goal is to get as close to 100% CC as possible without losing the quality of your code or tests. CC can be used as a key performance indicator for suppliers. The tests should be run by developers, they should not rely only on [Continuous Integration](/practices/continuous-integration).
+Code Coverage (CC) measures how many, and which specific source code lines are being tested by automated tests (for example, unit or integration test). If you have 90% CC, it means that 10% of the source code is not being tested at the moment. Your goal is to get as close to 100% CC as possible without losing the quality of your code or tests. CC can be used as a key performance indicator for suppliers. The tests should be run by developers, they should not rely only on [Continuous Integration](/practices/continuous-integration).
 
 ![Code Coverage](/files/code_coverage.jpg)  
 [Developers.google.com: The Chromium Chronicle: Code Coverage in Gerrit](https://developers.google.com/web/updates/2019/06/chromium-chronicle-3)
@@ -45,23 +45,23 @@ Code Coverage (CC) measures how many and which specific source code lines are be
 CC is usually calculated in a Continuous Integration library, for example, [GitLab](https://about.gitlab.com/). This library opens an application that measures the CC automatically. The library provides you with coverage reports, for example:
 
 - **Function coverage:**  
-  how many defined functions have been called.
+  How many defined functions have been called.
 - **Statement coverage:**  
-  how many statements in the program have been executed.
+  How many statements in the program have been executed.
 - **Branches coverage:**  
-  how many control branches structures have been executed.
+  How many control branches structures have been executed.
 - **Condition coverage:**  
-  how many boolean sub-expressions have been tested for a true and a false value.
+  How many boolean sub-expressions have been tested for a true and a false value.
 - **Line coverage:**  
-  how many lines of source code have been tested.
+  How many lines of source code have been tested.
 
-## Why You Might Want the Code Coverage
+## Why You Might Want Code Coverage
 
 - The coverage reports are great feedback - they can provide CC for every file.
 - The tools for CC are often open source tools so you can see the quality of the library.
 - CC can be used for measuring the quality of supplies and services.
 - CC can reveal major mistakes during early software phases (building or compiling). It can serve as a [Smoke Test](/practices/smoke-testing).
-- In order to get an official certification, some software is required to use CC. It is mandatory, for example, for air and space transportation, rail transportation, the automotive industry, or for medical applications.
+- In order to get official certification, some software is required to use CC. CC is mandatory, for example, for air and space transportation, rail transportation, the automotive industry, or for medical applications.
 
 ## Problems the Code Coverage Solves
 
