@@ -1,0 +1,59 @@
+name: Node CI
+
+on: [push, pull_request]
+
+***REMOVED***
+***REMOVED***
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+
+***REMOVED***
+***REMOVED***
+    if: github.event_name == 'pull_request'
+***REMOVED***
+***REMOVED***
+      - uses: actions/checkout@v1
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+
+***REMOVED***
+    if: github.event_name == 'pull_request' && github.base_ref == 'master'
+***REMOVED***
+***REMOVED***
+***REMOVED***
+      - uses: actions/checkout@v1
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+        run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_BASE_REF"'
+
+***REMOVED***
+    if: github.event_name == 'push' && github.base_ref == 'master'
+***REMOVED***
+***REMOVED***
+***REMOVED***
+      - uses: actions/checkout@v1
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+          curl -f -XPOST -H "$DX_HEADER" $IMPORT_URL
