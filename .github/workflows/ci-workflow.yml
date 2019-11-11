@@ -1,0 +1,59 @@
+name: Node CI
+
+on: [push, pull_request]
+
+env:
+  CI: true
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  DX_HEADER: ${{ secrets.DX_HEADER }}
+  IMPORT_URL: ${{ secrets.IMPORT_URL }}
+  IMPORT_URL_STAGING: ${{ secrets.IMPORT_URL_STAGING }}
+  KB_VALIDATION_URL: ${{ secrets.KB_VALIDATION_URL }}
+  X_DX_AUTH_HEADER: ${{ secrets.X_DX_AUTH_HEADER }}
+
+jobs:
+  check-article:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          fetch-depth: 1
+      - name: Use Node.js 12
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - name: Danger JS
+        run: |
+          yarn && yarn danger ci
+
+  deploy-to-preview:
+    if: github.event_name == 'pull_request' && github.base_ref == 'master'
+    needs: check-article
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          fetch-depth: 1
+      - name: Use Node.js 12
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - name: Deploy to preview.developerexperience.io
+        run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_BASE_REF"'
+
+  deploy-to-production:
+    if: github.event_name == 'push' && github.base_ref == 'master'
+    needs: check-article
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          fetch-depth: 1
+      - name: Use Node.js 12
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - name: Deploy to developerexperience.io
+        run: |
+          curl -f -XPOST -H "$DX_HEADER" $IMPORT_URL
