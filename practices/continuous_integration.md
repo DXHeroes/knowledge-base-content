@@ -39,18 +39,18 @@ Continuous Integration lets you integrate code changes into a shared repository 
 
 ## What Is a Continuous Integration
 
-Continuous Integration (CI) is a practice of daily integrating code changes. Everything that has been developed keeps integrating together on a daily basis. Each integration is automatically and immediately verified and tested to detect any possible errors.
+Continuous Integration (CI) is a practice of integrating code changes on a daily basis. Everything that has been developed keeps integrating together on a regular basis. Each integration is automatically and immediately verified and tested to detect any possible errors.
 
-CI helps to develop the product faster - if you do the integration as the last step of the developing process, the project can get stuck for a long time before it is finished. It is impossible to estimate how long the whole integration takes. It is much better to do it immediately, frequently and fix the errors as soon as they are found. That way the workflow is more efficient and the cognitive load is reduced.
+CI helps to develop the product faster - if you do the integration as the last step of the developing process, the project can get stuck for a long time before it is finished. It is impossible to estimate how long the whole integration takes. It is much better to do it immediately, and frequently, and fix any errors as soon as they are found. That way the workflow is more efficient and the cognitive load is reduced.
 
-CI helps the developers to verify that the changes they made in the code are not going to break anything. They can catch the problems before their changes reach the production stage.
+CI helps the developers to verify that the changes they made in the code are not going to break anything. They can catch any problems before their changes reach the production stage.
 
 CI is usually implemented with Continuous Delivery (CD) - a practice for producing software in short cycles. You can use one of many tools for both CI and CD, such as [Jenkins](https://jenkins.io/), [Travis CI](https://travis-ci.org/), [GitLab](https://about.gitlab.com/), and others. Those tools integrate and test the code changes automatically.  
 For more information, see [Top 8 Continuous Integration Tools](https://code-maze.com/top-8-continuous-integration-tools/).
 
 ## Why You Might Want the Continuous Integration
 
-The CI helps your team with:
+Continuous Integration helps your team by:
 
 - **Reducing the integration risk**  
   When multiple people work on the same project, they usually work on separate tasks or separate parts of the code. It can be tricky to integrate their work together. Integrating frequently reduces the potential risk of problems to a minimum.
@@ -65,10 +65,10 @@ The CI helps your team with:
   Multiple code versions help to isolate the bugs more efficiently.
 
 - **Increasing the confidence and morale of the team**  
-  Developers can concentrate better on their work. The team avoids the anxiety associated with deploying changes to production.
+  Developers can concentrate better on their work, avoiding the anxiety associated with deploying changes to production.
 
 - **Better integration of new members**  
-   New members can get into the project much easier. CI enables them to have a clear vision of the building process.
+   New members can get into the project much easier. CI enables them to have a clear vision of the building process, and any errors will be quickly picked up, minimizing any negative impact.
 
 ## Problems the Continuous Integration Helps to Solve
 
@@ -90,10 +90,10 @@ The CI helps your team with:
   After you check the code, commit the changes to the shared repository. Do not commit broken code.
 
 - **The CI tool monitors the shared repository**  
-  The CI tool checks the code changes after you commit them.
+  The CI tool checks code changes after you commit them.
 
 - **Run unit tests**  
-  Write tests for each code change you integrate to the shared repository. It is important to get used to this step and do not skip it. The CI tool highlights problems and alerts the team when the build or test fails.
+  Write tests for each code change that you integrate to the shared repository. It is important to get used to this step and not to skip it. The CI tool highlights problems and alerts the team when the build or test fails.
 
 - **Fix problems immediately**  
   All tests must pass.
@@ -103,10 +103,10 @@ The CI helps your team with:
 ## Common Pitfalls of the Continuous Integration
 
 - **Too much work**  
-  It seems like implementing the CI would bring more work for the developers. The opposite is true - you already have to build, test and deploy your product. If you do it continuously, it consumes less time. The more complex the product gets, the more difficult it is to manage it.
+  It can seem like implementing the CI would bring more work for the developers. The opposite is true - you already have to build, test and deploy your product. If you do it continuously, it consumes less time as issues are picked up quickly. The more complex the product gets, the more difficult it is to manage it, or apply retrospective fixes.
 
 - **Relying on the CI too much**  
-  The CI is as good as good are the test results. If the developers have to fix the problems too often, it slows down the development.
+  The CI is as good as the test results. If the developers have to fix problems too often, it slows down the development.
 
 - **Hardware/Software costs**  
   It can seem like an expensive change. In reality, the costs are marginal comparing to the cost of maintaining more complex products at the later stages of development.
