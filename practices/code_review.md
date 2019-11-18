@@ -105,7 +105,7 @@ Code Reviewing is a very important tool for developing process. It improves code
 - The reviewer focuses more on stylistic mistakes instead of functional ones.
 - If the team is not very homogeneous and has no clear rules, they can waste time with arguing over meaningless trivia.
 - The team spends too much time Code Reviewing where the author creates a pull request for every little code change. Try to limit the creation of pull requests to important code changes.
-- If the reviewer does not performdo the Code Review immediately, they can lose track.
+- If the reviewer does not perform the Code Review immediately, they can lose track.
 
 ## Resources for the Code Review
 
