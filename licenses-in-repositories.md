@@ -81,7 +81,7 @@ There can be a few pitfalls of using a license. You can avoid them by choosing t
 - Lack of information
 - Inadequate termination rights
 
-## Resources for Adding a License to Your Repository
+## Resources for Licenses in Repositories
 
 - SW Carpentry: [Licensing](https://swcarpentry.github.io/git-novice/11-licensing/index.html)
 - Choose a License:[Choose an open source license](https://choosealicense.com/)
