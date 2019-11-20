@@ -1,5 +1,5 @@
 ---
-slug: Adding-a-License-to-Your-Repository
+slug: Licenses-in-Repositories
 aspect: processes
 stages:
   - “development”
@@ -32,7 +32,7 @@ Every product should be covered by a license. It is your creative work, you own 
 
 When you publish your source code repository, do not forget to include a license. Your code is creative work and like most creative works, it needs copyright protection. There is basic copyright protection automatically granted to all original works but software licenses can specify conditions of use for your product. You might need some special conditions that should be clear for the future users of your software. A license specifies terms on which software may be used, modified, or distributed.
 
-**What if I do not include a license in my repository?**
+**What if I do not include a license to my repository?**
 
 If you do not add a license to your repository, you create legal uncertainty. The potential users of your software do not understand if they have permission to use the software and, therefore, might choose not to use your product. On the other hand, some users might get the impression that you do not have the product legally covered and they can do whatever they want to do with it.
 
