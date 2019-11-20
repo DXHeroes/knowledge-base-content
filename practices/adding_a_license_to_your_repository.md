@@ -1,6 +1,5 @@
 ---
-slug: Licenses-in-Repositories
-aspect: processes
+slug: licenses-in-repositories
 stages:
   - “development”
 short_description: Every product should be covered by a license. It is your creative work, you own it and you should decide what other people can or cannot do with it.
