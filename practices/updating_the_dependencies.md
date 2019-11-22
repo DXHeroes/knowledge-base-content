@@ -23,40 +23,40 @@ covered_by_dx_scanner: true
 
 # Updating the Dependencies
 
-## TL;DR
+**TL;DR**
 
-Not updating dependencies makes your product more and more difficult to maintain and it can bring security risks.
+Failure to update dependencies makes your product increasingly difficult to maintain and it can bring security risks.
 
-## Why Is Updating the Dependencies Important
+## Why Updating the Dependencies Is Important
 
-Updating the dependencies should be a regular part of your job. Use our DX Scanner practice called DependeciesVersion to find out if the libraries you are using are updated.
+Updating dependencies should be a regular part of your job. Use our DX Scanner practice called DependeciesVersion to find out if the libraries you are using are updated.
 
 **What is a dependency?**  
- A dependency is something your product needs to function. It could be a plugin, a database, or an external library. Some of the dependencies you use may need some updates which you should regularly check. Otherwise, your product can malfunction.
+A dependency is something your product needs to function. It could be a plugin, a database, or an external library. Some dependencies that you use may need updates which you should check regularly. Otherwise, your product can malfunction.
 
-Not updating the dependencies will make your product hard to maintain and your developers can end up doing [meaningless work](/problems/meaningless-work). If the upgrade is not very difficult, it should not take you more than just a few hours.
+Failure to update the dependencies will make your product hard to maintain and can lead to your developer's time being taken up by routine, [meaningless work](/problems/meaningless-work). A straightforward upgrade should not take more than just a few hours.
 
-![Dependencies Updates](/files/dependencies.png)  
+![Dependencies Updates](/files/dependencies.png)
 [Updating Dependencies Sucks](https://depfu.com/blog/updating-dependencies-sucks)
 
-The upgrade releases can be often and keeping up with them can be challenging. Use tools for each library to automate this job:
+Upgrades can be released often, and keeping up with them can be challenging. Use tools for each library to automate this job:
 
 - for JavaScript: [npm-check-updates](https://github.com/tjunnone/npm-check-updates)
 - for Java: [Dependabot](https://dependabot.com/java/)
 - for C#: [NuGet](https://www.nuget.org/)
 
-## Why You Might Want to Keep Dependencies Updated
+## Why Keep Dependencies Updated?
 
 **What are the reasons for updating the dependencies?**
 
 - Your product can malfunction
 - You will not be able to use new features added in the latest versions
-- The performance improvements are frequently made
-- There can be some security issues fixes
-- The maintenance of an old version could be reduced
-- Bugs are fixed in the new versions
+- You may miss out on performance improvements provided by updates
+- Security issue fixes can be missed or delayed
+- Maintenance overheads of old versions could be reduced
+- Bug fixes are often contained in the new versions
 
-Maintaining an application with a large codebase requires a lot of discipline and having your dependencies up to date should be a top priority for your team and organization. Not making this a regular practice will slowly make your codebase more difficult to maintain which hinders your team’s productivity and satisfaction.
+Maintaining an application with a large codebase requires a lot of discipline, and having your dependencies up to date should be a top priority for your team and organization. Failure to make this a regular practice will slowly make your codebase more difficult to maintain, hindering your team’s productivity and satisfaction.
 
 ## Problems the Updated Dependencies Solve
 
@@ -65,24 +65,24 @@ Maintaining an application with a large codebase requires a lot of discipline an
 - [Meaningless work](/problems/meaningless-work)
 - [Demotivated team](/problems/demotivated-team)
 
-## How to Keep the Dependencies Updated
+## How to Keep Dependencies Updated
 
 1. **Check out the new versions**
    - Review the changelogs
-   - How new is it? Is it stable enough yet?
+   - How new is it? Is it sufficiently stable?
 2. **Check the requirements**
-   - The new version may require some new hardware or network resources to operate.
+   - The new version may require new or expanded hardware or network resources.
 3. **Plan the upgrade**
-   - Estimate the time - how long will it take to do the upgrade?
+   - Estimate the time - how long will it take?
    - Ensure you have a plan to roll back the changes in case of an upgrade failure.
-   - Protect the current state of your product.
+   - Protect the current state of your product, and minimize disruption to business as usual processes.
 4. **Log**
-   - Always document all your steps. Use a [Logbook](/practices/Operation Logbooks) and write down the changes for your team members. It can also be useful for upgrading other products.
+   - Document your steps. Use a [Logbook](/practices/Operation Logbooks) and write down the changes made by your team members. It can also be useful to establish best practice for upgrading other products.
 
-## Common Pitfalls of Updating the Dependencies
+## Common Pitfalls of Updating Dependencies
 
-- The updates are so complex they require an update of other dependencies
-- Updating features instead of updating dependencies that seem less important
+- The updates are so complex that they also require an update of other dependencies
+- Updating features instead of updating dependencies that seem less important or attractive
 - Rolling back to the previous version instead of fixing a crashed application
 - Trying to resolve version conflicts of dependency instead of focusing on keeping the product working as it used to
 

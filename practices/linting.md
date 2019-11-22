@@ -36,7 +36,7 @@ Avoid stress with Linter! Let it analyze your code and find bugs and stylistic e
 
 Lint, or a Linter, is a very useful tool for automated analyzing of your source code to look for bugs and stylistic errors. Linter helps to ensure that your code does not include any structural issues which can make your code harder to maintain. Linting became a verb and it is the process of flagging the functional and structural problems. The Lint tool is a basic static code analyzer. The term Linting comes from a Unix utility for C.
 
-![Linting](/files/linting.png)  
+![Linting](/files/linting.png)
 [Linting](https://www.perforce.com/blog/qac/why-linting-important-and-how-use-lint-tools/)
 
 Linters are available for most programming languages. Here are the most common ones:

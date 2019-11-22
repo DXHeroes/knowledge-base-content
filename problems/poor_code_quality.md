@@ -30,7 +30,7 @@ Poor code quality is something you want to avoid. Learn what can be the reason f
 
 Poor code quality describes buggy code or code with high coupling and low cohesion that is difficult to maintain.
 
-![Poor Code Quality](/files/code_quality.png)  
+![Poor Code Quality](/files/code_quality.png)
 [xkdc: Code Quality](https://xkcd.com/1513/)
 
 Poor code quality is an umbrella term for multiple issues with the codebase:

@@ -97,7 +97,7 @@ In the basic form it answers three questions:
 A good source of retrospective "games" is [Retromat](https://retromat.org).
 
 ![Retrospective](/files/retrospective1.jpg)
-![Retrospective](/files/retrospective2.jpg)  
+![Retrospective](/files/retrospective2.jpg)
 [Our own Retrospective Meeting](https://dxheroes.io)
 
 ## Common Pitfalls of the Retrospective

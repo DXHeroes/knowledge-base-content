@@ -41,7 +41,7 @@ For more information, see the Code Review practice.
 
 Pull request can also trigger CI/CD to make sure all automated tests pass before the code can be merged. For more infomration, see Continuous Integration and Continuous Delivery.
 
-![Pull Request](/files/pull-request.jpeg)  
+![Pull Request](/files/pull-request.jpeg)
 [Tuleap: Pull Request](https://blog.tuleap.org/tuleap-pull-request-open-source-code-review-tool)
 
 ## Why You Might Want the Pull Request?
