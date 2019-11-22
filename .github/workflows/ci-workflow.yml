@@ -43,7 +43,7 @@ jobs:
         run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_BASE_REF"'
 
   deploy-to-production:
-    if: github.event_name == 'push' && github.ref == 'master'
+    if: github.ref == 'master'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
