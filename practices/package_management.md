@@ -49,7 +49,7 @@ The archive file (package) contains the following metadata:
 
 Package Manager ensures that the data is authentic by verifying the digital certificates (and checksums). It can also identify, download, install, and update existing software from a remote repository. It can group packages by functions and automatically manages dependencies to ensure that the package is installed with all the required functionalities.
 
-![Package Manager](/files/package_manager.png)  
+![Package Manager](/files/package_manager.png)
 [Package Manager](https://devopedia.org/package-manager)
 
 Package Managers are necessary for installing software on Linux. This is a different approach to Windows, where you typically download .exe files from a website and run it on your system. In early computing, every new program had to be compiled, linked, and run. Unix started to use shared libraries but dependencies still had to be maintained by developers. At the beginning of the 90s, a Package Manager was born so that developers did not have to re-run the same commands every time on every machine with the same configurations. Instead, the Package Manager shipped the configurations to other computers. By mid-2010s, Package Managers made their way to Windows.

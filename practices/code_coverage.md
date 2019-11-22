@@ -39,7 +39,7 @@ How many lines of your code are covered by automated tests? Did you miss any by 
 
 Code Coverage (CC) measures how many, and which specific source code lines are being tested by automated tests (for example, unit or integration test). If you have 90% CC, it means that 10% of the source code is not being tested at the moment. Your goal is to get as close to 100% CC as possible without losing the quality of your code or tests. CC can be used as a key performance indicator for suppliers. The tests should be run by developers, they should not rely only on [Continuous Integration](/practices/continuous-integration).
 
-![Code Coverage](/files/code_coverage.jpg)  
+![Code Coverage](/files/code_coverage.jpg)
 [Developers.google.com: The Chromium Chronicle: Code Coverage in Gerrit](https://developers.google.com/web/updates/2019/06/chromium-chronicle-3)
 
 CC is usually calculated in a Continuous Integration library, for example, [GitLab](https://about.gitlab.com/). This library opens an application that measures the CC automatically. The library provides you with coverage reports, for example:

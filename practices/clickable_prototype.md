@@ -39,7 +39,7 @@ A Clickable Prototype shows a visual representation of the user interface of a w
 
 Prototypes are often made in the cheapest way and usually at a lower level of detail than a final product.
 
-![Clickable Prototype](/files/clickable_prototype.jpg)  
+![Clickable Prototype](/files/clickable_prototype.jpg)
 Openclassrooms: [Create and test your clickable prototype](https://openclassrooms.com/en/courses/4555931-create-simple-prototypes-with-wireframes/4908361-create-and-test-your-clickable-prototype)
 
 ## Why You Might Want a Clickable Prototype

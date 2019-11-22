@@ -29,7 +29,7 @@ How much is the software development? Two projects are never the same - it can b
 
 How much money do you spend on a project and how to reduce the possible increase in cost but keep the development effective? It can be tricky to measure the development cost because no two projects are the same. Also if you think you are going to deal with a small problem, it can be much harder in reality. The two things you can actually measure are the time spent on development and the quality of the product.
 
-![Cost by activity](/files/cost.png)  
+![Cost by activity](/files/cost.png)
 [Diceus: A Step-by-Step Guide on Calculating the Software Development Cost](https://diceus.com/how-to-estimate-software-development-costs/)
 
 The quality of the product is affected by three constraints: people, schedule and scope.

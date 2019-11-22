@@ -60,7 +60,7 @@ The six key events are:
 5. Sprint Refinement
 6. The Sprint
 
-![Agile Events](/files/agile_events.jpg)  
+![Agile Events](/files/agile_events.jpg)
 [Norex.net](https://www.norex.net/)
 
 Let us explain what those events mean:

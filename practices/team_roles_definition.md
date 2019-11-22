@@ -62,7 +62,7 @@ Team roles represent a tendency to interact with others in a specific way to mak
    Provides scarce knowledge and skills.
    Example: Senior Developer
 
-![Belbin Team Roles](/files/team_roles_definition.png)  
+![Belbin Team Roles](/files/team_roles_definition.png)
 [Belbin Team Roles](https://www.prepearl.net/belbin-team-roles/)
 
 ## Why You Might Want the Team Roles

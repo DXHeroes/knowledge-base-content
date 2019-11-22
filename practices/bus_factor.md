@@ -36,7 +36,7 @@ A Bus Factor measures the minimum number of team members who have to be hit by a
 
 A Bus Factor defines the number of developers that are vital to a project. If something happens to them (they get hit by a bus), the project is in danger. To get hit by a bus is probably a little extreme. Consider another scenario: if a key team member takes a long vacation or is sick, the project can be easily put at risk. The goal is to increase the Bus Factor as much as possible. The best way to increase the number is by encouraging knowledge sharing inside and outside your team.
 
-![Bus Factor](/files/bus_factor.png)  
+![Bus Factor](/files/bus_factor.png)
 [The Bus Factor](https://medium.com/tech-tajawal/the-bus-factor-6ea1a3ede6bd)
 
 A Bus Factor is also known as the bread truck scenario, lottery factor, truck factor, bus/truck number, or lorry factor.

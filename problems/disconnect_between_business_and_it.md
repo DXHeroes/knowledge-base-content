@@ -32,7 +32,7 @@ Disconnect between business and IT means that the companies do not consider long
 
 A 2013 Kovarus Survey showed that only 28% of IT decision makers prioritize the long term innovations.
 
-![Kovarus Survey](/files/business-it.png)  
+![Kovarus Survey](/files/business-it.png)
 [Kovarus Survey](https://www.prnewswire.com/news-releases/kovarus-survey-significant-gap-exists-between-business-and-it-204544541.html)
 
 This survey also found that:

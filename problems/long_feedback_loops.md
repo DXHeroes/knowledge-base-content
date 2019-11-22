@@ -51,7 +51,7 @@ There can be various reasons:
   - Use [Unit Testing](/practices/unit-testing)
   - And do not forget about [Automated Deployment](/practices/automated-deployment)!
 
-![Feedback Loops](/files/feedback_loops.png)  
+![Feedback Loops](/files/feedback_loops.png)
 [Feedback Loops](https://medium.com/@iauro/move-faster-shorten-your-feedback-loops-eb00329f531)
 
 ## Reasons for the Long Feedback Loops

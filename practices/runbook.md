@@ -36,7 +36,7 @@ Runbook is a set of instructions on how to run a computer system. Or how to trou
 
 A Runbook (also referred to as a playbook) is a compilation of procedures and operations that describe how to run a computer system or network. Runbook typically contains procedures for starting, stopping, debugging and supervising the system. It is typically created by technical writers and it often contains step-by-step decision trees (often with a timeline):
 
-![Decision Tree](/files/runbook.png)  
+![Decision Tree](/files/runbook.png)
 [Dfarq: What is a runbook?](https://dfarq.homeip.net/what-is-a-runbook/)
 
 The goal of a Runbook is to allow other operators, with prerequisite expertise, to run and troubleshoot the system effectively. Runbooks can be electronic or an actual book. The electronic version offers an advantage of copy+paste the commands which speeds up the procedure. Runbook automation allows you to automate the operations using tools, such as [Rundeck](https://www.rundeck.com/open source), or [Microsoft Azure](https://azure.microsoft.com).

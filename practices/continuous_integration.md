@@ -81,7 +81,7 @@ Continuous Integration helps your team by:
 
 ## How to Implement the Continuous Integration
 
-![Continuous Integration](/files/continuous_integration.jpg)  
+![Continuous Integration](/files/continuous_integration.jpg)
 [FPComplete: Best Practices When Implementing Continuous Integration And Delivery](https://www.fpcomplete.com/blog/continuous-integration-delivery-best-practices)
 
 **Follow these simple rules:**

@@ -65,7 +65,7 @@ These are the few signs of a toxic team culture:
 12. **Skipping meetings**  
     Employees or managers skip meetings and make up some lame excuses. This is very disrespectful to the other team members and their time.
 
-![Toxic Culture](/files/toxic.png)  
+![Toxic Culture](/files/toxic.png)
 [The Performance Room: 10 signs that show your work culture is toxic](https://www.theperformanceroom.co.uk/10-signs-show-work-culture-toxic/)
 
 ## Reasons for the Toxic Team Culture
