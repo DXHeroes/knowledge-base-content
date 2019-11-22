@@ -21,7 +21,7 @@ keywords:
   - copyright
 ---
 
-# Adding a License to Your Repository
+# License in Repository
 
 **TL;DR**
 
