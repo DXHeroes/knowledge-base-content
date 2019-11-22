@@ -55,5 +55,4 @@ jobs:
         with:
           node-version: 12
       - name: Deploy to developerexperience.io
-        run: |
-          curl -f -XPOST -H "$DX_HEADER" $IMPORT_URL
+        run: 'curl -f -XPOST -H "$DX_HEADER" $IMPORT_URL'
