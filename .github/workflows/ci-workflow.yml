@@ -43,7 +43,7 @@ on: [push, pull_request]
         run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_BASE_REF"'
 
 ***REMOVED***
-    if: github.event_name == 'push' && github.base_ref == 'master'
+    if: github.event_name == 'push' && github.ref == 'master'
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
