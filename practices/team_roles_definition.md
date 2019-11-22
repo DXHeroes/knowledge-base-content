@@ -104,6 +104,7 @@ Belbin recognized that the team success depends on the behavior of the team memb
 
 - Belbin: [The Coming Shape Of Organization](http://www.belbin.ie/the-coming-shape-of-organization/)
 - Medium: [Software Project Team Roles and Responsibilities](https://medium.com/@SherrieRose/software-project-team-roles-and-responsibilities-152a7d575759)
+- Forbytes: [Making sense of the roles in a software project](https://forbytes.com/frequently-asked-questions/roles-and-responsibilities/)
 - Medium: [Software Roles and Titles](https://medium.com/javascript-scene/software-roles-and-titles-e3f0b69c410c)
 - Chron: [The Importance of Recognizing Roles in a Team](https://smallbusiness.chron.com/importance-recognizing-roles-team-31499.html)
 - Cleverism: [How to Define Roles, Responsibilities and Handovers](https://www.cleverism.com/how-to-define-roles-responsibilities-handovers/)
