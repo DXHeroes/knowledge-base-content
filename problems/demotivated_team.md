@@ -42,7 +42,7 @@ Demotivated team can be a disaster for the business - the team members produce l
 
 The team leaders should observe their teams and check if they are motivated enough. Talk to them, support them, share the goals with them. There are many useful practices that can help you to motivate your team. For example, [Retrospective](/practices/retrospective), [Bus Factor](/practices/bus-factor), [Mentoring](/practices/mentoring), [Kanban](/practices/kanban), Role Definition, or [Pair Programming](/practices/pair-programming). It is worth spending time with motivating the team. It always brings success.
 
-![Demotivated Team](../files/demotivated_team.jpg)
+![Demotivated Team](/files/demotivated_team.jpg)
 Svitla: [What Causes A Lack Of Motivation In Software Developers And How To Prevent It](https://svitla.com/blog/what-causes-a-lack-of-motivation-in-software-developers-and-how-to-prevent-it)
 
 ## Reasons of the Demotivated Team
