@@ -56,7 +56,7 @@ A README file typically includes (at least) some of the following sections:
   Who maintains and contributes to the project? Acknowledge the authors and maintainers.
 - **Copyright and licensing information**
 - **Known bugs**
-- **Changelog** (for developers)  
+- **Changelog** (for developers)
   A changelog is a record of all the major changes made to the product.
 
 ## Why You Might Want the README

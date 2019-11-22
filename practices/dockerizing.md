@@ -48,7 +48,7 @@ The Docker container allows another user to quickly recreate the computer enviro
 
 The Docker container technology was launched in 2013 by a startup Docker, Inc based in San Francisco, California. Docker, Inc became a “unicorn” company after a $95 million fundraising round in April 2015 (unicorn companies are privately held startups valued at over $1 billion).
 
-![Docker](/files/docker.png)  
+![Docker](/files/docker.png)
 [Docker](https://www.docker.com/)
 
 ## Why You Might Want the Dockerizing

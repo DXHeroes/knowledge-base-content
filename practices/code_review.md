@@ -38,7 +38,7 @@ Code Reviews are an important practice for checking each other's code. The goal 
 
 A Code Review is a software quality assurance practice in which developers check each other’s code, usually before merging the code. Code Reviewing saves time and money as the team is able to find potential bugs that can slip undetected through testing. It is more difficult and more expensive to fix bugs in later stages of development. Code Reviews let the team learn and gain new information and a new point of view. It also accelerates the growth of junior developers as they see real world current code examples.
 
-![Code Review](/files/code_review.png)  
+![Code Review](/files/code_review.png)
 [Code Like A Girl: The 7 steps to a complete Code Review](https://code.likeagirl.io/the-7-steps-to-a-complete-code-review-abdfd39e75f1)
 
 **The reviewer checks the code for:**

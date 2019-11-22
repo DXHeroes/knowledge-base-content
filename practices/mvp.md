@@ -51,7 +51,7 @@ The key idea of MVP is that you produce the MVP version to customers and observe
 - Using iterations, you can discover a direction of development which will be optimal.
 - MVP allows you to build a basis of potential customers and find the first product users.
 
-![MVP](/files/mvp.png)  
+![MVP](/files/mvp.png)
 [Hackernoon.com: Mindset Change: MVP vs. SLC.](https://hackernoon.com/mindset-change-mvp-vs-slc-d087a7f87be3)
 
 ## Problems the MVP Solves
@@ -82,7 +82,7 @@ Necessary steps to build an MVP:
 5. **Build, Measure, Learn**  
    After the completion of product development, the product needs to be tested. Collect the feedback from the users, measure the quality and learn, then start improving your product. The process goes on until it is finalized.
 
-![MVP Cycle](/files/mvp_cycle.png)  
+![MVP Cycle](/files/mvp_cycle.png)
 'Lean' On Yourself: [How To Experiment Your Way To An Awesome Life](https://medium.com/@Tara_Velis/lean-on-yourself-how-to-experiment-your-way-to-an-awesome-life-c8aa3365555f)
 
 ## Common Pitfalls of the MVP

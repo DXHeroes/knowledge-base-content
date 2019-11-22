@@ -36,7 +36,7 @@ A dependency is something your product needs to function. It could be a plugin, 
 
 Failure to update the dependencies will make your product hard to maintain and can lead to your developer's time being taken up by routine, [meaningless work](/problems/meaningless-work). A straightforward upgrade should not take more than just a few hours.
 
-![Dependencies Updates](/files/dependencies.png)  
+![Dependencies Updates](/files/dependencies.png)
 [Updating Dependencies Sucks](https://depfu.com/blog/updating-dependencies-sucks)
 
 Upgrades can be released often, and keeping up with them can be challenging. Use tools for each library to automate this job:

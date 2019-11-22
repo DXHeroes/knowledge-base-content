@@ -33,7 +33,7 @@ Be like a ship’s captain and use Operations Logbook! Record every incident and
 
 Operations Logbook allows you to collect, store, and share data in real time and dig your historical data easily. Traditionally, ship’s captains keep their logbooks (or ship’s logs or captain’s log) in the form of a diary. They provide valuable information about important data and events of a ship. It is similar to a black box on a plane. A ship’s log is a legal document and if some incident happens, it can be used as evidence. The habit of keeping track of everything important can be very useful in software development, too.
 
-![Ships Log](/files/ship_log.jpg)  
+![Ships Log](/files/ship_log.jpg)
 [Astrolable Sailing: Ship’s log](https://astrolabesailing.com/2014/03/07/ships-log/)
 
 It is usually the [DevOps](/practices/devops) team that takes care of the Operations Logbook. They record every incident and how the team dealt with it. Maintaining an Operations Logbook for a complex product can be tricky. Writing the data in a diary, like the captains used to do, is not enough. Fortunately, there is a great choice of templates and tools, such as [Opralog](http://www.infotechnics.com/products/opralog-operations-logbook-software/), [j5 Operations Logbook](https://www.j5int.com/j5-applications-operations-management-software/j5-operations-applications/j5-operations-logbook/), or [eLogger](https://www.elogger.com/).

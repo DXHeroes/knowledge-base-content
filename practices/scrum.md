@@ -50,7 +50,7 @@ Scrum became a very popular agile methodology in the early 1990s together with [
 3. **Artifacts**  
    Artifacts are designed to maximize transparency of key information so that everybody has the same understanding of the artifact. The Scrum Artifacts are Product Backlog, Sprint Backlog, and Increment.
 
-![Scrum](/files/scrum.png)  
+![Scrum](/files/scrum.png)
 [Scrum.org: Scrum Framework Poster](https://www.scrum.org/resources/scrum-framework-poster)
 
 ## Why You Might Want Scrum

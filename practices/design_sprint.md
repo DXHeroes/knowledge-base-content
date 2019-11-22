@@ -43,7 +43,7 @@ The Design Sprint is a five-phase process to get a tangible product prototype in
 
 The Design Sprint uses design thinking to reduce risks of launching a new product, service or a feature. It is a unique way how to get the feedback without going the full cycle.
 
-![Design Sprint](/files/design_sprint.png)  
+![Design Sprint](/files/design_sprint.png)
 [Wikipedia.org - Design Sprint](https://en.wikipedia.org/wiki/Design_sprint)
 
 **Phases of the Design Sprint:**
@@ -63,7 +63,7 @@ The Design Sprint uses design thinking to reduce risks of launching a new produc
 5. **Test**  
    Run the user testing and get the feedback.
 
-![Phases of Design Sprint](/files/design_sprint_phases.jpeg)  
+![Phases of Design Sprint](/files/design_sprint_phases.jpeg)
 UX Planet: [What’s a Design Sprint and why is it important?](https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09)
 
 ## Why You Might Want the Design Sprint

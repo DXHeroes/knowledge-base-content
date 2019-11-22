@@ -44,7 +44,7 @@ DevOps is a set of practices that brings development and operations teams togeth
 
 DevOps is a set of practices that combines the work of two teams: software development (Dev) and information technology operations (Ops). These two teams usually work separately, which is not always efficient. If they implement the DevOps strategy and start to collaborate, they can build, test and release software much faster and safer. DevOps is both technology and a culture change, it can be difficult to implement it. The teams have a DevOps Engineer to help them with this change and with the collaboration.
 
-![DevOps](/files/devops.png)  
+![DevOps](/files/devops.png)
 [Medium: DevOps is a culture, not a role!](https://medium.com/@neonrocket/devops-is-a-culture-not-a-role-be1bed149b0devops)
 
 ### Who Is a DevOps Engineer

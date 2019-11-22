@@ -36,7 +36,7 @@ Git Flow is a specific branching system for Git. It helps the team to better con
 
 Git Flow is one of many styles of Git workflows - a branching model set for Git. It is a huge framework for large projects and it can be utilized for your team’s needs. Git Flow describes the project’s release cycle and adds specific roles to different branches. It defines when and how are the branches interacting with each other. In this model, there are two types of branches: Master and Develop. Develop is an integration branch for features. Master stores the official release history. This branching design was published by [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) in 2009 and became very popular ever since.
 
-![Git Flow branching model](/files/git_flow.png)  
+![Git Flow branching model](/files/git_flow.png)
 Nvie: [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 **The main branches:**

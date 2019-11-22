@@ -49,7 +49,7 @@ We can classify Automated Deployment approaches into different categories, accor
 3. **Continuous Deployment**  
    Continuous Deployment is the practice of fully automating the entire process of the deployment pipeline. Every change in the source code is deployed to production automatically and without explicit approval from a developer. This is the quickest method of deployment, however errors can cause issues and possible downtime.
 
-![Automated Deployment](/files/automated-deployment.png)  
+![Automated Deployment](/files/automated-deployment.png)
 DZone: [Secure and Scalable CI/CD Pipeline With AWS](https://dzone.com/articles/secure-and-scalable-cicd-pipeline-with-aws)
 
 ## Why You Might Want the Deployment to Be Automated

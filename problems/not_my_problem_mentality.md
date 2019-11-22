@@ -38,7 +38,7 @@ keywords:
 
 One of the very dangerous approaches to a team work is “Not My Problem” mentality and it is an opposite to a healthy team collaboration. It is not a team player’s mindset. It can endanger your team’s productivity, your relationships, the product, or, in the worst case scenarios, even lives. It is easy to walk away from a car accident thinking that someone else is going to take care of the problem. It is easy to walk away from an upset colleague without asking if they need any help. In the end, we both have a lot of work, right?
 
-![Shrug Emoji](/files/not_my_problem_mentality.png)  
+![Shrug Emoji](/files/not_my_problem_mentality.png)
 [How to Type the Shrug Emoji](https://blog.hubspot.com/marketing/shrug-emoji)
 
 It is true that people have to prioritize their own work. If everyone would be doing everything, they would get lost shortly. Management and a division of labor are needed, to a certain extent.

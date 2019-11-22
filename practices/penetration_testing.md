@@ -74,7 +74,7 @@ Penetration Testing should be a part of your software development lifecycle, not
 5. **Analysis and configuration review**  
    Testers make a detailed report on the performed test.
 
-![Penetration Testing](/files/pen-testing.jpg)  
+![Penetration Testing](/files/pen-testing.jpg)
 [imperva: Penetration Testing](https://www.imperva.com/learn/application-security/penetration-testing/)
 
 ## Common Pitfalls of the Penetration Testing

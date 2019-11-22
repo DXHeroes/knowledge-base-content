@@ -73,7 +73,7 @@ When drawing a Wireframe, follow these simple rules:
 - Avoid complicated pictures. Use **simple objects** like squares or rectangles.  
   **Examples:** Instead of placing a real picture, write an "x". Instead of inserting a video, use a triangle (as a play button).
 
-![Wireframing Samples](/files/wireframing_samples.png)  
+![Wireframing Samples](/files/wireframing_samples.png)
 [Visual Paradigm: How to Draw Wireframe for Android Apps?](https://www.visual-paradigm.com/tutorials/android-wireframe.jsp)
 
 Make your life easier and pick a tool for Wireframing, such as:

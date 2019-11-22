@@ -40,7 +40,7 @@ The advantage of the Smoke Tests is in the speed of verification or obtaining a 
 
 Smoke Testing helps reduce the risk of major product errors. It is usually performed before the start of functional testing of the application, which helps to reduce the cost of testing itself and repairing functional errors.
 
-![Smoke Testing](/files/smoke_testing.jpg)  
+![Smoke Testing](/files/smoke_testing.jpg)
 [ReQtest: 11 Quick Tips to Master Smoke Testing](https://reqtest.com/testing-blog/smoke-testing-2/)
 
 Smoke Testing is typically used for:

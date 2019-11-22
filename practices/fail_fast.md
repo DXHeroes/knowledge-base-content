@@ -43,7 +43,7 @@ Debugging can be very annoying. How to avoid as many bugs as possible? Try Fail 
 
 Another part of the Fail Fast Philosophy is this: if you think that your project is likely to fail, stop all the work immediately rather than continue with possible flaws. This is known as **pivoting** - quickly changing directions, just like in basketball.
 
-![Fail Fast](/files/fail_fast.jpg)  
+![Fail Fast](/files/fail_fast.jpg)
 [Hackermoon.com: Fail Fast, iterate and pivot](https://hackernoon.com/fail-fast-iterate-and-pivot-8d00d6c00836)
 
 ## Why You Might Want to Fail Fast

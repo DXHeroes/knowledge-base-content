@@ -34,7 +34,7 @@ Avoid meaningless work! Learn how to deliver value and stop spending time with t
 
 Meaningless work can be a feeling that the work I am doing has no meaning or it can mean that the product I am working on is not valuable.
 
-![Meaningless Work](/files/sysifos.jpg)  
+![Meaningless Work](/files/sysifos.jpg)
 [i write: Sysifos](https://iwrite.cz/knizni-a-ha-momenty-2017-cast-2-co-reknete-az-pozdravite/sysifos/)
 
 Work can become meaningless if your team reaches one of these two phases:
