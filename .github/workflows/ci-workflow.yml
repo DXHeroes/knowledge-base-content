@@ -56,4 +56,3 @@ on: [push, pull_request]
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
-          curl -f -XPOST -H "$DX_HEADER" $IMPORT_URL
