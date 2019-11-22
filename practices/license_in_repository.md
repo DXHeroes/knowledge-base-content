@@ -35,7 +35,7 @@ When you publish your source code repository, make sure to include a license. Yo
 
 Failure to add a license to your repository, creates legal uncertainty. Potential users of your software do not understand if they have permission to use the software and, therefore, might choose not to use your product. On the other hand, some users might get the impression that you do not have the product legally covered and so they can do whatever they want to do with it.
 
-If you create a new project on GitHub and do not add any license terms, the project is protected by copyright and is by default "All Rights Reserved”. However, it is unclear if it has any"legal effect in any jurisdiction. To avoid future issues, pick a license that covers your needs and add it to your repository.
+If you create a new project on GitHub and do not add any license terms, the project is protected by copyright and is by default "All Rights Reserved”. However, it is unclear if it has any legal effect in any jurisdiction. To avoid future issues, pick a license that covers your needs and add it to your repository.
 
 ## Why You Might Want to Add a Licence to Your Repository
 
