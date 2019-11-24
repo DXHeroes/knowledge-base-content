@@ -25,9 +25,9 @@ covered_by_dx_scanner: true
 
 **TL;DR**
 
-Why does your source repository should always contain a lock file? The package managers would miss important imformation about installed packages without a lock file. It may result to installing two different modules from the same dependency definition.
+Why should your source repository always contain a lock file? Package managers would miss important imformation about installed packages without a lock file. It may result in installing two different modules from the same dependency definition.
 
-## What Is a Lock File
+## What Is a Lock File?
 
 Many people decide to ignore the lock files and they do not commit it to Git. What is a lock file and why should your repository contain one?
 
@@ -35,11 +35,10 @@ A lock file contains important information about installed packages and it shoul
 
 **A lock file:**
 
-- is generated automatically for any operation
-- is used for describing the dependency tree and its changes, so the coworkers are guaranteed to install exactly the same dependencies
-- describes the dependency tree at any given time
-- lets you "travel back in time" and check any former dependency tree
-- allows your Package Manager to skip repeated metadata resolutions for previously-installed packages and, therefore, makes the installation much faster
+- Is generated automatically for any operation
+- Describes the dependency tree and its changes, so the coworkers are guaranteed to install exactly the same dependencies
+- Lets you "travel back in time" and check any former dependency tree
+- Allows your Package Manager to skip repeated metadata resolutions for previously-installed packages and, therefore, makes the installation much faster
 
 ## Why You Might Want the Lock File
 
