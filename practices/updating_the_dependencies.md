@@ -1,6 +1,6 @@
 ---
 slug: updating-the-dependencies
-stages: 
+stages:
 - development
 short_description: Not updating dependencies makes your product more and more difficult to maintain and it can bring security risks.
 tags:
@@ -31,7 +31,7 @@ Failure to update dependencies makes your product increasingly difficult to main
 
 Updating dependencies should be a regular part of your job. Use our DX Scanner practice called DependeciesVersion to find out if the libraries you are using are updated.
 
-**What is a dependency?**  
+**What is a dependency?**
 A dependency is something your product needs to function. It could be a plugin, a database, or an external library. Some dependencies that you use may need updates which you should check regularly. Otherwise, your product can malfunction.
 
 Failure to update the dependencies will make your product hard to maintain and can lead to your developer's time being taken up by routine, [meaningless work](/problems/meaningless-work). A straightforward upgrade should not take more than just a few hours.
