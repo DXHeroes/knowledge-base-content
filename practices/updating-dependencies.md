@@ -69,12 +69,12 @@ There are two strategies to implement regular updates:
 2. Extreme Programming agile approach suggests to **update as much as possible, as often as possible**. This strategy requires a high level of automation - otherwise, the developer's workload is compromised by time spent updating machines, risking a loss of interest and motivation in their jobs.
 
 What updates can you automate?:
-  - builds
-  - integration
-  - assurance
-  - testing
-  - releases
-  - [deployment](/practices/automated-deployment)
+  - Builds
+  - Integration
+  - Assurance
+  - Testing
+  - Releases
+  - [Deployment](/practices/automated-deployment)
 
 Employ continuous delivery and continuous deployment. Dependency updates can be integrated directly into your program delivery pipeline. There are tools that check automatically if there are some new dependency updates, such as [npm check updates](https://github.com/tjunnone/npm-check-updates) for JavaScript. Npm check updates even upgrades your package.json dependencies to the latest versions.
 
