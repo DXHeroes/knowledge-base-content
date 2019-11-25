@@ -30,11 +30,16 @@ keywords:
 
 **TL;DR**
 
-Print this chart, fill the 9 fields and you are ready to build a successful product.
+Print this chart, fill the 9 fields, and you are ready to build a successful product.
 
 ## What Is a Lean Canvas
 
-Lean Canvas is a very useful visual planning method - it is basically a big chart with 9 fields describing the key assumptions of your business model. It is used for creating a new product or for developing an existing one. It helps you identify the uncertainties and risks. It can be used for the whole product and also for each product feature. Lean Canvas was created by Ash Maurya as a development of the Business Model Canvas.
+Lean Canvas is a very useful visual planning method. It is a big chart with 9 fields describing the key assumptions of your business model. It is used for:
+- Creating a new product or for developing an existing one.
+- It helps you identify the uncertainties and risks.
+- It can be used for the whole product and also for each product feature.
+
+Lean Canvas was created by Ash Maurya as a development of the Business Model Canvas.
 
 The whole team has to participate in creating the Lean Canvas model. All the 9 fields in the scheme have to be filled and it should not take longer than 20 minutes. It is recommended to fill the chart in the following order, and then read it from left to right:
 
@@ -51,7 +56,7 @@ The whole team has to participate in creating the Lean Canvas model. All the 9 f
 8. Key metrics
 9. Channels
 
-To get the correct output, the scheme requires data from the following list of teams:
+To get the correct output, the scheme requires data from the following teams:
 
 - Business Team
 - Analytic Team
@@ -82,12 +87,12 @@ Lean Canvas is also an easy tool for the team to help them understand the busine
 
 The chart can be created:
 
-- as the very first step when designing a new product
-- during strategic planning sessions
-- for the whole product or business plan
-- for each product feature
-- with the team
-- with the business partners
+- As the very first step when designing a new product
+- During strategic planning sessions
+- For the whole product or business plan
+- For each product feature
+- With the team
+- With the business partners
 
 All you have to do is to get the right people from your company or/and your business partners together and fill the chart. You can use a Lean Canvas generator, such as [Canvanizer](https://canvanizer.com/) or [Leanstack](https://leanstack.com/).
 

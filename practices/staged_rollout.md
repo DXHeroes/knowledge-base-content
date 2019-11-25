@@ -29,14 +29,14 @@ Test your product on just a few users. To get the best results, do not let them 
 
 ## What Is a Staged Rollout
 
-A Staged Rollout is a way for updating your application while reaching only a certain percentage of users. It enables you to release a single product version very slowly - over a period of days. It is a much safer approach than a sudden big-bang release.
+A Staged Rollout is a method of updating your application, while reaching only a certain percentage of users. It enables you to release a single product version very slowly - over a period of days. It is a much safer approach than a sudden big-bang release.
 
-A Staged Rollout gives you time to analyze your product stability and its performance against business goals. Then you can decide if you want to roll out the update to more users, wait for more data, or stop the Rollout. You can test if your update is going to be a success and you can also reveal major errors. A Staged Rollout is one of the relatively pain-free ways to make continuous delivery. Some of the major companies that do the Staged Rollouts regularly are Netflix or Uber.
+A Staged Rollout gives you time to analyze your product stability and its performance against business goals. You can then decide if you want to roll out the update to more users, wait for more data, or stop the Rollout. You can test if your update is going to be a success and you can also reveal major errors. A Staged Rollout is one of the relatively pain-free ways to make continuous delivery. Examples of the major companies that do the Staged Rollouts regularly are Netflix and Uber.
 
 ## Why You Might Want the Staged Rollout
 
-- Slowly increasing the number of users of your product update prevents spreading errors. It is always better if only 10% of users experience update errors than all of your customers.
-- Staged Rollout enables you to control your product performance in a measurable way, unlike when you push the release out to every user at the same time.
+- Slowly increasing the number of users receiving your product update prevents spreading errors. It is always better if only 10% of users experience update errors than all of your customers.
+- Staged Rollout enables you to assess your product performance in a measurable way, unlike when you push the release out to every user at the same time.
 - Staged Rollout lets you be more strategic with your product releases.
 - It reduces risks - you can test changes before you move into full implementation.
 - It gives you time to make improvements and to introduce the changes to your stakeholders.
@@ -63,7 +63,7 @@ When implementing the Staged Rollout, follow these rules:
 7. You can use the Staged Rollout as an A/B testing. For example, if you have a new feature in your game application, make a Staged Rollout to a subset of players. You can then compare the performance of your game app with and without the feature.
 
 **Halt the Staged Rollout**  
-You can always halt (pause) the Rollout if you see that there is something wrong. That means that you can prevent more users from experiencing wrong behaviors. Users that have not installed the new product version will not receive any updates. You have time to analyze the problems without spreading. Before you make the Staged Rollout, ensure you have a rollback plan. You should always be able not to implement the changes and head into a different direction with your product. Backup plans are a must!
+You can always halt (pause) the Rollout if you see that there is something wrong. That means that you can prevent more users from experiencing issues. Users that have not installed the new product version will not receive any updates. You have time to analyze the problems without spreading. Before you make the Staged Rollout, ensure you have a rollback plan. You should always be able not to implement the changes and head into a different direction with your product. Backup plans are a must!
 
 ## Common Pitfalls of the Staged Rollout
 
