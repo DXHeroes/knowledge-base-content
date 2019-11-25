@@ -31,7 +31,7 @@ keywords:
 
 **TL;DR**
 
-If there is one golden rule in programming, it should be to **automate as much as possible**. Automated Deployment ensures that the path your code takes from development through to production does not break its functionality. Read more to learn how to make Automated Deployment a regular part of your Continuous Deployment.  
+If there is one golden rule in programming, it should be to **automate as much as possible**. Automated Deployment ensures that the path your code takes from development through to production does not break its functionality. Read more to learn how to make Automated Deployment a regular part of your Continuous Deployment.
 
 ## What Is an Automated Deployment
 
@@ -41,26 +41,26 @@ How do you know that the path your code takes from development to production doe
 
 We can classify Automated Deployment approaches into different categories, according to the level of automation coverage across environments:
 
-1. **Continuous Integration**  
-   Continuous Integration is the practice of daily integrating code changes. Everything that has been developed integrates daily. Each integration is then automatically verified and tested to detect possible errors.  
+1. **Continuous Integration**
+   Continuous Integration is the practice of daily integrating code changes. Everything that has been developed integrates daily. Each integration is then automatically verified and tested to detect possible errors.
    For more information, see [Continuous integration](/practices/continuous-integration).
-2. **Continuous Delivery**  
-   Continuous Delivery is the practice of keeping the code ready to deploy at any given time. Continuous Delivery is an extension of the continuous integration to automate release to the staging environment. Continuous Delivery ensures a a production-ready version of your build at any time. This is often required by financial institutions and other customers who require little or no "down time". 
-3. **Continuous Deployment**  
+2. **Continuous Delivery**
+   Continuous Delivery is the practice of keeping the code ready to deploy at any given time. Continuous Delivery is an extension of the continuous integration to automate release to the staging environment. Continuous Delivery ensures a a production-ready version of your build at any time. This is often required by financial institutions and other customers who require little or no "down time".
+3. **Continuous Deployment**
    Continuous Deployment is the practice of fully automating the entire process of the deployment pipeline. Every change in the source code is deployed to production automatically and without explicit approval from a developer. This is the quickest method of deployment, however errors can cause issues and possible downtime.
 
-![Automated Deployment](/files/automated-deployment.png)
+![Automated Deployment](/files/automated_deployment.png)
 DZone: [Secure and Scalable CI/CD Pipeline With AWS](https://dzone.com/articles/secure-and-scalable-cicd-pipeline-with-aws)
 
 ## Why You Might Want the Deployment to Be Automated
 
 Automated Deployment helps your team with:
 
-- **Reduced possibility of errors**  
+- **Reduced possibility of errors**
   Manual deployment is error-prone. Any process involving human input introduces the possibility of errors. Assignment to repetitve manual deployment tasks can harm employee morale.
-- **Saving time**  
+- **Saving time**
   Manual deployment is time-consuming. The job is often assigned to testers and developers in a development team who can otherwise spend their time working on improving the application.
-- **Consistency and repeatability**  
+- **Consistency and repeatability**
   Once configured, the process is the same every time you initiate release. It contributes to more frequent and stable releases. This consistency greatly assists in diagnosis of errors as it reduces the possible variables.
 
 ## Issues the Automated Deployment Solves
@@ -87,13 +87,13 @@ Follow these steps to set up a basic deployment pipeline:
 
 ## Common Pitfalls of the Automated Deployment
 
-- **Exaggerated reliance on the Automated Deployment**  
+- **Exaggerated reliance on the Automated Deployment**
    It is always good to have an alternative strategy to avoid being stuck when your Automated Deployment configuration is broken.
-- **The project is too small**  
+- **The project is too small**
    Implementing Automated Deployment can be time-consuming. Ensure that you do not spend more time implementing it than actually developing the product.
-- **Rigid pipeline design**  
+- **Rigid pipeline design**
    Rigid pipeline prevents the team from optimizing their processes. Pipeline should be structured, flexible, and able to incorporate sudden changes.
-- **Long and slow deployment pipelines**  
+- **Long and slow deployment pipelines**
    There are too many steps between code commit and deployment. Ensure that every step is necessary.
 
 ## Resources for the Automated Deployment

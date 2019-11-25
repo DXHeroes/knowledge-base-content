@@ -38,15 +38,15 @@ Frankly, although it can be very useful, pair programming is not very popular. I
 
 ## Why You Might Want the Pair Programming
 
-- **Less bugs**  
+- **Less bugs**
    Two heads are better than one. It is not just a saying - considering that you would probably make different mistakes than your programming partner, you can immediately correct each other.
-- **Knowledge sharing**  
+- **Knowledge sharing**
    You can learn so much so fast! Working together is the best opportunity to share ideas and to improve yourself.
-- **Less procrastination**  
+- **Less procrastination**
    You do not have time to open Slack or Facebook when someone is watching your screen. You should not feel intimidated though - it is your colleague who you work with, not a mentor or a boss. Pair Programming should be about friendly cooperation.
-- **Faster onboarding**  
+- **Faster onboarding**
    Junior programmers learn much faster by pairing with experienced team members. Also, you can quickly identify a bad hire.
-- **Better team culture**  
+- **Better team culture**
    Team members get to know each other better if they work in pairs. They get closer and have more subjects to talk about. This leads to a friendlier atmosphere. Coding can be very lonely under other circumstances - reducing this loneliness should be an important goal for every company.
 
 ## Problems the Pair Programming Solves
@@ -54,7 +54,7 @@ Frankly, although it can be very useful, pair programming is not very popular. I
 - [Poor code quality](/problems/poor-code-quality)
 - [Increased cost](/problems/increased-cost)
 - [Demotivated team](/problems/demotivated-team)
-- [Low Bus Factor](/practice/bus-factor)
+- [Low Bus Factor](/practices/bus-factor)
 - [Meaningless work](/problems/meaningless-work)
 - ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - Knowledge hoarding
@@ -65,15 +65,15 @@ Sit in front of the same monitor and share the keyboard and mouse back and forth
 
 These are the main pair programming techniques:
 
-1. **Ping Pong**  
+1. **Ping Pong**
    The driver writes a test for behavior and then the navigator makes the test pass. Once the test passes, the developers switch the roles.
-2. **Driver-Navigator roles**  
+2. **Driver-Navigator roles**
    This is a looser form of the Ping Pong style. Sit in front of the same monitor and share the keyboard and mouse back and forth. In other words, switch the roles of a driver and a navigator for better results. This way both of the programmers learn to communicate.
-3. **Strong Style pairing**  
+3. **Strong Style pairing**
    The driver does nothing than what the navigator tells them to do. The navigator makes all decisions. When the driver has some idea to implement, they give the keyboard to the navigator and the roles switch.
-4. **Unstructured pairing**  
+4. **Unstructured pairing**
    When no specific approach is followed, the role switching happens whenever it makes sense. It works only with well-matched pairs and it helps them code even faster.
-5. **Remote pairing**  
+5. **Remote pairing**
    Each developer works from a different computer and use software to share screens. The driver shares their screen using a conference tool (such as [Google Hangouts](https://tools.google.com/dlpage/hangoutplugin), [Skype](https://www.skype.com/), or [Webex](https://www.webex.com/)) so that the navigator can see what they are typing. Plugins for [Atom](https://atom.io/) let them share their IDE (integrated development environment) and modify the code at the same time.
 
 ## Common Pitfalls of the Pair Programming

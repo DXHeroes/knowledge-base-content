@@ -62,8 +62,8 @@ There can be one Tech Lead per team, or one Tech Lead for the back-end and anoth
 - [Demotivated team](/problems/demotivated-team)
 - Unsuccessful product
 - Unhappy clients
-- [Disconnect Between Business and IT](problems/disconnect-between-business-and-it)
-- ["Not My Problem" Mentality](problems/not-my-problem-mentality)
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
+- ["Not My Problem" Mentality](/problems/not-my-problem-mentality)
 - [Toxic Team Culture](/problems/toxic-team-culture)
 
 ## How to Implement the Tech Lead

@@ -63,7 +63,7 @@ Linters are available for most programming languages. Here are the most common o
 
 ## How to Implement the Linting
 
-- Linting should happen early in the development phase, before the [Code Review](practices/code-review) and testing. It has to be integrated into the developer environment.
+- Linting should happen early in the development phase, before the [Code Review](/practices/code-review) and testing. It has to be integrated into the developer environment.
 - Implement the Linting to the [Continuous Integration](/practices/continuous-integration).
 - Ensure that your code follows standard rules. Otherwise, the Linter flags more than you need. You can override the default settings or disable rules for specific files but it can bring more trouble.
 - Turn on the auto fixer for as many errors as possible. After the implementation, fix all the issues from the auto fix.

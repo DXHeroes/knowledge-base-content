@@ -39,27 +39,27 @@ Use Unit Tests to test the smallest pieces of your code - units.
 
 Unit testing is a way to test units - the smallest components of your software, the smallest piece of code. A unit can be a single function. The goal is to validate that each unit performs as it should. A unit test tests a behavior in isolation to other tests. If the test relies on an external system, it is not a Unit Test. Unit Tests should be written during the design phase, prior to implementation to prevent defects from being deployed to production. They should be run every time the code is changed and provide a clear description of the feature being tested.
 
-Unit Test coverage is a subtype of [Code Coverage](/problems/code-coverage) - it shows which lines of code were tested by Unit Tests. However, the goal is not to have a 100% Unit Test coverage. In fact, you should have as few Unit Tests as possible and cover as many types of behavior as possible. 100% Unit Test coverage exists only in a perfect world. While writing Unit Tests focus on behaviors - adding new tests just to improve coverage leads to tests without any purpose and you would be just wasting your time.
+Unit Test coverage is a subtype of [Code Coverage](/practices/code-coverage) - it shows which lines of code were tested by Unit Tests. However, the goal is not to have a 100% Unit Test coverage. In fact, you should have as few Unit Tests as possible and cover as many types of behavior as possible. 100% Unit Test coverage exists only in a perfect world. While writing Unit Tests focus on behaviors - adding new tests just to improve coverage leads to tests without any purpose and you would be just wasting your time.
 
 Unit Testing can be done manually but it is usually automated. In terms of automated tests, there is a concept called **the test pyramid** that shows how to efficiently balance the automated tests.
 
 ![Unit Testing](/files/unit_testing.png)
 [Amazon Alexa: Unit Testing: Creating Functional Alexa Skills](https://developer.amazon.com/it/blogs/alexa/post/35bdad3d-57c8-4623-88c6-815540697af5/unit-testing-create-functional-alexa-skills)
 
-- **Unit Test**  
-   Unit Tests typically test functions, methods, and classes. They are short, cheap and fast to write and maintain. They are focused on one thing/function. They are not dependent on any external systems. When a Unit Test fails, it is easy to identify the problem.  
+- **Unit Test**
+   Unit Tests typically test functions, methods, and classes. They are short, cheap and fast to write and maintain. They are focused on one thing/function. They are not dependent on any external systems. When a Unit Test fails, it is easy to identify the problem.
   There are two types of Unit Tests:
 
   1. **Positive Testing** - testing the code by giving valid data.
   2. **Negative Testing** - testing the code by giving the Invalid data.
 
-- **Integration Test**  
+- **Integration Test**
    Integration test focuses on the point where individual units are combined and tested as a group. The purpose is to test if the interaction between units works.
 
-- **End to End Test**  
+- **End to End Test**
    End to end tests cover the whole application - from start to finish. They are more expensive and slower to run.
 
-The pyramid shows you that the more high-level you get, the fewer tests you should perform. Write a lot of small and fast Unit Tests, some integration tests and just a few high-level tests. To maintain this balance, use [continuous delivery](/problems/continuous_delivery) - a practice where you automatically ensure your product is ready to be released into production.
+The pyramid shows you that the more high-level you get, the fewer tests you should perform. Write a lot of small and fast Unit Tests, some integration tests and just a few high-level tests. To maintain this balance, use [continuous delivery](/practices/automated-deployment) - a practice where you automatically ensure your product is ready to be released into production.
 
 ## Why You Might Want the Unit Testing
 
@@ -98,12 +98,12 @@ Unit Testing helps you with:
 
 **Unit Testing Best Practice:**
 
-- **Arrange**  
-  Set up the test. Make mocking tests for isolationg the behavior. Use inversion of control.  
+- **Arrange**
+  Set up the test. Make mocking tests for isolationg the behavior. Use inversion of control.
   For more information, see [DZone: Unit Testing 101: Inversion Of Control](https://www.dzone.com/articles/unit-testing-101-inversion).
-- **Act**  
+- **Act**
   Run the function and run the test.
-- **Assert**  
+- **Assert**
   Check if the expected behavior occurred.
 
 ## Common Pitfalls of the Unit Testing

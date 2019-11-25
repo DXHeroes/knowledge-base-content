@@ -46,11 +46,11 @@ Openclassrooms: [Create and test your clickable prototype](https://openclassroom
 
 A Clickable Prototype is used as a presentation of the future product to gather more accurate feedback (typically via UX tests) from:
 
-- **Product owners/decision makers**  
-  They choose what is in and out of scope and what is part of [MVP](/practices/mvp). Clickable Prototypes help to generate support, gain agreement or even investment for the project.
-- **Developers**  
+- **Product owners/decision makers**
+  They choose what is in and out of scope and what is part of [MVP](/practices/minimum-viable-product). Clickable Prototypes help to generate support, gain agreement or even investment for the project.
+- **Developers**
   It helps them to better understand the product. A prototype may reduce misunderstanding between developers and product owners or UX experts.
-- **End users**  
+- **End users**
    It lets them realize and confirm what they want. By using prototyping as an agile tool it is possible to test theories and ideas (for example, design or layout of the website). Prototypes help prevent drastic late changes or even rejection of the finalized product.
 
 Software development which using prototyping can be faster and more cost-effective than programming, minimizing wasted effort on unwanted functionality.
@@ -77,13 +77,13 @@ It is possible to create a great prototype with PowerPoint or Keynote. A prototy
 
 ## Common Pitfalls of Clickable Prototype
 
-- **Slowdown**  
+- **Slowdown**
   A Clickable Prototype usually clarifies communication between decision makers and the rest of the team. Sometimes it can conversely cause a slowdown of development, for example UX specialist/prototyper is on the other end of the globe than product owner and developer. Communication can be in this case very difficult.
-- **Unnecessary**  
+- **Unnecessary**
   It follows the point above: sometimes programming possible scenarios can be cheaper and faster than prototyping, and a paper or a blackboard wireframe might be sufficient. Consider whether it is necessary.
-- **Too much detail**  
+- **Too much detail**
   The level of detail of the Clickable Prototypes should depend on the type of project. For example, a prototype for usability testing might be closer to the reality than for presentation on management board.
-- **Stakeholders are confused**  
+- **Stakeholders are confused**
   Stakeholders sometimes think that the Prototype is the final product. Ensure that they have enough information about what the Prototypes are for.
 
 ## Resources for the Clickable Prototype
