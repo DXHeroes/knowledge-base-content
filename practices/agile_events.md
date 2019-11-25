@@ -110,18 +110,18 @@ Even though the events are designed to help, developers may struggle to find eve
 - Events should be stable, and followed regularly to build habitual attendance.
 - The length of each meeting should be defined to achieve a positive mindset within the team.
 - Events can be defined either by the team or by the team culture.
-- Each Event has its own [roles](/practices/role-definition) that share responsibilities.
+- Each Event has its own [roles](/practices/team-roles-definition) that share responsibilities.
 - Hire experienced professionals to handle Agile Events. The investment can be more beneficial than trying to implement Events in a team without any experience.
 
 ## Common Pitfalls of the Agile Events
 
-- **[Demotivated team](/problems/demotivated-team)**  
+- **[Demotivated team](/problems/demotivated-team)**
   The team is confused. They do not understand why they should do the events, the planning does not work.
-- **Events are not fun**  
+- **Events are not fun**
   Events are dehumanized, boring, the team members struggle to concentrate. Make the events fun! Be friendly, lightweight your language.
-- **Micromanagement**  
+- **Micromanagement**
   Everyday meetings can feel like an additional layer of micromanagement to a regular amount of work. Nobody likes micromanagement. Explain the benefits of periodic meetings to your team.
-- **Focusing too much on standups**  
+- **Focusing too much on standups**
   Everyday standups are not always necessary. Focus on the team members’ feel for how often they are needed, rather than on following Agile Events rules. Many teams have three standups per week.
 
 ## Resources for Agile Events

@@ -77,7 +77,7 @@ Maintaining an application with a large codebase requires a lot of discipline, a
    - Ensure you have a plan to roll back the changes in case of an upgrade failure.
    - Protect the current state of your product, and minimize disruption to business as usual processes.
 4. **Log**
-   - Document your steps. Use a [Logbook](/practices/Operation Logbooks) and write down the changes made by your team members. It can also be useful to establish best practice for upgrading other products.
+   - Document your steps. Use a [Logbook](/practices/operations-logbook) and write down the changes made by your team members. It can also be useful to establish best practice for upgrading other products.
 
 ## Common Pitfalls of Updating Dependencies
 

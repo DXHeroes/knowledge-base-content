@@ -44,15 +44,15 @@ Code Coverage (CC) measures how many, and which specific source code lines are b
 
 CC is usually calculated in a Continuous Integration library, for example, [GitLab](https://about.gitlab.com/). This library opens an application that measures the CC automatically. The library provides you with coverage reports, for example:
 
-- **Function coverage:**  
+- **Function coverage:**
   How many defined functions have been called.
-- **Statement coverage:**  
+- **Statement coverage:**
   How many statements in the program have been executed.
-- **Branches coverage:**  
+- **Branches coverage:**
   How many control branches structures have been executed.
-- **Condition coverage:**  
+- **Condition coverage:**
   How many boolean sub-expressions have been tested for a true and a false value.
-- **Line coverage:**  
+- **Line coverage:**
   How many lines of source code have been tested.
 
 ## Why You Might Want Code Coverage
@@ -80,12 +80,12 @@ There are a lot of CC tools you can use, for each programming language. For exam
 
 - Java: [jUnit](https://junit.org/junit5/), [Cobertura](http://cobertura.github.io/cobertura/), or [JaCoCo](https://www.jacoco.org/)
 - JavaScript: [istanbul](https://istanbul.js.org/), or [JSCover](http://tntim96.github.io/JSCover/)
-- PHP: [Clover](https://openclover.org/), or [PHPUnit](https://phpunit.de/)
+- PHP: [Clover](http://openclover.org/), or [PHPUnit](https://phpunit.de/)
 - Python: [coverage.py](https://pypi.org/project/coverage/)
 - Ruby: [SimpleCov](https://github.com/colszowka/simplecov)
 - Scala: [Scoverage](http://scoverage.org/)
 
-Update the tests if there are no areas of code that have not been exercised. Developers can check CC reports to advise additional tests to increase the CC.  
+Update the tests if there are no areas of code that have not been exercised. Developers can check CC reports to advise additional tests to increase the CC.
 **Important:** The process can slow down the application so it is not recommended to do it in production.
 
 ## Common Pitfalls of the Code Coverage
