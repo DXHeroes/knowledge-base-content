@@ -24,18 +24,22 @@ stages:
 # Javascript Front-End Build Tools
 
 **TL;DR**  
-If you are a front-end developer, build tools can save you valuable time. They can do almost anything: download libraries, run tests, bundle packages, automatize tasks, and so much more.
+As a front-end developer, build tools can save you valuable time. They can do almost anything: download libraries, run tests, bundle packages, automatize tasks, and so much more.
 
-## What Are JavaScript Front-End Build Tools
+## What Are JavaScript Front-End Build Tools?
 
-As a JavaScript programmer, you can use multiple build tools for front-end development. While creating web or mobile applications, you have to deal with boring and stressful tasks that are (unfortunately) necessary. Build tools can make your life so much easier. They can, for example, install most code-related things for you, or automate menial and error-prone tasks in web development.
+As a JavaScript programmer, you can use multiple build tools for front-end development. Creating web or mobile applications can mean you have to deal with boring and stressful, but necessary, tasks. Build tools can make your life so much easier. They can, for example:
+  - Install most code-related things for you.
+  - Automate menial and error-prone tasks in web development.
 
 There are so many different build tools and you have to figure out which ones are useful for you. Sometimes you need multiple tools in one project. Here are some of the most popular build tools:
 
-- [npm](https://www.npmjs.com/): Package manager. Read more: [Package Management](/practices/package-management)
+- [npm](https://www.npmjs.com/): Package manager.
+  - Read more: [Package Management](/practices/package-management)
 - [Webpack](https://webpack.js.org): Module bundler.
 - [Gulp](https://gulpjs.com): Runs and automatizes tasks.
-- [ESLint](https://eslint.org): Code analyzer. Read more: [Linting](/practices/linting)
+- [ESLint](https://eslint.org): Code analyzer.
+  - Read more: [Linting](/practices/linting)
 - [Grunt](https://gruntjs.com): Runs and automatizes tasks.
 
 ![Build Tools](/files/build-tools.jpg)  
@@ -66,7 +70,7 @@ Here is a short list of things Roneesh could automate with his build tools, as h
 
 Most build tools are built on top of Node and npm (Node Package Management). For this reason, most of the front-end developers try to use these two tools as much as possible and then install additional tools. Npm comes preinstalled with Node.js.
 
-The combination of the tools is up to you. Play with it, try to find the perfect match. Get familiar with one and after you are confident using it, start using a second one. You can even use just Node and npm together without any additional tools. As your project grows, it might need more tools. Take your time - there is no point in rushing things, it would only confuse you.
+The combination of the tools is up to you. Play with it, try to find the perfect match. Get familiar with one and after you are confident using it, start using a second one. You can even use just Node and npm together without any additional tools. As your project grows, it might need more tools. Take your time - there is no point in rushing things, it could cause confusion.
 
 ## Common Pitfalls of Javascript Front-End Build Tools
 
