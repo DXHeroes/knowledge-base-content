@@ -13,6 +13,7 @@ tags:
   - dockerizing
   - packing applications
   - updating the dependencies
+  - front-end build tools
 keywords:
   - metadata
   - repository
