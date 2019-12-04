@@ -48,7 +48,7 @@ There are so many different build tools and you have to figure out which ones ar
 
 You should start using build tools immediately if you have not started already! They make your life easier.
 
-Here is a short list of things Roneesh could automate with his build tools, as he mentioned in his article [I finally made sense of front end build tools. You can, too.](https://www.freecodecamp.org/news/making-sense-of-front-end-build-tools-3a1b3a87043b/):
+Here is a short list of things Roneesh could automate with his build tools, as he mentioned in his article [I finally made sense of front end build tools. You can, too](https://www.freecodecamp.org/news/making-sense-of-front-end-build-tools-3a1b3a87043b/):
 
 1. Replacing a string of text in a file
 2. Creating folders and moving files into those folders
