@@ -18,7 +18,7 @@ stages:
 - front-end
 - frontend
 - front end
-  covered_by_dx_scanner: true
+covered_by_dx_scanner: true
 ---
 
 # Javascript Front-End Build Tools
