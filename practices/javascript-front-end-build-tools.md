@@ -11,7 +11,7 @@ tags:
 - linting
 - dockerizing
 - packing applications
-  keywords:
+keywords:
 - build
 - build tools
 - front-end
