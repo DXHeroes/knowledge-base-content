@@ -1,7 +1,6 @@
 ---
 slug: javascript-front-end-build-tools
 stages:
-
 - development
   short_description: If you are a front-end developer, build tools can save you valuable time. They can do almost anything: download libraries, run tests, bundle packages, automatize tasks, and so much more.
 tags:
