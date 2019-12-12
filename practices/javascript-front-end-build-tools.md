@@ -54,8 +54,8 @@ Here is a short list of things Roneesh could automate with his build tools, as h
 2. Creating folders and moving files into those folders
 3. Running my unit tests with a single command
 4. Refreshing my browser when I save a file
-5. Combining all my JavaScript files into one, and all my CSS files into one
-6. Minifying my concatenated JavaScript and CSS files
+5. Combining all my JavaScript files into one file, and all my CSS files into one file
+6. Minimizing/compacting my concatenated JavaScript and CSS files
 7. Modifying the placement of script tags on an html page
 
 ## Problems Javascript Front-End Build Tools Solve
@@ -76,7 +76,7 @@ The combination of the tools is up to you. Play with it, try to find the perfect
 **Too much information**  
 There are so many front-end build tools that you can feel overwhelmed. But do not worry - once you make sense of the tools, you will realize that they are here to make your life easier, not more difficult.
 
-**Too complex**  
+**Complexity**  
 Build tools can add a whole additional layer of complexity to your project. Learn just exactly what you need and do not worry about the rest. It may seem really complicated and only confuse you. Use only tools that your project really needs. When there is needed something new, learn it then.
 
 **Documentation sucks**  
