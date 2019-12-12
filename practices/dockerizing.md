@@ -52,7 +52,7 @@ The Docker container technology was launched in 2013 by a startup Docker, Inc ba
 ![Docker](/files/docker.png)  
 [Docker](https://www.docker.com/)
 
-## Why You Might Want the Dockerizing
+## Why You Might Want to Employ Dockerizing
 
 Docker is:
 
@@ -98,10 +98,10 @@ Docker is:
 
 ## Common Pitfalls of the Dockerizing
 
-- Unexperienced users create their own base images. They risk stability.
+- Inexperienced users create their own base images. They risk stability.
 - Docker is used during the production phase without detailed knowledge of how to use it. It is recommended to use Docker during the development phase.
 - Docker is used only during the production phase and not during the testing phase.
-- Users do not know how to use containers transparently. The diagnostic information are missing. Use tools for getting information about what is happening inside of your container. Sometimes the containers are very minimal without such tools, you should be able to find the tools somewhere else, such as an open source [cAdvisor](https://github.com/google/cadvisor), or [Scout](https://scoutapm.com/).
+- Users do not know how to use containers transparently. The diagnostic information is missing. Use tools for getting information about what is happening inside of your container. Sometimes the containers are very minimal without such tools, you should be able to find the tools somewhere else, such as an open source [cAdvisor](https://github.com/google/cadvisor), or [Scout](https://scoutapm.com/).
 - The sensitive information in the container is not private. Sometimes the users are not very careful to keep the secrets hidden. If the container is not private, anyone can get the information.
 
 ## Resources for the Dockerizing
