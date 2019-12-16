@@ -3,7 +3,7 @@ slug: typescript
 stages:
 
 - development
-  short_description: TypeScript is a new way to write JavaScript. It was designed to develop large JavaScript applications. It is a superset of JavaScript - it means that existing JavaScript programs are also valid TypeScript programs.
+short_description: TypeScript is a new way to write JavaScript. It was designed to develop large JavaScript applications. It is a superset of JavaScript - it means that existing JavaScript programs are also valid TypeScript programs.
   tags:
 - typescript
 - front-end build tools
