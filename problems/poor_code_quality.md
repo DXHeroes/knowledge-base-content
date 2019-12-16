@@ -30,7 +30,7 @@ Poor code quality is something you want to avoid. Learn what can be the reason f
 
 Poor code quality describes buggy code or code with high coupling and low cohesion that is difficult to maintain.
 
-![Poor Code Quality](/files/code_quality.png)  
+![Poor Code Quality](/files/code_quality.png)
 [xkdc: Code Quality](https://xkcd.com/1513/)
 
 Poor code quality is an umbrella term for multiple issues with the codebase:
@@ -48,16 +48,16 @@ If left unchecked, poor code quality can lead to issues in software delivery. It
 
 - **Team Culture**
 
-  - Poor code quality can be caused by a team that ["doesn't give a shit"](/problems/not_my_problem_mentality). Make sure that the team knows their purpose.
+  - Poor code quality can be caused by a team that ["doesn't give a shit"](/problems/not-my-problem-mentality). Make sure that the team knows their purpose.
   - Another reason may be a lack of senior expertise within the team.
   - Poor code quality can be caused by a long-term technical debt accumulation. Give the team some time for refactoring the code and pay-off the technical debt.
 
-- **Processes**  
+- **Processes**
   Non-existing or weak quality assurance practices can lead to poor code quality rather quickly.
 
-  - Ensure that your team does [code reviews](/practices/code_review) and [pull requests](/practices/pull_requests).
-  - Introduce [Unit Tests](/practices/unit_testing) and [Code Coverage](/practices/code_coverage) to catch bugs early in development.
-  - Implement CI/CD so that code has to pass all the tests before it can be merged. For more information, see [Continuous Integration](/practices/continuous_integration) and Continuous Delivery.
+  - Ensure that your team does [code reviews](/practices/code-review) and [pull requests](/practices/pull-requests).
+  - Introduce [Unit Tests](/practices/unit-testing) and [Code Coverage](/practices/code-coverage) to catch bugs early in development.
+  - Implement CI/CD so that code has to pass all the tests before it can be merged. For more information, see [Continuous Integration](/practices/continuous-integration) and Continuous Delivery.
   - Add testers into the team and employ manual testing.
   - Ensure that your software development methodology ([Scrum](/practices/scrum)/[Kanban](/practices/kanban)) leaves enough time for refactoring and writing a production quality code. Decrease the team workload and see if the code quality improves.
 

@@ -31,7 +31,7 @@ Anything written about your product can be a Software Documentation. Learn what 
 
 The software documentation is a written text or an illustration that covers comprehensive information of the product. It explains how the software works or how to use it. Documentations aim to accomplish two important things: to inform users and to enable users to successfully accomplish something. Software documents are used in every stage of the product life cycle.
 
-![Software Documentation](/files/documentation.jpg)  
+![Software Documentation](/files/documentation.jpg)
 [Dilbert](https://dilbert.com/strip/1995-08-28)
 
 There are two types of software documentation: **internal** and **external**.

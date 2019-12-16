@@ -44,8 +44,8 @@ DevOps is a set of practices that brings development and operations teams togeth
 
 DevOps is a set of practices that combines the work of two teams: software development (Dev) and information technology operations (Ops). These two teams usually work separately, which is not always efficient. If they implement the DevOps strategy and start to collaborate, they can build, test and release software much faster and safer. DevOps is both technology and a culture change, it can be difficult to implement it. The teams have a DevOps Engineer to help them with this change and with the collaboration.
 
-![DevOps](/files/devops.png)  
-[Medium: DevOps is a culture, not a role!](https://medium.com/@neonrocket/devops-is-a-culture-not-a-role-be1bed149b0devops)
+![DevOps](/files/devops.png)
+[Medium: DevOps is a culture, not a role!](https://medium.com/@neonrocket/devops-is-a-culture-not-a-role-be1bed149b0)
 
 ### Who Is a DevOps Engineer
 
@@ -84,19 +84,19 @@ The DevOps builds culture and trust in your company. It helps with sharing respo
 
 ## How to Implement the DevOps
 
-**Culture**  
+**Culture**
 To implement the DevOps, the company has to start with changing the culture of collaboration. Take small steps, invite members of the operation team to the meetings of the development team. Operation team can invite key developers to their meetings. That way everyone can keep up with other’s projects. Make sure that everyone understands the DevOps culture and that they communicate and talk regularly.
 
-**Automation**  
+**Automation**
 Automation is another necessary step in implementing DevOps. It eliminates repetitive manual work and builds a system beneficial for both teams.
 
-**Lean**  
+**Lean**
 Continuous improvement of a product is very important. A product is more valuable for a customer if it goes with constant maintenance. Even if it is not perfect at the beginning.
 
-**Measurement**  
+**Measurement**
 It is necessary to have some data to be able to continuously improve a product. It is important to ask testable questions. For example, how often the bugs appear? How many people use the product? All the data helps the team to make decisions and to share the information about a product with other teams (for example, marketing).
 
-**Sharing**  
+**Sharing**
 Sharing is crucial. If the teams share responsibilities, they share success as well. It is important for building trust and a good atmosphere at work.
 
 ## Common Pitfalls of DevOps

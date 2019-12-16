@@ -91,7 +91,7 @@ Why not just break the epic into steps? Why bother with creating the User Storie
 The Product Owner (or a Product Manager, or a Program Manager) writes the User Stories and submits them for review. The review can be done by all the team members. Each team member decides which US they will take during the sprint planning meeting. The next step is discussing the US requirements that are added to the US. An important part of sprint planning is estimating the story points.
 The team can use visual planning tools (such as release plan, story map, or a task board) where they stick post-it notes with each US.
 
-![Using A Task Board](/files/user_stories.png)  
+![Using A Task Board](/files/user_stories.png)
 [Using A Task Board](https://www.inflectra.com/ideas/topic/using-a-task-board.aspx)
 
 ## Common Pitfalls of User Stories

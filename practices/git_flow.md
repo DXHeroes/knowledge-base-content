@@ -36,7 +36,7 @@ Git Flow is a specific branching system for Git. It helps the team to better con
 
 Git Flow is one of many styles of Git workflows - a branching model set for Git. It is a huge framework for large projects and it can be utilized for your team’s needs. Git Flow describes the project’s release cycle and adds specific roles to different branches. It defines when and how are the branches interacting with each other. In this model, there are two types of branches: Master and Develop. Develop is an integration branch for features. Master stores the official release history. This branching design was published by [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) in 2009 and became very popular ever since.
 
-![Git Flow branching model](/files/git_flow.png)  
+![Git Flow branching model](/files/git_flow.png)
 Nvie: [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 **The main branches:**
@@ -46,11 +46,11 @@ Nvie: [A successful Git branching model](https://nvie.com/posts/a-successful-git
 
 **Supporting branches:**
 
-- **Feature branches**  
+- **Feature branches**
   are created for each new feature. Their parent branch is the develop branch. Features should never interact directly with the master branch.
-- **Release branch**  
-  is created when there are enough features for a release. It enables one team to work on a current release while another team keeps working on features for the next release. Release branches’ parent is also the develop branch. This branch is where [continuous delivery](/practices/continuous-delivery) happens.
-- **Hotfix branches**  
+- **Release branch**
+  is created when there are enough features for a release. It enables one team to work on a current release while another team keeps working on features for the next release. Release branches’ parent is also the develop branch. This branch is where [continuous delivery](/practices/automated-deployment) happens.
+- **Hotfix branches**
   are maintenance branches. They are created to quickly patch production release. These branches enable the team to fix mistakes without interrupting the workflow or waiting for the next release. Their parent is the master branch. Hotfix branches are the only branches to be forked directly off of the master branch. You can automatize the hotfix branch creation: whenever a mistake appears, the hotfix branch is automatically created.
 
 ## Why You Might Want to Use the Git Flow

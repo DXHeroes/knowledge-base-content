@@ -35,34 +35,34 @@ Team roles describe interactions of the team members. The IT industry has a huge
 
 Team roles represent a tendency to interact with others in a specific way to make the progress of the team easier. Teams need the following nine role types, according to Dr. Meredith Belbin’s "The Coming Shape Of Organization":
 
-1. **Plant**  
+1. **Plant**
    Proposes new ideas and solves difficult problems.
    Example: Director
-2. **Resource Investigator**  
+2. **Resource Investigator**
    Explores opportunities, handles external contact.
    Example: [Product Owner](/practices/product-owner)
-3. **Coordinator/Chairman**  
+3. **Coordinator/Chairman**
    Clarifies goals, coordinates resources.
    Example: Project Manager
-4. **Shaper**  
+4. **Shaper**
    An alternative to a coordinator. Gives coherence to team work.
-5. **Monitor/Evaluator**  
+5. **Monitor/Evaluator**
    Evaluates ideas, looks for different perspectives.
    Example: Test Analyst, Tester
-6. **Teamworker**  
+6. **Teamworker**
    Builds bridges, takes care of the team spirit
    Example: [Team Lead](/practices/team-lead), Scrum Master
-7. **Implementer**  
+7. **Implementer**
    Pursues the plans into practice.
    Example: Developer
-8. **Completer/Finisher**  
-   Searches for errors.  
+8. **Completer/Finisher**
+   Searches for errors.
    Example: Tester, QA Manager
-9. **Specialist**  
+9. **Specialist**
    Provides scarce knowledge and skills.
    Example: Senior Developer
 
-![Belbin Team Roles](/files/team_roles_definition.png)  
+![Belbin Team Roles](/files/team_roles_definition.png)
 [Belbin Team Roles](https://www.prepearl.net/belbin-team-roles/)
 
 ## Why You Might Want the Team Roles
@@ -79,13 +79,13 @@ Belbin recognized that the team success depends on the behavior of the team memb
 
 ## How to Define the Team Roles
 
-- **Maturing team roles**  
+- **Maturing team roles**
   Team roles and their responsibilities are not always necessarily static. Team members can adopt different roles at different times, team roles develop and mature.
-- **Hiring**  
+- **Hiring**
   It is important to define the roles you need in your team and then recruit, hire, train, and retain the right people. Define the roles before hiring! Look into the applicants’ qualifications, characteristics, strengths, and weaknesses. Explain clearly their responsibilities to them.
-- **Understanding**  
+- **Understanding**
    Each team member also has to know their superiors, corresponding expectations, experience and educational requirements, team goals, and how they will be evaluated.
-- **Chart**  
+- **Chart**
   It is a good idea to create a chart once you are finished with creating the team roles. The team members would understand the relationships easier if they can look at it.
 
 ## Common Pitfalls of the Team Roles
