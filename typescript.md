@@ -14,7 +14,7 @@ keywords:
 - build
 - typescript
 - superset
-  covered_by_dx_scanner: true
+covered_by_dx_scanner: true
 ---
 
 # TypeScript
