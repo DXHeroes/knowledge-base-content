@@ -10,7 +10,7 @@ stages:
 - library
 - install
 - linting
-  keywords:
+keywords:
 - build
 - typescript
 - superset
