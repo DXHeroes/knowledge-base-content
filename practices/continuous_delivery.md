@@ -37,8 +37,8 @@ Continuous Delivery is a practice that enables you to release new product change
 
 Why would I want to release my product so often? You might ask. The reason can be just to respond to your customers’ demands as soon as possible and to show them how far is the product you are building for them. Customers expect to see the progress or they can move to another provider. It also saves you a lot of time, money, and potential risks connected to releasing the whole product after weeks of work.
 
-![Continuous Delivery](/files/continuous_delivery.png)
-[Continuous Delivery](https://medium.com/@Zaiku/continuous-delivery-in-a-nutshell-29f4213dabda)
+![Continuous Delivery](/files/continuous_delivery.png)  
+  [Continuous Delivery](https://medium.com/@Zaiku/continuous-delivery-in-a-nutshell-29f4213dabda)
 
 ## Why You Might Want to Practice Continuous Delivery
 
