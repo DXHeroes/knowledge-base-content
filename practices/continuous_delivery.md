@@ -1,28 +1,28 @@
 ---
 slug: continuous-delivery
 stages:
-  - development
+- development
 short_description: Practicing Continuous Delivery means that you are ready to release product changes any time you want. Your product is always ready to deploy to production.
 tags:
-  - continuous delivery
-  - continuous integration
-  - automated deployment
-  - git flow
-  - integration
-  - mvp
-  - devops
-  - good developer experience
-  - poor code quality
-  - rituals
+- continuous delivery
+- continuous integration
+- automated deployment
+- git flow
+- integration
+- mvp
+- devops
+- good developer experience
+- poor code quality
+- rituals
 keywords:
-  - release
-  - deliver
-  - delivery
-  - production
-  - integrate
-  - integration
-  - deploy
-  covered_by_dx_scanner: false
+- release
+- deliver
+- delivery
+- production
+- integrate
+- integration
+- deploy
+covered_by_dx_scanner: false
 ---
 
 # Continuous Delivery
