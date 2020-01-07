@@ -1,30 +1,29 @@
 ---
-
 slug: continuous-delivery
 stages:
-
-- development
-  short_description: Practicing Continuous Delivery means that you are ready to release product changes any time you want. Your product is always ready to deploy to production.
-  tags:
-- continuous delivery
-- continuous integration
-- automated deployment
-- git flow
-- integration
-- mvp
-- devops
-- good developer experience
-- poor code quality
-- rituals
-  keywords:
-- release
-- deliver
-- delivery
-- production
-- integrate
-- integration
-- deploy
+  - development
+short_description: Practicing Continuous Delivery means that you are ready to release product changes any time you want. Your product is always ready to deploy to production.
+tags:
+  - continuous delivery
+  - continuous integration
+  - automated deployment
+  - git flow
+  - integration
+  - mvp
+  - devops
+  - good developer experience
+  - poor code quality
+  - rituals
+keywords:
+  - release
+  - deliver
+  - delivery
+  - production
+  - integrate
+  - integration
+  - deploy
   covered_by_dx_scanner: false
+---
 
 # Continuous Delivery
 
@@ -38,7 +37,7 @@ Continuous Delivery is a practice that enables you to release new product change
 
 Why would I want to release my product so often? You might ask. The reason can be just to respond to your customers’ demands as soon as possible and to show them how far is the product you are building for them. Customers expect to see the progress or they can move to another provider. It also saves you a lot of time, money, and potential risks connected to releasing the whole product after weeks of work.
 
-![Continuous Delivery](/files/continuous-delivery.png)
+![Continuous Delivery](/files/continuous_delivery.png)
 [Continuous Delivery](https://medium.com/@Zaiku/continuous-delivery-in-a-nutshell-29f4213dabda)
 
 ## Why You Might Want to Practice Continuous Delivery
