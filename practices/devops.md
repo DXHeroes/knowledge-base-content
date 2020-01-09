@@ -31,7 +31,6 @@ keywords:
   - sprint refinement
   - design sprint
   - product backlog refinement
-  - backlog rooming
 ---
 
 # Devops
