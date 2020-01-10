@@ -34,14 +34,16 @@ Product Backlog Refinement is a summary of all activities related to updating yo
 
 Product Backlog Refinement is an act when the [Product Owner](/practices/product-owner) (PO) in collaboration with the Development Team prioritizes the backlog items and adds details and estimates. It is necessary to keep your backlog updated regularly to keep track of all the improvements your product needs.
 
-**Product Backlog** is a prioritized list of items the Scrum team is going to finish in the current sprint. For more information, see [Product Backlog](/practices/product-backlog).
-
 During the Product Backlog Refinement, the PO and the Development Team collaborate and review the backlog items. It should be set regularly before Sprint Planning. however, the PO can update the backlog items any time during the Sprint.
+
+**FYI**  
+
+**Product Backlog** is a prioritized list of items the Scrum team is going to finish in the current sprint. For more information, see [Product Backlog](/practices/product-backlog).  
+
+Backlog Refinement is also known as Backlog Grooming. The word “grooming” was officially replaced by “refinement” in the [Scrum Guide](https://www.scrum.org/resources/scrum-guide) due to negative connotations in British English.
 
 ![Backlog Refinement](/files/backlog_refinement.png)
  [Backlog Refinement](https://innolution.com/essential-scrum/table-of-contents/chapter-6-product-backlog)
-
-Backlog Refinement is also known as Backlog Grooming. The word “grooming” was officially replaced by “refinement” in the [Scrum Guide](https://www.scrum.org/resources/scrum-guide) due to negative connotations in British English.
 
 ## Why You Might Want to Practice Product Backlog Refinement
 
@@ -59,13 +61,13 @@ The backlog is a dynamic list and keeping it updated is crucial for smooth produ
 
 ## How to Implement Product Backlog Refinement
 
-**When?**
+**When?**  
 The Product Backlog Refinement can happen any time and as often as necessary but it is usually considered as one of the Agile events and happens regularly once each sprint.
 
-**How long?**
+**How long?**  
 The Development Team should not spend more than 10% of their time refining their backlog each sprint. The PO should have a prepared vision for the product before the meeting and then each refinement should not take longer than one hour.
 
-**What?**
+**What?**  
 During the refinement, the PO is responsible for:
 
 - Reviewing backlog items
