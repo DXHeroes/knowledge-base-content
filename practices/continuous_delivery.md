@@ -35,7 +35,7 @@ Practicing Continuous Delivery means that you are ready to release product chang
 
 Continuous Delivery is a practice that enables you to release new product changes to your customers at any given time. Continuous Delivery is an extension of [Continuous Integration](practices/continuous-integration) - a practice of merging changes back to the main branch as often as possible. If you practice Continuous Delivery, your tests and the release process are automated. You can release daily or as often as you need.
 
-Why would I want to release my product so often? You might ask. The reason can be just to respond to your customers’ demands as soon as possible and to show them how far is the product you are building for them. Customers expect to see the progress or they can move to another provider. It also saves you a lot of time, money, and potential risks connected to releasing the whole product after weeks of work.
+Why would I want to release my product so often? You might ask. The reason can be just to respond to your customers’ demands as soon as possible, and to show them how close to completion the product you are building for them is. Customers expect to see the progress or they can move to another provider. It also saves you a lot of time, money, and potential risks connected to releasing the whole product after weeks of work.
 
 ![Continuous Delivery](/files/continuous_delivery.png)  
   [Continuous Delivery](https://medium.com/@Zaiku/continuous-delivery-in-a-nutshell-29f4213dabda)
@@ -46,7 +46,7 @@ Practicing Continuous Delivery helps you with:
 
 **Reducing Risks**
 
-- If you deploy smaller changes, fixing bugs is easier
+- If you deploy smaller changes, fixing bugs is easier as there is less changed code to investigate.
 - Bugs are captured early by the automated tests
 - Continuous Delivery allows you to test ideas with users before you are finished with the whole feature. You can avoid spending time with a feature that does not bring any value and concentrate on more important things.
 
@@ -85,7 +85,7 @@ To implement Continuous Delivery, you need:
 
 ## Common Pitfalls of the Continuous Delivery
 
-When implementing Continuous Delivery, try to think of it as a **way of working**. Every team member has to participate. If one of the developers does not merge changes as often as the others, the product is not ready for the release and the concept collapses.
+When implementing Continuous Delivery, try to think of it as a **way of working**. Every team member has to participate. If one of the developers merges changes less often than the others, the product is not ready for the release and the concept collapses.
 
 Do not build Continuous Delivery on top of an unstable or non-existent **Continuous Integration foundation**. Continuous Delivery is just a practice to extend Continuous Integration to the production environment. Without a solid foundation, Continuous Delivery cannot function.
 
