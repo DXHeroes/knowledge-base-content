@@ -28,13 +28,13 @@ covered_by_dx_scanner: false
 
 **TL;DR**
 
-Product Backlog Refinement is a summary of all activities related to updating your [Product Backlog](/practices/product-backlog) items. [Product Owners](/practices/product-owner) are responsible for the refinement but they should make decisions based on the feedback from the Development Teams and stakeholders. Read more to understand how to make the Product Backlog Refinement effective.
+Product Backlog Refinement is a summary of all activities related to updating your [Product Backlog](/practices/product-backlog) items. [Product Owners](/practices/product-owner) are responsible for the refinement but they should make decisions based on the feedback from the Development Teams and stakeholders. Read more to understand how to make Product Backlog Refinement effective.
 
 ## What Is a Product Backlog Refinement
 
 Product Backlog Refinement is an act when the [Product Owner](/practices/product-owner) (PO) in collaboration with the Development Team prioritizes the backlog items and adds details and estimates. It is necessary to keep your backlog updated regularly to keep track of all the improvements your product needs.
 
-During the Product Backlog Refinement, the PO and the Development Team collaborate and review the backlog items. It should be set regularly before Sprint Planning. however, the PO can update the backlog items any time during the Sprint.
+During Product Backlog Refinement, the PO and the Development Team collaborate and review the backlog items. It should be set regularly before Sprint Planning. however, the PO can update the backlog items any time during the Sprint.
 
 **FYI**  
 
@@ -87,7 +87,7 @@ The POs should have a simple strategy to maintain the backlog. They should consi
 ## Common Pitfalls of the Product Backlog Refinement
 
 - The PO makes the refinement just by themselves
-- Endless discussions destroy the meeting and bring no benefits
+- Endless discussions derail the meeting and bring no benefits
 - The PO collects feedback only from a few (senior) team members
 
 ## Resources for the Product Backlog Refinement
