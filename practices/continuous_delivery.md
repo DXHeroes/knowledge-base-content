@@ -33,12 +33,12 @@ Practicing Continuous Delivery means that you are ready to release product chang
 
 ## What Is a Continuous Delivery
 
-Continuous Delivery is a practice that enables you to release new product changes to your customers at any given time. Continuous Delivery is an extension of [Continuous Integration](practices/continuous-integration) - a practice of merging changes back to the main branch as often as possible. If you practice Continuous Delivery, your tests and the release process are automated. You can release daily or as often as you need.
+Continuous Delivery is a practice that enables you to release new product changes to your customers at any given time. Continuous Delivery is an extension of [Continuous Integration](/practices/continuous-integration) - a practice of merging changes back to the main branch as often as possible. If you practice Continuous Delivery, your tests and the release process are automated. You can release daily or as often as you need.
 
 Why would I want to release my product so often? You might ask. The reason can be just to respond to your customers’ demands as soon as possible, and to show them how close to completion the product you are building for them is. Customers expect to see the progress or they can move to another provider. It also saves you a lot of time, money, and potential risks connected to releasing the whole product after weeks of work.
 
-![Continuous Delivery](/files/continuous_delivery.png)  
-  [Continuous Delivery](https://medium.com/@Zaiku/continuous-delivery-in-a-nutshell-29f4213dabda)
+![Continuous Delivery](/files/continuous_delivery.png)
+[Continuous Delivery](https://medium.com/@Zaiku/continuous-delivery-in-a-nutshell-29f4213dabda)
 
 ## Why You Might Want to Practice Continuous Delivery
 
