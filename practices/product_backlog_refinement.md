@@ -2,8 +2,7 @@
 slug: product-backlog-refinement
 stages:
   - development
-short_description: Product Backlog Refinement is a summary of all activities related to updating your [Product Backlog](/practices/product-backlog) items. [Product Owners](/practices/product-owner) are responsible for the refinement but they should make decisions based on the feedback from the Development Team and stakeholders.
-
+short_description: Product Backlog Refinement is a summary of all activities related to updating your Product Backlog items. Product Owners are responsible for the refinement but they should make decisions based on the feedback from the Development Team and stakeholders.
 tags:
   - backlog refinement
   - product backlog
