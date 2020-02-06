@@ -23,6 +23,7 @@ tags:
   - pair programming
   - good developer experience
   - user story
+  - product backlog
 keywords:
   - agile events
   - scrum events
@@ -69,16 +70,16 @@ Let us explain what those events mean:
    - Usually a daily meeting, lasting no more than 15 minutes.
    - Typical for Scrum and Kanban Agile framework.
    - Team members describe what they worked in the previous day, and what are they intend to work on today. It should not be detailed.
-      - Where further discussion is merited, a "Parking Lot" discussion can be held afterwards with those concerned.
+     - Where further discussion is merited, a "Parking Lot" discussion can be held afterwards with those concerned.
 2. **Sprint Planning**
    - A sprint is a term specific for a Scrum framework, and usually lasts two weeks (Some teams may opt for one or three week sprints).
-      - Other types of agile frameworks use “iteration” to define a time-boxed period of development.
+     - Other types of agile frameworks use “iteration” to define a time-boxed period of development.
    - The team uses this meeting to decide what to do during the sprint. The team has to estimate how much work they can complete from the product backlog and the effort involved, also making a small allocation of effort for any defects that may emerge.
 3. **Iteration/Sprint Review**
    - At the end of a sprint or milestone, the team reviews their accomplishments against the planned sprint work. The team will often use this meeting to demonstrate the results of their work, and get feedback from stakeholders.
 4. **Retrospective**
    - At the end of an iteration, the team discusses what worked well, and what could be improved.
-      - Scrum and Kanban frameworks use this meeting for creating solutions and developing action plans.
+     - Scrum and Kanban frameworks use this meeting for creating solutions and developing action plans.
 5. **Product Backlog Refinement**
    - In this meeting, the team assesses work in the Product Backlog, adds detail and estimates the effort required and priority for each job. The Backlog is updated and the items are prepared for the upcoming sprint. This meeting can be open ended, with the time spent dictated by the amount of outstanding work to be assessed.
 6. **The Sprint**
@@ -90,7 +91,7 @@ The events should be chosen wisely. For example, Waterfall methodology is genera
 
 Every project phase needs its own set of events. Those events help the team to work faster, more efficiently, and closer together. Worklow is simplified and the Product Backlog items are clearer.
 
-Even though the events are designed to help, developers may struggle to find every single meeting useful. The most hated meetings are the daily standups because they sometimes seem like a waste of time even if they last just a few minutes. It is important to recognise that the daily standups are important for sharing knowledge, identifying problems sooner, measuring the progress and last but not least, building team unity by encouraging cooperation. Team members will often realise value from these events aftey they have attended, where they may at first have been reluctant to do so.
+Even though the events are designed to help, developers may struggle to find every single meeting useful. The most hated meetings are the daily standups because they sometimes seem like a waste of time even if they last just a few minutes. It is important to recognise that the daily standups are important for sharing knowledge, identifying problems sooner, measuring the progress and last but not least, building team unity by encouraging cooperation. Team members will often realise value from these events after they have attended, where they may at first have been reluctant to do so.
 
 ## Problems the Agile Events Solve
 
@@ -117,7 +118,7 @@ Even though the events are designed to help, developers may struggle to find eve
 
 - **[Demotivated team](/problems/demotivated-team)**
   The team is confused. They do not understand why they should do the events, the planning does not work.
-- **Events are not fun**
+- **Events are not engaging**
   Events are dehumanized, boring, the team members struggle to concentrate. Make the events fun! Be friendly, lightweight your language.
 - **Micromanagement**
   Everyday meetings can feel like an additional layer of micromanagement to a regular amount of work. Nobody likes micromanagement. Explain the benefits of periodic meetings to your team.
