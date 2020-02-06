@@ -14,6 +14,7 @@ tags:
   - retrospective
   - demotivated team
   - team roles
+  - product backlog
 keywords:
   - product owner
   - backlog
