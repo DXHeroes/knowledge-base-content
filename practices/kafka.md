@@ -12,12 +12,14 @@ tags:
   - integration
   - devops
   - stream processing
+  - streaming
 keywords:
   - kafka
   - deployment
   - messaging
   - message bus
   - stream processing
+  - streaming
 covered_by_dx_scanner: false
 ---
 
@@ -25,14 +27,19 @@ covered_by_dx_scanner: false
 
 **TL;DR**
 
-aaa
+Apache Kafka is an event streaming platform initially used as messaging queue created as open-source by LinkedIn in 2011.
 
 ## What Is a Apache Kafka
 
-bb
+Apache Kafka is used as a high-available messaging queue. It receives messages from other services in the environment and provides it to the others.
 
-![Apache Kafka](/files/kafka.png)
-[Apache Kafka]()
+Kafka is commonly deployed as a **cluster** with 3 or more **brokers** (nodes) to have data **replicas** (backups) on other brokers.
+Kafka receives **messages** from **producers** and provides them to **consumers**. Each message is saved to a **topic** that has a name. The message can be a text, number or an object. It depends on the implementation. The topic is a category name for messages. Producers write messages to topics and consumers read messages from topics. Kafka retains all messages for a specific time and consumers are responsible to track location of these messages. Kafka topics are divided into a number of **partitions**, which contains messages in an unchangeable sequence. Each message in a partition has a specific **offset**.
+
+![Apache Kafka](/files/kafka_architecture.png)
+[Apache Kafka](https://thenewstack.io/apache-kafka-primer/)
+
+Kafka uses [Zookeeper](https://zookeeper.apache.org/) as a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. When new brokers get added to the cluster, ZooKeeper will start utilizing it by creating topics and partitions on it.
 
 ## Why You Might Want to Implement Apache Kafka
 
@@ -54,3 +61,8 @@ eee
 ## Resources for the Continuous Delivery
 
 fff
+
+- [cloudkarafka.com: Apache Kafka for beginners - What is Apache Kafka?](https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html)
+- [kafka.apache.org: Apache Kafka Quickstart](https://kafka.apache.org/quickstart)
+- [thenewstack.io: Apache Kafka: A Primer](https://thenewstack.io/apache-kafka-primer/)
+
