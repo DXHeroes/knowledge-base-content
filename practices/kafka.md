@@ -2,7 +2,7 @@
 slug: kafka
 stages:
   - development
-short_description:
+short_description: Apache Kafka is used as a high-available messaging queue. It receives messages from other services in the environment and provides it to the others.
 tags:
   - kafka
   - deployment
@@ -43,26 +43,63 @@ Kafka uses [Zookeeper](https://zookeeper.apache.org/) as a centralized service f
 
 ## Why You Might Want to Implement Apache Kafka
 
-ccc
+Kafka helps you to move large amounts of data in a reliable way and is a very flexible tool for communication between services. It's possible to scale Kafka easily and it ensures that data are read just once.
+
+Advantages of Kafka:
+
+- High-Throughput
+- Fault-Tolerant
+- Durability
+- High Concurrency
+- Real-time Handling
+- Scalability
+- Low Latency
+- By Default Persistent
 
 ## Problems the Apache Kafka Helps to Solve
 
 - [Increased cost](/problems/increased-cost)
 - [Meaningless work](/problems/meaningless-work)
 
+**Microservices architecture without Kafka**
+
+![Kafka Microservices Mashup](/files/kafka_microservices_wrong.png)
+[Confluent: Apache Kafka vs. Enterprise Service Bus (ESB) – Friends, Enemies or Frenemies?](https://www.confluent.io/blog/apache-kafka-vs-enterprise-service-bus-esb-friends-enemies-or-frenemies/)
+
+**Microservices architecture with Kafka**
+
+![Kafka Microservices](/files/kafka_microservices_correct.png)
+[Confluent: Apache Kafka vs. Enterprise Service Bus (ESB) – Friends, Enemies or Frenemies?](https://www.confluent.io/blog/apache-kafka-vs-enterprise-service-bus-esb-friends-enemies-or-frenemies/)
+
 ## How to Implement Apache Kafka
 
-ddd
+It's necessary to have deployed an Apache Kafka cluster including Zookeeper cluest to manage Kafka nodes. There are several libraries for programming languages to connect Kafka easilly.
+
+- [Kafka.js](https://github.com/tulios/kafkajs) for JavaScript
+- [Java Client](https://docs.confluent.io/current/clients/java.html)
+- [C++ Client](https://docs.confluent.io/current/clients/c_cpp.html)
+- [Python Client](https://docs.confluent.io/current/clients/python.html)
+- [Go Client](https://docs.confluent.io/current/clients/go.html)
+- [.NET Client](https://docs.confluent.io/current/clients/dotnet.html)
+- [JMS Client](https://docs.confluent.io/current/clients/kafka-jms-client/index.html)
 
 ## Common Pitfalls of the Apache Kafka
 
-eee
+- Keeping too much data
+- Old Data in Topics Not Being Deleted
+- Not balancing topics
+- Not accounting for long-term storage
+- No disaster recovery
+- No API envforcement
 
-## Resources for the Continuous Delivery
-
-fff
+## Resources for the Apache Kafka
 
 - [cloudkarafka.com: Apache Kafka for beginners - What is Apache Kafka?](https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html)
 - [kafka.apache.org: Apache Kafka Quickstart](https://kafka.apache.org/quickstart)
+- [Confluent.io: Introduction to Kafka](https://docs.confluent.io/current/kafka/introduction.html#intro-to-ak)
+- [Confluent.io: Kafka Clients](https://docs.confluent.io/current/clients/index.html)
 - [thenewstack.io: Apache Kafka: A Primer](https://thenewstack.io/apache-kafka-primer/)
-
+- [softwaremill.com: Message queue benchmark](https://softwaremill.com/mqperf/)
+- [5 Pitfalls to Kafka Architecture Implementation](https://logz.io/blog/5-pitfalls-to-kafka-architecture-implementation/)
+- [data-flair.training: Advantages and Disadvantages of Kafka](https://data-flair.training/blogs/advantages-and-disadvantages-of-kafka/)
+- [NewRelic.com: 20 Best Practices for Working With Apache Kafka at Scale](https://blog.newrelic.com/engineering/kafka-best-practices/)
