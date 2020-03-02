@@ -27,7 +27,7 @@ covered_by_dx_scanner: false
 
 **TL;DR**
 
-Apache Kafka is an event streaming platform initially used as messaging queue created as open-source by LinkedIn in 2011.
+Apache Kafka is an open-source event streaming platform created by LinkedIn in 2011 which initially served as a messaging queue.
 
 ## What Is a Apache Kafka
 
@@ -73,7 +73,7 @@ Advantages of Kafka:
 
 ## How to Implement Apache Kafka
 
-It's necessary to have deployed an Apache Kafka cluster including Zookeeper cluest to manage Kafka nodes. There are several libraries for programming languages to connect Kafka easilly.
+It's necessary to have deployed an Apache Kafka cluster including Zookeeper clues to manage Kafka nodes. There are several libraries for programming languages to connect Kafka easily.
 
 - [Kafka.js](https://github.com/tulios/kafkajs) for JavaScript
 - [Java Client](https://docs.confluent.io/current/clients/java.html)
@@ -90,7 +90,7 @@ It's necessary to have deployed an Apache Kafka cluster including Zookeeper clue
 - Not balancing topics
 - Not accounting for long-term storage
 - No disaster recovery
-- No API envforcement
+- No API enforcement
 
 ## Resources for the Apache Kafka
 
