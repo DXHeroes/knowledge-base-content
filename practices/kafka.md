@@ -34,12 +34,17 @@ Apache Kafka is an open-source event streaming platform created by LinkedIn in 2
 Apache Kafka is used as a high-available messaging queue. It receives messages from other services in the environment and provides it to the others.
 
 Kafka is commonly deployed as a **cluster** with 3 or more **brokers** (nodes) to have data **replicas** (backups) on other brokers.
-Kafka receives **messages** from **producers** and provides them to **consumers**. Each message is saved to a **topic** that has a name. The message can be a text, number or an object. It depends on the implementation. The topic is a category name for messages. Producers write messages to topics and consumers read messages from topics. Kafka retains all messages for a specific time and consumers are responsible to track location of these messages. Kafka topics are divided into a number of **partitions**, which contains messages in an unchangeable sequence. Each message in a partition has a specific **offset**.
+Kafka receives **messages** from **producers** and provides them to **consumers**. Each message is saved to a **topic** that has a name.
+The message can be a text, number or an object. It depends on the implementation. The topic is a category name for messages.
+Producers write messages to topics and consumers read messages from topics. Kafka retains all messages for a specific time and consumers are responsible to track
+location of these messages. Kafka topics are divided into a number of **partitions**, which contains messages in an unchangeable sequence.
+Partition is a section that is separated from other segments and enables users to divide data into logical sections. Each message in a partition has a specific **offset**.
 
 ![Apache Kafka](/files/kafka_architecture.png)
 [Apache Kafka](https://thenewstack.io/apache-kafka-primer/)
 
-Kafka uses [Zookeeper](https://zookeeper.apache.org/) as a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. When new brokers get added to the cluster, ZooKeeper will start utilizing it by creating topics and partitions on it.
+Kafka uses [Zookeeper](https://zookeeper.apache.org/) as a centralized service for maintaining configuration information,
+naming, providing distributed synchronization, and providing group services. When new brokers get added to the cluster, ZooKeeper will start utilizing it by creating topics and partitions on it.
 
 ## Why You Might Want to Implement Apache Kafka
 
