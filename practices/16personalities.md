@@ -37,13 +37,15 @@ covered_by_dx_scanner: false
 - Identity - Assertive vs. Turbulent
 
 The result of the test is 5 (4+1) (e.g. ENFP-T, also known as a [turbulent campaigner](https://www.16personalities.com/enfp-personality) letters that identify one of 16 personalities, of which the site provides detailed information regarding the professional and personal relationships, strength suits, weaknesses and potential directions for further personal development.
+
 ![16 personalities](/files/16personalities.png)
 [16 personalities](https://www.r-bloggers.com/16-personalities-with-circlize/)
 
 ## Why you should take the test
 
 Reasons to take the test may be of all sorts - learning about yourself, your motivation, giving names to recurring patterns in your life, discovering personal features you might have not known of or learning how to work better with others. If you are on the verge whether to take it, the breaking point for you could be that the test takes at most about 15 minutes, can be done anywhere and, unless you opt for the premium version that costs money, it's free. In case you decide to get your whole team to take the test, the site gives you and your team members an opportunity to share the results.
-![16 personalities test result](/files/16 personalities results.png)
+
+![16 personalities test result](/files/16_personalities_results.png)
 
 ## Problems it solves for teams
 
