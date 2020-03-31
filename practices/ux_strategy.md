@@ -1,5 +1,5 @@
 ---
-slug: ux_strategy
+slug: ux-strategy
 stages:
   - research
   - design
@@ -34,7 +34,6 @@ A strategy is just a high-level plan with a few key elements. It's intended to c
 The document can take pretty much any form but as a rule of thumb, it should fit on a single A4 page and that should have plenty of whitespaces. A popular form the UX Strategy Blueprint.
 
 ![Value Proposition Canvas](/files/ux_strategy_blueprint.png)
-
 [UX Strategy Blueprint](https://experiencinginformation.com/2014/08/12/ux-strategy-blueprint/)
 
 I prefer a simpler form. I focus on:
