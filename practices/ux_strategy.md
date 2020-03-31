@@ -2,7 +2,7 @@
 slug: ux-strategy
 stages:
   - research
-  - design
+  - development
 short_description: UX Strategy gives the design of a user's experience a goal, a plan to reach it, and ways to measure progress and success without which, the project is just a bunch of activities that might lead somewhere but probably not there, where you want it.
 tags:
   - ux
@@ -10,7 +10,6 @@ tags:
   - experience design
   - strategic planning
   - product design
- 
 keywords:
   - ux
   - user experience
