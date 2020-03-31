@@ -20,7 +20,7 @@ keywords:
   - user testing
   - ux testing
 ---
-# UX Straetegy
+# UX Strategy
 
 ## TL;DR
 
