@@ -41,15 +41,16 @@ For interest, the term also means the Ministry of Interior in the UK or the domi
 ## Why You Might Want Home Office
 
 There are some benefits of working from home:
-  - **Save time and money**
+
+- **Save time and money**
    Working remotely reduces travel time, which can be frustrating, time-consuming and expensive. You can even save your money even on lunch if you cook yourself.
-  - **Working in pyjamas**
+- **Working in pyjamas**
    At home, there is no need to iron a shirt or put makeup on.
-  - **The flexibility of setting your own schedule**
+- **The flexibility of setting your own schedule**
    You can take breaks at any moment or eat lunch at any weird time you want.
-  - **Calls with easiness**
+- **Calls with easiness**
    You will not have to search for a conference room or deal with a chatty co-worker.
-  - **More time with loved ones**
+- **More time with loved ones**
    Be ready for your kids earlier in the day, get some extra snuggles in with your dog, or simply get some quiet time to yourself.
 
 
@@ -85,8 +86,6 @@ There are some tips on how to be more effective during home office:
    Probably, you will get caught. Give your colleagues your full attention.
 
 ![Conference Call Bingo](/files/home-office-bingo.jpeg)
-Conference Call Bingo (Source: Unknown)
-
 
 ## Common Pitfalls of Home Office
 There are some obstacles you might meet at the Home Office:
