@@ -41,19 +41,19 @@ The result of the test is 5 (4+1) (e.g. ENFP-T, also known as a [turbulent campa
 ![16 personalities](/files/16personalities.png)
 [16 personalities](https://www.r-bloggers.com/16-personalities-with-circlize/)
 
-## Why you should take the test
+## Why take the test
 
-Reasons to take the test may be of all sorts - learning about yourself, your motivation, giving names to recurring patterns in your life, discovering personal features you might have not known of or learning how to work better with others. If you are on the verge whether to take it, the breaking point for you could be that the test takes at most about 15 minutes, can be done anywhere and, unless you opt for the premium version that costs money, it's free. In case you decide to get your whole team to take the test, the site gives you and your team members an opportunity to share the results.
+There could be several different reasons to take the test - learning about yourself, your motivation, identifying recurring patterns in your life, discovering personal features you might have not realised or acknolwedged, or learning how to work better with others. If you are undecided whether to take it, you should know that the test takes at most about 15 minutes, can be done anywhere, and unless you opt for the paid premium version, it's free. In case you decide to get your whole team to take the test, the site gives you and your team members an opportunity to share the results.
 
 ![16 personalities test result](/files/16_personalities_results.png)
 
 ## Problems it solves for teams
 
-16personalities is a good choice for already existing teams to help team members work more effectively with each other and how to maximize the potential each team member possesses. Contrary to that, new teams about to be built can benefit from knowing general strong suits and weaknesses of team members which can lead to building more effective teams with good relationships. 
+16personalities is a good choice for already existing teams to help team members work more effectively with each other and how to maximize the potential each team member possesses. Contrary to that, new teams being built can benefit from knowing the strong suits and weaknesses of team members which can lead to building more effective teams with good relationships.
 
 ## Common pitfalls you might encounter
 
-To every benefit there usually is a disadvantage and 16personalities is no different. It is important to keep in mind that it is still just a generalization and everyone is unique. Meaning that although two people can be the same type, they can also be very different given the spectrum they operate in. Lastly, the test builds heavily on traits, not skills, and thus we recommend to combine it with other test, such as Gallup, that analyze soft skills and mindset in more depth.
+For every benefit, there often is a disadvantage and 16personalities is no different. It is important to keep in mind that it is still a generalization and everyone is unique. Although two people can be the same type, they can also be very different given the spectrum they operate in. Lastly, the test builds heavily on traits, not skills, and thus we recommend to combine it with other test, such as Gallup, that analyze soft skills and mindset in more depth.
 
 ## Resources for 16 personalities
 
