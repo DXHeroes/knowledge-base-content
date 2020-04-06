@@ -64,25 +64,25 @@ There are some benefits of working from home:
 There are some tips on how to be more effective during home office:
 
 1. **Find a quiet corner of your home**
-   A busy room is the worst place to work. A room without a door is also not ideal.
+  A busy room is the worst place to work. A room without a door is also not ideal.
 2. **Declutter your desk**
-   It is obvious that swimming through extra papers and pens delays your progress.
+  It is obvious that swimming through extra papers and pens delays your progress.
 3. **Tidy the rest of your house**
-   You may already notice that your concentration rises when the entire house is tidy. Spend a few minutes tidying up the evening before, so the next morning you will be ready for business.
+  You may already notice that your concentration rises when the entire house is tidy. Spend a few minutes tidying up the evening before, so the next morning you will be ready for business.
 4. **Establish personal timing rules and follow them**
-   What time of the day will you start and stop working? Do you have some days where you work a few hours at night and others where you spend with your children the whole morning?
-   For example, block 30 minutes before you will take your first meeting of the day and 30 minutes after the last to plan for the next day, prepare, catch up, etc. In any case, it is also important to define a clear end. Avoid working until late night.
+  What time of the day will you start and stop working? Do you have some days where you work a few hours at night and others where you spend with your children the whole morning?
+  For example, block 30 minutes before you will take your first meeting of the day and 30 minutes after the last to plan for the next day, prepare, catch up, etc. In any case, it is also important to define a clear end. Avoid working until late night.
 5. **Make a To-Do list**
-   At the end of the working day, spend 10 minutes creating a detailed checklist for the next day. You will not be thinking about your tasks for the rest of the day. And the next day in the morning, you will know exactly what to do. Eliminate decision paralysis!
+  At the end of the working day, spend 10 minutes creating a detailed checklist for the next day. You will not be thinking about your tasks for the rest of the day. And the next day in the morning, you will know exactly what to do. Eliminate decision paralysis!
 6. **Walking meetings on call**
-   The walking meeting is a meeting that takes place during a walk. During the home office, try to walk around your home and communicate on a call with a headset. Think about going outside if it is possible (front yard or backyard, a quiet street or a balcony). The fresh air will do you some good.
+  The walking meeting is a meeting that takes place during a walk. During the home office, try to walk around your home and communicate on a call with a headset. Think about going outside if it is possible (front yard or backyard, a quiet street or a balcony). The fresh air will do you some good.
 7. **Take meaningful breaks**
-   When it is time to take a break, most of us default to clicking over to Instagram or Facebook. Try to step away from screens and choose an activity to recharge your batteries.
-   For example, read relevant articles to give you some inspiration, learn about new innovations in your field, or try walking meetings (mentioned before) or a walk with a podcast.
+  When it is time to take a break, most of us default to clicking over to Instagram or Facebook. Try to step away from screens and choose an activity to recharge your batteries.
+  For example, read relevant articles to give you some inspiration, learn about new innovations in your field, or try walking meetings (mentioned before) or a walk with a podcast.
 8. **Wear shoes**
-   It may seem silly but there is a couple of reasons. When you do not wear shoes and are barefoot or have slippers, you also slip into a relaxed mindset. If you wear shoes, you should mentally associate yourself with being at work, even if you are working from home.
+  It may seem silly but there is a couple of reasons. When you do not wear shoes and are barefoot or have slippers, you also slip into a relaxed mindset. If you wear shoes, you should mentally associate yourself with being at work, even if you are working from home.
 9. **Try not to multitask on conference calls**
-   Probably, you will get caught. Give your colleagues your full attention.
+  Probably, you will get caught. Give your colleagues your full attention.
 
 ![Conference Call Bingo](/files/home-office-bingo.jpeg)
 
@@ -90,18 +90,17 @@ There are some tips on how to be more effective during home office:
 There are some obstacles you might meet at the Home Office:
 
 - **Willpower**
-   You should operate on a new project but Netflix just has dropped season 16 of Grey's Anatomy. Try to plan effectively to avoid the temptation.
+  You should operate on a new project but Netflix just has dropped season 16 of Grey's Anatomy. Try to plan effectively to avoid the temptation.
 - **WiFi issues**
-   That situation when you ask every minute of a video call: “Once more, please.” In this case, it is better to use just telco.
+  That situation when you ask every minute of a video call: “Once more, please.” In this case, it is better to use just telco.
 - **Crazy video calls**
-   Do you know the situation during a video call that one shouts over the other? As a result, no one got anything. You need a mature moderator who will give the floor to participants.
+  Do you know the situation during a video call that one shouts over the other? As a result, no one got anything. You need a mature moderator who will give the floor to participants.
 - **Unnecessary costs**
-   You thought you saved money, but actually pay higher prices and fees to UberEats, Wolt, etc.?
+  You thought you saved money, but actually pay higher prices and fees to UberEats, Wolt, etc.?
 - **Power naps**
-   A nap after lunch could be probably an advantage to increase productivity. Until then it is not under control.
+  A nap after lunch could be probably an advantage to increase productivity. Until then it is not under control.
 - **No second monitor**
-   Because all 82 of your tabs are essential!
-
+  Because all 82 of your tabs are essential!
 
 ## Resources for Home Office
 
