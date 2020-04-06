@@ -53,7 +53,6 @@ There are some benefits of working from home:
 - **More time with loved ones**
   Be ready for your kids earlier in the day, get some extra snuggles in with your dog, or simply get some quiet time to yourself.
 
-
 ## Problems the Home Office Helps to Solve
 
 - [Increased Cost](/problems/increased-cost)
