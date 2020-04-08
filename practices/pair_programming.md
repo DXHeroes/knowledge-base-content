@@ -30,7 +30,7 @@ When two developers work on the same computer, things can get messy. Learn how t
 
 Pair programming is a practice of two programmers working together on the same task at a single computer. Typically, one of them is a driver (or a pilot) and the second one is a navigator. The driver writes the code and the navigator reviews the code and plans the action. The goal is to increase software quality without impacting time to deliver. When two people work on the same project at a single computer, they add as much functionality as if they work separately but it is much higher in quality.
 
-![Pair Programming](/files/pair-programming.svg)
+![Pair Programming](/files/pair-programming.svg?sanitize=true)
 [Tuple’s Pair Programming Guide](https://tuple.app/pair-programming-guide/)
 
 Pair programming is a social skill and it takes time to learn it. The programmers have to suppress their egos, they have to listen to each other and be patient. It is a skill that needs to be learned. If you have a team member with experience with pair programming, let them show it to the rest of the team so they can imagine how to do it.
