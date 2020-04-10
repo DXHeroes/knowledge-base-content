@@ -41,7 +41,7 @@ The design process would require different types of information at different des
 
 The team wants to get beyond what they've done before and what's common in the market. They require information that will spur thinking in new directions such as information on what motivates ad-hoc groups, supporters of kids' sports teams, or hashtag adoption. Because the information they want is observational, they elect an ethnographic testing approach.
 
-Testy Goal: Inspirational observations from on and offline worlds.
+Test Goal: Inspirational observations from on and offline worlds.
 
 **Design Selection**
 
@@ -61,8 +61,8 @@ UX Testing won't guarantee success. The only way to test for success is to relea
 
 Test Goal: To measure usage data and see if it meets design expectations.
 
-![Value Proposition Canvas](/files/ux_strategy_blueprint.png)
-[UX Strategy Blueprint](https://experiencinginformation.com/2014/08/12/ux-strategy-blueprint/)
+![UX Test Needs to test Types Matrix Examples](/files/UX Test Need Matrix Examples.png)
+[Nik Page]
 
 
 
