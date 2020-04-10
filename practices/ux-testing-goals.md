@@ -62,7 +62,7 @@ UX Testing won't guarantee success. The only way to test for success is to relea
 Test Goal: To measure usage data and see if it meets design expectations.
 
 ![UX Test Needs to Test Types Matrix Examples](/files/ux_test_needs_matrix_example.png)
-[Nik Page]
+[Source: Nik Page]
 
 ## Why You Might Want UX Testing Goals
 
@@ -97,6 +97,5 @@ Before writing test scripts or responded recruitment specifications on a whitebo
 ## Resources for the UX Strategy
 
 * [User Research for the next design frontier](https://www.bbc.co.uk/gel/articles/user-research-for-the-next-design-frontier)
-* 
 * [Questions to ask before starting user research](https://library.gv.com/questions-to-ask-before-starting-user-research-4607c2633f6f)
 
