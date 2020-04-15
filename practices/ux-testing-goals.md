@@ -2,7 +2,6 @@
 slug: ux-testing-goals
 stages:
   - research
-  - design
 short_description: UX Testing needs to focus on gaining specific and actionable information that will help the team make better-informed decisions that will, in turn, push the project toward fulfilling the overall UX Strategy. Setting clear goals will help achieve that.
 tags:
   - ux
