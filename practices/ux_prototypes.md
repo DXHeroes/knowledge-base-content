@@ -14,20 +14,20 @@ tags:
   - product design
 keywords:
   - ux
-  - ux prototyping 
+  - ux prototyping
   - user experience
   - ux strategy
   - protptype
-  - mvp 
+  - mvp
   - product design
   - user testing
   - ux testing
 ---
 # UX Prototyping
 
-## TL;DR
+**TL;DR**
 
-A  UX Prototype is a model of the product or service or process you're designing intended to give the design team better information to inform their decisions. It's usually used to test elements or principles but can be used to illustrate ideas. It should be much cheaper than the finished product so it can be modified or even thrown out without any problem. 
+A  UX Prototype is a model of the product or service or process you're designing intended to give the design team better information to inform their decisions. It's usually used to test elements or principles but can be used to illustrate ideas. It should be much cheaper than the finished product so it can be modified or even thrown out without any problem.
 
 It should not be seen as a final design candidate or MVP.
 
@@ -57,7 +57,7 @@ Clickable prototypes can look like finished UIs or apps. They present screens or
 
 **What's NOT a Prototype**
 
-Though a prototype may evolve into one, it should not be seen as a final design candidate or MVP.  The difference is in the role. Prototypes are intended for testing. That means we need to be willing to throw them out. Also, the UX of the test itself is key in its design. In order to test an element, we may choose to design the rest of the prototype differently that we intend the product.  As for the MVP, that is a "VIABLE product". That means it must be intended to be market worthy, to fulfill commercial goals. 
+Though a prototype may evolve into one, it should not be seen as a final design candidate or MVP.  The difference is in the role. Prototypes are intended for testing. That means we need to be willing to throw them out. Also, the UX of the test itself is key in its design. In order to test an element, we may choose to design the rest of the prototype differently that we intend the product.  As for the MVP, that is a "VIABLE product". That means it must be intended to be market worthy, to fulfill commercial goals.
 
 ## Why You Might Want a UX Strategy
 
@@ -69,7 +69,7 @@ Good UX process must include testing the design to get target user feedback on i
 
 * Lack of  objective ways of testing the design concepts
 
-* Lack of management buy-in 
+* Lack of management buy-in
 
 ## How to Implement a UX Prototype
 
