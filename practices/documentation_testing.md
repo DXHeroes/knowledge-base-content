@@ -32,7 +32,7 @@ covered_by_dx_scanner: false
 
 ## What is Documentation Testing?
 
-As said above, documentation testing is a few processes of continuous feedback gathering and documentation improvements based on feedback. You can imagine it as active listening to your developers. Similarly, as you use testing for your code, you should be testing your docs to provide clear and precise information that contributes to positive developer experience.
+Documentation testing is a few processes of continuous feedback gathering and documentation improvements based on feedback. You can imagine it as active listening to your developers. Similarly, as you use testing for your code, you should be testing your docs to provide clear and precise information that contributes to positive developer experience.
 
 Docs are a developer’s first impression of your product, yet they are often overlooked. Improving your Docs directly translate into improving first impressions. 
 
