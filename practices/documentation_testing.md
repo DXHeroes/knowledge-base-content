@@ -1,6 +1,6 @@
 
 ---
-slug:\documentation-testing
+slug: documentation-testing
 stages:
   - research
   - development
