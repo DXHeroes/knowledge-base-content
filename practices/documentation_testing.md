@@ -7,7 +7,7 @@ stages:
 aspect:
 	- architecture
 short_description: Documentation testing is a process of improving your existing documentation through feedback. Understanding how to get feedback is crucial for building good documentation and positive developer experience.
-Tags:
+tags:
 	- technical writing
 	- software documentation
 	- introduction
