@@ -61,6 +61,7 @@ It is a series of good practices and even small teams without tech writers can i
 * Damaged information flow
 * Unclear instructions
 * Lack of empathy towards developers
+* Bad first impression 
 
 ## How to Implement Documentation Testing?
 ### Implementing Passive Feedback Gathering
@@ -85,23 +86,27 @@ Consider logging how many people download your code samples. For this logging, y
 Active Testing activities can be both in-house and off-house. In-house testing is more controlled but can be affected by knowledge bias. Off-house testing gives you another point of view but is can be more resource (time, money, energy) demanding. A possible alternative to off-house testing can be surveys and questionnaires. 
 
 #### In-house Testing
-One of the best things you can always do is to test your documentation In-house. Read through your docs.  Let your developers try the demos and gather their thoughts. Take people with different background and skillset. 5 to 6 people is enough to start improving your developer experience. Look at our [UX Testing Goals](https://developerexperience.io/practices/ux-testing-goals) or at [Unit Testing](https://developerexperience.io/practices/unit-testing) for ideas.
+One of the best things you can always do is to test your documentation In-house. Read through your docs.  Let your developers try the demos and gather their thoughts. Take people with different background and skillset. 5 to 6 people is enough to start improving your developer experience. Look at [UX Testing Goals](https://developerexperience.io/practices/ux-testing-goals) or at [Unit Testing](https://developerexperience.io/practices/unit-testing) for ideas.
 > Anyone around you can help you with in-house testing. Test if you can understand your docs. Test if your sample codes work. Test what happens if you auto-translate your docs. What does happen if you strictly follow your docs? Is the provided information enough? Be emphatic. Use my favorite definition: _Empathy is connecting with emotions, not with experience._
+
+#### Automatizated Testing
+You can use frameworks like [dtf](http://cyborginstitute.org/projects/dtf/strategy/) to keep your Documentation unified in terms of glossary and clarity. If your Documentation is code example heavy, you can use tool like [rustdoc](https://doc.rust-lang.org/beta/rustdoc/documentation-tests.html) to automatically test your code samples. 
+> Although Documentation testing should be manual, sample code testing, grammar checks or word consistency tests can be automatic. Using frameworks like dtf or rustdoc allows your testers to focus more on information and empathy than on grammar and code syntax.
 
 #### Questionnaires and surveys 
 Questionnaires and surveys give your readers a way to directly give their feedback. You can gather interesting information through it. Moreover, if you reach out after the questionnaire you can improve community relationships.
-> Forms and questionnaires are powerful tool if used correctly. With a good form, you can build rapport and turn this rapport into better dx. Good starting point is this [Hubspot Article](https://blog.hubspot.com/service/questionnaire) or this [Harvard Guide](https://psr.iq.harvard.edu/files/psr/files/PSRQuestionnaireTipSheet_0.pdf).
+> Forms, surveys, and questionnaires are powerful tool if used correctly. With a good form, you can build rapport and turn this rapport into better dx. Good starting point is this [Hubspot Article](https://blog.hubspot.com/service/questionnaire) or this [Harvard Guide](https://psr.iq.harvard.edu/files/psr/files/PSRQuestionnaireTipSheet_0.pdf).
 
 #### Outsourced Testing
-If you don’t want to spend your resources on In-house Testing, you can try outsourcing it. Services like [Betatesting](https://betatesting.com/beta-testers), [Usertesting](https://www.usertesting.com), or [Devskiller](https://devskiller.com) can sometimes connect you with good testing developer. You can connect with developer community at places like [Dev](https://dev.to) or [DXheroes Slack](https://join.slack.com/t/developerexperiencehq/shared_invite/enQtNzU5NjUyNDk2MDM1LTRmNjM5ZTllOTc1NmU5ZWRhNGNkODU1ZmY0ZWExYWUyN2YyNzM4ZTMzNjIyNWJhNTRmNjA5ZTVhMGRmZjM4ZjY). Alternatively, you can hire freelancers through platforms like [Freelancer](http://freelancer.com), [Upwork](https://www.upwork.com), [Fivver](https://www.fiverr.com) or [Peopleperhour](https://www.peopleperhour.com).
-> You can always outsource the testings if you don’t want to use in-house testing or you want additional data. Outsourcing your testing is not as expensive as you may think, having around 5 - 6 testers is generally enough to understand the dx you provide.
+If you don’t want to spend your resources on In-house Testing, you can try outsourcing it. Services like [Betatesting](https://betatesting.com/beta-testers), [Usertesting](https://www.usertesting.com), [Testfort](https://testfort.com/qa-documentation)or [Devskiller](https://devskiller.com) can connect you with a testing developer. You can reach out to developer community at places like [Dev](https://dev.to) or [DXheroes Slack](https://join.slack.com/t/developerexperiencehq/shared_invite/enQtNzU5NjUyNDk2MDM1LTRmNjM5ZTllOTc1NmU5ZWRhNGNkODU1ZmY0ZWExYWUyN2YyNzM4ZTMzNjIyNWJhNTRmNjA5ZTVhMGRmZjM4ZjY). Alternatively, you can hire freelancers through platforms like [Freelancer](http://freelancer.com), [Upwork](https://www.upwork.com), [Fivver](https://www.fiverr.com) or [Peopleperhour](https://www.peopleperhour.com).
+> You can always outsource the testings if you don’t want to use in-house testing or you want additional data. Outsourcing your testing is not as expensive as you may think, having around 5 - 6 testers is generally enough to understand the dx you provide. 
 
 ## Common Pitfalls of Documentation Testing
-- Developers or tech writers  doubt gathered data.
-- Analytics are poorly set.
-- Test let knowledge bias to influence testing.
+- Developers or tech writers doubt gathered data.
+- Analytics are poorly set and don’t collect crucial data 
+- Knowledge bias influences Documentation Testing.
 - Developers or tech writers don’t listen to feedback.
-- The testing is not done regularly.
+- Documentation testing is not done regularly.
 
 ## Resources for Documentation Testing
 * [I would rather be writing](https://idratherbewriting.com/2008/10/17/10-ways-to-gather-feedback-from-users/)
@@ -110,3 +115,5 @@ If you don’t want to spend your resources on In-house Testing, you can try out
 * [Software testing help](https://www.softwaretestinghelp.com/test-documentation-reviews/)
 * [King’s talk on Empathy-Driven Developer Documentation](https://www.youtube.com/watch?v=_HCmFvxxKaQ)
 * [Jen Lambourne: Research Like You're Wrong](https://www.youtube.com/watch?v=aCNbVf9Id5Y)
+* [What is documentation testing](http://tryqa.com/what-is-documentation-testing/)
+* [](https://www.process.st/software-documentation/)
