@@ -1,4 +1,3 @@
-
 ---
 slug: documentation-testing
 stages:
@@ -26,6 +25,7 @@ keywords:
   - Tech writing feedback
 covered_by_dx_scanner: false
 ---
+
 # Documentation Testing
 
 **TL;DR** Documentation testing is a process of improving your existing documentation through Passive Feedback Gathering and Active Testing. Understanding how to work with feedback is crucial for building good documentation and positive developer experience.
