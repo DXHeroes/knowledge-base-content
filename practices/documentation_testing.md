@@ -114,4 +114,4 @@ If you don’t want to spend your resources on In-house Testing, you can try out
 * [King’s talk on Empathy-Driven Developer Documentation](https://www.youtube.com/watch?v=_HCmFvxxKaQ)
 * [Jen Lambourne: Research Like You're Wrong](https://www.youtube.com/watch?v=aCNbVf9Id5Y)
 * [What is documentation testing](http://tryqa.com/what-is-documentation-testing/)
-* [](https://www.process.st/software-documentation/)
+* [Process.st](https://www.process.st/software-documentation/)
