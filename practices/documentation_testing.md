@@ -3,20 +3,18 @@ slug: documentation-testing
 stages:
   - research
   - development
-aspect:
-  - architecture
 short_description: Documentation testing is a process of improving your existing documentation through feedback. Understanding how to get feedback is crucial for building good documentation and positive developer experience.
 tags:
-	- technical writing
-	- software documentation
-	- introduction
-	- information
-	- readme
-	- feedback
-	- writing
-	- continuous delivery
-	- value
-	- good developer experience
+  - technical writing
+  - software documentation
+  - introduction
+  - information
+  - readme
+  - feedback
+  - writing
+  - continuous delivery
+  - value
+  - good developer experience
 keywords:
   - Developer experience
   - Tech writing
