@@ -1,6 +1,6 @@
 ***REMOVED***
 
-on: [push, pull_request]
+on: [push, pull_request, pull_request_target]
 
 ***REMOVED***
 ***REMOVED***
@@ -13,7 +13,7 @@ on: [push, pull_request]
 
 ***REMOVED***
 ***REMOVED***
-    if: github.event_name == 'pull_request'
+    if: github.event_name == 'pull_request' || github.event_name == 'pull_request_target'
 ***REMOVED***
 ***REMOVED***
       - uses: actions/checkout@v1
@@ -28,7 +28,7 @@ on: [push, pull_request]
 ***REMOVED***
 
 ***REMOVED***
-    if: github.event_name == 'pull_request' && github.base_ref == 'master'
+    if: (github.event_name == 'pull_request' || github.event_name == 'pull_request_target') && github.base_ref == 'master'
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
