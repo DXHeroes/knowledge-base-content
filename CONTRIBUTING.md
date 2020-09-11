@@ -1,6 +1,6 @@
 # Contributing to DX Knowledge Base
 
-We welcome contributions to our [open source project on Github](http://github.com/DXHeroes/knowledge-base).
+We welcome contributions to our [open source project on Github](http://github.com/DXHeroes/knowledge-base-content).
 
 ## Issues
 
@@ -59,12 +59,7 @@ Example article: [pull request](https://github.com/DXHeroes/knowledge-base/blob/
   - starting with `---` (a triple dash) and ending with a second `---` (triple dash)
   - contains meta info of the article
   - **slug** - friendly ID of the article visible in the URL of the Knowledge base (e.g.: `https://developerexperience.io/practices/pull-requests`
-  - **aspect** - Categorizes the article to some [aspect](https://developerexperience.io/aspects#explore) of the development process. Valid values are:
-    - `architecture`
-    - `processes`
-    - `tooling`
-    - `culture`
-  - **stages** - Categorizes the article to some [stages](https://developerexperience.io/stages#explore) of the project. Valid values are:
+  - **stages** - Categorizes the article to some stages of the project. Valid values are:
     - `research`
     - `building_team`
     - `development`
@@ -76,7 +71,7 @@ Example article: [pull request](https://github.com/DXHeroes/knowledge-base/blob/
   - **tags**
     - visible to use in the Article's detail
     - used to connect problems and practices with other similar areas than aspect or stage
-    - each tag has it's own detail (e.g. [tag design](https://developerexperience.io/tags/desing))
+    - each tag has it's own detail (e.g. [tag design-sprint](https://developerexperience.io/tags/design-sprint))
     - amount of tags for the article is not limited
   - **keywords**
     - invisible in the KB

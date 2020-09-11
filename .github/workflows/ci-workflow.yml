@@ -13,7 +13,7 @@ env:
 
 jobs:
   check-article:
-    if: github.event_name == 'pull_request'
+    if: github.event_name == 'pull_request' || github.event_name == 'pull_request_target'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
@@ -28,7 +28,7 @@ jobs:
           yarn && yarn danger ci
 
   deploy-to-preview:
-    if: github.event_name == 'pull_request' && github.base_ref == 'master'
+    if: (github.event_name == 'pull_request' || github.event_name == 'pull_request_target') && github.base_ref == 'master'
     needs: check-article
     runs-on: ubuntu-latest
     steps:
