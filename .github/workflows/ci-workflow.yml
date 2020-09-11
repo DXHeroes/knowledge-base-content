@@ -1,6 +1,6 @@
 name: Node CI - Check Article Validity & Deploy
 
-on: [push, pull_request, pull_request_target]
+on: [push, pull_request]
 
 env:
   CI: true
