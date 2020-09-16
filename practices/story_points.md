@@ -26,7 +26,7 @@ covered_by_dx_scanner: false
 
 Story points are generalized rough estimation of a story or a task's effort (overall complexity, load of work to do and uncertainty of implementation details) on which the whole team has agreed. Benefit is fact Story points are only work estimates and not deadlines, unlike man-day estimates, and are not skills dependent. Estimates are unique to every team and help track velocity of a team over time.
 
-## What are Story Points
+## What Are Story Points
 
 Some work has to go to every story in the product backlog. Story points are one of the ways to quantify this number on, usually, adjusted Fibonacci scale that doesn't reflect how much time the story will spend in development. Rather than that Story points focus on describing the overall complexity of successfully fulfilling Definition of Done of the story, as it is perceived by everyone involved in development - from designers to QA engineers. This complexity should cover these basic inputs:
 
