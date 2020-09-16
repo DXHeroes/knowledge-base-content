@@ -43,6 +43,16 @@ There are many different scales on which Story points are set, but the most comm
 
 As mentioned above, story points only show the complexity of a task, not how long it would take nor take into account the skills of the assigned developer. Combine this with the fact that over time you get to track team's velocity over time (and team also gets better at estimating) which leads to a more exact idea of how much work can actually be done in one sprint. One of the greatest benefits of Story points though is that it makes everyone on the team get to know the reasoning behind the story, start thinking about it and realizing potential obstacles arising with it.
 
+## Problems Story Points Help to Solve
+
+- [Demotivated Team](/problems/demotivated-team)
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
+- [Increased Cost](/problems/increased-cost)
+- [Long Feedback Loops](/problems/long-feedback-loops)
+- [Not My Problem Mentality](/problems/not-my-problem-mentality)
+- [Meaningless Work](/problems/meaningless-work)
+- [Toxic Team Culture](/problems/toxic-team-culture)
+
 ## How to Implement Story Points
 
 Implementing Story points is relatively easy, but keep in mind that at the beginning, your team might suffer from insecurities (such as fear of a poor estimate) or inhibition towards trying something new. So, how to implement Story points in a few simple steps:
