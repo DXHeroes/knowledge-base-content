@@ -1,6 +1,6 @@
 name: Node CI - Check Article Validity & Deploy
 
-on: [push, pull_request, pull_request_target]
+on: [push, pull_request_target]
 
 env:
   CI: true
@@ -13,10 +13,10 @@ env:
 
 jobs:
   check-article:
-    if: github.event_name == 'pull_request'
+    if: github.event_name == 'pull_request_target'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 1
       - name: Use Node.js 12
@@ -27,8 +27,21 @@ jobs:
         run: |
           yarn && yarn danger ci
 
+  # deploy-to-preview-orig:
+  #   if: github.event_name == 'pull_request' && github.base_ref == 'master'
+  #   needs: check-article
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - name: Use Node.js 12
+  #       uses: actions/setup-node@v1
+  #       with:
+  #         node-version: 12
+  #     - name: Deploy to preview.developerexperience.io
+  #       run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_HEAD_REF"'
+
   deploy-to-preview:
-    if: github.event_name == 'pull_request' && github.base_ref == 'master'
+    if: github.event_name == 'pull_request_target' && github.base_ref == 'master'
     needs: check-article
     runs-on: ubuntu-latest
     steps:
@@ -38,33 +51,15 @@ jobs:
         with:
           node-version: 12
       - name: Deploy to preview.developerexperience.io
-        run: 'printenv && curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_HEAD_REF"'
-
-  deploy-to-preview-target-pr:
-    # if: github.event_name == 'pull_request' && github.base_ref == 'master'
-    # needs: check-article
-    runs-on: ubuntu-latest
-    steps:
-      - name: Dump GitHub context
-        env:
-          GITHUB_CONTEXT: ${{ toJson(github) }}
-        run: echo "$GITHUB_CONTEXT"
-      - uses: actions/checkout@v2
-      - name: Use Node.js 12
-        uses: actions/setup-node@v1
-        with:
-          node-version: 12
-      - name: Deploy to preview.developerexperience.io
         env:
           HEAD_REPO_GIT_URL: ${{ github.event.pull_request.head.repo.git_url }}
-          HEAD_REPO_SSH_URL: ${{ github.event.pull_request.head.repo.ssh_url }}
-        run: 'printenv && curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "repo_url=$HEAD_REPO_GIT_URL" -d "branch=$GITHUB_HEAD_REF"'
+        run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "repo_url=$HEAD_REPO_GIT_URL" -d "branch=$GITHUB_HEAD_REF"'
 
   deploy-to-production:
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 1
       - name: Use Node.js 12
