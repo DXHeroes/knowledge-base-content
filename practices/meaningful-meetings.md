@@ -97,6 +97,7 @@ You can use [Team Roles](/practices/team-roles-definition) to select who needs a
 
 ### Design Your Meetings for Your Team 
 Designing your meetings means creating a structure of meetings that works best for your team. Consider adjusting the:
+
 - Length of meetings
 - Location of meetings
 - Policies of meetings
