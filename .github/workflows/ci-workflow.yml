@@ -13,7 +13,7 @@ env:
 
 jobs:
   check-article:
-    if: github.event_name == 'pull_request' || github.event_name == 'pull_request_target'
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
@@ -28,7 +28,7 @@ jobs:
           yarn && yarn danger ci
 
   deploy-to-preview:
-    if: (github.event_name == 'pull_request' || github.event_name == 'pull_request_target') && github.base_ref == 'master'
+    if: github.event_name == 'pull_request' && github.base_ref == 'master'
     needs: check-article
     runs-on: ubuntu-latest
     steps:
@@ -40,7 +40,7 @@ jobs:
         with:
           node-version: 12
       - name: Deploy to preview.developerexperience.io
-        run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_BASE_REF"'
+        run: 'printenv && curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_HEAD_REF"'
 
   deploy-to-production:
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
