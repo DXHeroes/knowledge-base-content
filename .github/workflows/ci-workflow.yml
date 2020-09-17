@@ -13,7 +13,7 @@ on: [push, pull_request]
 
 ***REMOVED***
 ***REMOVED***
-    if: github.event_name == 'pull_request' || github.event_name == 'pull_request_target'
+    if: github.event_name == 'pull_request'
 ***REMOVED***
 ***REMOVED***
       - uses: actions/checkout@v1
@@ -28,7 +28,7 @@ on: [push, pull_request]
 ***REMOVED***
 
 ***REMOVED***
-    if: (github.event_name == 'pull_request' || github.event_name == 'pull_request_target') && github.base_ref == 'master'
+    if: github.event_name == 'pull_request' && github.base_ref == 'master'
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
@@ -40,7 +40,7 @@ on: [push, pull_request]
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
-        run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_BASE_REF"'
+        run: 'printenv && curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_HEAD_REF"'
 
 ***REMOVED***
 ***REMOVED***
