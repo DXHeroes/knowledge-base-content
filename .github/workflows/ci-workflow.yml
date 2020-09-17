@@ -1,6 +1,6 @@
 ***REMOVED***
 
-on: [push, pull_request]
+on: [push, pull_request, pull_request_target]
 
 ***REMOVED***
 ***REMOVED***
@@ -16,7 +16,7 @@ on: [push, pull_request]
     if: github.event_name == 'pull_request'
 ***REMOVED***
 ***REMOVED***
-      - uses: actions/checkout@v1
+***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
@@ -28,25 +28,38 @@ on: [push, pull_request]
 ***REMOVED***
 
 ***REMOVED***
-    if: github.event_name == 'pull_request' && github.base_ref == 'master'
 ***REMOVED***
 ***REMOVED***
-***REMOVED***
-      - uses: actions/checkout@v1
-***REMOVED***
-***REMOVED***
+  #   runs-on: ubuntu-latest
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
-        run: 'printenv && curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_HEAD_REF"'
+***REMOVED***
+***REMOVED***
+***REMOVED***
+
+***REMOVED***
+***REMOVED*** && github.base_ref == 'master'
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+        ***REMOVED***
+***REMOVED***
+***REMOVED***
 
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
-      - uses: actions/checkout@v1
+***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
