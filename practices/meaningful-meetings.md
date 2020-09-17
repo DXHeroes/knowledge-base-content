@@ -22,7 +22,10 @@ covered_by_dx_scanner: false
 ---
 
 # Meaningful Meetings
-**TL;DR** Meaningful Meetings are controlled and designed meetings with a set of practices. These practices aim to minimise time spent on the meeting while maximising its outcome. 
+
+**TL;DR**
+
+Meaningful Meetings are controlled and designed meetings with a set of practices. These practices aim to minimise time spent on the meeting while maximising its outcome. 
 
 ## What Are Meaningful Meetings?
 Meaningful Meetings are spin-off on the classical, endless, and pointless meetings all people know and dislike.
