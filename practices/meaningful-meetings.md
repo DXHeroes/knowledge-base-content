@@ -53,7 +53,7 @@ Meaningful Meetings change the concept of meetings. Through committing to the fo
 
 ## How to Implement Meaningful Meetings?
 
-Committing to making meetings meaningful is a long run but even small practices can make the situation better. These practices can even improve your [Agile Events](https://developerexperience.io/practices/agile-events). Agile Events  are in their design meaningful.
+Committing to making meetings meaningful is a long run but even small practices can make the situation better. These practices can even improve your [Agile Events](/practices/agile-events). Agile Events are in their design meaningful.
 
 ### Start With Reasons for Your Meeting
 
