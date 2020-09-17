@@ -112,6 +112,7 @@ The idea of no phones present on meetings as policy is to minimise distractions.
 The 6-page narrative is a rule of the famous Jeff Bezos and his meeting policy. In its simplest way, each Amazon meeting starts with reading 6-page full sentences memo and they absorb the information before talking. The memos are like dissertation work, structured about questions (reasons for the meeting), and all possible information around them. Writing in full sentences forces meeting members to debate with themselves. Asking for sources (data) makes your arguments stronger.  
 
 If you want to try the 6-page narrative (or 2-page, or X-page) for yourself, you can start with this [template](https://www.quora.com/Amazon-com-product/How-are-the-six-page-narratives-structured-in-Jeff-Bezos-S-Team-meetings):
+
 1. The issue or the question
 1. The context of the issue (or the question)
 2. Usual approaches to answering it
