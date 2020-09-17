@@ -33,8 +33,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          ref: ${{ github.event.pull_request.head.sha }}
       - name: Use Node.js 12
         uses: actions/setup-node@v1
         with:
@@ -52,14 +50,15 @@ jobs:
           GITHUB_CONTEXT: ${{ toJson(github) }}
         run: echo "$GITHUB_CONTEXT"
       - uses: actions/checkout@v2
-        with:
-          ref: ${{ github.event.pull_request.head.sha }}
       - name: Use Node.js 12
         uses: actions/setup-node@v1
         with:
           node-version: 12
       - name: Deploy to preview.developerexperience.io
-        run: 'printenv && curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_HEAD_REF"'
+        env:
+          HEAD_REPO_GIT_URL: ${{ github.event.pull_request.head.repo.git_url }}
+          HEAD_REPO_SSH_URL: ${{ github.event.pull_request.head.repo.ssh_url }}
+        run: 'printenv && curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "repo_url=$HEAD_REPO_GIT_URL" -d "branch=$GITHUB_HEAD_REF"'
 
   deploy-to-production:
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
