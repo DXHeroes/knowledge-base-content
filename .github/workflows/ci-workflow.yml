@@ -1,6 +1,6 @@
 ***REMOVED***
 
-on: [push, pull_request, pull_request_target]
+***REMOVED***
 
 ***REMOVED***
 ***REMOVED***
@@ -13,7 +13,8 @@ on: [push, pull_request, pull_request_target]
 
 ***REMOVED***
 ***REMOVED***
-    if: github.event_name == 'pull_request'
+***REMOVED***
+***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
