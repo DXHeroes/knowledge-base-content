@@ -47,8 +47,6 @@ jobs:
     # needs: check-article
     runs-on: ubuntu-latest
     steps:
-      - name: printenv
-        run: printenv && ${{toJson(github)}}
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.event.pull_request.head.sha }}
