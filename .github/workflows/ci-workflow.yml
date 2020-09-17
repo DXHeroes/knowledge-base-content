@@ -48,7 +48,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: printenv
-        run: printenv && ${{github}}
+        run: printenv && ${{toJson(github)}}
       - uses: actions/checkout@v2
         with:
           fetch-depth: 1
@@ -65,7 +65,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: printenv
-        run: printenv && ${{github}}
+        run: printenv && ${{toJson(github)}}
       - uses: actions/checkout@v2
         with:
           fetch-depth: 1
