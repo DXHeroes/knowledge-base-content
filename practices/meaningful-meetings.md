@@ -102,6 +102,7 @@ Designing your meetings means creating a structure of meetings that works best f
 - Roles present on meetings
 
 #### Interesting Meeting Policies to Consider:
+
 ##### No Phones on Meetings
 The idea of no phones present on meetings as policy is to minimise distractions. Without distractions, you can finish your meeting agenda quicker. 
 
