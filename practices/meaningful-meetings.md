@@ -73,7 +73,7 @@ Before you schedule a meeting, have a clear goal. Know precisely why you and oth
 Meeting Agenda is a powerful and overlooked tool that rapidly improves meetings. The common way of creating a Meeting Agenda is to write your Reasons for meeting as a TODO list. We are doing this meeting to do X, Y, and Z. Be [SMART](#) with your Agenda.
 
 #### Add Relevant Information to Your Agenda
-Your Agenda should contain all information that is necessary for the meeting. Add documents, code, image, or other important information. Each piece of relevant information shortens the Meeting and contributes to [good developer experience](https://developerexperience.io/practices/good-developer-experience). 
+Your Agenda should contain all information that is necessary for the meeting. Add documents, code, image, or other important information. Each piece of relevant information shortens the Meeting and contributes to [good developer experience](/practices/good-developer-experience). 
 
 Share them before the meeting. Invite others to collaborate in the information flow. 
 
