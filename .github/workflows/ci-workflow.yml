@@ -34,7 +34,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          fetch-depth: 1
+          ref: ${{ github.event.pull_request.head.sha }}
       - name: Use Node.js 12
         uses: actions/setup-node@v1
         with:
@@ -51,24 +51,7 @@ jobs:
         run: printenv && ${{toJson(github)}}
       - uses: actions/checkout@v2
         with:
-          fetch-depth: 1
-      - name: Use Node.js 12
-        uses: actions/setup-node@v1
-        with:
-          node-version: 12
-      - name: Deploy to preview.developerexperience.io
-        run: 'printenv && curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_HEAD_REF"'
-
-  deploy-to-preview-target-prt:
-    # if: github.event_name == 'pull_request_target' && github.base_ref == 'master'
-    # needs: check-article
-    runs-on: ubuntu-latest
-    steps:
-      - name: printenv
-        run: printenv && ${{toJson(github)}}
-      - uses: actions/checkout@v2
-        with:
-          fetch-depth: 1
+          ref: ${{ github.event.pull_request.head.sha }}
       - name: Use Node.js 12
         uses: actions/setup-node@v1
         with:
