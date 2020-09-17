@@ -65,7 +65,7 @@ Common Bad Reasons for meetings are:
 - Because we scheduled one and we always do it on Monday
 - For team leader to monitor the process
 
-All these bad reasons are solvable using [Agile Events](https://developerexperience.io/practices/agile-events) and product management tools. They don’t need any meetings at all.
+All these bad reasons are solvable using [Agile Events](/practices/agile-events) and product management tools. They don’t need any meetings at all.
 
 Before you schedule a meeting, have a clear goal. Know precisely why you and other people should _waste_ their work time on the meeting.
 
