@@ -86,6 +86,7 @@ A meaningful meeting has trackable outcomes. Add the expected outcomes to your A
 With thinking that a meeting minute is a wasted minute, you start looking at people present on meetings differently. They can be doing different things right now, that directly translate to team success. 
 
 An interesting Framework to know who should be present is the RAP(I)D Framework. The I person is optional.
+
 - The person who **R**ecommends a decision or action
 - The person who **A**grees formally
 - The person who **P**erforms and has accountability for the work
