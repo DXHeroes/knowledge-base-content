@@ -90,6 +90,9 @@ Example article: [pull request](https://github.com/DXHeroes/knowledge-base/blob/
       - `Resources for the %{name}`
     - Follow the "The Chicago Manual of Style" to capitalize your titles
       - You can use this tool for the title capitalization: [Capitaize My Title](https://capitalizemytitle.com). Write your title and select "Chicago".
+    - **Links**
+      - Links to another DX Knowledgebase practice  `/practices/%{practice}`
+      - Links to another DX Knowledgebase problem `/problems/%{practice}`
 
 ## Copyright and Licensing
 
