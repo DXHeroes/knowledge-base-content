@@ -60,6 +60,7 @@ Committing to making meetings meaningful is a long run but even small practices 
 An important practice of Meaningful Meetings is to always have a good reason for meetings. If you are unsure why you should have a meeting, dismiss it. 
 
 Common Bad Reasons for meetings are:
+
 - To update on information 
 - Because we scheduled one and we always do it on Monday
 - For team leader to monitor the process
