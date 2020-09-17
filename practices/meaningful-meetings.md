@@ -93,7 +93,7 @@ An interesting Framework to know who should be present is the RAP(I)D Framework.
 - The person who **I**nputs extra details or points of view that may or may not align
 - The person who **D**ecides on the action and commits the organization to action.
 
-You can use [Team Roles](https://developerexperience.io/practices/team-roles-definition) to select who needs an invitation.  
+You can use [Team Roles](/practices/team-roles-definition) to select who needs an invitation.  
 
 ### Design Your Meetings for Your Team 
 Designing your meetings means creating a structure of meetings that works best for your team. Consider adjusting the:
