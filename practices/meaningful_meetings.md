@@ -2,8 +2,6 @@
 slug: meaningful-meetings
 stages:
   - development
-aspect:
-  - Culture
 short_description: Meaningful Meetings are controlled and designed meetings that maximises your time outside the meeting. 
 tags:
 - meaningful meetings
