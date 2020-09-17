@@ -1,6 +1,6 @@
 name: Node CI - Check Article Validity & Deploy
 
-on: [push, pull_request]
+on: [push, pull_request_target]
 
 env:
   CI: true
@@ -13,12 +13,13 @@ env:
 
 jobs:
   check-article:
-    if: github.event_name == 'pull_request'
+    if: github.event_name == 'pull_request_target'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 1
+          ref: ${{ github.event.pull_request.head.sha }}
       - name: Use Node.js 12
         uses: actions/setup-node@v1
         with:
@@ -27,26 +28,39 @@ jobs:
         run: |
           yarn && yarn danger ci
 
+  # deploy-to-preview-orig:
+  #   if: github.event_name == 'pull_request' && github.base_ref == 'master'
+  #   needs: check-article
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - name: Use Node.js 12
+  #       uses: actions/setup-node@v1
+  #       with:
+  #         node-version: 12
+  #     - name: Deploy to preview.developerexperience.io
+  #       run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_HEAD_REF"'
+
   deploy-to-preview:
-    if: github.event_name == 'pull_request' && github.base_ref == 'master'
+    if: github.event_name == 'pull_request_target' && github.base_ref == 'master'
     needs: check-article
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-        with:
-          fetch-depth: 1
+      - uses: actions/checkout@v2
       - name: Use Node.js 12
         uses: actions/setup-node@v1
         with:
           node-version: 12
       - name: Deploy to preview.developerexperience.io
-        run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_BASE_REF"'
+        env:
+          HEAD_REPO_GIT_URL: ${{ github.event.pull_request.head.repo.git_url }}
+        run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "repo_url=$HEAD_REPO_GIT_URL" -d "branch=$GITHUB_HEAD_REF"'
 
   deploy-to-production:
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 1
       - name: Use Node.js 12
