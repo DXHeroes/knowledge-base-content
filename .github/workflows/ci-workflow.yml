@@ -16,7 +16,7 @@ jobs:
     if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 1
       - name: Use Node.js 12
@@ -32,7 +32,7 @@ jobs:
     # needs: check-article
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 1
       - name: Use Node.js 12
@@ -47,7 +47,7 @@ jobs:
     # needs: check-article
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 1
       - name: Use Node.js 12
@@ -62,7 +62,7 @@ jobs:
     # needs: check-article
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 1
       - name: Use Node.js 12
@@ -78,8 +78,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: printenv
-        run: printenv
-      - uses: actions/checkout@v1
+        run: printenv && ${{github}}
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 1
       - name: Use Node.js 12
@@ -95,8 +95,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: printenv
-        run: printenv
-      - uses: actions/checkout@v1
+        run: printenv && ${{github}}
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 1
       - name: Use Node.js 12
@@ -110,7 +110,7 @@ jobs:
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 1
       - name: Use Node.js 12
