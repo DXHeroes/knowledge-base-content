@@ -43,7 +43,7 @@ jobs:
         run: 'printenv && curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_HEAD_REF"'
 
   deploy-to-preview-target-pr:
-    if: github.event_name == 'pull_request_target' && github.base_ref == 'master'
+    # if: github.event_name == 'pull_request' && github.base_ref == 'master'
     # needs: check-article
     runs-on: ubuntu-latest
     steps:
