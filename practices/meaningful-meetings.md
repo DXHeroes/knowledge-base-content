@@ -2,7 +2,7 @@
 slug: meaningful-meetings
 stages:
   - development
-short_description: Meaningful Meetings are controlled and designed meetings that maximises your time outside the meeting. 
+short_description: Meaningful Meetings are methods that see meetings as obstacles in work. Through practices like setting reasons, creating agendas, tracking outcomes, or meeting polices, you can shorten the meetings and boost your team's performance.
 tags:
 - meaningful meetings
 - meetings
@@ -24,7 +24,7 @@ covered_by_dx_scanner: false
 # Meaningful Meetings
 **TL;DR** Meaningful Meetings are controlled and designed meetings with a set of practices. These practices aim to minimise time spent on the meeting while maximising its outcome. 
 
-## What are Meaningful Meetings?
+## What Are Meaningful Meetings?
 Meaningful Meetings are spin-off on the classical, endless, and pointless meetings all people know and dislike.
 
 There are multiple ways to make your meetings meaningful. However, the core is the same: _on-point  meetings where all relevant voices have a say._
@@ -52,7 +52,7 @@ Meaningful Meetings change the concept of meetings. Through committing to the fo
 
 Committing to making meetings meaningful is a long run but even small practices can make the situation better. These practices can even improve your [Agile Events](https://developerexperience.io/practices/agile-events). Agile Events  are in their design meaningful.
 
-### Start with Reasons for Your Meeting
+### Start With Reasons for Your Meeting
 
 An important practice of Meaningful Meetings is to always have a good reason for meetings. If you are unsure why you should have a meeting, dismiss it. 
 
@@ -112,15 +112,15 @@ If you want to try the 6-page narrative (or 2-page, or X-page) for yourself, you
 4. What are the next steps? How do we start our approach? What is in for our customers?
 5. Appendix (summary, main points, data, and sources)
 
-##### Taking a Break after X Minutes
+##### Taking a Break After X Minutes
 Since Meaningful meetings are places of sharp focus and pin-point attention, you could consider taking small breaks between each agenda section. Good Public speakers know that forcing attention over 20 minutes bad for keeping people [engaged](https://medium.com/the-art-of-keynoting/the-20-minute-rule-for-great-public-speaking-on-attention-spans-and-keeping-focus-7370cf06b636). Don’t burn teams energy over the meeting, take a break instead. 
 
-##### No PowerPoint or Another Presentation Software on Meeting
+##### No Powerpoint or Another Presentation Software On Meeting
 The presentation software is a risky slope. It is simple to overwhelm listeners with your slides or to make the presentation software your presentation. The purpose of Powerpoint and its alternatives is to aid the meeting, not to be the sole point of the meeting. It is better to have no visual aid than a bad one. 
 
 Alternatively, set a policy to use it only as the visual aid. Be strict about how to use your PowerPoints. For more on this topic, read the [paper](https://www.mandel.com/download/datasets/1626/Whitepaper-How-to-Use-Presentation-Software-Effectively-Mandel-Communications.pdf) from the Mandel communication on how to use PowerPoint to its uttermost potential. 
 
-### Maintain control over the Meeting
+### Maintain Control Over the Meeting
 Even the best agenda or the best design can go sour if there is no control over the meeting. Losing the focus, talking about different tasks, not being present, all these are faults of bad meeting control. 
 
 The simplest way to maintain control over your meeting is to stick to your agenda and policies. You should consider having a moderator role in meetings. The moderator is responsible for going through the agenda and time management of the meeting. They should strive to make space for relevant voices.
