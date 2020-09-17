@@ -46,9 +46,9 @@ Meaningful Meetings change the concept of meetings. Through committing to the fo
 
 * Never Ending Meetings
 * Disorganised Meetings
-* [Demotivated Team (My opinion doesn’t matter feeling)](https://developerexperience.io/problems/demotivated-team)
-* [Toxic culture](https://developerexperience.io/problems/toxic-team-culture)
-* [Meaningless work](https://developerexperience.io/problems/meaningless-work)
+* [Demotivated Team (My opinion doesn’t matter feeling)](/problems/demotivated-team)
+* [Toxic culture](/problems/toxic-team-culture)
+* [Meaningless work](/problems/meaningless-work)
 * Increased Cost
 
 ## How to Implement Meaningful Meetings?
