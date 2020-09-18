@@ -1,8 +1,8 @@
 ---
 name: Bug
 about: Let us know about Bug you have experienced
-title: "[Bug]"
-labels: 'Type: Bug'
+title: "Bug"
+labels: "bug, Status: Available"
 assignees: ''
 
 ---
