@@ -92,7 +92,7 @@ Example article: [pull request](https://github.com/DXHeroes/knowledge-base/blob/
       - You can use this tool for the title capitalization: [Capitaize My Title](https://capitalizemytitle.com). Write your title and select "Chicago".
     - **Links**
       - Links to another DX Knowledgebase practice `/practices/%{practice}`
-      - Links to another DX Knowledgebase problem `/problems/%{practice}`
+      - Links to another DX Knowledgebase problem `/problems/%{problem}`
       - Links to another DX Knowledgebase tag `/tags/%{tag}`
 
 ## Copyright and Licensing
