@@ -8,9 +8,7 @@ assignees: ''
 ---
 # Title: [Article] %problem name
 
-Link to problem: ""
-
-- [ ] Link to practice: ""
+- [ ] Link to problem: ""
 
 - [ ] What is this about: "Shortly describe what would you like to improve"
 
