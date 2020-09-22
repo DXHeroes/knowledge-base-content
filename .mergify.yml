@@ -2,9 +2,8 @@ pull_request_rules:
   - name: automatic merge when CI passes and 2 reviews approved
     conditions:
       - '#approved-reviews-by>=2'
-      - status-success=Node CI - Check Article Validity & Deploy / check-article (pull_request_target)
-      - status-success=Node CI - Check Article Validity & Deploy / deploy-to-preview (pull_request_target)
-      - status-success=Danger
+      - status-success=Node CI - Check Article Validity & Deploy
+      - status-success=Danger JS
       - base=master
     actions:
       merge:
