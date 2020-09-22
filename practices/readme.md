@@ -13,6 +13,7 @@ tags:
   - installation
   - writing
   - user story
+  - readme
 keywords:
   - introduction
   - directory
@@ -21,6 +22,7 @@ keywords:
   - contribution
   - directory
   - documentation
+  - readme
 ---
 
 # README
@@ -36,23 +38,23 @@ A README is a text file that introduces a product to a user. It contains informa
 A README file typically includes (at least) some of the following sections:
 
 - **Name**
-- **Description**  
+- **Description**
   What does the product do? Why is the product useful?
-- **Badges**  
+- **Badges**
   Badges contain metadata that show that the project is taken care of.
-- **Visuals**  
+- **Visuals**
   Sometimes it is useful to add some screenshots or videos.
-- **Installation instructions**  
+- **Installation instructions**
   How to install the product?
-- **Operating instructions**  
+- **Operating instructions**
   How to use the product? Provide examples.
-- **Support/troubleshooting**  
+- **Support/troubleshooting**
   Where can the user get help with the product?
-- **Roadmap**  
+- **Roadmap**
   Ideas for future releases.
-- **Contributing**  
+- **Contributing**
   Are you open to contributions? In what conditions?
-- **Authors and acknowledgment**  
+- **Authors and acknowledgment**
   Who maintains and contributes to the project? Acknowledge the authors and maintainers.
 - **Copyright and licensing information**
 - **Known bugs**
