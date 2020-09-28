@@ -56,9 +56,9 @@ Source: [How to Become a Technical Writer: A Beginner’s Guide](https://www.ins
 Example article: [pull request](https://github.com/DXHeroes/knowledge-base/blob/master/practices/pull_requests.md) ([raw](https://raw.githubusercontent.com/DXHeroes/knowledge-base/master/practices/pull_requests.md))
 
 - **meta informations**
-  - starting with `---` (a triple dash) and ending with a second `---` (triple dash)
-  - contains meta info of the article
-  - **slug** - friendly ID of the article visible in the URL of the Knowledge base (e.g.: `https://developerexperience.io/practices/pull-requests`
+  - Starting with `---` (a triple dash) and ending with a second `---` (triple dash)
+  - Contains meta info of the article
+  - **slug** - A friendly ID of the article visible in the URL of the Knowledge base (e.g.: `https://developerexperience.io/practices/pull-requests`
   - **stages** - Categorizes the article to some stages of the project. Valid values are:
     - `research`
     - `building_team`
@@ -66,21 +66,21 @@ Example article: [pull request](https://github.com/DXHeroes/knowledge-base/blob/
     - `launch`
     - `maintenance`
     - `phase_out`
-  - **short_description** - description of the article used for [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization)
-    - max. 250 characters long
+  - **short_description** - The description of the article used for [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization)
+    - Max. 250 characters long
   - **tags**
-    - visible to use in the Article's detail
-    - used to connect problems and practices with other similar areas than aspect or stage
-    - each tag has it's own detail (e.g. [tag design-sprint](https://developerexperience.io/tags/design-sprint))
-    - amount of tags for the article is not limited
+    - Visible to use in the Article's detail
+    - Used to connect problems and practices with other similar areas than aspect or stage
+    - Each tag has it's own detail (e.g. [tag design-sprint](https://developerexperience.io/tags/design-sprint))
+    - Amount of tags for the article is not limited
   - **keywords**
-    - invisible in the KB
-    - used for [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization)
-    - max. 10 keywords
+    - Invisible in the KB
+    - Used for [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization)
+    - Max. 10 keywords
 - **markdown content**
-  - everything behind the second `---` (triple dash)
+  - Everything behind the second `---` (triple dash)
   - **headlines**
-    - first H1 is recognized as the name of the article
+    - The first H1 is recognized as the name of the article
     - We want to keep similar structure of all articles informing about the practice or problem. So we require to keep only few specific H2 headings:
       - `What Is a %{name}`
       - `Why You Might Want the %{name}`
@@ -90,6 +90,10 @@ Example article: [pull request](https://github.com/DXHeroes/knowledge-base/blob/
       - `Resources for the %{name}`
     - Follow the "The Chicago Manual of Style" to capitalize your titles
       - You can use this tool for the title capitalization: [Capitaize My Title](https://capitalizemytitle.com). Write your title and select "Chicago".
+    - **Links**
+      - Links to another DX Knowledgebase practice `/practices/%{practice}`
+      - Links to another DX Knowledgebase problem `/problems/%{problem}`
+      - Links to another DX Knowledgebase tag `/tags/%{tag}`
 
 ## Copyright and Licensing
 

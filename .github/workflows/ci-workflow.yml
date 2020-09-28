@@ -1,8 +1,6 @@
 ***REMOVED***
 
 ***REMOVED***
-
-***REMOVED***
 ***REMOVED***
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ***REMOVED***
@@ -13,7 +11,7 @@
 
 ***REMOVED***
 ***REMOVED***
-***REMOVED***
+    on: pull_request_target
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
@@ -42,7 +40,10 @@
 ***REMOVED***
 
 ***REMOVED***
-***REMOVED*** && github.base_ref == 'master'
+    on:
+      pull_request_target:
+        branches:
+          - master
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
@@ -57,7 +58,8 @@
 ***REMOVED***
 
 ***REMOVED***
-***REMOVED***
+    on: push
+    if: github.ref == 'refs/heads/master'
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
