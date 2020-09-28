@@ -1,7 +1,5 @@
 name: Node CI - Check Article Validity & Deploy
 
-on: [push, pull_request_target]
-
 env:
   CI: true
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -13,7 +11,7 @@ env:
 
 jobs:
   check-article:
-    if: github.event_name == 'pull_request_target'
+    on: pull_request_target
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -42,7 +40,10 @@ jobs:
   #       run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_HEAD_REF"'
 
   deploy-to-preview:
-    if: github.event_name == 'pull_request_target' && github.base_ref == 'master'
+    on:
+      pull_request_target:
+        branches:
+          - master
     needs: check-article
     runs-on: ubuntu-latest
     steps:
@@ -57,7 +58,8 @@ jobs:
         run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "repo_url=$HEAD_REPO_GIT_URL" -d "branch=$GITHUB_HEAD_REF"'
 
   deploy-to-production:
-    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    on: push
+    if: github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
