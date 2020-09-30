@@ -14,7 +14,7 @@ During the event, we will be periodically updating the **"Leaderboard of Contrib
 - Keep an eye on the Leaderboard of Contributors periodically posted on our [Twitter](https://twitter.com/DX_Heroes)
 - Have fun!
 
-Check the [Issues tab](https://github.com/DXHeroes/knowledge-base-content/contribute) first for articles we would highly appreciate your help with. If you have a different topic from the world of DX, we are excited for what you will create! Creativity has no bounds! 😊
+Check the [Issues tab](https://github.com/DXHeroes/knowledge-base-content/contribute) first for articles we would highly appreciate your help with. If you have a different topic from the world of DX, we are excited about what you will create! Creativity has no bounds! 😊
 
 Please follow our [Contribution Guide](CONTRIBUTING.md) 🖤
 
