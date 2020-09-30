@@ -12,24 +12,24 @@ Please refer to each project's style and contribution guidelines for submitting 
 
 Follow these steps:
 
-1. **Fork** the repo on GitHub
-2. **Clone** the project to your own machine
-3. **Commit** changes to your own branch
-4. **Push** your work back up to your fork
-5. Submit a **Pull Request** so that we can review your changes
+1. **Fork** the repo on GitHub.
+2. **Clone** the project to your own machine.
+3. **Commit** changes to your own branch.
+4. **Push** your work back up to your fork.
+5. Submit a **Pull Request** so that we can review your changes.
 
 **NOTE: Ensure that you merge the latest changes from "upstream" before making a pull request.**
 
 ### Feeling and Grammar
 
-- Use active voice whenever possible
-- Establish a clear structure and try to be precise
-- Be brief, clear, and direct
-  - Important information in the main clause
-- Simplify your language
-  - Use fewer words and get to the point
-- Avoid jargon and abbreviations
-  - Define acronyms and initialism on their first use - give the abbreviation in parentheses after the full terminology
+- Use active voice whenever possible.
+- Establish a clear structure and try to be precise.
+- Be brief, clear, and direct.
+  - Important information in the main clause.
+- Simplify your language.
+  - Use fewer words and get to the point.
+- Avoid jargon and abbreviations.
+  - Define acronyms and initialism on their first use - give the abbreviation in parentheses after the full terminology.
 - Use a grammar check tool, for example:
   - [Grammarly](https://www.grammarly.com)
   - [Microsoft Word Spelling and Grammar with the Readability Measurement](https://support.office.com/en-us/article/check-spelling-and-grammar-in-office-5cdeced7-d81d-47de-9096-efd0ee909227)
@@ -41,9 +41,9 @@ Source: [How to Become a Technical Writer: A Beginner’s Guide](https://www.ins
 **Repository Folders**
 
 - There are 3 important folders in the root of the repository:
-  - [**files**](https://github.com/DXHeroes/knowledge-base/tree/master/files) - stores all the images and other files necessary for articles (problem/practice)
-  - [**problems**](https://github.com/DXHeroes/knowledge-base/tree/master/problems) - stores all DX problems
-  - [**practices**](https://github.com/DXHeroes/knowledge-base/tree/master/practices) - stores all DX practices
+  - [**files**](https://github.com/DXHeroes/knowledge-base/tree/master/files) - stores all the images and other files necessary for articles (problem/practice).
+  - [**problems**](https://github.com/DXHeroes/knowledge-base/tree/master/problems) - stores all DX problems.
+  - [**practices**](https://github.com/DXHeroes/knowledge-base/tree/master/practices) - stores all DX practices.
 
 **File Format**
 
