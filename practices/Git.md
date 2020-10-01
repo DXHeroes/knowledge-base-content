@@ -58,41 +58,50 @@ It is an independent line of development for a particular project having its com
 
 #### Index
 
-According to the git's point of view, it has mainly three areas: **Working directory, staging area and the repository**. When we work on a project on our local machine, it is stored in your computer's filesystem which can be called as **working directory**.  
+According to the git's point of view, it has mainly three areas: **Working directory, staging area, and the repository**. When we work on a project on our local machine, it is stored in your computer's filesystem which can be called **working directory**. The changes that are made to the project will remain in the working directory unless we add them to the staging area using the `git add` command. The staging area can be described as the initial state of the new commit. The staging area can be used to fine-tune the commits by adding or removing until it suits you, after which you can do `git commit` to save it to the directory as an object. For this process, git doesn't use any directory but on the other hand, it uses **index** which can be used to track changes.
 
 
 
-## Problems the Git Flow Solves
+## Why git is preferred
 
-- [Poor code quality](/problems/poor-code-quality)
-- Unhappy clients
-- Knowledge hoarding
-- ["Not my problem" mentality](/problems/not-my-problem-mentality)
-- [Meaningless work](/problems/meaningless-work)
+- Git is much faster than Subversion.
+- Git's repositories are much smaller than Subversions.
+- Git was designed to be fully distributed from the start, allowing each developer to have full local control.
+- Git branches are simpler and less resource heavy than Subversion's.
+- Git branches carry their entire history.
+- Git provides better auditing of branch and merge events
+- Git's repo file formats are simple, so repair is easy and corruption is rare.
+- Git repository clones act as full repository backups.
 
-## How to Implement the Git Flow
 
-There are lots of different applications that support Git Flow branching model and have specific feature settings for Git Flow (such as [SourceTree](https://www.sourcetreeapp.com/), [SmartGit](https://www.syntevo.com/smartgit/) or [GitKraken](https://www.gitkraken.com/)). Pick the application suitable for your operation system to initialize the Git Flow.
 
-Customize your project setup by following these steps:
+## Basics of using git
+There are a lot of ways that you can start. For your guidance, I have compiled which I call a noob guide to start with git.🙂
 
-1. Start using git-flow by cloning an existing git repository.
-2. Create an empty develop branch to complement the default master branch. Push it to the server.
-3. Development of new features starts from the develop branch. Each feature resides in its own branch. Push the feature branches to the git repository for backup.
-4. Merge the feature branch back into develop branch when the feature is finished.
-5. Create a release branch when the features are ready for a release. The parent is the develop branch.
-6. Merge the release branch into the master branch and tag it with a version number. After that, it is merged back into the develop branch so the progress since the release is saved. The release branch will be deleted.
-7. If you need to make some critical changes, create a hotfix branch. Fork the branch directly off of the master branch. When you are finished with the changes, merge the hotfix branch to both master and develop branch (or the current release branch). Tag the master branch with an updated version number.
+You can start by following these steps:
 
-## Common Pitfalls of the Git Flow
+1. First, download git. For windows, you can download it from [here](https://git-scm.com/downloads). For Linux use this command `sudo apt-get update $ sudo apt-get install git`. For MAC you can download it from [here](https://sourceforge.net/projects/git-osx-installer/files/).
+2. Create an empty repository by using the `git init` command or you can checkout a repository by `git clone /path/to/repository` command while using a remote server you can use `git clone username@host:/path/to/repository`.
+3. Now make the changes in the repository according to your need. (This step will follow the workflow that was discussed above)
+4. The changes made by you can be proposed (add to **INDEX**) using `git add <filename>`.
+5. To commit these changes you can use `git commit -m "Commit message"`.
+6. Now the changes that you have made are in the **head** to send it to the remote repository use `git push origin master`. If you have not cloned the repository you can use `git remote add origin <server>`.
+7.If you want to add a feature to your project but don't want to disturb the original project you can make a branch out of the main project by using `git checkout -b feature_x` command. You can switch to the original project by using the `git checkout master` command. Remember unless you push the branch using `git push origin <branch>` it will not be publicly available.
 
-- Not every team member uses Git Flow Workflow. It is crucial for smooth project development to ensure that all the team understands and uses the same workflow.
-- The Git Flow Workflow is customized for a specific product. The setting is too complicated for a new developer.
-- The team has too many features and is unable to finish them before the release. Development is drifting away from production.
 
-## Resources for the Git Flow
+Hurrayy!! you created your first branch commit with knowing what exactly goes in the backend.🎉
 
-- Atlassian: [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
-- Nvie: [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-- Git Tower: [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/git-flow)
-- Daniel Kummer: [Git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+## Some Pitfalls of the Git 
+
+- User interface maturity
+- Single repository
+- Access controls
+- Binary Files.
+
+## Resources for Git 
+
+- [Git-101](https://rogerdudler.github.io/git-guide/)
+- [Git Data model](https://medium.com/hackernoon/https-medium-com-zspajich-understanding-git-data-model-95eb16cc99f5)
+- [Git Branching](https://medium.com/hackernoon/understanding-git-branching-2662f5882f9)
+- [Git Index](https://medium.com/hackernoon/understanding-git-index-4821a0765cf)
+
