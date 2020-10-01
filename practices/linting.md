@@ -49,6 +49,8 @@ Linters are available for most programming languages. Here are the most common o
 - for Ruby: [rust-clippy](https://github.com/rust-lang/rust-clippy)
 - for more information, see [Hugo Martins: Awesome Linters](https://github.com/caramelomartins/awesome-linters)
 
+You should restrain from using TSLint as your linter for JavaScript. Palantir (the creator of TSlint) deprecated their linter in favor of Eslint's improvements ([Source](https://medium.com/palantir/tslint-in-2019-1a144c2317a9)).
+
 ## Why You Might Want the Linting
 
 - Linting helps you reduce errors and improve the quality of your code.
