@@ -105,3 +105,4 @@ TypeScript has a well-written documentation. Learn how to use TypeScript: [TypeS
 - Medium: [Typescript — Why should one use it ?](https://medium.com/tech-tajawal/typescript-why-should-one-use-it-a539faa92010)
 - Medium: [What is TypeScript and When to Use It](https://medium.com/datadriveninvestor/what-is-typescript-and-when-to-use-it-6a5ad9062f3e)
 - ably: [How TypeScript is making programming better](https://www.ably.io/blog/typescript-is-making-programming-better)
+- Microsoft: [TypeScript tutorial in Visual Studio Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial)
