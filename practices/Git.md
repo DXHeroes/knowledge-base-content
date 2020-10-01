@@ -36,8 +36,8 @@ Git is a distibuted version control system (VCS) tool used for tracking code in 
 ## What Is a Git?
 
 Git is one of many VCS that are there in the market but it simply is the most popular among the developers. It allows flawless management for large and small projects. The basic difference between git and other VCS is mainly the way they store their files. Generally, VCS other than Git store files in the form of a list as file-based changes (this is known as delta-version control system). 
-But Git on the other saves the data in the form of snapshots of the file-system. Whenever you commit some changes to the project it will take the snapshot and save it with a reference and for efficiency, it does not take the snapshot if the file is not changed it just links it to the previous ones.
-It was created by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) in 2005 for the development of [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel).
+But Git on the other hand saves the data in the form of snapshots of the file-system. Whenever you commit some changes to the project it will take the snapshot and save it with a reference and for efficiency, it does not take the snapshot if the file is not changed it just links it to the previous ones.
+It was first created by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) in 2005 for the development of [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel).
 
 
 ## How does it work?
