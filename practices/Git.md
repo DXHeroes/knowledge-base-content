@@ -2,7 +2,7 @@
 slug: Git
 stages:
   - development
-short_description: Git is a distibuted version control system (VCS) tools used for tracking code in a software development project.
+short_description: Git is a distibuted version control system (VCS) tool used for tracking code in a software development project.
 tags:
   - git 
   - branching
@@ -31,7 +31,7 @@ keywords:
 
 **TL;DR**
 
-Git is a distibuted version control system (VCS) tools used for tracking code in a software development project.
+Git is a distibuted version control system (VCS) tool used for tracking code in a software development project.
 
 ## What Is a Git?
 
