@@ -1,6 +1,6 @@
 # DX Knowledge Base
 
-[developerexperience.io](https://developerexperience.io) is an open source knowledge base that stores articles related to developer experience.
+[developerexperience.io](https://developerexperience.io) is an open-source knowledge base that stores articles related to developer experience.
 
 ## Hacktoberfest 2020 🎉
 
