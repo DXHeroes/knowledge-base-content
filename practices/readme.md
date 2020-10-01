@@ -95,6 +95,7 @@ README contains all the important information about your product. It answers the
 
 - Github: [About READMEs](https://help.github.com/en/articles/about-readmes)
 - Github: [Making Readmes Readable](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md#list-the-licensing-information-for-your-project)
+- Github: [awesome-readme: A curated list of awesome READMEs](https://github.com/matiassingers/awesome-readme)
 - Computer Hope: [README file](https://www.computerhope.com/jargon/////r/readme.htm)
 - Danny Guo: [Make a README](https://www.makeareadme.com/)
 - Medium: [A Beginners Guide to writing a Kickass README](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
