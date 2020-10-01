@@ -33,7 +33,7 @@ The first thing everyone sees in your product directory is README - an introduct
 
 ## What Is a README
 
-A README is a text file that introduces a product to a user. It contains information that explains why the product is useful. It also ensures that the user knows how to use the product. A README file is usually the first thing the user sees in the directory of the product. It is most commonly written in a Markdown, which is a lightweight markup language with plain text format (for more information, see Wikipedia: [Markdown](https://en.wikipedia.org/wiki/Markdown)).
+A README is a text file that introduces a product to a user and explains the project. It contains information that is commonly required to understand what the project is about. It contains information that explains why the product is useful. It also ensures that the user knows how to use the product. A README file is usually the first thing the user sees in the directory of the product. It is most commonly written in a Markdown, which is a lightweight markup language with plain text format (for more information, see Wikipedia: [Markdown](https://en.wikipedia.org/wiki/Markdown)).
 
 A README file typically includes (at least) some of the following sections:
 
@@ -87,7 +87,7 @@ README contains all the important information about your product. It answers the
 ## Common Pitfalls of the README
 
 - It is not being updated regularly.
-- It is too short or too long.
+- It is too short nor too long.
 - The maintainer is not mentioned - the support is missing.
 - It is not part of the depository and, therefore, difficult to find. Developers are used to looking for README in the root.
 
