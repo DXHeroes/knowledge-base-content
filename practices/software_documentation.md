@@ -52,7 +52,7 @@ There are two types of software documentation: **internal** and **external**.
 - **End-user documentation**  
   Readme, installation guides, tutorials and other types of product documentation provided for the end users.
 
-## Why You Might Want the Software Documentation
+## Pros of Software documentation
 
 Software documentation helps:
 
@@ -62,7 +62,7 @@ Software documentation helps:
 - to improve your brand. High-quality end-user documentation ensures your customers that you are there to support them and help them.
 - with communication. Software documentation serves as a communication tool between the team members, stakeholders, and your future self.
 
-## Problems the Software Documentation Solves
+## Problems solved by Software Documentation 
 
 - [Poor code quality](/problems/poor-code-quality)
 - ["Not my problem" mentality](/problems/not-my-problem-mentality)
@@ -73,7 +73,7 @@ Software documentation helps:
 - [Long Feedback Loops](/problems/long-feedback-loops)
 - [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 
-## How to Implement the Software Documentation
+## How to Implement Software Documentation
 
 1. **Hire a tech writer**  
    If it is possible, hire a technical writer and let them take care of your software documentation.
