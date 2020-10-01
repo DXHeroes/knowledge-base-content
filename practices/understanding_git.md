@@ -1,5 +1,5 @@
 ---
-slug: understanding_git
+slug: understanding-git
 stages:
   - development
 short_description: Git is a distributed version control system (VCS) tool used for tracking source code while developing software and it also increases the coordination among fellow developers.
@@ -27,7 +27,7 @@ keywords:
   - pull
 ---
 
-# Git 
+# Understanding Git 
 
 **TL;DR**
 
