@@ -88,3 +88,5 @@ For the correct application of Smoke Tests, the following rules apply:
 - Guru99: [What is Smoke Testing? How to do with EXAMPLES](https://www.guru99.com/smoke-testing.html)
 - QAFox: [What is Smoke Testing ?](http://www.qafox.com/smoke-testing/)
 - ReQtest: [11 Quick Tips to Master Smoke Testing](https://reqtest.com/testing-blog/smoke-testing-2/)
+
+[Smoke test](/files/smoke.png)
