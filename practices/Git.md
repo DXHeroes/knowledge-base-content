@@ -45,7 +45,7 @@ It was first created by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Tor
 ![Git_understanding](/files/Git_i_dont_know.png)</br>
 Nvie: [Git understranding](https://medium.com/hackernoon/https-medium-com-zspajich-understanding-git-data-model-95eb16cc99f5)
 
-Git is a lot more complicated than it looks at its front end command line. Let's have a look at it.
+Git is lot more complicated than it looks at it's front end command line. Let's have a look at it.
 
 #### Data Model
 
@@ -73,8 +73,6 @@ According to the git's point of view, it has mainly three areas: **Working direc
 - Git's repo file formats are simple, so repair is easy and corruption is rare.
 - Git repository clones act as full repository backups.
 
-
-
 ## Basics of using git
 There are a lot of ways that you can start. For your guidance, I have compiled which I call a noob guide to start with git.🙂
 
@@ -86,7 +84,7 @@ You can start by following these steps:
 4. The changes made by you can be proposed (add to **INDEX**) using `git add <filename>`.
 5. To commit these changes you can use `git commit -m "Commit message"`.
 6. Now the changes that you have made are in the **head** to send it to the remote repository use `git push origin master`. If you have not cloned the repository you can use `git remote add origin <server>`.
-7.If you want to add a feature to your project but don't want to disturb the original project you can make a branch out of the main project by using `git checkout -b feature_x` command. You can switch to the original project by using the `git checkout master` command. Remember unless you push the branch using `git push origin <branch>` it will not be publicly available.
+7. If you want to add a feature to your project but don't want to disturb the original project you can make a branch out of the main project by using `git checkout -b feature_x` command. You can switch to the original project by using the `git checkout master` command. Remember unless you push the branch using `git push origin <branch>` it will not be publicly available.
 
 
 Hurrayy!! you created your first branch commit with knowing what exactly goes in the backend.🎉
@@ -96,7 +94,7 @@ Hurrayy!! you created your first branch commit with knowing what exactly goes in
 - User interface maturity
 - Single repository
 - Access controls
-- Binary Files.
+- Binary Files
 
 ## Resources for Git 
 
