@@ -66,7 +66,7 @@ validate()
     console.error(error);
     warn('Something is wrong. The validation failed with server error.');
   });
-
+//validation result
 interface ValidationResult {
   infos: string[];
   warns: string[];
