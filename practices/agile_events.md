@@ -62,6 +62,7 @@ The six key events are:
 6. The Sprint
 
 ![Agile Events](/files/agile_events.jpg)
+
 [Norex.net](https://www.norex.net/)
 
 Let us explain what those events mean:
@@ -89,9 +90,9 @@ The events should be chosen wisely. For example, Waterfall methodology is genera
 
 ## Why You Might Want the Agile Events
 
-Every project phase needs its own set of events. Those events help the team to work faster, more efficiently, and closer together. Worklow is simplified and the Product Backlog items are clearer.
+Every project phase needs its own set of events. Those events help the team to work faster, more efficiently, and closer together. Worklow is simplified and the Product Backlog items are more clear.
 
-Even though the events are designed to help, developers may struggle to find every single meeting useful. The most hated meetings are the daily standups because they sometimes seem like a waste of time even if they last just a few minutes. It is important to recognise that the daily standups are important for sharing knowledge, identifying problems sooner, measuring the progress and last but not least, building team unity by encouraging cooperation. Team members will often realise value from these events after they have attended, where they may at first have been reluctant to do so.
+Even though the events are designed to help, developers may struggle to find every single meeting useful. The most hated meetings are the daily standups because they sometimes seem like a waste of time even if they last just a few minutes. It is important to recognise that the daily standups are important for sharing knowledge, identifying problems sooner, measuring the progress and last but not least, building team unity by encouraging cooperation. Team members will often realise value from these events after they have attended, where they may at first have been reluctant todo so.
 
 ## Problems the Agile Events Solve
 
@@ -119,7 +120,7 @@ Even though the events are designed to help, developers may struggle to find eve
 - **[Demotivated team](/problems/demotivated-team)**
   The team is confused. They do not understand why they should do the events, the planning does not work.
 - **Events are not engaging**
-  Events are dehumanized, boring, the team members struggle to concentrate. Make the events fun! Be friendly, lightweight your language.
+  Events are dehumanized, boring, the team members struggle to concentrate. Make the events fun! Be friendly, lightweight to Present.
 - **Micromanagement**
   Everyday meetings can feel like an additional layer of micromanagement to a regular amount of work. Nobody likes micromanagement. Explain the benefits of periodic meetings to your team.
 - **Focusing too much on standups**
