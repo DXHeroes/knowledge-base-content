@@ -1,8 +1,8 @@
 ---
-slug: Git
+slug: understanding_git
 stages:
   - development
-short_description: Git is a distibuted version control system (VCS) tool used for tracking code in a software development project.
+short_description: Git is a distributed version control system (VCS) tool used for tracking source code while developing software and it also increases the coordination among fellow developers.
 tags:
   - git 
   - branching
@@ -31,7 +31,7 @@ keywords:
 
 **TL;DR**
 
-Git is a distibuted version control system (VCS) tool used for tracking code in a software development project.
+Git is a distributed version control system (VCS) tool used for tracking source code while developing software and it also increases the coordination among fellow developers.
 
 ## What Is a Git?
 
@@ -40,7 +40,7 @@ But Git on the other hand saves the data in the form of snapshots of the file-sy
 It was first created by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) in 2005 for the development of [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel).
 
 
-## How does it work?
+## How Does It Work?
 
 ![Git_understanding](/files/Git_i_dont_know.png)</br>
 Nvie: [Git understranding](https://medium.com/hackernoon/https-medium-com-zspajich-understanding-git-data-model-95eb16cc99f5)
@@ -62,7 +62,7 @@ According to the git's point of view, it has mainly three areas: **Working direc
 
 
 
-## Why git is preferred
+## Why Git Is Preferred
 
 - Git is much faster than Subversion.
 - Git's repositories are much smaller than Subversions.
@@ -73,7 +73,7 @@ According to the git's point of view, it has mainly three areas: **Working direc
 - Git's repo file formats are simple, so repair is easy and corruption is rare.
 - Git repository clones act as full repository backups.
 
-## Basics of using git
+## Basics of Using Git
 There are a lot of ways that you can start. For your guidance, I have compiled which I call a noob guide to start with git.🙂
 
 You can start by following these steps:
