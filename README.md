@@ -1,6 +1,6 @@
-# DX Knowledge Base
+# DX Knowledge Base - An open-source knowledge base covering topics about developer experience.
 
-[developerexperience.io](https://developerexperience.io) is an open source knowledge base that stores articles related to developer experience.
+[developerexperience.io](https://developerexperience.io) is an open-source knowledge base that stores articles related to developer experience.
 
 ## Hacktoberfest 2020 🎉
 
@@ -29,4 +29,4 @@ Feel free to contribute to DX Knowledge Base. Please follow our [Contribution Gu
 
 ## License
 
-The DX Knowledge Base open source project is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The DX Knowledge Base open-source project is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
