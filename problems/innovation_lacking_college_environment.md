@@ -34,9 +34,9 @@ keywords:
 
 # Innovation Lacking College Environment
 
-Colleges, the classroom and it's environment plays a major role in building onces developement interest. But most of them are all about doing the class assignments and scoring highest marks in exams. 
+Colleges, the classroom and it's environment plays a major role in building ones developement interest. But most of them are all about doing the class assignments and scoring highest marks in exams. 
 
-## What an ideal class should be like?
+## What An Ideal Class Should Be Like?
 
 A class should have students full of enthusiasm and passion for learning, developing and growing together and building great things. They should be supportive so that anyone in the class can learn from anyone. Should discuss about the technologies to solve problems innovatively. In short, they should be as creative as possible. And class of an engineering batch should be crazy about *tech* !
   
@@ -44,7 +44,7 @@ A class should have students full of enthusiasm and passion for learning, develo
 
 [Photo by Dio Hasbi Saniskoro from Pexels](https://instagram.com/Diohasbi)
 
-## Why classes lack innovation?
+## Why Classes Lack Innovation?
 
 Some of the reasons to this can be:
 
@@ -59,14 +59,14 @@ Some of the reasons to this can be:
 - **The communication and support**
   Unclear communication or a lack of communication can be also demotivating and kills innovations. And those who are about start their tech journey there, will find it very difficult to begin, as there will be no guidance and support for them when needed.
 
-## Ways to stay innovative
+## Ways To Stay Innovative
 Even if you have a non-innovative or a toxic class or college, there are plenty of resouces and ways to stay motivated and upskill yourself.
 - You can join your college's clubs and communities, and follow your passion. They are intented to help students grow.
 - Find communities and channels on social media, such as [Dev](https://dev.to) or [Freecodecamp](https://forum.freecodecamp.org/) (just to name a few).
 - Follow blogs and channels.
 - Particate into hackathons. There you will find many likeminded people, interact and learn from them. I tell you people in hackthons are very helpful!
 
-## Resources to keep your innovative geek alive
+## Resources To Keep Your Innovative Geek Alive
 
 - YouTube: [Traversy Media](https://www.youtube.com/user/TechGuyWeb) , [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - Blogs and learning: [Hackernoon](https://hackernoon.com/) ,  [geeksforgeeks](https://www.geeksforgeeks.org/), [Developer Experience](https://developerexperience.io/)
