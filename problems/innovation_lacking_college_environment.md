@@ -45,6 +45,7 @@ Colleges, the classroom and it's environment plays a major role in building once
 A class should have students full of enthusiasm and passion for learning, developing and growing together and building great things. They should be supportive so that anyone in the class can learn from anyone. Should discuss about the technologies to solve problems innovatively. In short, they should be as creative as possible. And class of an engineering batch should be crazy about *tech* !
   
 ![Innovation Lacking College Environment](/files/support.jpg)
+
 [Photo by Dio Hasbi Saniskoro from Pexels](https://instagram.com/Diohasbi)
 
 ## Why classes lack innovation?
