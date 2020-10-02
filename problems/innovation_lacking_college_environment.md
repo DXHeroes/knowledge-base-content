@@ -47,6 +47,7 @@ A class should have students full of enthusiasm and passion about learning, deve
 The team leaders should observe their teams and check if they are motivated enough. Talk to them, support them, share the goals with them. There are many useful practices that can help you to motivate your team. For example, [Retrospective](/practices/retrospective), [Bus Factor](/practices/bus-factor), [Mentoring](/practices/mentoring), [Kanban](/practices/kanban), Role Definition, or [Pair Programming](/practices/pair-programming). It is worth spending time with motivating the team. It always brings success.
 
 ![Innovation Lacking College Environment](/files/support.jpg)
+
 [Photo by Dio Hasbi Saniskoro from Pexels](https://instagram.com/Diohasbi)
 
 ## Reasons of the Demotivated Team
