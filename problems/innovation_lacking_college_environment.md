@@ -66,13 +66,13 @@ Some of the reasons to this can be:
 ## Ways to stay innovative
 Even if you have a non-innovative or a toxic class or college, there are plenty of resouces and ways to stay motivated and upskill yourself.
 - You can join your college's clubs and communities, and follow your passion. They are intented to help students grow.
-- Find communities and channels on social media, such as [Dev](https://dev.to) or [Freecodecam](https://forum.freecodecamp.org/) (just to name a few).
+- Find communities and channels on social media, such as [Dev](https://dev.to) or [Freecodecamp](https://forum.freecodecamp.org/) (just to name a few).
 - Follow blogs and channels.
 - Particate into hackathons. There you will find many likeminded people, interact and learn from them. I tell you people in hackthons are very helpful!
 
 ## Resources to keep your innovative geek alive
 
 - YouTube: [Traversy Media](https://www.youtube.com/user/TechGuyWeb) , [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-- Blogs and learning: [Hackernoon](https://hackernoon.com/) ,  [geeksforgeeks](https://www.geeksforgeeks.org/)
+- Blogs and learning: [Hackernoon](https://hackernoon.com/) ,  [geeksforgeeks](https://www.geeksforgeeks.org/), [Developer Experience](https://developerexperience.io/)
 - Hackathons: [MLH](https://mlh.io/) , [Hackerearth](hackerearth.com/challenges/) , [Devpost](https://devpost.com/)
 - Coding: [Codeforces](http://codeforces.com/) , [Codechef](http://codechef.com/) , [Hackerrank](https://www.hackerrank.com/)
