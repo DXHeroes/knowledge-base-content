@@ -42,36 +42,36 @@ Colleges, the classroom and it's environment plays a major role in building once
 
 ## What an ideal class should be like?
 
-A class should have students full of enthusiasm and passion about learning, developing and growing together and building great things. They should be supportive so that anyone in the class can learn from anyone. Should discuss about the technologies to solve problems innovatively. In short, they should be as creative as possible. And class of an engineering batch should be crazy about *tech* !
-
-The team leaders should observe their teams and check if they are motivated enough. Talk to them, support them, share the goals with them. There are many useful practices that can help you to motivate your team. For example, [Retrospective](/practices/retrospective), [Bus Factor](/practices/bus-factor), [Mentoring](/practices/mentoring), [Kanban](/practices/kanban), Role Definition, or [Pair Programming](/practices/pair-programming). It is worth spending time with motivating the team. It always brings success.
-
+A class should have students full of enthusiasm and passion for learning, developing and growing together and building great things. They should be supportive so that anyone in the class can learn from anyone. Should discuss about the technologies to solve problems innovatively. In short, they should be as creative as possible. And class of an engineering batch should be crazy about *tech* !
+  
 ![Innovation Lacking College Environment](/files/support.jpg)
-
 [Photo by Dio Hasbi Saniskoro from Pexels](https://instagram.com/Diohasbi)
 
-## Reasons of the Demotivated Team
+## Why classes lack innovation?
 
-Many factors can affect the team motivation. An unmotivated developer's work is less efficient. The efficiency can be affected by:
+Some of the reasons to this can be:
 
-- **The product**
-  The stakeholders need to verify and validate the product during development. If the developers have to make minor changes constantly, a lack of loyalty to the project can occur. The Product Owner should motivate the team with their common goal.
-- **The work environment**
-  Poor workplace conditions can be caused by a bad office design, insufficient developing tools, toxic relationships, and other influences.
-- **The Team Lead**
-  The Team Leader focuses on trivia. The developers feel like the team leader does not care about their work enough. The team leader does not identify themself with team problems.
-- **The inexperience**
-  Inexperienced colleagues or an inexperienced team leader can create more mistakes that demotivate the rest of the team.
-- **The communication**
-  Unclear communication or a lack of communication can be also demotivating. Good communication strengthens team relationships and trust towards the team leaders.
-- **The micromanagement**
-  Too much micromanagement makes the developers feel like they are not trusted. It also lowers the team leader’s productivity because they do not concentrate on their own work.
+- **Mindset**
+  There are many students who really don't care about learning and improving themself. They just come to college to mark attendance and talk to their friends and mates.
+- **The college culture**
+  If the college is not talking about innovation at all, then there are high chances students will be non-innovative. It is extremely toxic, as the students who were creative earlier will also start to lose their interest and passion.
+- **Focusing on academics only**
+ In many colleges, students are just focusing on reading their course books and finishing assignments on time, and scoring good marks in their exams. And absolutely not working upon upskilling themself. 
+- **Egoistic Students**
+  There are many students who don't want to help or support others in the class.
+- **The communication and support**
+  Unclear communication or a lack of communication can be also demotivating and kills innovations. And those who are about start their tech journey there, will find it very difficult to begin, as there will be no guidance and support for them when needed.
 
-## Resources for the Demotivated Team
+## Ways to stay innovative
+Even if you have a non-innovative or a toxic class or college, there are plenty of resouces and ways to stay motivated and upskill yourself.
+- You can join your college's clubs and communities, and follow your passion. They are intented to help students grow.
+- Find communities and channels on social media, such as [Dev](https://dev.to) or [Freecodecam](https://forum.freecodecamp.org/) (just to name a few).
+- Follow blogs and channels.
+- Particate into hackathons. There you will find many likeminded people, interact and learn from them. I tell you people in hackthons are very helpful!
 
-- Developer: [Seven Tips for Motivating Software Development Teams](https://www.developer.com/mgmt/seven-tips-for-motivating-software-development-teams.html)
-- Chron: [Role of Communication in Employee Motivation](https://smallbusiness.chron.com/role-communication-employee-motivation-11914.html)
-- Kukunu Engage: [Leadership Style: Agile Vs Micromanagement](https://engage.kununu.com/en/blog/leadership-style-agile-vs-micromanagement/)
-- Chron: [How To Motivate A Highly Demotivated Team](https://smallbusiness.chron.com/motivate-highly-demotivated-team-78572.html)
-- Svitla: [What Causes A Lack Of Motivation In Software Developers And How To Prevent It](https://svitla.com/blog/what-causes-a-lack-of-motivation-in-software-developers-and-how-to-prevent-it)
-- Cocoon Digital Media: [Feeling Demotivated As A Web Developer](https://createdbycocoon.com/post/feeling-demotivated-web-developer)
+## Resources to keep your innovative geek alive
+
+- YouTube: [Traversy Media](https://www.youtube.com/user/TechGuyWeb) , [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- Blogs and learning: [Hackernoon](https://hackernoon.com/) ,  [geeksforgeeks](https://www.geeksforgeeks.org/)
+- Hackathons: [MLH](https://mlh.io/) , [Hackerearth](hackerearth.com/challenges/) , [Devpost](https://devpost.com/)
+- Coding: [Codeforces](http://codeforces.com/) , [Codechef](http://codechef.com/) , [Hackerrank](https://www.hackerrank.com/)
