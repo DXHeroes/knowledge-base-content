@@ -2,10 +2,6 @@
 slug: innovation-lacking-college-environment
 stages:
   - development
-  - college
-  - graduation
-  - newbie
-  - innovation
 
 short_description: Colleges play a major role in developing a healthy developement environment. An innovative and supportive development college environment can help newbies to ace development career.
 
