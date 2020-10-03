@@ -2,7 +2,7 @@
 slug: understanding-git
 stages:
   - development
-short_description: Git is a distributed version control system (VCS) tool used for tracking source code while developing software and it also increases the coordination among fellow developers.
+short_description: Git is a distributed version control system (VCS) tool used for tracking source code during development. Utilizing Git improves collboration among fellow developers.
 tags:
   - git 
   - branching
@@ -31,7 +31,7 @@ keywords:
 
 **TL;DR**
 
-Git is a distributed version control system (VCS) tool used for tracking source code while developing software and it also increases the coordination among fellow developers.
+Git is a distributed version control system (VCS) tool used for tracking source code during development. Utilizing Git improves collboration among fellow developers.
 
 ## What Is a Git?
 
@@ -40,7 +40,7 @@ But Git on the other hand saves the data in the form of snapshots of the file-sy
 It was first created by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) in 2005 for the development of [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel).
 
 
-## How Does It Work?
+## How Does Git Work?
 
 ![Git_understanding](/files/Git_i_dont_know.png)</br>
 Nvie: [Git understranding](https://medium.com/hackernoon/https-medium-com-zspajich-understanding-git-data-model-95eb16cc99f5)
@@ -49,12 +49,15 @@ Git is lot more complicated than it looks at it's front end command line. Let's 
 
 #### Data Model
 
-When a repository is created and some changes are made and committed. Git generates a 40-Character checksum (SHA1) hash. These hashes are created for every object and the first two characters of the checksum are for the directory name and the rest of them are for the file name. 
-There are three types of objects created by git. First, is **blob** object which stores the snapshot of the files that we committed (there can n objects for n committed files). Second, it creates **tree** object which contains the list of all committed files having a pointer to blob objects. The third and final object is the **commit** object that has the pointer to the tree object.
+When you make a repository, do some changes, and create a commit, Git generates a 40-Character checksum (SHA1) hash. These hashes are created for every object and the first two characters of the checksum are for the directory name and the rest of them are for the file name. 
+There are three types of objects created by Git. 
+- First, is **blob** object which stores the snapshot of the files that we committed (there is a set of n objects for n committed files). 
+- Second, it creates **tree** object which contains the list of all committed files having a pointer to blob objects. 
+- The third and final object is the **commit** object that has the pointer to the tree object.
 
 #### Branching
 
-It is an independent line of development for a particular project having its commits. So how does git does the branching? For a layman, it looks like a list of commits but it is not exactly how it works. Git only keeps the track of the latest commit on a branch that can easily be used to reconstruct the whole commit list. It then used a pointer named **head** which has reference to the checkout branch and it is also used for tracking.
+A **branch** is an independent line of development for a particular project with its commits. How does Git does the branching? On the surface, it looks like a list of commits. However, Git only tracks the latest commit on the branch. Knowing the newest change, Git can easily reconstruct the whole commit list. A pointer named **head** which has a reference to the checkout branch (checkout branch can be navigated with `git checkout <branchname>` command and when one switches to this branch all the files in the working directory are changed to match this bracnch's version and it tells git to record all new commits on that branch) and is also used for tracking. 
 
 #### Index
 
@@ -62,9 +65,9 @@ According to the git's point of view, it has mainly three areas: **Working direc
 
 
 
-## Why Git Is Preferred
+## Why You Might Want Git
 
-- Git is much faster than Subversion.
+- Git is much faster than Subversion (an alternative VSC tool)
 - Git's repositories are much smaller than Subversions.
 - Git was designed to be fully distributed from the start, allowing each developer to have full local control.
 - Git branches are simpler and less resource heavy than Subversion's.
@@ -72,11 +75,10 @@ According to the git's point of view, it has mainly three areas: **Working direc
 - Git provides better auditing of branch and merge events
 - Git's repo file formats are simple, so repair is easy and corruption is rare.
 - Git repository clones act as full repository backups.
+- Solves the problem of poor code quality.
 
-## Basics of Using Git
-There are a lot of ways that you can start. For your guidance, I have compiled which I call a noob guide to start with git.🙂
-
-You can start by following these steps:
+## How to Implement Git
+There are a lot of ways that you can start. For your guidance, I have compiled a beginner guide.🙂
 
 1. First, download git. For windows, you can download it from [here](https://git-scm.com/downloads). For Linux use this command `sudo apt-get update $ sudo apt-get install git`. For MAC you can download it from [here](https://sourceforge.net/projects/git-osx-installer/files/).
 2. Create an empty repository by using the `git init` command or you can checkout a repository by `git clone /path/to/repository` command while using a remote server you can use `git clone username@host:/path/to/repository`.
@@ -95,6 +97,7 @@ Hurrayy!! you created your first branch commit with knowing what exactly goes in
 - Single repository
 - Access controls
 - Binary Files
+- Not enough understanding of commands😂
 
 ## Resources for Git 
 
