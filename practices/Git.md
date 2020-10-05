@@ -1,5 +1,5 @@
 ---
-slug: Git
+slug: git
 stages:
   - development
 short_description: Git is a distributed version control system (VCS) tool used for tracking source code during development. Utilizing Git improves collboration among fellow developers.
