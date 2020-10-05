@@ -1,5 +1,5 @@
 ---
-slug: understanding-git
+slug: Git
 stages:
   - development
 short_description: Git is a distributed version control system (VCS) tool used for tracking source code during development. Utilizing Git improves collboration among fellow developers.
@@ -27,15 +27,15 @@ keywords:
   - pull
 ---
 
-# Understanding Git 
+# Git 
 
 **TL;DR**
 
 Git is a distributed version control system (VCS) tool used for tracking source code during development. Utilizing Git improves collboration among fellow developers.
 
-## What Is a Git?
+## What Is Git?
 
-Git is one of many VCS that are there in the market but it simply is the most popular among the developers. It allows flawless management for large and small projects. The basic difference between git and other VCS is mainly the way they store their files. Generally, VCS other than Git store files in the form of a list as file-based changes (this is known as delta-version control system). 
+Git is one of many VCS that are there in the market but it simply is the most popular among the developers. It allows flawless management for large and small projects. The basic difference between Git and other VCS is mainly the way they store their files. Generally, VCS other than Git store files in the form of a list as file-based changes (this is known as delta-version control system). 
 But Git on the other hand saves the data in the form of snapshots of the file-system. Whenever you commit some changes to the project it will take the snapshot and save it with a reference and for efficiency, it does not take the snapshot if the file is not changed it just links it to the previous ones.
 It was first created by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) in 2005 for the development of [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel).
 
@@ -57,7 +57,7 @@ There are three types of objects created by Git.
 
 #### Branching
 
-A **branch** is an independent line of development for a particular project with its commits. How does Git does the branching? On the surface, it looks like a list of commits. However, Git only tracks the latest commit on the branch. Knowing the newest change, Git can easily reconstruct the whole commit list. A pointer named **head** which has a reference to the checkout branch (checkout branch can be navigated with `git checkout <branchname>` command and when one switches to this branch all the files in the working directory are changed to match this bracnch's version and it tells git to record all new commits on that branch) and is also used for tracking. 
+A **branch** is an independent line of development for a particular project with its commits. How does Git does the branching? On the surface, it looks like a list of commits. However, Git only tracks the latest commit on the branch. Knowing the newest change, Git can easily reconstruct the whole commit list. A pointer named **head** which has a reference to the checkout branch (checkout branch tells Git to record all new commits on that branch) and is also used for tracking. 
 
 #### Index
 
@@ -65,22 +65,16 @@ According to the git's point of view, it has mainly three areas: **Working direc
 
 
 
-## Why You Might Want Git
-
-- Git is much faster than Subversion (an alternative VSC tool)
-- Git's repositories are much smaller than Subversions.
-- Git was designed to be fully distributed from the start, allowing each developer to have full local control.
-- Git branches are simpler and less resource heavy than Subversion's.
-- Git branches carry their entire history.
-- Git provides better auditing of branch and merge events
-- Git's repo file formats are simple, so repair is easy and corruption is rare.
-- Git repository clones act as full repository backups.
-- Solves the problem of poor code quality.
+## Problems Git Helps to Solve
+* Lack of version control
+* Poor Code quality
+* Lack of teamwork / Lack of team contribution
+* Dependency oriented development (Wait times)
 
 ## How to Implement Git
 There are a lot of ways that you can start. For your guidance, I have compiled a beginner guide.🙂
 
-1. First, download git. For windows, you can download it from [here](https://git-scm.com/downloads). For Linux use this command `sudo apt-get update $ sudo apt-get install git`. For MAC you can download it from [here](https://sourceforge.net/projects/git-osx-installer/files/).
+1. First, download Git. For windows, you can download it from [here](https://git-scm.com/downloads). For Linux use this command `sudo apt-get update $ sudo apt-get install git`. For MAC you can download it from [here](https://sourceforge.net/projects/git-osx-installer/files/).
 2. Create an empty repository by using the `git init` command or you can checkout a repository by `git clone /path/to/repository` command while using a remote server you can use `git clone username@host:/path/to/repository`.
 3. Now make the changes in the repository according to your need. (This step will follow the workflow that was discussed above)
 4. The changes made by you can be proposed (add to **INDEX**) using `git add <filename>`.
@@ -94,10 +88,9 @@ Hurrayy!! you created your first branch commit with knowing what exactly goes in
 ## Some Pitfalls of the Git 
 
 - User interface maturity
-- Single repository
 - Access controls
-- Binary Files
-- Not enough understanding of commands😂
+- Developer updated Git binary files by hand and lost content history
+- Not enough understanding of Git commands😂
 
 ## Resources for Git 
 
