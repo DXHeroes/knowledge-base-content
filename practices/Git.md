@@ -63,7 +63,15 @@ A **branch** is an independent line of development for a particular project with
 
 According to the Git's point of view, it has mainly three areas: **Working directory, staging area, and the repository**. When we work on a project on our local machine, Git stores the changes in your computer's filesystem is **working directory**. The changes that are made to the project will remain in the working directory unless we add them to the staging area using the `git add` command. The staging area describes the initial state of the new commit. You can use the staging area to fine-tune the commits by adding or removing until it suits you, after which you can do `git commit` to save it to the directory as an object. For this process, Git doesn't use any directory but on the other hand, it uses an **index** which can be used to tracks changes.
 
-
+## Why Git Is Preferred
+- Git is much faster than Subversion (an alternative VSC tool)
+- Git's repositories are much smaller than Subversions.	
+- Git was designed to be fully distributed from the start, allowing each developer to have full local control.	
+- Git branches are simpler and less resource heavy than Subversion's.	
+- Git branches carry their entire history.	
+- Git provides better auditing of branch and merge events	
+- Git's repo file formats are simple, so repair is easy and corruption is rare.	
+- Git repository clones act as full repository backups.	
 
 ## Problems Git Helps to Solve
 * Lack of version control
