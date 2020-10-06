@@ -78,10 +78,15 @@ Pull request can also trigger CI/CD to make sure all automated tests pass before
 
 - Make sure that the pull requests are done regularly in your team and that nobody waits way too long for their code to be reviewed. If the code is left unchecked, it can lead to “long feedback loops” and it can effect team motivation.
 - Always have at least two possible approvers for each pull request. Having only one person that can merge pull requests could lead to power hoarding.
-- Encourage small pull requests. Nobody wants to review 5000+ lines of changes within one PR.
+- Encourage short pull requests, preferably not more than 250 lines changed. Large code changes make finding bugs much more difficult and hinder the code review process. A way to minimise large pull requests is to practice breaking down large features into smaller and independent tasks that can be done individually. This also allows different developers to work on issues simultaneously, speeding up product development.
+- Practice having relevant titles and descriptions for pull requests. The description to the pull request should clarify why the pull request is being made, what problem it resolves and how. Mentions to people that need to be involved in the discussion should also be made. Additionally, adding a screenshot or GIF to demonstrate the visual changes can go a long way in simplifying code review.
+
+![Example Pull Request](/files/good_pull_request_example.png)
+[The anatomy of a perfect pull request](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 
 ## Resources for Pull Requests
 
 - Hackernoon: [The art of pull request](https://hackernoon.com/the-art-of-pull-requests-6f0f099850f9)
 - Github: [Pull requests on GitHub](https://help.github.com/articles/about-pull-requests/)
 - Gitlab: [Merge requests on GitLab](https://docs.gitlab.com/ee/user/project/merge_requests/)
+- Medium: [The anatomy of a perfect pull request](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
