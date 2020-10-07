@@ -29,7 +29,7 @@ keywords:
 Responsibility is keeping up the trust and faith of people who trusts you, no matter what the situation is.
 
 
-## What is Responsibility
+## What Is Responsibility
 Responsibility is the combination of two words: **Response + ability**. It also means taking on more risk and therefore reward because it involves a degree of success and failure beyond oneself. People are responsible for themselves and so when failure happens, you are just failing yourself. When you choose to take on responsibilities beyond yourself, you are agreeing to take the interests of others into your hands in trying to do more, be more, and allow others to benefit from your being responsible.
 
 Responsibility is not for everyone. But it’s a powerful and deeply rewarding ship to navigate once embarked.
