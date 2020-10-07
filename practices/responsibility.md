@@ -2,24 +2,24 @@
 slug: responsibility
 stages:
   - development
- short_description: Responsibility is keeping up the trust and faith of people who trusts you, no matter what the situation is. Responsibility primarily involves two things -- authority and accountability; however, trust is often a factor as well.
+short_description: Responsibility is keeping up the trust and faith of people who trusts you, no matter what the situation is. Responsibility primarily involves two things -- authority and accountability; however, trust is often a factor as well.
 
- tags:
-    - responsibility
-    - team work
-    - ability
-    - response
-    - appreciation
-    - problems
-    - problem-solving
-    - assign
-    - leader
+tags:
+  - responsibility
+  - team work
+  - ability
+  - response
+  - appreciation
+  - problems
+  - problem-solving
+  - assign
+  - leader
 
- keywords:
-    - responsibility
-    - trust
-    - people
-    - benefits
+keywords:
+  - responsibility
+  - trust
+  - people
+  - benefits
 ---
 
 # Responsibility
