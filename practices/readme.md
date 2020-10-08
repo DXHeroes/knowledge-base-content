@@ -84,17 +84,18 @@ README contains all the important information about your product. It answers the
 6. Use examples.
 7. Link to other places if the data is too large or sensitive to keep it in README.
 
-## Common Pitfalls of the ReadMe
+## Common Pitfalls of the README
 
 - It is not being updated regularly.
 - It is too short or too long.
 - The maintainer is not mentioned - the support is missing.
 - It is not part of the depository and, therefore, difficult to find. Developers are used to looking for README in the root.
 
-## Resources for the ReadMe
+## Resources for the README
 
 - Github: [About READMEs](https://help.github.com/en/articles/about-readmes)
-- Github: [Making Readmes Readable](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md#list-the-licensing-information-for-your-project)
+- Github: [Making READMEs Readable](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md#list-the-licensing-information-for-your-project)
+- Github: [awesome-readme: A curated list of awesome READMEs](https://github.com/matiassingers/awesome-readme)
 - Computer Hope: [README file](https://www.computerhope.com/jargon/////r/readme.htm)
 - Danny Guo: [Make a README](https://www.makeareadme.com/)
 - Medium: [A Beginners Guide to writing a Kickass README](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)

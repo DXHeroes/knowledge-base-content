@@ -76,7 +76,7 @@ There can be one Tech Lead per team, or one Tech Lead for the back-end and anoth
 ## Common Pitfalls of the Tech Lead
 
 - The Tech Lead spends too much time coding.
-- The Tech Lead is from a different team and does not have sufficent product knowledge.
+- The Tech Lead is from a different team and does not have sufficient product knowledge.
 - The Tech Lead is a synonym for an enterprise architect.
 - They are just ghost Tech Leads, and they cannot keep up with the work. In such a case, there should be more Tech Leads, each product can have its own Tech Lead in a big corporate company.
 - The Tech Lead makes all the technical decisions. They become a bottleneck in the team and the other team members might feel demotivated.

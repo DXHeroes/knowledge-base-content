@@ -59,7 +59,7 @@ Examples of Package Managers:
 
 - [npm](https://en.wikipedia.org/wiki/Npm) and [Yarn](https://yarnpkg.com/lang/en/) for Javascript
 - [Bundler](https://bundler.io/) for Ruby
-- [Apache](https://maven.apache.org/) for Java
+- [Apache](https://maven.apache.org/) and [Gradle](https://gradle.org/) for Java
 - [Composer](https://getcomposer.org/) for PHP
 - [NuGet](https://www.nuget.org/) - for .NET
 - [apk-tools](http://apk-tools.sourceforge.net/) for UNIX like RAM-based embedded systems
