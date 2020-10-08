@@ -20,9 +20,14 @@ Follow these steps:
 
 **NOTE: Ensure that you merge the latest changes from "upstream" before making a pull request.**
 
+### Ensure that you submit original content 
+- We can not accept un-original content for ethical reasons
+- Moreover, using plagiarised articles would hurt trust given to the whole DX Knowledge Base
+
+**NOTE: We use plagiarism checkers as a part of the approval process**
 ### Feeling and Grammar
 
-- Use active voice whenever possible
+- Use active voice when possible
 - Establish a clear structure and try to be precise
 - Be brief, clear, and direct
   - Important information in the main clause
