@@ -27,7 +27,6 @@ Follow these steps:
 **NOTE: We use plagiarism checkers as a part of the approval process**
 ### Feeling and Grammar
 
-
 - Use active voice whenever possible.
 - Establish a clear structure and try to be precise.
 - Be brief, clear, and direct.
