@@ -6,17 +6,16 @@ stages:
 short_description: Documentation in a software project helps the end users to use the software effectively and saves a lot of time for them while trying to troubleshoot issues.
 
 tags:
-- Documentation
-- Helpful instructions
-- Docusaurus
-- GitBook
+  - Documentation
+  - Helpful instructions
+  - Docusaurus
+  - GitBook
 
 keywords:
-- Documentation
-- Helpful instructions
-- Docusaurus
-- GitBook
-
+  - Documentation
+  - Helpful instructions
+  - Docusaurus
+  - GitBook
 ---
 
 # Documentation
@@ -29,6 +28,9 @@ Every software should have documentation written for it. It helps users by provi
 
 Documentation in a software project is a manual that describes the architecture of the software and provides helpful instructions to the users. These instructions include an installation guide, how to use the software, and also guides to resolve common issues users might experience while working with the software.
 
+![documentation](/files/documentation)
+[Basics Of Technical Documentation For Engineers](https://medium.com/datasheetest-by-tdsmaker/basics-of-technical-documentation-for-engineers-36deab8d1220)
+
 ## Why You Might Want Documentation
 
 Providing clear documentation is important because it saves a lot of time for the users, other developers in the team, and even sometimes for the developer who wrote the code. How?
@@ -39,29 +41,42 @@ Providing clear documentation is important because it saves a lot of time for th
 
 - In case of a situation, where the developer took a break from the project for a brief period or when the codebase becomes larger, it might be hard for the developer to remember all the details without the help of documentation.
 
+- Even If you developed a good product but not provided the necessary information to use it, users probably won't use your product.
+
 ## Problems Documentation Helps to Solve
 
-- [Long feedback loops](/problems/long-feedback-loops)
 - [Poor code quality](/problems/poor-code-quality)
 - Less user support
+- Ambiguity
+- Less team collobaration
 
 ## How to Implement Documentation
 
-- Use tools such as [Docusaurus](https://docusaurus.io/) or [GitBook](https://www.gitbook.com/) to create documentation websites faster.
-
-- You can also create documentation websites with your preferred tech stack.
-
 - Documentation should be clear and concise and must be written in a way that is understandable by all types of users.
+
+- First, define the scope of your documentation and explain only those topics that fall under the scope.
+
+- If there is any other software or technology that is not part of your scope but serves as a prerequisite for understanding your documentation, add a new section at the beginning of the documentation such as getting started and provide references to the original documentations of those topics.
+
+- Provide step by step tutorials whenever possible.
+
+- Include the error messages one might encounter during the process and also explain how to fix it.
+
+- Update the documentation whenever you change the underlying functionality.
+
+- Follow a layout that is commonly used in other documentations.
+
+- Use tools such as [Docusaurus](https://docusaurus.io/) or [GitBook](https://www.gitbook.com/) to create documentation websites faster.
 
 ## Common Pitfalls of Documentation
 
-- Outdated documentation - Not updating the documentation when you change the underlying functionality, leads to more confusion than having no documentation.
+- Outdated documentation
 
-- Unclear documentation - Documentation that is not providing clear instructions serves less purpose. 
+- Unclear documentation
 
-- Unusual layout - All Documentations follow a similar layout. So, using an unusual layout makes it hard for the users to navigate through the documentation.
+- Unusual layout
 
-- Improper Hierarchy - Either in HTML or markdown format not following heading hierarchy makes it difficult for the user to skim through or locate a specific section within a documentation page.
+- Improper Hierarchy
 
 ## Resources for Documentation
 
