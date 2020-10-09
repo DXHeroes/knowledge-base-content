@@ -2,8 +2,7 @@
 slug: responsibility
 stages:
   - development
-short_description: Responsibility is keeping up the trust and faith of people who trusts you, no matter what the situation is. Responsibility primarily involves two things -- authority and accountability; however, trust is often a factor as well.
-
+short_description: Responsibility is about trusting people and their commitment towards the work assigned. A responsible person completes the task assigned to them no matter what the circumstances are.
 tags:
   - responsibility
   - team work
@@ -20,68 +19,65 @@ keywords:
   - trust
   - people
   - benefits
+  - team lead
 ---
 
 # Responsibility
 
 **TL;DR**
+Responsibility is about trusting people and their commitment towards the work assigned. A responsible person completes the task assigned to them no matter what the circumstances are.
 
-Responsibility is keeping up the trust and faith of people who trusts you, no matter what the situation is.
 
 
 ## What Is Responsibility
-Responsibility is the combination of two words: **Response + ability**. It also means taking on more risk and therefore reward because it involves a degree of success and failure beyond oneself. People are responsible for themselves and so when failure happens, you are just failing yourself. When you choose to take on responsibilities beyond yourself, you are agreeing to take the interests of others into your hands in trying to do more, be more, and allow others to benefit from your being responsible.
 
-Responsibility is not for everyone. But it’s a powerful and deeply rewarding ship to navigate once embarked.
+**Response + ability**, these two words combine to form a well known word **Responsibility**. It means the ability of a person to respond to a situation according to its capabilities. In tough situations, a responsible person will never shy away from its responsibilities, instead it will rise to the occasion to save the sinking ship. Taking responsibility requires a great sense of courage as well because if the person fails he or she not only fails themselves but also the entire team that are dependent on them. However, taking responsibility beyond oneself means a greater level of risk and therefore a greater degree of success.
 
-![Responsibility](https://shiftyourfamilybusiness.com/wp-content/uploads/2018/05/ResponsibilityBlog-845x321.jpg)
+Responsibility is not for everyone but who chooses to become responsible for their actions, achieves a greater sense of power and freedom.
+
+![Responsibility](/files/responsibility.jpg)
 
 
 ## Why You Might Want Responsibility
 
-Being responsible brings us many benefits. It can help us achieve our goals and objectives in any area of our life. Responsibility allows us to create principles, morals and helps us to lead your life. Being a responsible person helps us to:
+Responsibility brings us many folds of its benefits. It helps an individual achieve its goals and complete the assigned work before deadline. It helps the company or oganization work more efficiently and keep its client happy.
 
-**Be more independent:** Assuming the consequences of our actions will help us make better decisions.
-**Be more reliable**: By being responsible, we gain other's trust and we will also gain confidence in ourselves
-**Be more honest:** When we tend to tell the truth and keep our promises, the people around us will believe us and see us as an honest person.
+From a team point of view, if we have more responsible people in our team, the better will be our performance: 
+
+- Each team member will be able to work more independently and make better decisions. 
+- We can trust the team members about the work assigned to them.
+- The team members will also tend to be more honest and keep their promises.
+- It will create a nice environment for others members to work.
 
 
 
 ## Problems Responsibility Solves
 
-- Establishes team accountability
-- Key to great team work
-- Quality of output is usually high as the tasks done by the team are mostly interdependent
-- An individual is committed to complete the tasks allocated to them
-- Problem solving is given importance rather than blaming others
-- Makes your team members feel important and appreciated
-- Helps an individual do more, faster
+- Creates a positive atmosphere.
+- Matches the expectations of the company.
+- Increases the self worth of an individual, as the work done by them is appreciated.
+- Quality of work is higher and no poor quality work is done | [Poor Code Quality](https://developerexperience.io/problems/poor-code-quality)
+- Team focuses mostly on solving problems rather than indulging in any unhealtly blame game | [Demotivated Team](https://developerexperience.io/problems/demotivated-team)
+- The product a team is working is successful.
+- [No toxic team culture](https://developerexperience.io/problems/toxic-team-culture)
 
 
 ## How to Implement Responsibility
 
-- **Start by Talking**: The first step is to talk to the individuals concerned
-- **Ensure Adequate Resources**: A sensible action is to ensure that your people have the resources they need to do their job . This might include providing training, equipment, access to mentors  and coaches , and suchlike.
-- **Communicate Roles, Responsibilities, and Objectives**: Your people also need to know clearly what their job roles and responsibilities are.
-- **Re-Engage People**: You take responsibility for your actions, simply because you have a deep sense of pride in what you're doing. The same will likely hold true for your people: by working on [re-engaging](https://www.mindtools.com/pages/article/newTMM_83.htm) them.
-
-
-**Tips for implementing Responsibility**
-1. Make sure that you have clear, accurate examples that you can cite when you provide feedback. 
-2. Take the [How Well Do You Develop Your People?](https://www.mindtools.com/pages/article/team-development.htm)  self-test to improve your team development skills.
-3. Sometimes, people don't take responsibility because they feel apathetic about their work. They can't see how their efforts tie into the "bigger picture." So, make sure that they understand how their work ties into the larger goals of the organization
-4. People who don't take responsibility often play the blame game. When you notice team members starting to point the finger of blame, stop them immediately. 
-5. Be sure to give your people plenty of praise when they do take responsibility. And, help them improve by providing them with consistent, effective, fair feedback.
-
+- **Communication is the key**: The first step to implementing responsibility is talking to the concerned individual about their responsibility.
+- **Enough resources to complete their work**: The people must be given adequate resources that they might need to complete their work. This might include proper training, guidance, access to resources, etc. | [Home Office](https://developerexperience.io/practices/home-office)
+- **Responsibilities and Clearity**: The people must we well aware about their responsibiltes and have a sense of clearity about the tasks they have to perform. | [Team Roles Definition](https://developerexperience.io/practices/team-roles-definition)
+- **Re-assign**: There might me times when a person is not fit to be assigned a particular task so at those moments the responsibility must be re-assigned to a better person.
+- **Reflection Meetings**: The team members must have short and insightful meetings for reflection about their work done and to discuss future plans | [Meaningful Meetings](https://developerexperience.io/practices/meaningful-meetings) | [Retrospective](https://developerexperience.io/practices/retrospective)
+![Meetings](/files/responsibility2.jpg)
 
 ## Common Pitfalls of the Responsibility
 
-- People duck responsibilities for reasons like laziness
-- An individual might have a fear of failure
-- A sense of feeling overwhelmed by the scale of a problem or a situation.
-- Missing deadlines
-- Lacking interest in their work, and in the well-being of the team.
-
+- People run from responsibilities for reasons like low self-worth and fear | [Toxic Team Culture](https://developerexperience.io/problems/toxic-team-culture)
+- An individual may think he or she is not capable of taking a particular responsibilty.
+- A person might feel overwhelmed or underwhelmed by the responsibility given to them.
+- In-correct assignment of responsibilty. A person may or may not be suited for the particular task.
+- Lack of interest in their work and selfish nature.
 
 ## Resources for Responsibility
 
