@@ -79,6 +79,8 @@ Pull request can also trigger CI/CD to make sure all automated tests pass before
 ![Example Pull Request](/files/good_pull_request_example.png)
 [The anatomy of a perfect pull request](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 
+9. Add a pull request template to the root directory of your repositories. Alternatively, you can also add it to docs/ ,PULL_REQUEST_TEMPLATE/ or .github/. Pull request templates are markdown or simple text files that get added to the pull request description automatically. Name the file pull_request_template.md and include the formatting that you want to use in your pull requests. Using templates makes code review smoother by standardizing pull requests and also helps inexperienced developers write good pull requests.
+
 ## Common Pitfalls of Pull Requests
 
 - Make sure that the pull requests are done regularly in your team and that nobody waits way too long for their code to be reviewed. If the code is left unchecked, it can lead to “long feedback loops” and it can effect team motivation.
