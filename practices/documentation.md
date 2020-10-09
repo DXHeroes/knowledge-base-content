@@ -83,3 +83,5 @@ Providing clear documentation is important because it saves a lot of time for th
 - O'Reilly - [The eight rules of good documentation](https://www.oreilly.com/content/the-eight-rules-of-good-documentation/)
 
 - Open Source - [write better docs](https://opensource.com/business/15/5/write-better-docs)
+
+- Corilla blog - [If your product isn’t documented it doesn’t exist](https://medium.com/corilla-blog/if-your-product-isnt-documented-it-doesn-t-exist-c9d16dc5b620)
