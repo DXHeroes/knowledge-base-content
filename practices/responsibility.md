@@ -27,8 +27,6 @@ keywords:
 **TL;DR**
 Responsibility is about trusting people and their commitment towards the work assigned. A responsible person completes the task assigned to them no matter what the circumstances are.
 
-
-
 ## What Is Responsibility
 
 **Response + ability**, these two words combine to form a well known word **Responsibility**. It means the ability of a person to respond to a situation according to its capabilities. In tough situations, a responsible person will never shy away from its responsibilities, instead it will rise to the occasion to save the sinking ship. Taking responsibility requires a great sense of courage as well because if the person fails he or she not only fails themselves but also the entire team that are dependent on them. However, taking responsibility beyond oneself means a greater level of risk and therefore a greater degree of success.
@@ -36,7 +34,6 @@ Responsibility is about trusting people and their commitment towards the work as
 Responsibility is not for everyone but who chooses to become responsible for their actions, achieves a greater sense of power and freedom.
 
 ![Responsibility](/files/responsibility.jpg)
-
 
 ## Why You Might Want Responsibility
 
@@ -49,8 +46,6 @@ From a team point of view, if we have more responsible people in our team, the b
 - The team members will also tend to be more honest and keep their promises.
 - It will create a nice environment for others members to work.
 
-
-
 ## Problems Responsibility Solves
 
 - Creates a positive atmosphere.
@@ -60,7 +55,6 @@ From a team point of view, if we have more responsible people in our team, the b
 - Team focuses mostly on solving problems rather than indulging in any unhealtly blame game | [Demotivated Team](https://developerexperience.io/problems/demotivated-team)
 - The product a team is working is successful.
 - [No toxic team culture](https://developerexperience.io/problems/toxic-team-culture)
-
 
 ## How to Implement Responsibility
 
