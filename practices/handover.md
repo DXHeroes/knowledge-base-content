@@ -24,7 +24,7 @@ covered_by_dx_scanner: false
 
 Transferring projects from one team to another is often seen as a mammoth task.  It requires a complete transfer of roles and responsibilities. However, following set protocols, having strong communication and reciprocated motivation makes this whole process a lot smoother.
 
-## What Is A Handover?
+## What Is a Handover?
 
 A handover is a process of transferring the roles and responsibilities of a project from one team/individual to another. Typically, this transfer takes place over the duration of a couple of months, in order to ensure that the receiving team/individual has fully grasped the working of the project, and their roles corresponding to the same. 
 
@@ -32,7 +32,7 @@ A handover is a process of transferring the roles and responsibilities of a proj
 
 Handover documentation refers to the resources, notes and documents compiled or passed-on by staff members/teams who are about to leave thier current position (either temporarily or permanently). They are 'handed over' to the team/individual that will be succeeding them, in order to help them carry out their newly acquired duties with ease.
 
-## The Handover Procedure
+## Handover Procedure
 
 A typical handover spans across a couple of months, where the team/individual from the current team is in close communication with the individual/team onboarding onto the project. Having a knowledge transfer stratergy in place is one of the most effective ways of carrying out this transition.
 
@@ -43,7 +43,7 @@ In a broad sense, the handover procedure involves the following steps:
 4. Have a clear stratergy on the key aspects of the projects that you aim to cover
 5. Always leave room for questions, follow-ups and doubts!
 
-## The Handover Stratergy
+## Handover Stratergy
 
 Before initiating the handover process, the current team managing the project must have a clear vision about the end goal of this transition. That is, it is in the best interests of both teams to identify the key outcomes of this process.
 
@@ -65,7 +65,7 @@ A typical handover stratergy would cover the following aspects:
 4. __Multi-faceted Knowledge Transfer Process:__ Knowledge transfer during handover can take place across multiple channels. While face-to-face communication such as over a meeting online or in real-life is the most common, channels such as video guides, resource lists, workarounds and the sharing of previous obstacles and their corresponding solutions aid the process multifold.
 
 
-## Resources For Handover And Knowledge Transfer
+## Resources for Handover and Knowledge Transfer
 
 - [How To Document A Proper Handover](https://www.exponentiallydigital.com/agile-handover/)
 - [Agile Handover Across Software Teams](https://www.researchgate.net/publication/256293238_Is_there_an_Agile_Handover_An_Empirical_Study_of_Documentation_and_Project_Handover_Practices_Across_Agile_Software_Teams)
