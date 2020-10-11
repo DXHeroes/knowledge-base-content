@@ -1,5 +1,5 @@
 ---
-slug: team-culture
+slug: team_culture
 stages:
   - building_team
 short_description: A team culture is how people work together towards a common goal with team members sharing their values, beliefs, attitudes and behaviours.
@@ -26,7 +26,7 @@ keywords:
 
 Team Culture is an essential part of any organization and it emphasizes on achieving a common goal by sharing values, beliefs, attitudes and behaviours among team members.
 
-## What is Team Culture?
+## What Is Team Culture?
 
 Team Culture is not dependant on or created by an individual member's personality, but rather built on how the team collectively functions.
 
@@ -57,7 +57,7 @@ _"Teamwork is the ability to work together toward a common vision. The ability t
 
 Implementing team culture at first might be not easy but as you communicate with your co-workers and form a team, you get better at it. Organizing team meetings and discussion helps a lot in further developing team culture at your workplace.
 
-### Create Team leaders
+### Create Team Leaders
 
 Leader is a very important person in any team who plays a very crucial role in promoting team culture among members. The leader needs to lead the team by establishing trust among members. The leader must also know how to create enthusiasm in the team so that every member is motivated towards achieving the team's goal.
 
