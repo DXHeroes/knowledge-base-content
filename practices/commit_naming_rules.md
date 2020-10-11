@@ -49,7 +49,7 @@ Commit messages should indicate the type of commit. For that following type conv
 
 Besides these many organizations like Angular, use their  conventions and commit types like *'build:', 'docs:', 'refactor:',* etc.
 
-### Write Commit Message in the Imperative Mood
+### Write Commit Message In the Imperative Mood
 
 Commit messages, especially the subject lines should be written in the imperative mood, i.e., as if you were to command your code to perform some instruction. Like telling what git should do while applying that commit.
 
