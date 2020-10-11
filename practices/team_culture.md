@@ -1,5 +1,5 @@
 ---
-slug: team_culture
+slug: team-culture
 stages:
   - building_team
 short_description: A team culture is how people work together towards a common goal with team members sharing their values, beliefs, attitudes and behaviours.
