@@ -19,6 +19,7 @@ keywords:
 **TL;DR**
 
 A great onboarding process should help an employee identify with the company and feel a sense of belonging–like joining a family that welcomes you with open arms, but when this feeling is lost somewhere it leds to Bad Team Onboarding
+![Onboarding](/files/bad_team_onboarding.jpg)
 
 
 ## What is Bad Team Onboarding
