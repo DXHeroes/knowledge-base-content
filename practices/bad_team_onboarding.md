@@ -2,7 +2,7 @@
 slug: agile-events
 stages:
   - development
-short_description: The bad team onboarding is when your new members don't receive the crucial information at the pace.
+short_description: The bad team onboarding is when your new members don't receive the crucial information or vice-versa i.e. they are overflooded with the pointers and information at the pace.
 tags:
   - retrospective
   - refinement
@@ -22,12 +22,12 @@ A great onboarding process should help an employee identify with the company and
 ![Onboarding](/files/bad_team_onboarding.jpg)
 
 
-## What is Bad Team Onboarding
+## What Is Bad Team Onboarding
 
 Bad Team Onboarding refers to ruining entire experience of hiring, welcoming, orienting, and engaging a new hire and helping them become acclimated and integrated into the corporate culture.
 
 
-## Why Bad Team Onboarding occured
+## Why Bad Team Onboarding Occured
 1. NO PLAN, NO OBJECTIVES
 2. IT MOVES TOO FAST
 3. INADEQUATE NEW HIRE TRAINING
