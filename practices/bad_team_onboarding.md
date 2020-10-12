@@ -24,7 +24,7 @@ A great onboarding process should help an employee identify with the company and
 ## What Is Bad Team Onboarding
 
 Bad Team Onboarding refers to ruining entire experience of hiring, welcoming, orienting, and engaging a new hire and helping them become acclimated and integrated into the corporate culture.
-
+![Onboarding](/files/bad_team_onboarding.jpg)
 
 ## Why Bad Team Onboarding Occured
 1. NO PLAN, NO OBJECTIVES
