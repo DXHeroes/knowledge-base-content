@@ -48,7 +48,7 @@ _"Teamwork is the ability to work together toward a common vision. The ability t
 - Performance
 - Efficiency
 - Aggressive Competition
-- Demotivated Individuals
+- [Demotivated Team](/problems/demotivated-team)
 - Project Deadline
 - [Meaningless work](/problems/meaningless-work)
 - Lack of ideas
