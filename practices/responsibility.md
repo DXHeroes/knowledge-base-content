@@ -44,7 +44,6 @@ From a team point of view, if we have more responsible people in our team, the b
 - Each team member will be able to work more independently and make better decisions. 
 - We can trust the team members about the work assigned to them.
 - The team members will also tend to be more honest and keep their promises.
-- It will create a nice environment for others members to work.
 - Responsibility is a part of healthy [team culture](https://preview.developerexperience.io/practices/team-culture)
 
 ## Problems Responsibility Solves
