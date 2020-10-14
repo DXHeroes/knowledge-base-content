@@ -73,7 +73,7 @@ Be specific with each team member, every team member is different and providing 
 ## Common Pitfalls of Implementing Team Culture
 
 - Team does not have proper communication
-- Poorly set agenda for the team meetings
+- Team doesn't use meaningful meetings
 - My idea is perfect mindset
 - Not enough member participation
 - The lack of coordination
