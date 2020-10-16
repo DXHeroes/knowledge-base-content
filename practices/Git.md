@@ -40,10 +40,10 @@ But Git on the other hand saves the data in the form of snapshots of the file-sy
 It was first created by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) in 2005 for the development of the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel).
 
 
-## How Does Git Work?
+### How Does Git Work?
 
-![Git_understanding](/files/Git_i_dont_know.png)</br>
-Nvie: [Git understanding](https://medium.com/hackernoon/https-medium-com-zspajich-understanding-git-data-model-95eb16cc99f5)
+![Git_understanding](/files/Git_i_dont_know.png)
+[Nvie: Git understanding](https://medium.com/hackernoon/https-medium-com-zspajich-understanding-git-data-model-95eb16cc99f5)
 
 Git is a lot more complicated than its looks at it's front-end command line. Let's have a look at it.
 
@@ -63,7 +63,7 @@ A **branch** is an independent line of development for a particular project with
 
 According to the Git's point of view, it has mainly three areas: **Working directory, staging area, and the repository**. When we work on a project on our local machine, Git stores the changes in your computer's filesystem is **working directory**. The changes that are made to the project will remain in the working directory unless we add them to the staging area using the `git add` command. The staging area describes the initial state of the new commit. You can use the staging area to fine-tune the commits by adding or removing until it suits you, after which you can do `git commit` to save it to the directory as an object. For this process, Git doesn't use any directory but on the other hand, it uses an **index** which can be used to tracks changes.
 
-## Why Git Is Preferred
+## Why You Might Want the Git
 - Git is much faster than Subversion (an alternative VSC tool)
 - Git's repositories are much smaller than Subversions.	
 - Git was designed to be fully distributed from the start, allowing each developer to have full local control.	
@@ -75,12 +75,12 @@ According to the Git's point of view, it has mainly three areas: **Working direc
 
 ## Problems Git Helps to Solve
 * Lack of version control
-* Poor Code quality
+* [Poor Code quality](/problems/poor-code-quality)
 * Lack of teamwork / Lack of team contribution
 * Dependency oriented development (Wait times)
 
 ## How to Implement Git
-There are a lot of ways that you can start. For your guidance, I have compiled a beginner guide.🙂
+There are a lot of ways that you can start. For your guidance, I have compiled a beginner guide.
 
 1. First, download Git. For Windows, you can download it from [here](https://git-scm.com/downloads). For Linux use this command `sudo apt-get update $ sudo apt-get install git`. For MacOS you can download it from [here](https://sourceforge.net/projects/git-osx-installer/files/).
 2. Create an empty repository with the `git init` command. You can clone a repository using the `git clone /path/to/repository` command. If you are using a remote server you can use `git clone username@host:/path/to/repository` instead.
@@ -92,14 +92,14 @@ There are a lot of ways that you can start. For your guidance, I have compiled a
 
 
 
-Hurrayy!! you created your first branch commit with knowing what exactly goes in the backend.🎉
+Hurrayy!! you created your first branch commit with knowing what exactly goes in the backend.
 
-## Some Pitfalls of the Git 
+## Common Pitfalls of the Git 
 
 - User interface maturity
 - Access controls
 - Developer updated Git binary files by hand and lost content history
-- Not enough understanding of Git commands😂
+- Not enough understanding of Git commands
 
 ## Resources for Git 
 
