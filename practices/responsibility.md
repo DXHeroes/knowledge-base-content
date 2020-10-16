@@ -33,8 +33,8 @@ Responsibility is about trusting people and their commitment towards the work as
 
 Responsibility is not for everyone but who chooses to become responsible for their actions, achieves a greater sense of power and freedom.
 
-![Responsibility](https://shiftyourfamilybusiness.com/wp-content/uploads/2018/05/ResponsibilityBlog-845x321.jpg)
-[Responsibility](/files/responsibility.jpg)
+![Responsibility](/files/responsibility.jpg)
+[Your Response Is Your Responsibility](https://shiftyourfamilybusiness.com/2018/05/20/your-response-is-your-responsibility/)
 
 ## Why You Might Want Responsibility
 
@@ -64,8 +64,8 @@ From a team point of view, if we have more responsible people in our team, the b
 - **Responsibilities and Clearity**: The people must we well aware about their responsibiltes and have a sense of clearity about the tasks they have to perform. | [Team Roles Definition](/practices/team-roles-definition)
 - **Re-assign**: There might me times when a person is not fit to be assigned a particular task so at those moments the responsibility must be re-assigned to a better person.
 - **Reflection Meetings**: The team members must have short and insightful meetings for reflection about their work done and to discuss future plans | [Meaningful Meetings](/practices/meaningful-meetings) | [Retrospective](/practices/retrospective)
-![Meetings](https://blog.bonus.ly/hubfs/productive-enjoyable-meetings.jpg)
-[Meetings](/files/responsibility2.jpg)
+![Meetings](/files/responsibility2.jpg)
+[How to Hold Productive and Enjoyable Meetings](https://blog.bonus.ly/productive-and-enjoyable-meetings)
 
 ## Common Pitfalls of the Responsibility
 
