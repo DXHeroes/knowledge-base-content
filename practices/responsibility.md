@@ -33,8 +33,8 @@ Responsibility is about trusting people and their commitment towards the work as
 
 Responsibility is not for everyone but who chooses to become responsible for their actions, achieves a greater sense of power and freedom.
 
-[](/files/responsibility.jpg)
 ![Responsibility](https://shiftyourfamilybusiness.com/wp-content/uploads/2018/05/ResponsibilityBlog-845x321.jpg)
+[Responsibility](/files/responsibility.jpg)
 
 ## Why You Might Want Responsibility
 
@@ -45,31 +45,31 @@ From a team point of view, if we have more responsible people in our team, the b
 - Each team member will be able to work more independently and make better decisions. 
 - We can trust the team members about the work assigned to them.
 - The team members will also tend to be more honest and keep their promises.
-- Responsibility is a part of healthy [team culture](https://preview.developerexperience.io/practices/team-culture)
+- Responsibility is a part of healthy [team culture](/practices/team-culture)
 
 ## Problems Responsibility Solves
 
 - Creates a positive atmosphere.
 - Matches the expectations of the company.
 - Increases the self worth of an individual, as the work done by them is appreciated.
-- Quality of work is higher and no poor quality work is done | [Poor Code Quality](https://developerexperience.io/problems/poor-code-quality)
-- Team focuses mostly on solving problems rather than indulging in any unhealtly blame game | [Demotivated Team](https://developerexperience.io/problems/demotivated-team)
+- Quality of work is higher and no poor quality work is done | [Poor Code Quality](/problems/poor-code-quality)
+- Team focuses mostly on solving problems rather than indulging in any unhealtly blame game | [Demotivated Team](/problems/demotivated-team)
 - The product a team is working is successful.
-- [No toxic team culture](https://developerexperience.io/problems/toxic-team-culture)
+- [No toxic team culture](/problems/toxic-team-culture)
 
 ## How to Implement Responsibility
 
 - **Communication is the key**: The first step to implementing responsibility is talking to the concerned individual about their responsibility.
-- **Enough resources to complete their work**: The people must be given adequate resources that they might need to complete their work. This might include proper training, guidance, access to resources, etc. | [Home Office](https://developerexperience.io/practices/home-office)
-- **Responsibilities and Clearity**: The people must we well aware about their responsibiltes and have a sense of clearity about the tasks they have to perform. | [Team Roles Definition](https://developerexperience.io/practices/team-roles-definition)
+- **Enough resources to complete their work**: The people must be given adequate resources that they might need to complete their work. This might include proper training, guidance, access to resources, etc. | [Home Office](/practices/home-office)
+- **Responsibilities and Clearity**: The people must we well aware about their responsibiltes and have a sense of clearity about the tasks they have to perform. | [Team Roles Definition](/practices/team-roles-definition)
 - **Re-assign**: There might me times when a person is not fit to be assigned a particular task so at those moments the responsibility must be re-assigned to a better person.
-- **Reflection Meetings**: The team members must have short and insightful meetings for reflection about their work done and to discuss future plans | [Meaningful Meetings](https://developerexperience.io/practices/meaningful-meetings) | [Retrospective](https://developerexperience.io/practices/retrospective)
-[](/files/responsibility2.jpg)
+- **Reflection Meetings**: The team members must have short and insightful meetings for reflection about their work done and to discuss future plans | [Meaningful Meetings](/practices/meaningful-meetings) | [Retrospective](/practices/retrospective)
 ![Meetings](https://blog.bonus.ly/hubfs/productive-enjoyable-meetings.jpg)
+[Meetings](/files/responsibility2.jpg)
 
 ## Common Pitfalls of the Responsibility
 
-- People run from responsibilities for reasons like low self-worth and fear | [Toxic Team Culture](https://developerexperience.io/problems/toxic-team-culture)
+- People run from responsibilities for reasons like low self-worth and fear | [Toxic Team Culture](/problems/toxic-team-culture)
 - An individual may think he or she is not capable of taking a particular responsibilty.
 - A person might feel overwhelmed or underwhelmed by the responsibility given to them.
 - In-correct assignment of responsibilty. A person may or may not be suited for the particular task.
