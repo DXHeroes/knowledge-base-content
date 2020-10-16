@@ -73,15 +73,22 @@ Pull request can also trigger CI/CD to make sure all automated tests pass before
 4. Demonstrate to the team the pull request flow in your CVS.
 5. Start practicing pull requests within the team.
 6. Continuously give feedback to the team, fine-tune the rules so it fits the team.
+7. Encourage short pull requests, preferably with not more than 250 lines changed. Large code changes make finding bugs much more demanding and hinder the code review process. A way to minimize large pull requests is to break down broad features into smaller independent tasks that your dev team can solve individually. Small pull requests allow multiple developers to work on issues simultaneously and thus speed up product development.
+8. Practice having relevant titles and descriptions for your pull requests. The pull request description should always explain why the person created the pull request, what issues it solves, and how. The best pull request should also mention relevant people. Additionally, adding a screenshot or GIF to demonstrate the visual changes can go a long way in simplifying code review.
+
+![Example Pull Request](/files/good_pull_request_example.png)
+[The anatomy of a perfect pull request](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
+
+9. Add a pull request template to the root directory of your repositories. Alternatively, you can also add it to docs/ ,PULL_REQUEST_TEMPLATE/ or .github/. Pull request templates are markdown or simple text files that get added to the pull request description automatically. Name the file pull_request_template.md and include the formatting that you want to use in your pull requests. Using templates makes code review smoother by standardizing pull requests and also helps inexperienced developers write good pull requests.
 
 ## Common Pitfalls of Pull Requests
 
 - Make sure that the pull requests are done regularly in your team and that nobody waits way too long for their code to be reviewed. If the code is left unchecked, it can lead to “long feedback loops” and it can effect team motivation.
 - Always have at least two possible approvers for each pull request. Having only one person that can merge pull requests could lead to power hoarding.
-- Encourage small pull requests. Nobody wants to review 5000+ lines of changes within one PR.
 
 ## Resources for Pull Requests
 
 - Hackernoon: [The art of pull request](https://hackernoon.com/the-art-of-pull-requests-6f0f099850f9)
 - Github: [Pull requests on GitHub](https://help.github.com/articles/about-pull-requests/)
 - Gitlab: [Merge requests on GitLab](https://docs.gitlab.com/ee/user/project/merge_requests/)
+- Medium: [The anatomy of a perfect pull request](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
