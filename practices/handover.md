@@ -24,6 +24,7 @@ covered_by_dx_scanner: false
 
 Transferring projects from one team to another is often seen as a mammoth task.  It requires a complete transfer of roles and responsibilities. However, following set protocols, having strong communication and reciprocated motivation makes this whole process a lot smoother.
 
+![Handover](/files/project_handover.jpg)
 [Handover](/files/project_handover.jpg)
 
 
