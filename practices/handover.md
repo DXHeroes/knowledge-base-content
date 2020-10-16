@@ -24,6 +24,9 @@ covered_by_dx_scanner: false
 
 Transferring projects from one team to another is often seen as a mammoth task.  It requires a complete transfer of roles and responsibilities. However, following set protocols, having strong communication and reciprocated motivation makes this whole process a lot smoother.
 
+[Handover](/files/project_handover.jpg)
+
+
 ## What Is a Handover?
 
 A handover is a process of transferring the roles and responsibilities of a project from one team/individual to another. Typically, this transfer takes place over the duration of a couple of months, in order to ensure that the receiving team/individual has fully grasped the working of the project, and their roles corresponding to the same. 
