@@ -64,6 +64,7 @@ From a team point of view, if we have more responsible people in our team, the b
 - **Responsibilities and Clearity**: The people must we well aware about their responsibiltes and have a sense of clearity about the tasks they have to perform. | [Team Roles Definition](/practices/team-roles-definition)
 - **Re-assign**: There might me times when a person is not fit to be assigned a particular task so at those moments the responsibility must be re-assigned to a better person.
 - **Reflection Meetings**: The team members must have short and insightful meetings for reflection about their work done and to discuss future plans | [Meaningful Meetings](/practices/meaningful-meetings) | [Retrospective](/practices/retrospective)
+
 ![Meetings](/files/responsibility2.jpg)
 [How to Hold Productive and Enjoyable Meetings](https://blog.bonus.ly/productive-and-enjoyable-meetings)
 
