@@ -43,7 +43,7 @@ Icebreakers are unrestricted to the beginning of a meeting, neither to a random 
 
 ## Why You Might Want Use Icebreakers?
 
-![Icebreakers example](../files/icebreakers.jpg)  
+![Icebreakers example](/files/icebreakers.jpg)  
 [Icebreakers example](https://business.linkedin.com/talent-solutions/blog/recruiting-tips/2016/9-icebreakers-that-every-recruiter-can-use)
 
 Icebreakers are fun and remarkable ways to start meetings or training sessions. They are a versatile and adaptable tool used to make the attendees more comfortable with each other, encouraging them to speak up, listen up, join in, and open up to new ideas.
@@ -56,7 +56,7 @@ These activities foster networking and a sense of community due to the experienc
 - Low interaction with unknown colleagues
 - Low engagement to speak up
 - [Demotivated team](/problems/demotivated-team)
-- Decrease in energy levels during non [meaningful meetings](practices/meaningful-meetings)
+- Decrease in energy levels during non [meaningful meetings](/practices/meaningful-meetings)
 - [Toxic Team Culture](/problems/toxic-team-culture)
 
 ## How to Implement Icebreakers?
