@@ -30,7 +30,7 @@ The product manager/owner is given a proposal for a feature to be built which le
 
 Unfortunately, not every decision-maker is wise enough to walk away from such an unfeasible feature. This may result in doing more research, redefining the scope or, god forbid, developing the feature, and going into production. This phenomenon is called Sunk cost fallacy, loosely translated as one's inability to walk away from an idea, which doesn't work, due to the knowledge of already wasted resources without any return and hoping it will pay off in the future as long as more resources are invested. Reasons for this phenomenon are plentiful ranging from the fear of wasting the resources, hoping you can flip into success to simply being in love with the idea.
 
-## How to minimize Sunk Costs
+## How to Minimize Sunk Costs
 
 iterate and fail fast
 agile methodologies like retrospectives do better than traditional Waterfall methods due to faster time to market delivery. Luckily, development can be avoided from the beginning as long as thorough research and validation is done prior to it
