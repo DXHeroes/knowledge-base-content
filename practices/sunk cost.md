@@ -35,7 +35,7 @@ Unfortunately, not every decision-maker is wise enough to walk away from such an
 iterate and fail fast
 agile methodologies like retrospectives do better than traditional Waterfall methods due to faster time to market delivery. Luckily, development can be avoided from the beginning as long as thorough research and validation is done prior to it
 validate frequently with stakeholders
-validating with users, investors, potential customers, and other stakeholders is essential to learn as much information as possible to make the right decision.
+Validating with users, investors, potential customers, and other stakeholders is essential to learn as much information as possible to make the right decision.
 stop and reevaluate other options
 when knees deep in problems, in order to avoid the Sunk cost fallacy, one should look for other alternative options and evaluate their future potential (ignoring the sunk cost)
 keep in mind it happens to everyone
