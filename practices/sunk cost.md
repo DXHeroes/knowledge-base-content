@@ -39,7 +39,7 @@ Validating with users, investors, potential customers, and other stakeholders is
 Stop and reevaluate other options
 When knees deep in problems, in order to avoid the Sunk cost fallacy, one should look for other alternative options and evaluate their future potential (ignoring the sunk cost).
 keep in mind it happens to everyone
-every successful product or service has been through many sunken costs and most likely has faced multiple sunk cost fallacy moments
+Every successful product or service has been through many sunken costs and most likely has faced multiple sunk cost fallacy moments
 
 Simply put, fail fast, look into the future rather than the past and learn from your mistakes.
 
