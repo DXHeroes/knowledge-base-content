@@ -43,7 +43,7 @@ To provide you with an example, when Windows 8 was launched, Microsoft introduce
 
 Contrary to preventing unnecessary features, your product may have already gotten a not so popular feature or it might have already outgrown some of its legacy features that used to be popular but over time the interest in them has slowly been decreasing. In such a case it is needed to pragmatically assess the situation by going through accessible data, user surveys and other tools that might help you make a decision whether or not to kill the feature.
 
-To provide you with an example of a successfully killed feature we would point your attention to Groove's removal of live chat from their product.
+To provide you with an example of a successfully killed feature we would point your attention to [Groove's removal of live chat from their product](https://www.groovehq.com/blog/discontinuing-live-chat).
 
 ## How to Minimize Existence of Unnecessary Features
 *   focus on why users hired your product and how you can help them fulfil this goal better
