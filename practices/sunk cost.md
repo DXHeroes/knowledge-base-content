@@ -23,7 +23,7 @@ covered_by_dx_scanner: false
 ## What Is Sunk Cost
 
 Sunk costs is a commonly used term for any form of a resource, invested attempting to reach future gains, that is not possible to gain back in any form, regardless of the investment outcome. Taken into account the nature of software development, sunk costs can be represented by the following example.
-The product manager/owner is given a proposal for a feature to be built which leads to user research, prototyping, and user testing, only to find out the feature is not widely demanded or not well understood or perhaps it just doesn't deliver much value compared to the overall development costs. All of the time of employees and their salaries are sunk costs. Business can never get them back and will never profit from the results spent on it.
+The product manager/owner is given a proposal for a feature to be built which leads to user research, prototyping, and user testing, only to find out the feature is not widely demanded or not well understood or perhaps it just doesn't deliver much value compared to the overall development costs.All of the employees time and their salaries are sunk costs. Business can never get them back and will never profit from the resources spent on it.
 
 ![Sunk Cost](/files/sunk-cost.jpeg)
 [Sunk Cost](https://medium.com/walk-before-you-sprint/failing-fast-the-sunk-cost-fallacy-and-scrum-fcb6b041fbfd)
