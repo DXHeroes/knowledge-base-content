@@ -32,7 +32,7 @@ Unfortunately, not every decision-maker is wise enough to walk away from such an
 
 ## How to Minimize Sunk Costs
 
-iterate and fail fast
+* Iterate and fail fast
 agile methodologies like retrospectives do better than traditional Waterfall methods due to faster time to market delivery. Luckily, development can be avoided from the beginning as long as thorough research and validation is done prior to it
 validate frequently with stakeholders
 Validating with users, investors, potential customers, and other stakeholders is essential to learn as much information as possible to make the right decision.
