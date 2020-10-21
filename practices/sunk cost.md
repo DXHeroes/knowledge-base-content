@@ -20,7 +20,7 @@ covered_by_dx_scanner: false
 
 **TL;DR** Sunk costs are the expenses spent in the process of development or any other activity such as research that are not concluded as successful. These can be of financial, time or attachment nature and thus reflect resources which costs will never be returned in any way. Sunk costs are a prerequisite to sunk cost fallacy leading to spending more resources due to the previous wasted investment of resources.
 
-## What is Sunk Cost
+## What Is Sunk Cost
 
 Sunk costs are a commonly used term for any form of a resource, invested attempting to reach future gains, that is not possible to gain back in any form, regardless of the outcome of the investment. Taken into account the nature of software development, sunk costs can be represented by the following example.
 The product manager/owner is given a proposal for a feature to be built which leads to user research, prototyping, and user testing, only to find out the feature is not widely demanded or not well understood or perhaps it just doesn't deliver much value compared to the overall development costs. All of the time of employees and their salaries are sunk costs. Business can never get them back and will never profit from the results spent on it.
