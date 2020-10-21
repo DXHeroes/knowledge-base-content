@@ -37,7 +37,7 @@ agile methodologies like retrospectives do better than traditional Waterfall met
 validate frequently with stakeholders
 Validating with users, investors, potential customers, and other stakeholders is essential to learn as much information as possible to make the right decision.
 stop and reevaluate other options
-when knees deep in problems, in order to avoid the Sunk cost fallacy, one should look for other alternative options and evaluate their future potential (ignoring the sunk cost)
+When knees deep in problems, in order to avoid the Sunk cost fallacy, one should look for other alternative options and evaluate their future potential (ignoring the sunk cost).
 keep in mind it happens to everyone
 every successful product or service has been through many sunken costs and most likely has faced multiple sunk cost fallacy moments
 
