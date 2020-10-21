@@ -3,7 +3,7 @@ slug: sunk-cost
 stages:
   - research
   - development
-short_description: Sunk costs are the expenses spent in the process of development or any other activity such as research that are not concluded as successful. These can be of financial, time, or one's attachment nature and are thus resources which costs won’t return in any way.
+short_description: Sunk costs are the expenses spent in the process and are not concluded as successful. These can be of financial, time, or one's attachment nature and are thus resources which costs won’t return in any way.
 tags:
   - successful product
   - decision making
