@@ -2,7 +2,7 @@
 slug: release-management
 stages:
   - development
-  - preparing launch
+  - launch
 short_description: Release management is the process of managing, planning, designing, scheduling, testing, controlling and deploying of a software build through different stages and environments; in preparation for software releases.
 tags:
 - release management
