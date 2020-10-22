@@ -39,10 +39,11 @@ keywords:
 
 **TL;DR**
 
-Release management is the process of going through the necessary steps in order to deploy a software build through different stages and environments; in preparation for its release.
+In the world of business and IT, software systems, resources and development processes  expand in distribution and complexity. How doas Release Management help this? Read more in this article.
+
 ## What is Release Management
 
-In the world of business and IT, software systems, resources and development processes continuously expand in distribution size and complexity. Quite often software products are in a recurring state/cycle of development, testing and release on platforms which evolve in size and complexity. This causes the dire need for specialization of managing potent environments where changes occur rapidly and dedicated resources are required to supervise the flow of development, testing, deployment and support.
+Release management is the process of going through the necessary steps in order to deploy a software build through different stages and environments; in preparation for its release. Quite often software products are in a recurring state/cycle of development, testing and release on platforms which evolve in size and complexity. This causes the dire need for specialization of managing potent environments where changes occur rapidly and dedicated resources are required to supervise the flow of development, testing, deployment and support.
 
 
 Delivering enterprise software is complex and comes with expectations and aims of quick high-quality product releases. Underperforming and underwhelming releases will lead to frustrations for the development team and low satisfaction to the end customer.
