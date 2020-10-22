@@ -47,7 +47,7 @@ Release management is the process of going through the necessary steps in order 
 
 Delivering enterprise software is complex and comes with expectations and aims of quick high-quality product releases. Underperforming and underwhelming releases will lead to frustrations for the development team and low satisfaction to the end customer.
 
-![Release Management](/files/Release_Management.jpg)
+![Release Management](/files/release_management.jpg)
 [Smartsheet](https://www.smartsheet.com/release-management-process)
 
 ## Why You Might Want Release Management
