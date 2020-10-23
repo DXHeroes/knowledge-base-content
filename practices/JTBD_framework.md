@@ -111,7 +111,7 @@ A Customer Interview is a method to understand *WHY*. You are  analyzing the “
 
 Remember that, your customers generally don’t analyze why did they buy something. You are learning with them about them. The point is to build the *Story* and its *essence*. 
 
-![Interview](/files/job_timeline.png)
+![Interview](/files/jtbd_timeline.png)
 [Interview](https://jasonevanish.com/2014/04/23/how-to-do-a-jobs-to-be-done-interview/)
 
 The interview starts with understanding the point of purchase, then continue towards first thoughts about the product, and start unrevealing the story between these two points. Consider the following questions.
