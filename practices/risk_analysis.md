@@ -27,19 +27,19 @@ Specifically, the analysis looks at potential natural and anthropogenic events. 
 In IT, we commonly use a risk analysis report to align technological goals with those of the company. IT stands for information technology. Risk analysis is both quantitative or qualitative.
 
 ![Process](/files/risk_analysis.jpg)
+[Wallstreetmojo.com](https://www.wallstreetmojo.com/risk-analysis/)
 
 ## Why You Might Want the Risk Analysis
-1. If you complete preventative risk analysis you can potentially avoid making huge losses
-2. Risk analysis will help your business avoid security breaches
-3. If you fail to plan for future success, you plan to fail
-4. You’ll be able to draft up new policies to prevent potential risks from eventuating
-5. By performing risk analysis you may be able to increase your business’ profits
+1. Completion of preventative risk analysis have potential to avoid making huge losses
+2. Risk analysis will help the business avoiding security breaches
+3. New policies can be drafted to prevent potential risks from eventuating
+4. Business’ profits can also be increased by performing risk analysis.
 
 
 ## How to Implement the Risk Analysis
 **1. Identify Threats**
 
-The first step in Risk Analysis is to identify the existing and possible threats that you might face. These can come from many different sources. For instance, they could be:
+Identifying the existing and possible threats that can be faced is the very first step in Risk Analysis.And there can be multiple sources that can give rise to these threats, some of them are listed below:
 
 
 - Human – Illness, death, injury, or other loss of a key individual.
@@ -52,11 +52,17 @@ The first step in Risk Analysis is to identify the existing and possible threats
 - Natural – Weather, natural disasters, or disease.
 - Political – Changes in tax, public opinion, government policy, or foreign influence.
 
-Tools such as **SWOT Analysis** ,**Failure Mode** and **Effects Analysis** can also help you uncover threats, while **Scenario Analysis** helps you explore possible future threats.
+
+Various tools can be used to uncover possible threats such as **SWOT Analysis** ,**Failure Mode** and **Effects Analysis** ,while **Scenario Analysis** helps you explore possible future threats.
 
 **2. Estimate Risk**
 
-Once you've identified the threats you're facing, you need to calculate out both the likelihood of these threats being realized, and their possible impact.One way of doing this is to make your best estimate of the probability of the event occurring, and then to multiply this by the amount it will cost you to set things right if it happens. This gives you a value for the risk:
+After identification of threats that can be faced, two factors need to be calculated:
+- Likelihood of these threats being realized
+- Possible impact of these threats.
+
+So if we can estimate the exact probability of that event occuring and then multiply that by the factor that will cost us to make the things backwards in right condition.
+Value for the risk can be calculated by :
 
 ```
 Risk Value = Probability of Event x Cost of Event
@@ -64,10 +70,10 @@ Risk Value = Probability of Event x Cost of Event
 
 ## Common Pitfalls of the Risk Analysis
 
-- Evaluations are subjective.
-- No combined risk evaluation or cost analysis.
-- Lack of differentiation within risk categories.
-- High dependency on the team experience.
+- Subjectiveness of evaluations that are done in risk analysis.
+- Combination of risk evaluation or cost analysis is not possible.
+- Within risk categories there is lack of differentiation.
+- There is high dependency on the experience of the team.
 - Result in vague, difficult to implement plans.
 
 ## Resources for the Risk Analysis
