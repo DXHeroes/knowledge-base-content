@@ -2,7 +2,7 @@
 slug: jtbd
 stages:
   - research
-short_description: Jobs to be Done (JTBD) is a theory for understanding the process of consumer life’s transformation. The usage of JTBD improves your product design.
+short_description: Jobs To Be Done (JTBD) is a theory for understanding the process of consumer life’s transformation. The usage of JTBD improves your product design.
 tags:
   - technical writing
   - product research
@@ -13,7 +13,7 @@ tags:
   - good developer experience
 keywords:
   - JTBD
-  - Jobs to be done
+  - Jobs To Be Done
   - Customer feedback
   - Understanding Customer
   - MVP
@@ -22,11 +22,11 @@ keywords:
 covered_by_dx_scanner: false
 ---
 
-# Jobs to Be Done
-**TL;DR** Jobs to be done (JTBD from now on) is a theoretical framework that helps you understand the motivations and constraints of your customers. With JTBD, you can build better products, improve your service, and understand how to create value for your customers.
+# Jobs To Be Done
+**TL;DR** Jobs To Be Done (JTBD from now on) is a theoretical framework that helps you understand the motivations and constraints of your customers. With JTBD, you can build better products, improve your service, and understand how to create value for your customers.
 
-## What is JTBD?
-Jobs to be Done is a framework using which you can create more value for your customers. A Job in this context is a process that a person undertakes when they improve themselves. The **Job To Be Done** have constraints that are working against the change. 
+## What Is JTBD?
+Jobs To Be Done is a framework using which you can create more value for your customers. A Job in this context is a process that a person undertakes when they improve themselves. The **Job To Be Done** have constraints that are working against the change. 
 
 Your product is a _tool_ that Customer hires to get their Job done. Through this hire, the person evolves and has more potential for new Jobs. With every hire, the customer fires competitors that were solving his Job before.
 
@@ -79,11 +79,11 @@ Through studying your Customers you can create products that answer motivations.
 
 Good starting points can be the Job Stories exercise and Customer Interviews.
 
-### [Job Stories](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27) exercise
+### [Job Stories](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27) Exercise
 This exercise aims to see your JTBD. Through writing Job Stories, you understand where you could create value. 
 Start with this template sentence.
 
-##### When _____ , I want to _____ , so I can _____.
+##### When _____ , I Want to _____ , So I Can _____.
 
 Here, you don’t care about roles and expectations, since they are additional layers of assumptions. Don’t use personas, talk with Customers (in this case, it can be you or a hypothetical customer).
 
@@ -154,14 +154,14 @@ Hypothetical Customer is a more difficult scenario since you are adding layers o
 
 In our Hypothetical Customer Workshops, you start by asking for possible jobs. Then, you select the best ones (top three). On these selected jobs, you look into Dreams (pulls). What is the perfect world for these jobs? With Dreams in mind, you should explore anxieties and habits working against the pulls.
 
-#### What are Jobs To Be Done for X?
+#### What Are Jobs To Be Done for X?
 
 Brainstorm as many as you can. Go into what jobs you think your hypothetical customer has. 
 Examples: 
 - Start-ups are struggling with product validation
 - Devs don’t have time to stay updated on all practices
 - I would like to show how cool my product is
-#### What are Pulls (Dream words) for X?
+#### What Are Pulls (Dream Worlds) for X?
 
 Go into the perfect realities. What is the dream world of your customer?
 Examples:
@@ -170,14 +170,14 @@ Examples:
 
 With Jobs and Pulls, validate on which you want to focus. You can look at which Jobs have the highest hypothetical Return Of Investment or at any other metric relevant for you.
 
-#### What is your product for your customer?
+#### What Is Your Product for Your Customer?
 
 Try to name the essence of your product in your customer’s eyes.  What are you for your customer?
 Examples:
 - Product validation framework
 - A senior friend that shares best practices with us
 - Dev Improvement Tool
-#### What is working against the demand for X?
+#### What Is Working Against the Demand for X?
 
 With a clear picture of your product and job, look at which things are working against the demand. 
 Examples:
@@ -185,7 +185,7 @@ Examples:
 - The old workplace habits
 - Waterfalls on waterfalls
 
-#### What will they fire?
+#### What Will They Fire?
 
 If the customer hires your product, what will they fire? What will they stop using? Try to name as many things as you can. Even partial firing (like that tech lead is fired from searching for new practices) is important.
 Examples:
@@ -213,7 +213,7 @@ Your goal is to understand their **why** better than anyone else. Time spend on 
 * [Tips for Job Story](https://jtbd.info/5-tips-for-writing-a-job-story-7c9092911fc9)
 * [Know your customers JTBD](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
 * [Intercom JTBD](https://www.intercom.com/resources/books/intercom-jobs-to-be-done)
-* [Jobs to be Done Book](https://jobs-to-be-done-book.com)
+* [Jobs To Be Done Book](https://jobs-to-be-done-book.com)
 * [8 things to use in “Jobs-To-Be-Done” framework for product development](https://uxdesign.cc/8-things-to-use-in-jobs-to-be-done-framework-for-product-development-4ae7c6f3c30b)
 * [8 tips for JTBD Interviews](https://jtbd.info/top-8-tips-for-jtbd-interviews-6739c88f1cc9)
 * [Uncovering JTBD (Interview part)](https://www.youtube.com/watch?v=UmtDpNbkwoI)
