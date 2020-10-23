@@ -17,18 +17,24 @@ keywords:
 
 **TL;DR**
 
-Optimization is an act, process, or methodology of making something (such as a design, system, or decision) as fully perfect, functional, or effective as possible
+Optimization is an process or methodolgy that is used to make something(for instance any program) to run faster(making it effective) while fulfilling its functionality normally.
+
 
 ## What Is an Optimization
-The code optimization in the synthesis phase is a program transformation technique, which tries to improve the intermediate code by making it consume fewer resources (i.e. CPU, Memory) so that faster-running machine code will result.
+The code optimization in the synthesis phase is a program transformation technique,in which the intermediate code is tend to be improved and thus will be consuming fewer resources (i.e. CPU, Memory), hence faster-running machine code will result.
+
+![Optimization](/files/optimize.jpeg)
+ [Spconinc.com](https://www.spconinc.com/cerner-millennium-implementation-optimization-support/)
+
 
 ## Why You Might Want the Optimization
 
-Optimizing an algorithm is beyond the scope of the code optimization phase. So the program is optimized. And it may involve reducing the size of the code. So optimization helps to:
+Optimization overall helps to achieve the same goal with lower consumption of resources hence this practice should be followed.
+So optimization helps to:
 
-- Reduce the space consumed and increases the speed of compilation.
-- Manually analyzing datasets involves a lot of time. Hence we make use of software like Tableau for data analysis. Similarly manually performing the optimization is also tedious and is better done using a code optimizer.
-- An optimized code often promotes re-usability.
+- High compilation speed and low consumption of space.
+- Code optimizers are used to avoid overburn of manual optimization as it involves a lot of time.
+- Re-usability can be achieved while following optimization.
 
 ## How to Implement the Optimization
 1. **Optimize your Code using Appropriate Algorithm**
@@ -44,10 +50,9 @@ for(int i=1; i<=10; ++i)
 
 ## Common Pitfalls of the Optimization
 
-- Time based optimization will give faster output, but it can lead up to a bigger code base. So to optimize the code for time performance may actually conflict with memory and size consumption. For that, you have to find the
-balance between time and memory, in consideration to your requirement.
- -  Performance optimization is a never-ending process. There are always chances to improve and make your code run faster.
-- Sometimes, we can be tempted to use certain programming methods to run faster at the expense of not following best practices like coding standards. Try to avoid any such kind of inappropriate methods.
+- Bigger code base is the major problem faced due to time based optimizations.
+- Chances to improve and make code run faster never ends hence making Performance optimization a never-ending process.
+- Coding standards are compromised sometimes to achieve optimization.
 
 ## Resources for the Optimization
 - Wikipedia: [Program Optimizations](https://en.wikipedia.org/wiki/Program_optimization)
