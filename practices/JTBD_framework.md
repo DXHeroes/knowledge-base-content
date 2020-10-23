@@ -65,6 +65,8 @@ _When you see customers piecing together solutions themselves, these are great c
 
 Through studying your Customers you can create products that answer motivations. With JTBD, you can validate any new products before hitting the market.
 
+Moreover, when there is no Job To Be Done, there is no room for innovation. Product that doesn’t care about Jobs most likely won’t be successful.
+
 ## Problems JTBD Helps to Solve
 
 * [Demotivated team](/problems/demotivated-team)
