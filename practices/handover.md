@@ -56,7 +56,7 @@ The transfer of the roles and responsibilities should go unnoticed to the end-us
 
 The better the handover, the easier it is for the succeeding team or individual to understand the project. This in turn, will affect their performance when it comes to developing and providing support for that project. 
 
-## Problems a Good Handover Will Help Overcome
+## Problems a Good Handover Helps to Solve
 
 A detailed, thorough handover will ensure the following:
 
