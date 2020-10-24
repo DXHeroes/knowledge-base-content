@@ -48,7 +48,7 @@ In a broad sense, the handover procedure involves the following steps:
 4. Have a clear stratergy on the key aspects of the projects that you aim to cover
 5. Always leave room for questions, follow-ups and doubts!
 
-## Why Is It Crucial To Conduct The Handover Correctly
+## Why You Might Want a Good Handover
 
 It is essential to conduct the handover correctly to ensure that the ongoing functionalities of the product continue to work seemlessly, as well as any further developments to it can be done without any major hiccups. 
 
