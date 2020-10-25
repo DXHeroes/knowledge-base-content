@@ -28,7 +28,7 @@ Team Culture is an essential part of any organization and it emphasizes on achie
 
 ## What Is Team Culture?
 
-Team Culture is not dependant on or created by an individual member's personality, but rather built on how the team collectively functions.
+Team Culture is not dependant on or created by an individual member's personality, but rather built on how the team collectively functions. It is about sharing values, beliefs with each other and integrating them in the work. Attitude and behaviour of team members also play a key role in defining a good team culture.
 
 The definition of team culture is fairly simple as it implies each member of a team should work towards achieving a common goal with collective efforts, discussions and feedback.
 
@@ -48,10 +48,11 @@ _"Teamwork is the ability to work together toward a common vision. The ability t
 - Performance
 - Efficiency
 - Finger-pointing & blaming
-- [Demotivated Team](/problems/demotivated-team)
+- [Demotivated Team](/problems/demotivated-team.md)
 - Project Deadline
-- [Meaningless work](/problems/meaningless-work)
-- Lack of ideas
+- [Meaningless work](/problems/meaningless-work.md)
+- Lack of core values
+- Lack of communication
 
 ## How to Implement Team Culture?
 
@@ -61,14 +62,19 @@ Implementing team culture at first might be not easy but as you communicate with
 
 Leader is a very important person in any team who plays a very crucial role in promoting team culture among members. The leader needs to lead the team by establishing trust among members. The leader must also know how to create enthusiasm in the team so that every member is motivated towards achieving the team's goal.
 
-### Meet Frequently
+### Establishing Team Values
 
-Meeting frequently with all team members will definitely help in building good team culture. These meetings will help in understanding the team dynamics. It will encourage members to trust each other and build healthy relationships.
+Establishing team values must be the first priority in any organization. Team values are not established in a day or week, they are developed over the years. Team values can be developed by sharing personal values by members, finding the values that overlap and integrate them into the work. One of the best practice to develop core values is by writing a good [manifesto](https://developerexperiencemanifesto.org/).
+
+### Meaningful Meetings
+
+Conducting [meaningful meetings](/practices/meaningful-meetings) with all the team members will definitely help in building good team culture. These meetings will help in understanding the team dynamics. It will encourage members to trust each other and build healthy relationships.
 
 ### Constructive Feedback
 
 Constructive feedback is one of the best ways to help your team to improve. Avoid overdoing it, keep it simple so that a team member is not burdened by your words.
 Be specific with each team member, every team member is different and providing a specific feedback will help in improving team's productivity and thus improve team culture.
+Sandwich method (good-bad-good) is a good way to give feedback. Start a feedback on a positive note and end it in the same way, providing critical thoughts in between. This method helps in not making other person feel distracted from the positive aspects into just thinking about the negative ones and also provides important feedback.
 
 ## Common Pitfalls of Implementing Team Culture
 
