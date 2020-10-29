@@ -3,7 +3,7 @@ slug: refactoring
 stages:
   - development
   - production
-short_description:In computer programming and software design, code refactoring is the process of restructuring existing computer code—changing the factoring—without changing its external behavior.
+short_description: In computer programming and software design, code refactoring is the process of restructuring existing computer code—changing the factoring—without changing its external behavior.
 tags:
   - refactoring
   - code improvement
