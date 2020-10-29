@@ -46,7 +46,8 @@ Linters are available for most programming languages. Here are the most common o
 - for Java: [Checkstyle](https://checkstyle.org/)
 - for Python: [Pylint](http://pylint.pycqa.org/en/latest/)
 - for Swift: [Swiftlint](https://realm.io/)
-- for Ruby: [rust-clippy](https://github.com/rust-lang/rust-clippy)
+- for Ruby: [rubocop](https://github.com/bbatsov/rubocop)
+- for Rust: [rust-clippy](https://github.com/rust-lang/rust-clippy)
 - for more information, see [Hugo Martins: Awesome Linters](https://github.com/caramelomartins/awesome-linters)
 
 You should restrain from using TSLint as your linter for JavaScript. Palantir (the creator of TSlint) deprecated their linter in favor of Eslint's improvements ([Source](https://medium.com/palantir/tslint-in-2019-1a144c2317a9)).
