@@ -10,6 +10,8 @@ tags:
   - budget
   - validation
   - demotivated team
+  - product validation
+  - customer feedback
 keywords:
   - Sunk Cost
   - Sunk Cost fallacy
