@@ -179,9 +179,11 @@ With Jobs and Pulls, validate on which you want to focus. You can look at which 
 
 Try to name the essence of your product in your customer’s eyes.  What are you for your customer?
 Examples:
+
 - Product validation framework
 - A senior friend that shares best practices with us
 - Dev Improvement Tool
+
 #### What Is Working Against the Demand for X?
 
 With a clear picture of your product and job, look at which things are working against the demand. 
