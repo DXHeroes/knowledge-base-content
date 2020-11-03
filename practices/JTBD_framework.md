@@ -43,6 +43,7 @@ Summarised, your role in the Job is to:
 [JTBD](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
 
 JTBD has a different point of view for demand. Through this view, you look at demand creation (push and pull) and how demand reduction (anxiety and habits). 
+
 - **Push** is what makes people change
 	- *Internal* is when a person doesn’t like the current state of things
 	- *External* is when a person’s life change due to external factors
