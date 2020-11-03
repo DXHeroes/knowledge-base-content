@@ -161,9 +161,11 @@ In our Hypothetical Customer Workshops, you start by asking for possible jobs. T
 
 Brainstorm as many as you can. Go into what jobs you think your hypothetical customer has. 
 Examples: 
+
 - Start-ups are struggling with product validation
 - Devs don’t have time to stay updated on all practices
 - I would like to show how cool my product is
+
 #### What Are Pulls (Dream Worlds) for X?
 
 Go into the perfect realities. What is the dream world of your customer?
