@@ -29,6 +29,7 @@ Preventing what is also known as feature creep is needed as long as you plan on 
 Necessary features are those adopted, useful, and loved. On the other side of the spectrum are the unnecessary features, the ones that only a few people ask for but who might not even use them when they get delivered.  Not only did you sink a lot of resources, but your product got more massive and more complicated. Preventing unnecessary features is what should be mostly done by product managers, yet even the development team shall have to say in this matter.
 
 You can spot an unnecessary feature by answering these (and others that you find fitting) questions negatively:
+
 -   Does this feature help users achieve what they hired your product for?
 -   Is it going to be a vastly used or a feature for a niché of your customers?
 -   Do you have data to back up whether this feature is wanted?
