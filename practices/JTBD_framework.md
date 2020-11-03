@@ -192,6 +192,7 @@ Examples:
 
 If the customer hires your product, what will they fire? What will they stop using? Try to name as many things as you can. Even partial firing (like that tech lead is fired from searching for new practices) is important.
 Examples:
+
 - Other validation frameworks
 - Business consultants
 - Business validation tools
