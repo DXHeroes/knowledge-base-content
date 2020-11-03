@@ -184,6 +184,7 @@ Examples:
 
 With a clear picture of your product and job, look at which things are working against the demand. 
 Examples:
+
 - Another product validation frameworks like ODI
 - The old workplace habits
 - Waterfalls on waterfalls
