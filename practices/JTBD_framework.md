@@ -217,6 +217,7 @@ Your goal is to understand their **why** better than anyone else. Time spend on 
 - Not enough practical information online about JTBD
 - Rushed Interviews without understanding the story
 - Talking about your product instead of customer experience
+
 ## Resources for JTBD
 * [When Coffee And Kale Compete](http://www.whencoffeeandkalecompete.com/)
 * [NHS Case Study](https://jtbd.info/using-jobs-to-be-done-in-the-nhs-de895adbb265)
