@@ -76,6 +76,7 @@ Before initiating the handover process, the current team managing the project mu
 For example: At the end of the subsequent handover, the team/individual should be hands-on with the project. They should be able to work on XYZ functionalities, answer any questions raised by the stakeholders and know the finer workings of the project from both a technical as well as business standpoint.
 
 A typical handover stratergy would cover the following aspects:
+
 1. The delivery method/channel for the knowledge transfer
 2. Identified SPOCs from the current team as well as from the onboarding team that will be participating
 3. How often the communication will occur? (Daily, Weekly, etc.)
