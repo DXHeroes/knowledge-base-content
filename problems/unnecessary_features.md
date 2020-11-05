@@ -1,7 +1,7 @@
 ---
 slug: unnecessary-features
 stages:
-  - research_and_analysis
+  - research
   - development
 short_description: Unnecessary features, also known as feature creep, are needed as long as you plan on having a successful product that is easy to use and helps people get done what they need to get done.
 tags:
