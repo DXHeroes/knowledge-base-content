@@ -29,16 +29,16 @@ It is a set of toolchains that allow a developer to write applications for a giv
 
 ## What is an SDK
 
-A Software Development Kit (SDK) is the toolbox of the software development world. But instead of tools like screwdrivers and pliers, SDKs contain libraries and Application Programming Interfaces (APIs) that make it easier to create applications for specific software and/or hardware.
+A Software Development Kit (SDK) is an organised collection of software development tools which make it easier to create applications for a specific software or hardware platform.
 
-You can also think of as a wrapper library developed by the service provider, and that provides an abstraction around the services or capabilities that the platform has or supports.
+You can also think of it as a wrapper library or framework developed by a service provider that provides an abstraction around the services or capabilities that the platform has or supports.
 
 ![SDK](/files/software_development_kit.png)
 [CleverTap: What is an SDK? Everything You Need to Know](https://clevertap.com/blog/what-is-an-sdk/)
 
 There are notable differences between an API and an SDK. An API is an interface to a service that you might provide to the developers who want to build applications revolving around your product. Developers create APIs to communicate between various applications. You ideally have an API for each service and relevant documentation.
 
-The SDK serves as a structured package that provides an abstraction for the APIs. With SDK, the developer can create applications with APIs that are consistent on a particular platform. An API does not include an SDK. On the other hand, an SDK might contain various APIs.		
+The SDK serves as a structured package that provides an abstraction for the APIs. With SDK, the developer can create applications with APIs that are consistent on a particular platform. An API does not include an SDK. On the other hand, an SDK might contain various APIs.
 
 ### Why You Might Want an SDK
 
