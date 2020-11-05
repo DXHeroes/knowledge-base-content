@@ -41,6 +41,7 @@ Handover documentation refers to the resources, notes and documents compiled or 
 A typical handover spans across a couple of months, where the team/individual from the current team is in close communication with the individual/team onboarding onto the project. Having a knowledge transfer stratergy in place is one of the most effective ways of carrying out this transition.
 
 In a broad sense, the handover procedure involves the following steps:
+
 1. Identify the team/individual that will be on-boarding onto the project
 2. Sync up schedules and timings with the said team/individual in order to find slots that work for both teams
 3. Set-up a recurring meeting in the identified slots
