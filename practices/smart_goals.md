@@ -17,12 +17,14 @@ keywords:
 ---
 
 # SMART Goals
+
 ## TL;DR
 SMART Goals is a tool that can be used to plan and achieve your goals – both personal and work ones. This tool helps you to make your goals achievable by assessing whether they are **S**pecific, **M**easurable, **A**ttainable, **R**elevant, and **T**ime-bound. 
 
 ![](/files/smart.png)
 
 ## What Are SMART Goals?
+
 **SMART** is an acronym that you can use to guide your goal setting. Using SMART Goals sets boundaries and defines the steps you will need to take, resources necessary to get there, and milestones that indicate progress along the way. To make sure your goals are clear and reachable, each one should be:
 - **S**pecific (simple, sensible, significant).
 - **M**easurable (meaningful, motivating).
@@ -37,6 +39,7 @@ Specify your goal to be able to focus your efforts. The following questions can 
 - Who is involved?
 - Where is it located?
 - Which resources or limits are involved?
+
 ### Measurable
 
 With measurable goals set, you can track your progress and stay motivated. Clearly set deadlines will help you to assess your progress. 
@@ -44,6 +47,7 @@ A measurable goal should address questions such as:
 - How much?
 - How many?
 - How will I know when it is accomplished?
+
 ### Attainable
 
 Your goal also needs to be realistic and attainable to be successful. When you set an achievable goal, you may be able to identify previously overlooked opportunities or resources that can bring you closer to it.
@@ -52,6 +56,7 @@ To set an attainable goal, you will have to deal with the following questions:
 - How realistic is the goal, based on other constraints, such as financial factors?
 
 **NOTE**: Do not set goals that depend on someone else. Only goals that depend on you, your effort, and your skills are convenient ones. 
+
 ### Relevant
 Ensure that your goal matters to you, and is not in conflict with your other relevant goals. So, make sure that your plans drive everyone forward, but that you're still responsible for achieving your own goal.
 In order to set a relevant goal, answer these questions (answers should be “Yes”): 
@@ -60,6 +65,7 @@ In order to set a relevant goal, answer these questions (answers should be “Ye
 - Does this match my other efforts?
 - Am I the right person to reach this goal?
 - Is it applicable in the current (socio-)economic environment?
+
 ### Time-bound
 
 What is your goal time-frame? An end-date can provide motivation and help you to prioritize and prevent everyday tasks from taking priority over your longer-term goals.
