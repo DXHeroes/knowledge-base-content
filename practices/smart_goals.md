@@ -82,7 +82,7 @@ There are various goals that SMART Goals cannot solve:
 - goals whose achieving depends on circumstances that you cannot affect
 - etc.
 
-For example, it will be very difficult (or impossible) to define a clear result and relevant metrics for problems like Not my problem mentality.
+For example, it will be very difficult (or impossible) to define a clear result and relevant metrics for problems like __**Not my problem mentality**__.
 
 ## SMART Goals Pitfalls 
 Significant problems of SMART goal setting:
