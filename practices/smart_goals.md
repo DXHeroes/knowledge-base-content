@@ -19,6 +19,7 @@ keywords:
 # SMART Goals
 
 ## TL;DR
+
 SMART Goals is a tool that can be used to plan and achieve your goals – both personal and work ones. This tool helps you to make your goals achievable by assessing whether they are **S**pecific, **M**easurable, **A**ttainable, **R**elevant, and **T**ime-bound. 
 
 ![](/files/smart3.png) 
@@ -34,6 +35,7 @@ SMART Goals is a tool that can be used to plan and achieve your goals – both p
 - **T**ime bound (time-based, time limited, time/cost limited, timely, time-sensitive).
 
 ### Specific
+
 Specify your goal to be able to focus your efforts. The following questions can help you: 
 
 - What do I want to accomplish?
@@ -62,6 +64,7 @@ To set an attainable goal, you will have to deal with the following questions:
 **NOTE**: Do not set goals that depend on someone else. Only goals that depend on you, your effort, and your skills are convenient ones. 
 
 ### Relevant
+
 Ensure that your goal matters to you, and is not in conflict with your other relevant goals. So, make sure that your plans drive everyone forward, but that you're still responsible for achieving your own goal.
 In order to set a relevant goal, answer these questions (answers should be “Yes”): 
 
@@ -82,11 +85,13 @@ To set a time-bound goal, you will deal with the following questions:
 - What can I do today?
 
 ## How to Start With SMART Goals
+
 There are various SMART Goals worksheets, templates, and maps that can help you with the goals setting process. 
 
 ![](/files/smart_templ1b.png)
 
 ## Problems That SMART Goals Can Solve
+
 SMART Goals can be used for problems that you are able to define fully following SMART Goals methodology carefully. 
 
 There are various goals that SMART Goals cannot solve: 
@@ -99,6 +104,7 @@ There are various goals that SMART Goals cannot solve:
 For example, it will be very difficult (or impossible) to define a clear result and relevant metrics for problems like __**Not my problem mentality**__.
 
 ## SMART Goals Pitfalls 
+
 Significant problems of SMART goal setting:
 
 - Focus is too narrow – fixating on a single SMART goal without the appropriate context, it is easy to fall into the trap of seeing it as the only goal.
