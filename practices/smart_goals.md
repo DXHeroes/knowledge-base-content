@@ -21,7 +21,7 @@ keywords:
 ## TL;DR
 SMART Goals is a tool that can be used to plan and achieve your goals – both personal and work ones. This tool helps you to make your goals achievable by assessing whether they are **S**pecific, **M**easurable, **A**ttainable, **R**elevant, and **T**ime-bound. 
 
-![](/files/smart2.png) 
+![](/files/smart3.png) 
 
 ## What Are SMART Goals?
 
