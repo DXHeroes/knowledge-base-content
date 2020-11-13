@@ -82,6 +82,7 @@ There are various SMART Goals worksheets, templates, and maps that can help you 
 
 ## Problems That SMART Goals Can Solve
 SMART Goals can be used for problems that you are able to define fully following SMART Goals methodology carefully. 
+
 There are various goals that SMART Goals cannot solve: 
 - goals that do not allow definition of a clear result
 - goals whose progress cannot be measured
