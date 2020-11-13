@@ -78,7 +78,7 @@ To set a time-bound goal, you will deal with the following questions:
 ## How to Start With SMART Goals
 There are various SMART Goals worksheets, templates, and maps that can help you with the goals setting process. 
 
-![](/files/smart_templ1.png)
+![](/files/smart_templ1b.png)
 
 ## Problems That SMART Goals Can Solve
 SMART Goals can be used for problems that you are able to define fully following SMART Goals methodology carefully. 
