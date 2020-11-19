@@ -76,7 +76,7 @@ Ask your rockstar(s) to pair up for at least 30 minutes a day with one other per
 
 Simplicity is a great weapon against the bus factor (and many other problems). Whenever you have the choice between a simple/understandable design and a more complex/powerful one, do weigh in the impact of the choice on your bus factor.
 
-### Invest in Your Team
+### Invest In Your Team
 
 Organize trainings, workshops, send them to relevant conferences. Turn your more experienced members into mentors and have them share their knowledge on daily basis.
 
