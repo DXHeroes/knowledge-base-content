@@ -34,7 +34,7 @@ The “bus factor” is the minimum number of team members that have to disappea
 
 ### Problem With Rockstars
 
-Rockstars  – Mr/Ms-know-it-all – are nice to have in a team. But, what if he/she gets hit by a bus (or gets sick, headhunted, etc.)? In fact, rockstars usually are not the problem. The problem is that many teams rely too much on their rockstars and forget about the impact of losing them. 
+Rockstars  – *Mr/Ms-know-it-all* – are nice to have in a team. But, what if he/she gets hit by a bus (or gets sick, headhunted, etc.)? In fact, rockstars usually are not the problem. The problem is that many teams rely too much on their rockstars and forget about the impact of losing them. 
 
 Try to observe what happens when your rockstar is out of office. If everything slows down, then you’re probably in trouble. The next sections explain ways how to increase your bus factor, regardless you have rockstars on your team or not.
 
