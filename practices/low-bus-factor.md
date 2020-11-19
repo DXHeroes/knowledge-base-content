@@ -58,7 +58,7 @@ But be aware that having out-of-date documentation is downright dangerous. Fresh
 
 Documentation is super important, but automation is even more valuable. If you have the opportunity, then you should try to automate your key processes. Of course, the automated processes need to be well documented too, so that someone can adapt those if required. 
 
-### Pair/Group Work
+### Pair / Group Work
 
 When working with another person on a problem/task, you end up with higher quality results, more creative solutions, and _shared understanding + shared knowledge_. 
 
