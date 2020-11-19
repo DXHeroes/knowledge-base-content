@@ -15,6 +15,7 @@ keywords:
   - team
   - methodology
 ---
+
 # Low Bus Factor
 
 ## TL;DR
