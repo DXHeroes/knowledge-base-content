@@ -28,7 +28,7 @@ How many people need to get hit by a bus for the project or team to stop functio
 
 The “bus factor” is the minimum number of team members that have to disappear from a project suddenly before the project stalls due to lack of knowledgeable or competent personnel. 
 
-The lower the number, the higher the risks.
+**The lower the number, the higher the risks.**
 
 ## How to Increase Bus Factor
 
