@@ -95,18 +95,23 @@ To set a time-bound goal, you will deal with the following questions:
 - goals whose achieving depends on circumstances that you cannot affect
 - etc.
 
-For example, it will be very difficult (or impossible) to define a clear result and relevant metrics for problems like __**Not my problem mentality**__.
-
-There are various SMART Goals worksheets, templates, and maps that can help you with the goals setting process. 
+For example, it will be very difficult (or impossible) to define a clear result and relevant metrics for problems like [Not my problem mentality](https://developerexperience.io/problems/not-my-problem-mentality).
 
 ![](/files/smart_templ1b.png)
 
 [SMART goals template *(author)*](/files/smart_templ1b.png)
 
+There are various SMART Goals worksheets, templates, and maps that can help you with the goals setting process – for example [Smartsheet](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals).
 
 ## Problems That SMART Goals Can Solve
 
 SMART Goals can be used for problems that you are able to define fully following SMART Goals methodology carefully. 
+
+Examples: 
+
+- [Increased costs](https://developerexperience.io/problems/increased-cost)
+- [Long feadback loop](https://developerexperience.io/problems/long-feedback-loops)
+- [Sunk cost](https://developerexperience.io/problems/sunk-cost) 
 
 ## SMART Goals Pitfalls 
 
