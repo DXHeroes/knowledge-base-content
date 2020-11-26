@@ -115,25 +115,25 @@ Examples:
 
 ## SMART Goals Pitfalls 
 
-### Focus is Too Narrow
+#### Focus is Too Narrow
 Fixating on a single SMART goal without the appropriate context, it is easy to fall into the trap of seeing it as the only goal.
 
-### Measuring Success and Failure
+#### Measuring Success and Failure
 When success is measured by a SMART goal, people may end up pursuing that goal for a narrowly defined success, and letting that exclusive target take over their identity.
 
-### Short-term Result vs. Long-term Success
+#### Short-term Result vs. Long-term Success
 Preferring short-term results to overall success can represent a risk of missing your goal.
 
-### Giving Up Too Soon, and All-or-nothing Approach
+#### Giving Up Too Soon, and All-or-nothing Approach
 SMART goals are viewed as complete entities, and when you are unable to do everything as planned, you may become discouraged and give up the entire goal.
 
-### Failing to Realize One's Full Potential
+#### Failing to Realize One's Full Potential
 Setting goals that are too easy will not move you to achieve more than your minimum potential; so could you miss the opportunity for growth.
 
-### “Realistic” and “Achievable” Can Be Misleading
+#### “Realistic” and “Achievable” Can Be Misleading
 Ask yourself not only whether your goal is realistic considering your capability but also whether it is realistic considering all your other goals. Do not overload yourself with too many high priorities.
 
-### Missing Crucial Step Along the Way
+#### Missing Crucial Step Along the Way
 Be aware of setting a clear first step and final result but not knowing how you are going to get from A to B.
 
 ## Resources for SMART Goals
