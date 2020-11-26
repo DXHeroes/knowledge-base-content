@@ -70,7 +70,7 @@ Promote knowledge transfer/sharing sessions. Encourage team members to share the
 
 This increases team spirit, improves knowledge dispersion and improves the bus factor since more people will be aware of what others are doing / have done.
 
-Ask your rockstar(s) to pair up for at least 30 minutes a day with one other person in the team. During that time, the less experienced person will do most of the hands on work.
+Ask your rockstar(s) to pair up for at least 30 minutes a day with one other person in the team. During that time, the less experienced person will do most of the hands-on work.
 
 ### Simplify
 
