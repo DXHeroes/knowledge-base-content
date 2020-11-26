@@ -32,7 +32,7 @@ SMART Goals is a tool that can be used to plan and achieve your goals – both p
 - **M**easurable (meaningful, motivating).
 - **A**ttainable (agreed, achievable).
 - **R**elevant (reasonable, realistic and resourced, results-based).
-- **T**ime bound (time-based, time limited, time/cost limited, timely, time-sensitive).
+- **T**ime-bound (time-based, time-limited, time/cost limited, timely, time-sensitive).
 
 ### Specific
 
