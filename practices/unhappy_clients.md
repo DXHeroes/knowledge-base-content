@@ -27,7 +27,7 @@ So, what to do in such a situation?
 
 ![](/files/keep_calm.png)
 
-[Keep Calm and Carry On *(Ministry of Information – UK)*](/files/keep_calm.png)
+[Keep Calm and Carry On *(thanks to Ministry of Information – UK)*](/files/keep_calm.png)
 
 ## How to Deal With Unhappy Clients
 
