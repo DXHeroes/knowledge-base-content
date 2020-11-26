@@ -24,6 +24,8 @@ SMART Goals is a tool that can be used to plan and achieve your goals – both p
 
 ![](/files/smart3.png) 
 
+[SMART goals summary *(author)*](smart3.png)
+
 ## What Are SMART Goals?
 
 **SMART** is an acronym that you can use to guide your goal setting. Using SMART Goals sets boundaries and defines the steps you will need to take, resources necessary to get there, and milestones that indicate progress along the way. To make sure your goals are clear and reachable, each one should be:
@@ -93,11 +95,14 @@ To set a time-bound goal, you will deal with the following questions:
 
 For example, it will be very difficult (or impossible) to define a clear result and relevant metrics for problems like __**Not my problem mentality**__.
 
-## How to Start With SMART Goals
+## How to Implement SMART Goals
 
 There are various SMART Goals worksheets, templates, and maps that can help you with the goals setting process. 
 
 ![](/files/smart_templ1b.png)
+
+[SMART goals template *(author)*](/files/smart_templ1b.png)
+
 
 ## Problems That SMART Goals Can Solve
 
