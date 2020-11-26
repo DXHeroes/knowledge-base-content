@@ -10,7 +10,7 @@ tags:
   - fresh documentation
   - automation
 keywords:
-  - bus
+  - bus factor
   - factor
   - team
   - methodology
