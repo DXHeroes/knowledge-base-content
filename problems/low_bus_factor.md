@@ -24,7 +24,7 @@ How many people need to get hit by a bus for the project or team to stop functio
 
 ![](/files/bus1.png)
 
-[Bus factor *(DevIQ)*](https://deviq.com/bus-factor/)
+[Bus factor *(thanks to DevIQ)*](https://deviq.com/bus-factor/)
 
 ## What Is Bus Factor
 
