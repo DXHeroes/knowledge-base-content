@@ -61,7 +61,7 @@ To set an attainable goal, you will have to deal with the following questions:
 - How can I accomplish this goal?
 - How realistic is the goal, based on other constraints, such as financial factors?
 
-Do not set goals that depend on someone else. Only goals that depend on you, your effort, and your skills are convenient ones. 
+**NOTE**: Do not set goals that depend on someone else. Only goals that depend on you, your effort, and your skills are convenient ones. 
 
 ### Relevant
 
@@ -84,6 +84,15 @@ To set a time-bound goal, you will deal with the following questions:
 - What can I do six weeks from now?
 - What can I do today?
 
+### What SMART Goals Cannot Solve 
+
+- goals that do not allow definition of a clear result
+- goals whose progress cannot be measured
+- goals whose achieving depends on circumstances that you cannot affect
+- etc.
+
+For example, it will be very difficult (or impossible) to define a clear result and relevant metrics for problems like __**Not my problem mentality**__.
+
 ## How to Start With SMART Goals
 
 There are various SMART Goals worksheets, templates, and maps that can help you with the goals setting process. 
@@ -94,18 +103,7 @@ There are various SMART Goals worksheets, templates, and maps that can help you 
 
 SMART Goals can be used for problems that you are able to define fully following SMART Goals methodology carefully. 
 
-There are various goals that SMART Goals cannot solve: 
-
-- goals that do not allow definition of a clear result
-- goals whose progress cannot be measured
-- goals whose achieving depends on circumstances that you cannot affect
-- etc.
-
-For example, it will be very difficult (or impossible) to define a clear result and relevant metrics for problems like __**Not my problem mentality**__.
-
 ## SMART Goals Pitfalls 
-
-Significant problems of SMART goal setting:
 
 - Focus is too narrow – fixating on a single SMART goal without the appropriate context, it is easy to fall into the trap of seeing it as the only goal.
 - Measuring success and failure – when success is measured by a SMART goal, people may end up pursuing that goal for a narrowly defined success, and letting that exclusive target take over their identity.
