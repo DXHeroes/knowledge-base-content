@@ -24,6 +24,8 @@ How many people need to get hit by a bus for the project or team to stop functio
 
 ![](/files/bus1.png)
 
+[Bus factor *(DevIQ)*](https://deviq.com/bus-factor/)
+
 ## What Is Bus Factor
 
 The “bus factor” is the minimum number of team members that have to disappear from a project suddenly before the project stalls due to lack of knowledgeable or competent personnel. 
@@ -46,6 +48,8 @@ It might also be useful to create virtual teams rather than talking about backup
 
 Redundancy is not only useful in case of emergency, but is also great for creativity.
 
+See also [Responsibility](https://developerexperience.io/practices/responsibility).
+
 ### Fresh Documentation
 
 That's obvious that having up-to-date documentation is key to survive “losing” a team member. Key processes should be well documented so that even someone with limited knowledge of the subject could execute it. 
@@ -64,13 +68,17 @@ When working with another person on a problem/task, you end up with higher quali
 
 If you want knowledge to circulate in your team better, encourage people to try and adopt pair programming / pair work.
 
+See also [Pair Programming](https://developerexperience.io/practices/pair-programming).
+
 ### Knowledge Transfer Sessions
 
 Promote knowledge transfer/sharing sessions. Encourage team members to share their ideas, designs, discoveries, problems, etc.
 
-This increases team spirit, improves knowledge dispersion and improves the bus factor since more people will be aware of what others are doing / have done.
+These sessions increase team spirit, improve knowledge gaps, and improve the bus factor since more people will be aware of what others are doing / have done.
 
 Ask your rockstar(s) to pair up for at least 30 minutes a day with one other person in the team. During that time, the less experienced person will do most of the hands-on work.
+
+See also [Team Culture](https://developerexperience.io/practices/team-culture).
 
 ### Simplify
 
