@@ -2,7 +2,7 @@
 slug: unhappy-clients
 stages:
   - development
-short_description: The article describes the way how to deal with unhappy clients. 
+short_description: The article describes the way how to deal with unhappy clients. No matter how good you are at what you do, sooner or later you'll come across an unhappy client.  Bad feedback often leads to great work, as you learn valuable lessons and really push your skills.
 tags:
   - Unhappy Clients
   - communication
