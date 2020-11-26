@@ -78,7 +78,7 @@ Simplicity is a great weapon against the bus factor (and many other problems). W
 
 ### Invest In Your Team
 
-Organize trainings, workshops, send them to relevant conferences. Turn your more experienced members into mentors and have them share their knowledge on daily basis.
+Organize training sessions, workshops, send them to relevant conferences. Turn your more experienced members into mentors and have them share their knowledge on daily basis.
 
 ## Resources for Low Bus Factor
 
