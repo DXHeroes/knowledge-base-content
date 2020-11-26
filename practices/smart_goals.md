@@ -61,7 +61,7 @@ To set an attainable goal, you will have to deal with the following questions:
 - How can I accomplish this goal?
 - How realistic is the goal, based on other constraints, such as financial factors?
 
-**NOTE**: Do not set goals that depend on someone else. Only goals that depend on you, your effort, and your skills are convenient ones. 
+Do not set goals that depend on someone else. Only goals that depend on you, your effort, and your skills are convenient ones. 
 
 ### Relevant
 
