@@ -21,6 +21,7 @@ keywords:
 ## TL;DR
 
 No matter how good you are at what you do, sooner or later you'll come across an unhappy client. Although your ego can get hurt, don't be disheartened. Bad feedback often leads to great work, as you learn valuable lessons and really push your skills.
+
 So, what to do in such a situation?
 
 ![](/files/keep_calm.png)
