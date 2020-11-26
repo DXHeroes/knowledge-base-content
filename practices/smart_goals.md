@@ -36,6 +36,8 @@ SMART Goals is a tool that can be used to plan and achieve your goals – both p
 - **R**elevant (reasonable, realistic and resourced, results-based).
 - **T**ime-bound (time-based, time-limited, time/cost limited, timely, time-sensitive).
 
+## How to Implement SMART Goals
+
 ### Specific
 
 Specify your goal to be able to focus your efforts. The following questions can help you: 
@@ -94,8 +96,6 @@ To set a time-bound goal, you will deal with the following questions:
 - etc.
 
 For example, it will be very difficult (or impossible) to define a clear result and relevant metrics for problems like __**Not my problem mentality**__.
-
-## How to Implement SMART Goals
 
 There are various SMART Goals worksheets, templates, and maps that can help you with the goals setting process. 
 
