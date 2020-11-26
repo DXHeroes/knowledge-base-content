@@ -2,7 +2,7 @@
 slug: unhappy-clients
 stages:
   - development
-short_description: The article describes a way how to deal with unhappy clients. 
+short_description: The article describes the way how to deal with unhappy clients. 
 tags:
   - Unhappy Clients
   - communication
