@@ -84,7 +84,7 @@ By learning valuable lessons from unhappy clients, you'll be able to handle futu
 
 From personal experience, one unhappy client represents approximately ten people, who were silent (experience with SaaS). So, something that made one person unhappy is currently making nine other people. How can you deal with that?
 
-Within Knowledge base, there are multiple articles that can work as prevention to unhappy clients. Having a product owner is one, but with [Agile methodology](https://developerexperience.io/practices/agile-events), you consistently gather feedback from the client.
+Within this [Knowledge Base](https://developerexperience.io/), there are multiple articles that can work as prevention to unhappy clients. Having a product owner is one, but with [Agile methodology](https://developerexperience.io/practices/agile-events), you consistently gather feedback from the client.
 
 ## Unhappy Clients Pitfalls
 
