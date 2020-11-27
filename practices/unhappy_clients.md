@@ -76,7 +76,7 @@ By learning valuable lessons from unhappy clients, you'll be able to handle futu
 ## Unhappy Clients Pitfalls
 
 -   In the case the issue's extent is really big, the project can become unprofitable.
--   Such cases are usually very time consuming and can delay of your other projects.
+-   Such cases are usually very time consuming and can delay your other projects.
     
 ## Resources for Unhappy Clients
 
