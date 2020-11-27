@@ -32,6 +32,7 @@ So, what to do in such a situation?
 ## How to Deal With Unhappy Clients
 
 **1. Communicate in person**
+
 When dealing with complex issues – if possible – use one-to-one communication. Don't write your response; request a face-to-face meeting. At least, arrange a phone call.
 
 **2. Keep calm and carry on**
