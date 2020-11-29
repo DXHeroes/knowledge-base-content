@@ -31,7 +31,7 @@ IaC is a principle (or process) of provisioning and managing your infrastructure
 
 With IaC you can spin your resources to match your needs (utility computing). New peak of visitors? With IaC you just adjust to new load.
  
-### Old approach
+### Old Approach
 Before IaC, Ops and Devs had hard time with managing your resources. You were always setting up your servers, configuring networks, creating routing tables, or installing software — all that on your hardware. If you had more visitors, it could take weeks to adjust for this load. Not only that, but any update took a lot of time (updating databases, checking dependencies and much more) and resources.
 
 That is why IaC is gaining popularity as it is a modern response to old situation.
