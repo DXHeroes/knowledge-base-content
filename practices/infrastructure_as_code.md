@@ -21,26 +21,25 @@ covered_by_dx_scanner: false
 
 # Infrastructure as Code
 **TL;DR** 
-Infrastructure as code (IaC), is both a principle and a set of tools, a modern way to manage the infrastructure minimising the manual work.
+Infrastructure as code (IaC) is both a principle and a set of tools, a modern way to manage the infrastructure minimizing the manual work.
 
 ## What is Infrastructure As Code
-IaC is a principle (or process) of provisioning and managing your infrastructure through machine-readable definitions instead of using physical hardware configuration. To put it better terms, instead of manually setting everything by yourself, you create a configuration file. Some people call IaC golden rule for [DevOps](/practices/devops).
+IaC is a principle (or process) of provisioning and managing your infrastructure through machine-readable definitions instead of using physical hardware configuration. To put it in better terms, instead of manually setting everything by yourself, you create a configuration file. Some people call IaC golden rule for [DevOps](/practices/devops).
 
 ![Infrastructure as code](/files/infrastructure_as_code.png)
 [Infrastructure as code](https://pixabay.com/cs/vectors/cloud-computing-oblak-za%C5%99%C3%ADzen%C3%AD-data-1989339/)
 
-With IaC you can spin your resources to match your needs (utility computing). New peak of visitors? With IaC you just adjust to new load.
+With IaC, you can spin your resources to match your needs (utility computing). New peak of visitors? You just adjust your infrastructure to the new load.
  
 ### Old Approach
-Before IaC, Ops and Devs had hard time with managing your resources. You were always setting up your servers, configuring networks, creating routing tables, or installing software — all that on your hardware. If you had more visitors, it could take weeks to adjust for this load. Not only that, but any update took a lot of time (updating databases, checking dependencies and much more) and resources.
+Before IaC, Ops and Devs a had hard time managing your resources. You were always setting up your servers, configuring networks, creating routing tables, or installing software — all that on your hardware. If you had more visitors, it could take weeks to adjust for this load. Not only that, but any update takes a lot of time (updating databases, checking dependencies, and much more) and resources.
 
-That is why IaC is gaining popularity as it is a modern response to old situation.
+That is why IaC is gaining popularity as it is a modern response to the old situation.
  
 ### Approaches of IaC - Declarative (functional)
-Focuses on _What_. What is the desired end look? With this approach, you declare the end state and system makes it happen
-
+Focuses on _What_. What is the desired end look? With this approach, you declare the end state, and the system makes it happen
 ### Approaches of IaC - Imperative (procedural)
-Focuses on _How_. How should my existing infrastructure change? With this approach, you define the steps the system takes to arrive at desired end state.
+Focuses on _How_. How should my existing infrastructure change? With this approach, you define the steps the system takes to arrive at the desired end state.
 
 ## Why You Might Want Infrastructure As Code
 
@@ -48,7 +47,7 @@ The main measurable advantages of IaC are:
 
 ###  Cost
 
-IaC practices and tools can reduce cost of the service (save you money). Through automatisation you are lowering the manual labour which allows Ops/Dev Ops team to focus on something else. Moreover, through spinning you are using your resources optimally.
+IaC practices and tools can reduce the cost of the service (save you money). Through automatization, you are lowering the manual labor that allows Ops/Dev Ops team to focus on something else. Moreover, through spinning, you are using your resources optimally.
 
 ### Speed
 
@@ -57,8 +56,7 @@ Together with [Continous Delivery/Deployment](/practices/continuous-delivery), y
 
 ### Risk
 
-With automation, you are lowering the risk of human error, and with configuration files instead of manual labour, you are increasing reliability (the system will always behave the same way). Using source control you can audit changes. DevOps or Ops teams are able to write tests for your IaC. 
-
+With automation, you are lowering the risk of human error, and with configuration files instead of manual labor, you are increasing reliability (the system will always behave the same way). Using source control, you can audit changes. DevOps or Ops teams are able to write tests for your IaC. 
 
 ## Problems Infrastructure As Code Helps to Solve
 * [Increased Cost](/problems/increased-cost)
@@ -70,10 +68,10 @@ With automation, you are lowering the risk of human error, and with configuratio
 ## How to Implement Infrastructure As Code
 
 Before exploring possible tools, there are general rules to follow for maximal effect:
-1. **Collaboration** Devs, Ops or DevOps teams should collaborate on configuration and provisioning.
+1. **Collaboration** Devs, Ops, or DevOps teams should collaborate on configuration and provisioning.
 2. **Write Tests** One of the most notable values of IaC. Start with [Unit testing](/practices/unit-testing),[Performance testing](/practices/performance-testing) or Integration testing.
 3. **Source control** your configuration files. Use practices like [Semantic versioning](/practices/semantic-versioning) or commit name rules.
-4. **Minimal documentation** since your code should be self-explaining. However, on bigger project you can use updated documentation.
+4. **Minimal documentation** since your code should be self-explaining. However, on larger project, you can use updated documentation.
 
 IaC Tools to consider:
 * [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
@@ -85,7 +83,7 @@ IaC Tools to consider:
 
 ## Common Pitfalls of Infrastructure As Code
 - The management can be against moving towards IaC since they don’t see the results immediately
-- IaC opens code-like issues such as question of code maintenance, working with someone’s code or just question of collaboration
+- IaC opens code-like issues such as the question of code maintenance, working with someone’s code, or just question of collaboration
 - For some tools, there is a general lack of code samples 
 - The integration with CI/CD pipeline can be tricky
 - Devs can have problems learning with IaC tools
