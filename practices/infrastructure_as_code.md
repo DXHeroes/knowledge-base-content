@@ -93,6 +93,7 @@ IaC Tools to consider:
 
 
 ## Resources for Documentation Testing
+
 * [Infrastructure as Code by Kief Morris: Chapter 1](https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/ch01.html)
 * [Infrastructure as Code by Kief Morris: blog](https://infrastructure-as-code.com/)
 * [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
