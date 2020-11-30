@@ -1,8 +1,8 @@
 ---
 slug: infrastructure-as-code
 stages:
-  - Development
-  - Maintenance 
+  - development
+  - maintenance 
 short_description: Infrastructure as code (IaC), is both a principle and a set of tools, a modern way to manage the infrastructure minimising the manual work.
 tags:
   - infrastructure as code
