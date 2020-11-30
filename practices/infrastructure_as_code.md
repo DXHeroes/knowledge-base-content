@@ -75,6 +75,7 @@ Before exploring possible tools, there are general rules to follow for maximal e
 4. **Minimal documentation** since your code should be self-explaining. However, on larger project, you can use updated documentation.
 
 IaC Tools to consider:
+
 * [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
 * [Azure Resource Manager](https://docs.microsoft.com/cs-cz/azure/azure-resource-manager/management/overview)
 * [Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager)
