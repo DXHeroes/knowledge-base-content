@@ -3,8 +3,9 @@ name: Node CI - Check Article Validity & Deploy
 on: [push, pull_request_target]
 
 env:
+  # BEWARE of using ENV variables for "pull_request_target"! It may be exposed!
+  #   Thanks to @asottile (https://github.com/sponsors/asottile)!
   CI: true
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   DX_HEADER: ${{ secrets.DX_HEADER }}
   IMPORT_URL: ${{ secrets.IMPORT_URL }}
   IMPORT_URL_STAGING: ${{ secrets.IMPORT_URL_STAGING }}
