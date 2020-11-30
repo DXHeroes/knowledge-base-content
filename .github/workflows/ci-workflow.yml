@@ -1,71 +1,72 @@
-***REMOVED***
+name: Node CI - Check Article Validity & Deploy
 
-***REMOVED***
+on: [push, pull_request_target]
 
-***REMOVED***
-***REMOVED***
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
+env:
+  # BEWARE of using ENV variables for "pull_request_target"! It may be exposed!
+  #   Thanks to @asottile (https://github.com/sponsors/asottile)!
+  CI: true
+  DX_HEADER: ${{ secrets.DX_HEADER }}
+  IMPORT_URL: ${{ secrets.IMPORT_URL }}
+  IMPORT_URL_STAGING: ${{ secrets.IMPORT_URL_STAGING }}
+  KB_VALIDATION_URL: ${{ secrets.KB_VALIDATION_URL }}
+  X_DX_AUTH_HEADER: ${{ secrets.X_DX_AUTH_HEADER }}
 
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
+jobs:
+  check-article:
+    if: github.event_name == 'pull_request_target'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+          ref: ${{ github.event.pull_request.head.sha }}
+      - name: Use Node.js 12
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - name: Danger JS
+        run: |
+          yarn && yarn danger ci
 
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
+  # deploy-to-preview-orig:
+  #   if: github.event_name == 'pull_request' && github.base_ref == 'master'
+  #   needs: check-article
+  #   runs-on: ubuntu-latestt
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - name: Use Node.js 12
+  #       uses: actions/setup-node@v1
+  #       with:
+  #         node-version: 12
+  #     - name: Deploy to preview.developerexperience.io
+  #       run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_HEAD_REF"'
 
-***REMOVED***
-***REMOVED*** && github.base_ref == 'master'
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-        ***REMOVED***
-***REMOVED***
-***REMOVED***
+  deploy-to-preview:
+    if: github.event_name == 'pull_request_target' && github.base_ref == 'master'
+    needs: check-article
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js 12
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - name: Deploy to preview.developerexperience.io
+        env:
+          HEAD_REPO_GIT_URL: ${{ github.event.pull_request.head.repo.git_url }}
+        run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "repo_url=$HEAD_REPO_GIT_URL" -d "branch=$GITHUB_HEAD_REF"'
 
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
+  deploy-to-production:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - name: Use Node.js 12
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - name: Deploy to developerexperience.io
+        run: 'curl -f -XPOST -H "$DX_HEADER" $IMPORT_URL'
