@@ -67,14 +67,14 @@ For example, a cross-platform application may run on Microsoft Windows, Linux, a
 
 ## Software Portability Pitfalls
 
-### Porting vs. Redevelopment
+**Porting vs. Redevelopment**
 
 Should the existing program be ported, or should an equivalent program be redeveloped? Such questions are not always easy to answer. 
 
-### Degree of Portability 
+**Degree of Portability** 
 What degree of portability is desired for the various environments? Again, it can be difficult to deal with this and similar questions. 
 
-### Cost vs. Benefits
+**Cost vs. Benefits**
 It can be very difficult to determine the cost vs. benefits ratio. So, it is possible that the costs exceed the benefits.
 
 ## Resources for Software Portability 
