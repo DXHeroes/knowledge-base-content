@@ -84,6 +84,7 @@ IaC Tools to consider:
 * [Vagrant](https://www.vagrantup.com/)
 
 ## Common Pitfalls of Infrastructure As Code
+
 - The management can be against moving towards IaC since they don’t see the results immediately
 - IaC opens code-like issues such as the question of code maintenance, working with someone’s code, or just question of collaboration
 - For some tools, there is a general lack of code samples 
