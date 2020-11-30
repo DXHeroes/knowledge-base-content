@@ -68,6 +68,7 @@ With automation, you are lowering the risk of human error, and with configuratio
 ## How to Implement Infrastructure As Code
 
 Before exploring possible tools, there are general rules to follow for maximal effect:
+
 1. **Collaboration** Devs, Ops, or DevOps teams should collaborate on configuration and provisioning.
 2. **Write Tests** One of the most notable values of IaC. Start with [Unit testing](/practices/unit-testing),[Performance testing](/practices/performance-testing) or Integration testing.
 3. **Source control** your configuration files. Use practices like [Semantic versioning](/practices/semantic-versioning) or commit name rules.
