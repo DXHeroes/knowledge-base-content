@@ -60,7 +60,7 @@ Blinded by their own visions, some companies ignore negative user feedback. Thei
 
 ## Zune Story
 
-Microsoft first introduced this portable media player in 2006, with several new generations of the device to follow. The Zune faced these major challenges: 
+Microsoft first introduced this portable media player in 2006, with several new generations of the device to follow. Zune faced these major challenges: 
 
 - inevitable comparisons to the iPod, which ruled the portable media marketplace 
 - the fact that its software was only available for Windows. 
