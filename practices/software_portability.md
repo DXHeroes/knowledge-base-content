@@ -24,7 +24,7 @@ Portability in high-level computer programming is the usability of the same soft
 
 ## What Is Software Portability?
 
-Software portability is ability to move software from one machine platform to another. It refers to system software or application software that can be recompiled for a different platform or to software that is available for two or more different platforms. 
+Software portability is the possibility to use the same software in different environments. It applies to the software that is available for two or more different platforms or can be recompiled for them. 
 
 ## Why Should We Port?
 
@@ -44,8 +44,8 @@ With regards to Windows apps, such programs would not use the Registry. In a tot
 
 ###  Source Code Portability
 
-Software can be compiled and linked from source code for different operating systems and processors if written in a programming language supporting compilation for the platforms. 
-This is usually a task for the program developers; typical users have neither access to the source code nor the required skills.
+It is possible to compile software for different operating systems and processors provided that it is written in a programming language that supports compilation for the respective platforms. 
+As users usually don't have access to the source code and they are not skilled enough to do it, it's a task for developers.
 
 ### Data Portability 
 
@@ -59,11 +59,11 @@ Portable data can be moved from one database or repository to another. It implie
 
 ## Cross-platform Software 
 
-It is computer software that is implemented on multiple computing platforms. Cross-platform software may be divided into two types:
-- one that requires individual building or compilation for each platform that it supports
-- other one can be directly run on any platform without special preparation.
+This software is implemented on multiple platforms. There are two types of cross-platform software:
+- the first one requires individual building or compilation for each platform
+- the second one can be directly run on any platform.
 
-For example, a cross-platform application may run on Microsoft Windows, Linux, and macOS. 
+Cross-platform applications can run e.g. on Microsoft Windows, Linux, and macOS.
 
 ## Software Portability Pitfalls
 
