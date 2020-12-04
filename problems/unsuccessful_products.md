@@ -78,3 +78,4 @@ Microsoft admits that they were just chasing Apple with a product that offered n
 - AccountLearning: https://accountlearning.com/top-10-reasons-product-failure-measures-prevent-failure/ 
 - Investopedia: https://www.investopedia.com/financial-edge/0111/5-products-that-failed-and-why.aspx
 - USERVOICE: https://community.uservoice.com/blog/why-products-fail/
+- Wierd: https://www.wired.com/2015/09/what-to-do-with-your-zune-rip-zune/ 
