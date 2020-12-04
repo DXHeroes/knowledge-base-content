@@ -66,7 +66,7 @@ Blinded by their own visions, some companies ignore negative user feedback. Thei
 
 Microsoft introduced its portable media player in 2006. From the very beginning, Zune faced these challenges: 
 
-- inevitable comparisons to the iPod 
+- inevitable comparisons to iPod 
 - its software was only available for Windows. 
 
 In December 2008, Microsoft said Zune revenues had decreased by 54%, or $100 million. 
