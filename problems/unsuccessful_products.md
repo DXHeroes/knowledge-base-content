@@ -22,33 +22,37 @@ keywords:
 
 ## TL;DR
 
-About 30 to 45% of new products fail to deliver any meaningful financial return. This typically happens due to a number of reasons – poor product / market fit, high price, failure to understand customer needs, fixing a non-existing problem, etc. 
+About one third of new products turn out to be unprofitable. It can be caused by  many reasons – poor product, high price, wrong timing, big competition, etc.
+
+![](/files/zune.png)
+
+[Zune *(courtesy: Wierd)*](zune.png)
 
 ## Why Do Some Products Fail? 
 
 #### Poor Product Quality
 
-Obviously, a product, which is of poor quality, cannot be sold.
+Of course, poor quality products are not successful.
 
-#### Higher Price
+#### High Price
 
-Another reason for the failure of certain products is the price factor. Higher production and distribution costs may lead to a higher price. Such a product cannot be sold in a market consisting of buyers willing to pay only lower range prices.
+Higher production and distribution costs can cause a product's higher price. It will be difficult to sell such a product to middle- and lower-income buyers.
 
-#### Poor Timing
+#### Wrong Timing
 
-It is important that a product (to be successful) is introduced in the market at the correct time. If it is introduced at an unsuitable time it may turn out to be a failure.
+In the case the product is introduced at an unsuitable time, it can easily fail. It is important to choose the correct time for its promotion.
 
 #### Inherent Defect
 
-There may be an inherent defect in the product, which may affect its market potentialities. Such a product may not be preferred by the buyers even if the defect is fixed later.
+Possible inherent defects can disqualify the product and turn it to be a failure. Buyers can avoid the product even if the defect is fixed later. 
 
 #### Big Competition
 
 In the case there are many similar products, the buyer will have many alternatives. In such a condition, the product can be unsuccessful.
 
-#### Lack of Promotional
+#### Lack of Promotion
 
-Popularizing the brand, particularly, in the introduction stage of a product is essential. Such a step will ensure repeated buying and bring long-term benefits. Failure to do so will be disastrous for the product.
+It is very important to promote the product especially in the introduction stage. If the appropriate promotion is neglected, the product can easily fail.
 
 #### Poor Support
 
@@ -60,20 +64,17 @@ Blinded by their own visions, some companies ignore negative user feedback. Thei
 
 ## Zune Story
 
-Microsoft first introduced this portable media player in 2006, with several new generations of the device to follow. Zune faced these major challenges: 
+Microsoft introduced its portable media player in 2006. From the very beginning, Zune faced these challenges: 
 
-- inevitable comparisons to the iPod, which ruled the portable media marketplace 
-- the fact that its software was only available for Windows. 
+- inevitable comparisons to the iPod 
+- its software was only available for Windows. 
 
-In a financial report covering the fiscal quarter ending in December 2008, Microsoft said Zune revenues had decreased by 54%, or $100 million. 
+In December 2008, Microsoft said Zune revenues had decreased by 54%, or $100 million. 
 
-Microsoft admits that they were just chasing Apple and created a product that offered no reasons for customers to switch.
+Microsoft admits that they were just chasing Apple with a product that offered no reasons for customers to switch.
 
 ## Resources for Unsuccessful Product
 
 - AccountLearning: https://accountlearning.com/top-10-reasons-product-failure-measures-prevent-failure/ 
 - Investopedia: https://www.investopedia.com/financial-edge/0111/5-products-that-failed-and-why.aspx
 - USERVOICE: https://community.uservoice.com/blog/why-products-fail/
-
-
-
