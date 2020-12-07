@@ -54,7 +54,7 @@ The essence of refactoring is applying small coding changes that preserves the f
 
 ## How to Implement Refactoring
 
-1. Find the code which is used in many places.
+1. Find the code which you use in many places.
 2. Create its own function.
 3. Call that function in the place.
 4. Repeat till steps 1-3 cannot be done.
