@@ -56,7 +56,7 @@ The essence of refactoring is applying small coding changes that preserves the f
 
 1. Find the code which you use in many places.
 2. Create its own function.
-3. Call that function in the place.
+3. Call that function in the place instead.
 4. Repeat till steps 1-3 cannot be done.
 
 **Some things to be taken care of **
