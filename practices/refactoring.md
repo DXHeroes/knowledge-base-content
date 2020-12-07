@@ -68,7 +68,7 @@ The essence of refactoring is applying small coding changes that preserves the f
 
 ## Common pitfalls of Refactoring
 
-- Challenging as small changes are not likely to be made because of laziness i.e. "Too small to worth doing".
+- Lack of developer motivation to do these small changes
 - Expensive and risky in the view of management.
 - Bug introduction is quite common.
 - Does not mean rewriting the code.
