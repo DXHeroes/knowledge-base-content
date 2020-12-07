@@ -35,7 +35,7 @@ The essence of refactoring is applying small coding changes that preserves the f
 
 ## Why You Might Want to Refactor?
 
-- Refactoring the code makes it easier to understand for other people.
+- Refactoring your code makes it easier to understand for other people.
 - It avoids duplications and hence you follow the Don't Repeat yourself (DRY) principle
 - It reduces the code which is less maintenance.
 - It passes all the tests.
