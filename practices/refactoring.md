@@ -59,7 +59,7 @@ The essence of refactoring is applying small coding changes that preserves the f
 3. Call that function in the place instead.
 4. Repeat till you can not find any frequently used code
 
-**Some things to be taken care of **
+**Keep in mind during refactoring**
 
 - If code is not cleaner refactoring is not done.
 - Don't include new features.
