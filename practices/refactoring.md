@@ -79,5 +79,5 @@ The essence of refactoring is applying small coding changes that preserves the f
 - [Refactoring Guru](https://refactoring.guru/refactoring)
 - [Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 - [Science Direct](https://www.sciencedirect.com/topics/computer-science/refactoring)
-- [Agile Alliance](https://www.agilealliance.org/glossary/refactoring/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'refactoring))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
+- [Agile Alliance](https://www.agilealliance.org/glossary/refactoring)
 - [Pros and Cons](https://www.c-sharpcorner.com/article/pros-and-cons-of-code-refactoring/)
