@@ -71,7 +71,7 @@ The essence of refactoring is applying small coding changes that preserves the f
 - Lack of developer motivation to do these small changes
 - Expensive and risky in the view of management.
 - Bug introduction is quite common.
-- Does not mean rewriting the code.
+- Developer start adding new features, rewriting the code, or fixing bugs during refactoring.
 - Does not mean fixing the bugs
 
 ## Resources for Refactoring
