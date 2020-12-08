@@ -48,7 +48,7 @@ It might also be useful to create virtual teams rather than talking about backup
 
 Redundancy is not only useful in case of emergency, but is also great for creativity.
 
-See also [Responsibility](https://developerexperience.io/practices/responsibility).
+See also [Responsibility](https://developerexperience.io/practices//responsibility).
 
 ### Fresh Documentation
 
