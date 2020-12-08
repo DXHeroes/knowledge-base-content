@@ -81,9 +81,9 @@ It can be very difficult to determine the cost vs. benefits ratio. So, it is pos
 
 ## Resources for Software Portability 
 
-- Wikipedia: https://en.wikipedia.org/wiki/Software_portability
-- PCMag: https://www.pcmag.com/encyclopedia/term/software-portability
-- Springer: https://link.springer.com/content/pdf/10.1007%2F1-4020-8159-6_3.pdf
-- CiteSeerX: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.6878&rep=rep1&type=pdf
+- [Software portability](https://en.wikipedia.org/wiki/Software_portability)
+- [Software portability](https://www.pcmag.com/encyclopedia/term/software-portability)
+- [DEVELOPING PORTABLE SOFTWARE](https://link.springer.com/content/pdf/10.1007%2F1-4020-8159-6_3.pdf)
+- [Issues in the Specification and Measurement of Software Portability](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.6878&rep=rep1&type=pdf)
 
 
