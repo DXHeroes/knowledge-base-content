@@ -95,7 +95,7 @@ To set a time-bound goal, you will deal with the following questions:
 - goals whose achieving depends on circumstances that you cannot affect
 - etc.
 
-For example, it will be very difficult (or impossible) to define a clear result and relevant metrics for problems like [Not my problem mentality](https://developerexperience.io/problems/not-my-problem-mentality).
+For example, it will be very difficult (or impossible) to define a clear result and relevant metrics for problems like [Not my problem mentality](/problems/not-my-problem-mentality).
 
 ![](/files/smart_templ1b.png)
 
@@ -109,9 +109,9 @@ SMART Goals can be used for problems that you are able to define fully following
 
 Examples: 
 
-- [Increased costs](https://developerexperience.io/problems/increased-cost)
-- [Long feadback loop](https://developerexperience.io/problems/long-feedback-loops)
-- [Sunk cost](https://developerexperience.io/problems/sunk-cost) 
+- [Increased costs](/problems/increased-cost)
+- [Long feadback loop](/problems/long-feedback-loops)
+- [Sunk cost](/problems/sunk-cost) 
 
 ## SMART Goals Pitfalls 
 
@@ -138,7 +138,7 @@ Be aware of setting a clear first step and final result but not knowing how you 
 
 ## Resources for SMART Goals
 
-- MindTools: https://www.mindtools.com/pages/article/smart-goals.htm
-- RescueTime: https://blog.rescuetime.com/smart-goals-examples/ 
-- Foundry: https://www.foundrymag.com/issues-and-ideas/article/21931645/6-reasons-why-smart-goalsetting-does-not-work
-- Indeed: https://www.indeed.com/career-advice/career-development/smart-goals
+- [SMART Goals:How to Make Your Goals Achievable](https://www.mindtools.com/pages/article/smart-goals.htm)
+- [The language of SMART goals: 5 ways to fix your bad goal-setting habits](https://blog.rescuetime.com/smart-goals-examples/)
+- [6 Reasons Why “Smart” Goal-Setting Does Not Work](https://www.foundrymag.com/issues-and-ideas/article/21931645/6-reasons-why-smart-goalsetting-does-not-work)
+- [SMART Goals: Definition and Examples](https://www.indeed.com/career-advice/career-development/smart-goals)
