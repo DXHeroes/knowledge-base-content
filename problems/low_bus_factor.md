@@ -48,7 +48,7 @@ It might also be useful to create virtual teams rather than talking about backup
 
 Redundancy is not only useful in case of emergency, but is also great for creativity.
 
-See also [Responsibility](https://developerexperience.io/practices//responsibility).
+See also [Responsibility](/practices/responsibility).
 
 ### Fresh Documentation
 
@@ -68,7 +68,7 @@ When working with another person on a problem/task, you end up with higher quali
 
 If you want knowledge to circulate in your team better, encourage people to try and adopt pair programming / pair work.
 
-See also [Pair Programming](https://developerexperience.io/practices/pair-programming).
+See also [Pair Programming](/practices/pair-programming).
 
 ### Knowledge Transfer Sessions
 
@@ -78,7 +78,7 @@ These sessions increase team spirit, improve knowledge gaps, and improve the bus
 
 Ask your rockstar(s) to pair up for at least 30 minutes a day with one other person in the team. During that time, the less experienced person will do most of the hands-on work.
 
-See also [Team Culture](https://developerexperience.io/practices/team-culture).
+See also [Team Culture](/practices/team-culture).
 
 ### Simplify
 
@@ -90,7 +90,7 @@ Organize training sessions, workshops, send them to relevant conferences. Turn y
 
 ## Resources for Low Bus Factor
 
-- Medium: https://medium.com/management-matters/whats-the-bus-factor-of-your-team-and-how-to-increase-it-8bdfb63361fc
-- 5 Whys: https://www.5whys.com/articles/team-bus-factors-how-to-reduce-them-and-how-to-prevent-them.html
-- Server Mania: https://blog.servermania.com/dont-let-a-low-bus-factor-scupper-your-startup/
-- DevIQ: https://deviq.com/bus-factor/
+- [What’s the bus factor and 7 ways to increase it](https://medium.com/management-matters/whats-the-bus-factor-of-your-team-and-how-to-increase-it-8bdfb63361fc)
+- [TEAM BUS FACTORS: HOW TO REDUCE THEM AND HOW TO PREVENT THEM](https://www.5whys.com/articles/team-bus-factors-how-to-reduce-them-and-how-to-prevent-them.html)
+- [Don’t Let A Low Bus Factor Scupper Your Startup](https://blog.servermania.com/dont-let-a-low-bus-factor-scupper-your-startup/)
+- [Bus Factor](https://deviq.com/bus-factor/)
