@@ -68,7 +68,7 @@ You can also offer to deliver [Minimum Viable Product](https://developerexperien
 
 When you start to revise the work in question, ask the client to provide regular feedback. You will know quite quickly whether they're happy with your second attempt. More often than not, they'll be happy. And they will see that you are doing your best to resolve the situation.
 
-Significant role in such feedback gathering can hold also [Product Ovners](https://developerexperience.io/practices/product-owner).
+Significant role in such feedback gathering can hold also [Product Owners](https://developerexperience.io/practices/product-owner).
 
 **9. Make concessions**
 
