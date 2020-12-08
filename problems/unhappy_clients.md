@@ -56,19 +56,19 @@ Sometimes, it is wise to start from scratch and re-establish the project require
 
 Once you've found out what needs to be done, get it all in writing. This is a case of 'covering your own ass' a little, so you can refer back in future, should any issues arise. This can simply be drafted in an email, or via an 'official' document, outlining all the project objectives.
 
-Here, creating [user stories](https://developerexperience.io/practices/user-stories) can help. Since you create simple statements – e.g.: *As a person working remotely, I want the second monitor just for communication, so I can feel connected to others.* – they capture what is to be done.
+Here, creating [user stories](/practices/user-stories) can help. Since you create simple statements – e.g.: *As a person working remotely, I want the second monitor just for communication, so I can feel connected to others.* – they capture what is to be done.
 
 **7. Go the extra mile**
 
 To make the client happy, expend extra effort or something that shows you're committed to 'getting it right' and making them a satisfied customer. Because happy clients lead to a great reputation and word-of-mouth referrals.
 
-You can also offer to deliver [Minimum Viable Product](https://developerexperience.io/practices/minimum-viable-product) and/or [Clickable Prototype](https://developerexperience.io/practices/clickable-prototype).
+You can also offer to deliver [Minimum Viable Product](/practices/minimum-viable-product) and/or [Clickable Prototype](/practices/clickable-prototype).
 
 **8. Keep talking**
 
 When you start to revise the work in question, ask the client to provide regular feedback. You will know quite quickly whether they're happy with your second attempt. More often than not, they'll be happy. And they will see that you are doing your best to resolve the situation.
 
-Significant role in such feedback gathering can hold also [Product Owners](https://developerexperience.io/practices/product-owner).
+Significant role in such feedback gathering can hold also [Product Owners](/practices/product-owner).
 
 **9. Make concessions**
 
@@ -84,7 +84,7 @@ By learning valuable lessons from unhappy clients, you'll be able to handle futu
 
 From personal experience, one unhappy client represents approximately ten people, who were silent (experience with SaaS). So, something that made one person unhappy is currently making nine other people. How can you deal with that?
 
-Within this [Knowledge Base](https://developerexperience.io/), there are multiple articles that can work as prevention to unhappy clients. Having a product owner is one, but with [Agile methodology](https://developerexperience.io/practices/agile-events), you consistently gather feedback from the client.
+Within this [Knowledge Base](https://dxkb.io/), there are multiple articles that work as prevention to unhappy clients. Having a product owner is one, but we also with [Agile methodology](/practices/agile-events), you consistently gather feedback from the client and thus, its unlikely that your clients are unhappy.
 
 ## Unhappy Clients Pitfalls
 
@@ -93,8 +93,8 @@ Within this [Knowledge Base](https://developerexperience.io/), there are multipl
     
 ## Resources for Unhappy Clients
 
-- Creative Boom: https://www.creativeboom.com/tips/how-to-deal-with-an-unhappy-client
-- Entrepreneur: https://www.entrepreneur.com/article/277437
-- NeilPatel: https://neilpatel.com/blog/unhappy-customers-into-resource/
-- Forbes: https://www.forbes.com/sites/piasilva/2019/05/23/sick-of-unhappy-clients-you-need-to-be-the-captain-of-your-ship/?sh=1f523974164a 
+- [How to deal with an unhappy client](https://www.creativeboom.com/tips/how-to-deal-with-an-unhappy-client)
+- [5 Tips for Dealing with Unhappy Clients](https://www.entrepreneur.com/article/277437)
+- [5 Ways to Turn Your Unhappy Customer into a Valuable Resource](https://neilpatel.com/blog/unhappy-customers-into-resource/)
+- [Sick of Unhappy Clients? You Need to Be the Captain of Your Ship](https://www.forbes.com/sites/piasilva/2019/05/23/sick-of-unhappy-clients-you-need-to-be-the-captain-of-your-ship/?sh=1f523974164a)
 
