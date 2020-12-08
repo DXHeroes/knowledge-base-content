@@ -2,7 +2,7 @@
 slug: refactoring
 stages:
   - development
-short_description: In computer programming and software design, code refactoring is the process of restructuring existing computer code—changing the factoring—without changing its external behavior.
+short_description: Code refactoring is the process of improving the the design of existing code without changing its external behaviour. You can see it as cleaning your code
 tags:
   - refactoring
   - code improvement
@@ -19,13 +19,14 @@ keywords:
 
 **TL;DR**
 
-In computer programming and software design, code refactoring is the process of restructuring existing computer code—changing the factoring—without changing its external behavior.
+Code refactoring is the process of improving the the design of existing code without changing its external behaviour. You can see it as cleaning your code from bad smells (over complex solutions, unreadable code and so on).
 
 ## What is Refactoring
 
-In programming and software terms, refactoring means cleaning of code. It is a controlled technique used for improving the design of existing code. By refactoring the code, one can improve the code readability and reduce its complexity.
+You can see Refactoring as a controlled technique used for improving the design of existing code. By refactoring the code, you can improve the code readability and reduce its complexity.
 
 ![Refactoring](/files/refactoring.png)
+[Author unknown](https://developerexperience.io)
 
 > A good program is as good as its code.
 
@@ -44,13 +45,10 @@ The essence of refactoring is applying small coding changes that preserves the f
 ## Problems the Refactoring Helps to Solve
 
 - Improves the objective attributes of code(length, duplication, coupling ,etc.)
-- Maintenance is much easier.
-- Code Debugging is improved.
-- Improves Code smell.
-- Improved readability.
-- Reduced complexity.
-- Helps code understanding.
-- Allows reusable design elements.
+- [Poor Code Quality](/problems/poor-code-quality)
+- [Demotivated Team](/problems/demotivated-team) from unreadable code
+- [Low Bus Factor](/problems/low-bus-factor) by simplyfing your code
+
 
 ## How to Implement Refactoring
 
@@ -58,7 +56,7 @@ The essence of refactoring is applying small coding changes that preserves the f
 2. Create its own function.
 3. Call that function in the place instead.
 4. Repeat till you can not find any frequently used code
-
+5. Commit with the Refactoring label
 **Keep in mind during refactoring**
 
 - If code is not cleaner refactoring is not done.
@@ -76,8 +74,9 @@ The essence of refactoring is applying small coding changes that preserves the f
 
 ## Resources for Refactoring
 
-- [Refactoring Guru](https://refactoring.guru/refactoring)
-- [Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
-- [Science Direct](https://www.sciencedirect.com/topics/computer-science/refactoring)
-- [Agile Alliance](https://www.agilealliance.org/glossary/refactoring)
-- [Pros and Cons](https://www.c-sharpcorner.com/article/pros-and-cons-of-code-refactoring/)
+- [Refactoring Guru: Refactoring](https://refactoring.guru/refactoring)
+- [Code Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
+- [Science Direct: Refactoring](https://www.sciencedirect.com/topics/computer-science/refactoring)
+- [Agile Alliance: Refactoring](https://www.agilealliance.org/glossary/refactoring)
+- [Pros and Cons of Code Refactoring](https://www.c-sharpcorner.com/article/pros-and-cons-of-code-refactoring/)
+- [Analysis of Code Refactoring Impact on Software Quality](10.1051/matecconf/20165702012)
