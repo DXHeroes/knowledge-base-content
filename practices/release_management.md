@@ -52,7 +52,7 @@ Delivering enterprise software is complex and comes with expectations of high-qu
 
 ## Why You Might Want Release Management
 
-Release management is responsible for the planning, scheduling, testing and deploying the controlled build of a software release. This process ensures the delivery of new and enhanced services while still being able to protect the robustness of existing services.
+Release management is responsible for the planning, scheduling, testing, and deploying the controlled build of a software release. This process ensures the delivery of new and enhanced services while still being able to protect the robustness of existing services.
 
 With correct release management, you can achieve: 
 
@@ -67,7 +67,7 @@ With correct release management, you can achieve:
 - - Documenting and establishing auditable release controls is ensured.
 
 - Communication of releases to the development team, client representatives, clients, and other organizations.
-- Procedures are streamlined in order to achieve a balance between complexity and required controls of the release.
+- Procedures are streamlined to achieve a balance between complexity and required controls of the release.
 - Lessons learned from the release management process you can apply to other areas.
 
 ## Problems Release Management Solves
@@ -112,8 +112,8 @@ Deployment is the final stage where the product release to a live production env
 - **Downtime for testing:**
 The product release cycle waits on bug fixes.
 
-- Lack of branch and version control.
-  A versioning system with multiple branching support helps managing features of the product. One branch maybe volatile due to new features being introduced while the other maybe stable.
+- **Lack of branch and version control:**
+  A versioning system with multiple branching support helps in managing the features of your product. Use one as main, and another to introduce changes.
 
 ## Resources for Release Management
 
