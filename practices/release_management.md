@@ -103,7 +103,7 @@ This stage involves the actual development (designing and building) of the produ
   To have a better outcome, pitfalls of a product release must be examined and a more manageable release should be considered.
 
 - **Coordinating the release:**
-  When designing the product, special thought must be given to its introduction, target user group, support offered and frequency of updates.
+ When designing the product, give a thought to its introduction, target user group, the support offered, and frequency of updates.
 
 - **Conflict of user groups:**
   While one group prefers new features and updates the other may not. A strategy is needed to handle both groups and proceed with releases when needed.
