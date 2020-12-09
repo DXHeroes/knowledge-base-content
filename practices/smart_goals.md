@@ -24,6 +24,8 @@ SMART Goals is a tool that can be used to plan and achieve your goals – both p
 
 ![](/files/smart3.png) 
 
+[SMART goals summary *(author)*](dxheroes.io)
+
 ## What Are SMART Goals?
 
 **SMART** is an acronym that you can use to guide your goal setting. Using SMART Goals sets boundaries and defines the steps you will need to take, resources necessary to get there, and milestones that indicate progress along the way. To make sure your goals are clear and reachable, each one should be:
@@ -33,6 +35,8 @@ SMART Goals is a tool that can be used to plan and achieve your goals – both p
 - **A**ttainable (agreed, achievable).
 - **R**elevant (reasonable, realistic and resourced, results-based).
 - **T**ime-bound (time-based, time-limited, time/cost limited, timely, time-sensitive).
+
+## How to Implement SMART Goals
 
 ### Specific
 
@@ -91,31 +95,50 @@ To set a time-bound goal, you will deal with the following questions:
 - goals whose achieving depends on circumstances that you cannot affect
 - etc.
 
-For example, it will be very difficult (or impossible) to define a clear result and relevant metrics for problems like __**Not my problem mentality**__.
-
-## How to Start With SMART Goals
-
-There are various SMART Goals worksheets, templates, and maps that can help you with the goals setting process. 
+For example, it will be very difficult (or impossible) to define a clear result and relevant metrics for problems like [Not my problem mentality](/problems/not-my-problem-mentality).
 
 ![](/files/smart_templ1b.png)
+
+[SMART goals template *(author)*](/files/smart_templ1b.png)
+
+There are various SMART Goals worksheets, templates, and maps that can help you with the goals setting process – for example [Smartsheet](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals).
 
 ## Problems That SMART Goals Can Solve
 
 SMART Goals can be used for problems that you are able to define fully following SMART Goals methodology carefully. 
 
+Examples: 
+
+- [Increased costs](/problems/increased-cost)
+- [Long feadback loop](/problems/long-feedback-loops)
+- [Sunk cost](/problems/sunk-cost) 
+
 ## SMART Goals Pitfalls 
 
-- Focus is too narrow – fixating on a single SMART goal without the appropriate context, it is easy to fall into the trap of seeing it as the only goal.
-- Measuring success and failure – when success is measured by a SMART goal, people may end up pursuing that goal for a narrowly defined success, and letting that exclusive target take over their identity.
-- Short-term result vs. long-term success – preferring short-term results to overall success can represent a risk of missing your goal. 
-- Giving up too soon, and the all-or-nothing approach – SMART goals are viewed as complete entities, and when you are unable to do everything as planned, you may become discouraged and give up the entire goal.
-- Failing to realize one's full potential – setting goals that are too easy will not move you to achieve more than your minimum potential; so could you miss the opportunity for growth.
-- “Realistic” and “Achievable” can be misleading – ask yourself not only whether your goal is realistic considering your capability but also whether it is realistic considering all your other goals. Do not overload yourself with too many high priorities.
-- Missing a crucial step along the way – be aware of setting a clear first step and final result but not knowing how you are going to get from A to B.
+#### Focus is Too Narrow
+Fixating on a single SMART goal without the appropriate context, it is easy to fall into the trap of seeing it as the only goal.
+
+#### Measuring Success and Failure
+When success is measured by a SMART goal, people may end up pursuing that goal for a narrowly defined success, and letting that exclusive target take over their identity.
+
+#### Short-term Result vs. Long-term Success
+Preferring short-term results to overall success can represent a risk of missing your goal.
+
+#### Giving Up Too Soon, and All-or-nothing Approach
+SMART goals are viewed as complete entities, and when you are unable to do everything as planned, you may become discouraged and give up the entire goal.
+
+#### Failing to Realize One's Full Potential
+Setting goals that are too easy will not move you to achieve more than your minimum potential; so could you miss the opportunity for growth.
+
+#### “Realistic” and “Achievable” Can Be Misleading
+Ask yourself not only whether your goal is realistic considering your capability but also whether it is realistic considering all your other goals. Do not overload yourself with too many high priorities.
+
+#### Missing Crucial Step Along the Way
+Be aware of setting a clear first step and final result but not knowing how you are going to get from A to B.
 
 ## Resources for SMART Goals
 
-- MindTools: https://www.mindtools.com/pages/article/smart-goals.htm
-- RescueTime: https://blog.rescuetime.com/smart-goals-examples/ 
-- Foundry: https://www.foundrymag.com/issues-and-ideas/article/21931645/6-reasons-why-smart-goalsetting-does-not-work
-- Indeed: https://www.indeed.com/career-advice/career-development/smart-goals
+- [SMART Goals:How to Make Your Goals Achievable](https://www.mindtools.com/pages/article/smart-goals.htm)
+- [The language of SMART goals: 5 ways to fix your bad goal-setting habits](https://blog.rescuetime.com/smart-goals-examples/)
+- [6 Reasons Why “Smart” Goal-Setting Does Not Work](https://www.foundrymag.com/issues-and-ideas/article/21931645/6-reasons-why-smart-goalsetting-does-not-work)
+- [SMART Goals: Definition and Examples](https://www.indeed.com/career-advice/career-development/smart-goals)
