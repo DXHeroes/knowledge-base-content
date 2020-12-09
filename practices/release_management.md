@@ -117,6 +117,7 @@ The product release cycle waits on bug fixes.
 
 ## Resources for Release Management
 
+- [Release Management Definition](https://en.wikipedia.org/wiki/Release_management)
 - MicroFocus: [What Is Release Management?](https://www.microfocus.com/en-us/what-is/release-management)
 - Lucidchart: [5 Steps to a Successful Release Management Process](https://www.lucidchart.com/blog/release-management-process)
 - Smartsheet: [Everything You Need to Know to Master Release Management](https://www.smartsheet.com/release-management-process)
