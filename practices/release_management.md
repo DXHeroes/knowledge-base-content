@@ -54,7 +54,7 @@ Delivering enterprise software is complex and comes with expectations of high-qu
 
 Release management is responsible for the planning, scheduling, testing and deploying the controlled build of a software release. This process ensures the delivery of new and enhanced services while still being able to protect the robustness of existing services.
 
-The following objectives can be achieved with this process:
+With correct release management, you can achieve: 
 
 - Increases the success rate of releases while reducing releases with unexpected outcomes.
 - Reduces unpredictable incidents caused by a release.
