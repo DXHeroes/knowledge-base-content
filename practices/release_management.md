@@ -83,7 +83,7 @@ The following objectives can be achieved with this process:
 ## How to Implement Release Management
 
 1. **Plan the release**
-   Planning stage requires a lot of time for structuring the release from start to finish. A strong release plan will help teams stay on track and meet expected standards, aims and requirements.
+ The planning stage requires a lot of time for structuring the release from start to finish. A well-thought release plan will help teams stay on track and meet expected standards, aims, and requirements.
 
 2. **Build the release**
 This stage involves the actual development (designing and building) of the product according to requirements defined during the release plan. After dealing with any issues that surfaced, the build must be subjected to real-world scenario testing. As the development team builds the product, it is tested for user acceptance by using a testing environment. Testing helps the team find bugs or issues that can occur in the real world. As the testing team identifies errors they send the build back for development. The workflow becomes cyclic after the build moves the 'development' stage to the 'testing' stage and vice versa until the release is approved.
