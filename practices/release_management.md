@@ -45,7 +45,7 @@ In the world of business and IT, software systems, resources and development pro
 
 Release management is the process of going through the necessary steps to deploy a software build through different stages and environments; in preparation for its release. Quite often, software products are cycles of development, testing, and releases on platforms that evolve in size and complexity. These cycles cause the need for specialized managing environments where changes occur rapidly. Release management requires dedicated resources to supervise the flow of development, testing, deployment, and support.
 
-Delivering enterprise software is complex and comes with expectations and aims of quick high-quality product releases. Underperforming and underwhelming releases will lead to frustrations for the development team and low satisfaction to the end customer.
+Delivering enterprise software is complex and comes with expectations of high-quality product releases. Underperforming and underwhelming releases will lead to frustrations for the development team and low satisfaction to the end customer.
 
 ![Release Management](/files/release_management.jpg)
 [Smartsheet](https://www.smartsheet.com/release-management-process)
