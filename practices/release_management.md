@@ -39,7 +39,7 @@ keywords:
 
 **TL;DR**
 
-In the world of business and IT, software systems, resources and development processes  expand in distribution and complexity. How doas Release Management help this? Read more in this article.
+In the world of business and IT, software systems, resources, and development processes expand in distribution and complexity. How does Release Management help with controlling your deployments? 
 
 ## What Is Release Management
 
