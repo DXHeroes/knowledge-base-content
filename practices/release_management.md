@@ -111,7 +111,7 @@ This stage involves the actual development (designing and building) of the produ
 - **Downtime for testing:**
   When the release is tested either automatically, manually or both the product is not to be changed unless it is a bug fix.
 
-- **Branching and Versioning:**
+- Lack of branch and version control.
   A versioning system with multiple branching support helps managing features of the product. One branch maybe volatile due to new features being introduced while the other maybe stable.
 
 ## Resources for Release Management
