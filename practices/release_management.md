@@ -60,7 +60,7 @@ The following objectives can be achieved with this process:
 - Reduces unpredictable incidents caused by a release.
 - Ability to manage all releases by creating a single documented process.
 - Ability to record all releases by maintaining a single repository throughout the cycle.
-- Compliance issues are escalated to the management.
+- Compliance issues are escalated to management.
 - Coordination between teams is improved to ensure services are delivered smoothly on schedule.
 - Productivity is improved by establishing standard release tools and processes.
 - Providing ample time for impact analysis by Change-Advisory Board (CAB).
