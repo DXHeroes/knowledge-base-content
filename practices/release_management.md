@@ -64,7 +64,8 @@ With correct release management, you can achieve:
 - Coordination between teams is improved to ensure services are delivered smoothly on schedule.
 - Productivity is improved by establishing standard release tools and processes.
 - Providing ample time for impact analysis by Change-Advisory Board (CAB).
-- Documenting and establishing of auditable release controls is ensured.
+- - Documenting and establishing auditable release controls is ensured.
+
 - Communication of releases to the development team, client representatives, clients, and other organizations.
 - Procedures are streamlined in order to achieve a balance between complexity and required controls of the release.
 - Lessons learned from the release management process you can apply to other areas.
