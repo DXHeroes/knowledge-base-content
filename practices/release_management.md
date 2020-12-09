@@ -109,7 +109,7 @@ This stage involves the actual development (designing and building) of the produ
   While one group prefers new features and updates the other may not. A strategy is needed to handle both groups and proceed with releases when needed.
 
 - **Downtime for testing:**
-  When the release is tested either automatically, manually or both the product is not to be changed unless it is a bug fix.
+The product release cycle waits on bug fixes.
 
 - Lack of branch and version control.
   A versioning system with multiple branching support helps managing features of the product. One branch maybe volatile due to new features being introduced while the other maybe stable.
