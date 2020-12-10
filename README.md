@@ -8,7 +8,7 @@ Feel free to contribute to DX Knowledge Base. Please follow our [Contribution Gu
 
 ### Roadmap 
 
-You can visit our [public roadmap](https://roadmap.dxheroes.io).
+See our [public roadmap](https://roadmap.dxheroes.io).
 
 ## License
 
