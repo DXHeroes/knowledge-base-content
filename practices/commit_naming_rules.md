@@ -30,7 +30,7 @@ Having a commit naming convention can be of great help, in maintaining the codeb
 
 ![Commit naming guide](/files/commit_guide.png)
 
-## Why Commit Naming Rules?
+## Why You Might Want Commit Naming Rules?
 
 Commit messages have become a crucial part of the development process. They allow you to trace back the point in time when you wrote that particular piece of code, or more often they let other developers in your team, track the flow of code, and no one likes tracking code with messy commit messages. Since it is a summary of what changes you did, it is very important to write commit messages that are concise and consistent.
 
