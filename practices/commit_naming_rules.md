@@ -59,7 +59,7 @@ eg. instead of using *"fixed: bug #45",* use *"fix: bug #45" .*
 
 The commit message body is the perfect place to explain what your commit does. Don't explain _how_ you did the changes. Instead, show _what_ and _why_ you changed. Commit body is the perfect place to explain these things. Generally, your code should be self-explanatory. Still, if you feel the need to explain how something works, use source comments.
 
-Besides all these commit naming conventions, there are things which are highly subjective and may vary between developers to developers, like *"should subject line be capitalized?"* or *"to add or not to add punctuation marks in commit messages?".* Opinions **like these may vary from person to person but it's always a good practice to use any convention and be consistent with it. 
+Besides all these commit naming conventions, there are things that are highly subjective and may vary between developers to developers, like *"should the subject line be capitalized?"* or *"to add or not to add punctuation marks in commit messages?".* Opinions like these may vary from person to person but it's a good practice to be consistent with your conventions.
 
 ### Resources for Commit Naming Rules
 
