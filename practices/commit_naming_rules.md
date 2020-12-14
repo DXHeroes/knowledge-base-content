@@ -29,6 +29,7 @@ covered_by_dx_scanner: true
 Having a commit naming convention can be of great help, in maintaining the codebase and easing up the development process. Find out more about the good practices around commit naming rules!
 
 ![Commit naming guide](/files/commit_guide.png)
+[Author unknown](https://dxkb.io)
 
 ## Why You Might Want Commit Naming Rules?
 
