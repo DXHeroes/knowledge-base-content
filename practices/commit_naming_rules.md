@@ -46,7 +46,7 @@ There are many conventions around commit messages, that are widely followed in t
 
 ### Add a Type
 
-Commit messages should indicate the type of commit. For that following type conventions are used:
+Commit messages should indicate the type of commit. For that following type you should use these conventions:
 
 - **fix**: Indicates that your commit fixes some bug or something.
 - **feat**: Indicates that your commit adds a new feature.
