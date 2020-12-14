@@ -36,7 +36,10 @@ Having a commit naming convention can be of great help, in maintaining the codeb
 Commit messages have become a crucial part of the development process. They allow you to trace back the point in time when you wrote that particular piece of code, or more often they let other developers in your team, track the flow of code, and no one likes tracking code with messy commit messages. Since it is a summary of what changes you did, it is very important to write commit messages that are concise and consistent.
 
 There are many conventions around commit messages, that are widely followed in the developer community.
-
+## Problems that Increasing the Bus Factor Solves
+- [Poor code quality](/problems/poor-code-quality)
+- [Demotivated Team](/problems/demotivated-team)
+- [Toxic team culture](/problems/toxic-team-culture)
 ## How to Implement Commit Naming Rules?
 
 ![Commit Message](/files/commit_dear_git.png)
