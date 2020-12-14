@@ -36,7 +36,7 @@ Commit messages have become a crucial part of the development process. They allo
 
 There are many conventions around commit messages, that are widely followed in the developer community.
 
-## How to Write Effective Commit Messages?
+## How to Implement Commit Naming Rules?
 
 ![Commit Message](/files/commit_dear_git.png)
 
