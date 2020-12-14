@@ -51,7 +51,7 @@ Besides these many organizations like Angular, use their  conventions and commit
 
 ### Write Commit Message In the Imperative Mood
 
-Commit messages, especially the subject lines should be written in the imperative mood, i.e., as if you were to command your code to perform some instruction. Like telling what git should do while applying that commit.
+Commit messages, especially you should write the subject lines in the imperative mood, i.e., as if you were to command your code to perform some instruction. Like telling what Git should do while applying that commit.
 
 eg. instead of using *"fixed: bug #45",* use *"fix: bug #45" .*
 
