@@ -26,15 +26,7 @@ Portability in high-level computer programming is the usability of the same soft
 
 Software portability is the possibility to use the same software in different environments. It applies to the software that is available for two or more different platforms or can be recompiled for them. 
 
-## Why Should We Port?
-
-- There are many hardware and software platforms; it is not only the Windows world.
-- Users who move to different environments want familiar software.
-- We want easier migration to new system versions and to totally new environments.
-- Developers want to spend more time on new development and less on redevelopment.
-- More users for the same product means lower software costs.
-
-## Portability Kinds
+Common Portability kinds are applicatiion, source code and data portability.
 
 ### Application Portability
 
@@ -51,13 +43,25 @@ As users usually don't have access to the source code and they are not skilled e
 
 Portable data can be moved from one database or repository to another. It implies that the data are in electronic files that are readily accessible rather than only visually on a screen. Otherwise, the data must be retyped word for word into another application and on-screen images must be captured one at a time. 
 
-## Strategies for Portability
+## Why You Might Want Software Portability?
+
+- There are many hardware and software platforms; it is not only the Windows world.
+- Users who move to different environments want familiar software.
+- We want easier migration to new system versions and to totally new environments.
+- Developers want to spend more time on new development and less on redevelopment.
+- More users for the same product means lower software costs.
+
+## Problems Software Portability Helps to Solve
+
+## How to Implement Software Portability
+
+### Strategies for Portability
 
 -   Transferring installed program files to another computer of basically the same architecture.
 -   Reinstalling a program from distribution files on another computer of basically the same architecture.
 -   Building executable programs for different platforms from source code; this is usually called “porting”. 
 
-## Cross-platform Software 
+### Cross-platform Software 
 
 This software is implemented on multiple platforms. There are two types of cross-platform software:
 - the first one requires individual building or compilation for each platform
