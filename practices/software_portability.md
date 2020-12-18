@@ -20,7 +20,7 @@ keywords:
 
 ## TL;DR
 
-Portability in high-level computer programming is the usability of the same software in different environments.
+Portability in computer programming is the usability of the same software, code or architecture in different environments.
 
 ## What Is Software Portability?
 
@@ -52,6 +52,8 @@ Portable data can be moved from one database or repository to another. It implie
 - More users for the same product means lower software costs.
 
 ## Problems Software Portability Helps to Solve
+- []()
+- []()
 
 ## How to Implement Software Portability
 
@@ -68,6 +70,7 @@ This software is implemented on multiple platforms. There are two types of cross
 - the second one can be directly run on any platform.
 
 Cross-platform applications can run e.g. on Microsoft Windows, Linux, and macOS.
+
 
 ## Software Portability Pitfalls
 
