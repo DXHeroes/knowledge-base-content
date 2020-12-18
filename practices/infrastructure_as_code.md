@@ -68,7 +68,6 @@ With automation, you are lowering the risk of human error, and with configuratio
 ## How to Implement Infrastructure As Code
 
 Before exploring possible tools, there are general rules to follow for maximal effect:
-
 1. **Collaboration** Devs, Ops, or DevOps teams should collaborate on configuration and provisioning.
 2. **Write Tests** One of the most notable values of IaC. Start with [Unit testing](/practices/unit-testing),[Performance testing](/practices/performance-testing) or Integration testing.
 3. **Source control** your configuration files. Use practices like [Semantic versioning](/practices/semantic-versioning) or commit name rules.
@@ -76,15 +75,24 @@ Before exploring possible tools, there are general rules to follow for maximal e
 
 IaC Tools to consider:
 
-* [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
-* [Azure Resource Manager](https://docs.microsoft.com/cs-cz/azure/azure-resource-manager/management/overview)
-* [Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager)
-* [Puppet](https://puppet.com/)
-* [Terraform](https://www.terraform.io/)
-* [Vagrant](https://www.vagrantup.com/)
+#### [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
+Declarative, Provisioning, drag-n-drop UI,  highly reliable, available, and scalable AWS infrastructure.
+#### [Azure Resource Manager](https://docs.microsoft.com/cs-cz/azure/azure-resource-manager/management/overview)
+Declarative, Group deployments, group pricing options, JSON templates (instead of YAML).
+#### [Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager)
+Declarative, integration with other Google Cloud Services, console UI, supports both Python and JINJA, 
+#### [Puppet](https://puppet.com/)
+Declarative, own language for iac, needs master server.
+#### [Chef](https://www.chef.io)
+Imperative (Procedural), needs master server, open source.
+#### [Terraform](https://www.terraform.io/)
+Declarative, provisioning, masterless, open source.
+#### [Vagrant](https://www.vagrantup.com/)
+Runs over AWS, Puppet, Chef and others, a way to virtualize machines.
+
+If you don't have a dev-ops team or your team is on junior level, consider asking experts. We have good experience with [LUKAPO](https://lukapo.com/en)
 
 ## Common Pitfalls of Infrastructure As Code
-
 - The management can be against moving towards IaC since they don’t see the results immediately
 - IaC opens code-like issues such as the question of code maintenance, working with someone’s code, or just question of collaboration
 - For some tools, there is a general lack of code samples 
@@ -93,7 +101,6 @@ IaC Tools to consider:
 
 
 ## Resources for Documentation Testing
-
 * [Infrastructure as Code by Kief Morris: Chapter 1](https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/ch01.html)
 * [Infrastructure as Code by Kief Morris: blog](https://infrastructure-as-code.com/)
 * [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
