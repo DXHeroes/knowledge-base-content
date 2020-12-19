@@ -20,7 +20,7 @@ keywords:
 
 ## TL;DR
 
-Portability in computer programming is the usability of the same software, code or architecture in different environments.
+Portability is the ability to use the same software in different environments or platforms. It increases software's usability, whilst introducing other challenges.
 
 ## What Is Software Portability?
 
@@ -28,15 +28,17 @@ Software portability is the possibility to use the same software in different en
 
 Common Portability kinds are applicatiion, source code and data portability.
 
+![It works on my machine](/folder/it_works.jpg)
+[It works on my machine](https://www.architect.io/blog/the-importance-of-portability)
+
 ### Application Portability
 
-Portable applications can be converted from one computer environment to another one. 
-With regards to Windows apps, such programs would not use the Registry. In a totally portable application, all related files would be stored in a single folder so it can be copied with one command. Such a folder has many sub-folders, and they are copied in the same transaction. 
-[Walled gardens](https://www.pcmag.com/encyclopedia/term/walled-garden) prevent data from being easily transferred. 
+Portable applications can be converted from one computer environment to another one.  With regards to Windows apps, such programs would not use the Registry. In a totally portable application, all related files would be stored in a single folder so it can be copied with one command. Such a folder has many sub-folders, and they are copied in the same transaction. [Walled gardens](https://www.pcmag.com/encyclopedia/term/walled-garden) prevent data from being easily transferred. 
 
 ###  Source Code Portability
 
 It is possible to compile software for different operating systems and processors provided that it is written in a programming language that supports compilation for the respective platforms. 
+
 As users usually don't have access to the source code and they are not skilled enough to do it, it's a task for developers.
 
 ### Data Portability 
@@ -45,17 +47,21 @@ Portable data can be moved from one database or repository to another. It implie
 
 ## Why You Might Want Software Portability?
 
-- There are many hardware and software platforms; it is not only the Windows world.
-- Users who move to different environments want familiar software.
-- We want easier migration to new system versions and to totally new environments.
-- Developers want to spend more time on new development and less on redevelopment.
-- More users for the same product means lower software costs.
+For Sales teams, the main reason for porting is to reach wider audience. There are many hardware and software platforms; it is not only the Windows world. More users mean increased profit. 
 
+For Dev-ops, portability comes with stability. You don't want to have different behaviours on some platforms, you don't want to waste time adressing enviroment related configs. Imagine tunning your enviroments every single staging, no dev-ops team wants to deal with unnecessary work just because code is not flexible. 
+
+For Dev teams, Portable software can be easily used on other platforms. So, if your dev team moves to different enviroment, you don't want to waste time and resources on re-development. They also want too avoid lock-ins (on certain libraries or dependencies).
 ## Problems Software Portability Helps to Solve
-- []()
-- []()
+- [Poor Code Quality](problems/poor-code-quality)
+- [Demotivated Team](/problems/demotivated-team)
+- [Increased Cost](/problems/increased-cost)
+- [Bad Product-Market Fit](/problems/bad-product-market-fit)
+- [Long Feedback Loops](/problems/long-feedback-loops)
 
 ## How to Implement Software Portability
+
+Portability usually has 3 dimensons: Vertical (Development lifecycle), Horizontal (Platform/provider migration) or Deep (Replication). Vertical portability refers to consistency of software throught whole lifecycle, which can be ensured with [Infrastructure as code](/practices/infrastructure-as-code). Horizontal stands for platform/dependency flexibility. With good [Dependency management](/practices/updating-the-dependencies), single sourcing and good platform support plan, you can master the Horizontal dimension. Deep means how scalable and replicable your code/architecture/software is.
 
 ### Strategies for Portability
 
@@ -69,8 +75,7 @@ This software is implemented on multiple platforms. There are two types of cross
 - the first one requires individual building or compilation for each platform
 - the second one can be directly run on any platform.
 
-Cross-platform applications can run e.g. on Microsoft Windows, Linux, and macOS.
-
+Cross-platform applications can run e.g. on Microsoft Windows, Linux, and macOS. Another you can try is to use platform-independent language (for example, while C# is great for Windows, on Linux it is not the best option).
 
 ## Software Portability Pitfalls
 
