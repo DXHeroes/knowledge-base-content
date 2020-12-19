@@ -2,7 +2,7 @@
 slug: software-portability
 stages:
   - development
-short_description: Portability in high-level computer programming is the usability of the same software in different environments. 
+short_description: Portability is the ability to use the same software in different environments or platforms. It increases software's usability, whilst introducing other challenges.
 tags:
   - software portability
   - application
