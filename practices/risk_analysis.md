@@ -61,7 +61,7 @@ After identification of threats that can be faced, two factors need to be calcul
 - Likelihood of these threats being realized
 - Possible impact of these threats.
 
-So if we can estimate the exact probability of that event occuring and then multiply that by the factor that will cost us to make the things backwards in right condition.
+So if we can estimate the exact probability of that event occurring and then multiply that by the factor that will cost us to make the things backward in the right condition.
 Value for the risk can be calculated by :
 
 ```
