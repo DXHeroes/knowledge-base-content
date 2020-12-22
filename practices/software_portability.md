@@ -52,7 +52,9 @@ For Sales teams, the main reason for porting is to reach wider audience. There a
 For Dev-ops, portability comes with stability. You don't want to have different behaviours on some platforms, you don't want to waste time adressing enviroment related configs. Imagine tunning your enviroments every single staging, no dev-ops team wants to deal with unnecessary work just because code is not flexible. 
 
 For Dev teams, Portable software can be easily used on other platforms. So, if your dev team moves to different enviroment, you don't want to waste time and resources on re-development. They also want too avoid lock-ins (on certain libraries or dependencies).
+
 ## Problems Software Portability Helps to Solve
+
 - [Poor Code Quality](problems/poor-code-quality)
 - [Demotivated Team](/problems/demotivated-team)
 - [Increased Cost](/problems/increased-cost)
@@ -97,5 +99,4 @@ It can be very difficult to determine the cost vs. benefits ratio. So, it is pos
 - [Software portability](https://www.pcmag.com/encyclopedia/term/software-portability)
 - [DEVELOPING PORTABLE SOFTWARE](https://link.springer.com/content/pdf/10.1007%2F1-4020-8159-6_3.pdf)
 - [Issues in the Specification and Measurement of Software Portability](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.6878&rep=rep1&type=pdf)
-
 
