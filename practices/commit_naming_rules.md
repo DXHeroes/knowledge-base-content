@@ -40,6 +40,8 @@ There are many conventions around commit messages, that are widely followed in t
 - [Poor code quality](/problems/poor-code-quality)
 - [Demotivated Team](/problems/demotivated-team)
 - [Toxic team culture](/problems/toxic-team-culture)
+
+
 ## How to Implement Commit Naming Rules?
 
 ![Commit Message](/files/commit_dear_git.png)
@@ -66,6 +68,7 @@ The commit message body is the perfect place to explain what your commit does. D
 ### Commit Convetions
 
 If your repo has unusual commit tags, create a commit conventions document for your team. Commit Conventions are especially helpful when you maintain an open-source repo since they provide guidelines for every contributor. However, if you are using the standard _fix_, _feat_, _bug_, _refactoring_, and so on, you don't need to have them written down.
+
 Besides all these commit naming conventions, there are things that are highly subjective and may vary between developers to developers, like *"should the subject line be capitalized?"* or *"to add or not to add punctuation marks in commit messages?".* Opinions like these may vary from person to person but it's a good practice to be consistent with your conventions.
 ## Common Pitfalls of Commit Naming Rules
 * Developers don't follow the Commit Naming Rules
