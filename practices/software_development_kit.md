@@ -25,37 +25,38 @@ keywords:
 
 **TL;DR**
 
-It is a set of toolchains that allow a developer to write applications for a given platform or to use a specific framework to do so. SDK has the necessary tools to get the job done. But what you include in your kit toolbox varies from platform to platform.
+Software Development Kit is a set of toolchains that allow a developer to write applications for a given platform or to use a specific framework to do so. SDK has the necessary tools to get the job done. But what you include in your kit toolbox varies from platform to platform.
 
-## What is an SDK
+## What Is SDK
 
-A Software Development Kit (SDK) is an organised collection of software development tools which make it easier to create applications for a specific software or hardware platform.
+A Software Development Kit (SDK) is an organized collection of software development tools that make it easier to create applications for a specific software or hardware platform.
 
 You can also think of it as a wrapper library or framework developed by a service provider that provides an abstraction around the services or capabilities that the platform has or supports.
 
 ![SDK](/files/software_development_kit.png)
 [CleverTap: What is an SDK? Everything You Need to Know](https://clevertap.com/blog/what-is-an-sdk/)
 
-There are notable differences between an API and an SDK. An API is an interface to a service that you might provide to the developers who want to build applications revolving around your product. Developers create APIs to communicate between various applications. You ideally have an API for each service and relevant documentation.
 
-The SDK serves as a structured package that provides an abstraction for the APIs. With SDK, the developer can create applications with APIs that are consistent on a particular platform. An API does not include an SDK. On the other hand, an SDK might contain various APIs.
+### What Is the Difference between SDK and API
 
-### Why You Might Want an SDK
+There are notable differences between an API and an SDK. An API is an interface to a service that you provide to developers who want to build applications revolving around your product. Developers create APIs to communicate between various applications. You ideally have an API for each service and relevant documentation.
 
-A Software Development Kit may be delivered with relevant software libraries, technical documentation, code-snippets, specialized application software, such as compilers, interpreters, debuggers, and tools that developers can use to build applications.
+The SDK serves as a structured package that provides an abstraction for the APIs. With SDK, the developer can create applications with APIs that are consistent on a particular platform. An API does not include an SDK. On the other hand, an SDK can contain various APIs.
 
-An SDK is designed to create or extend applications built on a specific platform or programming language. Developers might have to develop their logic and use their tools to interface with services.
+### Why You Might Want SDK
 
-Therefore, you should consider developing an SDK when you want to create a standardized way to interact with your services that a developer can pick up and reuse.
+If you want to improve [DX](/practices/good-developer-experience) around your product, you should consider creating an SDK for devs. With SDK, you provide them with relevant software libraries, technical documentation, code-snippets, specialized application software, such as compilers, interpreters, debuggers, and tools that  can be used to build applications. 
 
-## Problems an SDK Solves
+An SDK is designed to create or extend applications built on a specific platform or programming language. Developers appreciate having a standardized way to interact with your services that they can pick up and reuse. 
+
+## Problems SDK Helps to Solve
 
 - Risk mitigation
 - [Meaningless work](/problems/meaningless-work)
 - Faster deployment
 - Shorter development cycle
 
-## How to Implement an SDK
+## How to Implement SDK
 
 **Keep it Simple and Intuitive**
 
@@ -79,7 +80,7 @@ When your SDK uses an API, document, and provide insight into how the API calls 
 
 **Make the SDK Accessible**
 
-Make your SDK available for users by using an accessible repository for supported languaged, have file storage or distribution facility in place. The documentation should also be available. If the SDK is open-source, host the source code at places that encourage collaboration and community contribution.
+Make your SDK available for users by using an accessible repository for supported languaged, have file storage, or distribution facility in place. The documentation should also be available. If the SDK is open-source, host the source code at places that encourage collaboration and community contribution.
 
 ## Common Pitfalls of an SDK
 
@@ -91,6 +92,6 @@ Make your SDK available for users by using an accessible repository for supporte
 
 ## Resources for SDK
 
-- Red Hat: [What is an SDK?](https://www.redhat.com/en/topics/cloud-native-apps/what-is-SDK)
-- SkyHook: [What is a SDK and an API?](https://www.skyhook.com/blog/what-is-an-sdk-and-an-api)
-- Nordic APIs: [Best Practices for Building SDKs for APIs](https://nordicapis.com/best-practices-for-building-sdks-for-apis/)
+- [Red Hat: What is an SDK?](https://www.redhat.com/en/topics/cloud-native-apps/what-is-SDK)
+- [SkyHook: What is a SDK and an API?](https://www.skyhook.com/blog/what-is-an-sdk-and-an-api)
+- [Nordic APIs: Best Practices for Building SDKs for APIs](https://nordicapis.com/best-practices-for-building-sdks-for-apis/)
