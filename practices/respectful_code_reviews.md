@@ -1,14 +1,30 @@
 
 
-
-| Element | Description | Type | Required | Notes |
-|---- | ---- |  ------------ | ----| --- |
-| recordTV| Top level| TV program data  | Required |
-| &nbsp;&nbsp;&nbsp; date| Date of TV program | string| Optional | format YYYY-DD-MM.If not included, it will use today's date |
-| &nbsp;&nbsp;&nbsp; time| time of TV program | string| Required | Attribute :format on time can be either "24" or "12" for 24 or 12 hour formats. (12 hour formats are like "6:00 PM") |
-| &nbsp;&nbsp;&nbsp; duration| duration of TV program/recording | string| Required | in hours  |
-| &nbsp;&nbsp;&nbsp; channel| TV program channel number | string| Required |  |
-
+---
+slug: pull-requests
+stages:
+  - development
+short_description: Respectful code reviews involve giving a positive feeback.
+tags:
+  - respectful code review
+  - git
+  - ci/cd
+  - Code Review
+  - teamwork
+  - Continuous Integration
+  - continuous delivery
+  - Bus Factor
+  - code review
+keywords:
+  - code
+  - reviews
+  - branch
+  - repository
+  - code
+  - quality
+  - merge request
+  - meaningless work
+---
 # Respectful Code Reviews
 
 **TL;DR**
