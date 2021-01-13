@@ -27,13 +27,12 @@ keywords:
 
 **TL;DR**
 
-The basis for a fruitful and positive collaboration is respectful and constructive feedback.
+Respectful and constructive feedback is the basis of a fruitful collaboration, healthy work environment, and quality product.
 
 
 ## Why You Might Want Respectful Code Reviews
 
-While code review is recognized as a valuable tool for improving the quality of software projects, code review comments that are perceived as being unclear or harsh can have unfavorable consequences.
-
+Code review helps to improve the quality of software projects but negative and unclear code review comments can have unwanted consequences.
 The right style of communication not only helps to build relationships and healthy work environments but also helps to achieve the final goal of delivering a quality product. It improves the overall health of the system and code.
 
 
@@ -47,37 +46,35 @@ The right style of communication not only helps to build relationships and healt
 
 ## **How to Implement Respectful Code Reviews**
 
-**Agreed-upon best practices**
+**Follow defined guidelines**
 
-Resolve conflicts by following the agreed-upon best practices in the style guide and coding standards documents as well as seeking the advice and suggestion of others who have more knowledge and experience in the area of the product.
+Define guidelines at the project or company level. Follow style guides and coding standard documents and use them as benchmarks for reviews. These guidelines should be available to all concerned for reference.
 
-**Make sure to understand the code that you are reviewing**.
+**Understand code and functionality before reviewing**.
 
-If you don’t, then clarify it or ask for a code walkthrough/explanation. If there is a part of the code that you are not qualified to review, then make sure that there are other qualified developers who could review those parts of the code.
+Have a clear picture of the functionality before you start a review. Read related documentation. You can even ask for a code walkthrough. Clarify doubts, if any.
 
-**Explain your code review comments and keep scope in mind**
+**Explain review comments**
 
-Whenever the code review comment suggests an alternative approach or flags something up, it’s crucial to explain why and provide an example based on your knowledge and experience, to help the developer understand how your suggestion is going to help improve the quality of the code.
+Wherever possible, support your comments with an explanation. Suggestions and examples help the developer to understand the comments better. If you are suggesting alternate solutions highlight the advantages.
 
-When suggesting fixes or changes, find the right balance on how to guide the author to fix the code. For example, I appreciate the guidance, explanation, and some tips or suggestions, and never the entire solution.
+**Be respectful and clear**
 
-**Be mindful, respectful, kind, and clear in your code review**
+Use clear and respectful language. The development and review process aims to improve the quality of the product hence make comments keeping the code as the main subject of the discussion.
 
-It’s crucial that during the code review, you are kind, clear, courteous, and respectful while also being very clear and helpful to the author. When reviewing the code, make sure to make the review comment about the code and not the developer.
+**Appreciate good work during code review**
 
-**Recognize and encourage good work during code review**
+Recognize good work whenever you see it. Acknowledging good work boosts morale of the developer and lays the foundation for a healthy work environment.
 
-If you see something good in the change list, don’t forget to shout out the author for good work and encourage them. The aim of the code review should not only be to find mistakes but also to encourage and mentor developers for the great work they do.
+ **Try to understand the intent of feedback**
 
- **Address issues with calm mind**
-
-Try to understand the intent of the feedback and incorporate or explain it keeping the code in mind.Address the feedback with a calm mind and in a compassionate way. Remember that most of the time, people have good intentions. 
+As a developer, you should read the comments keeping in mind that review comments are quality checks for the code. They help to make the code and the product better.
 
  **Common Pitfalls**
 
--   In written communication, the receiver of the message must interpret the message without any natural clues, such as body language, facial expression, or tone. Misinterpretations happen frequently and are, in addition, hard to detect on the sender’s side.
--  Comment discussion may take longer time if comments are unclear.
--  Developers are biased towards own solution and may not be receptive of review comments.
+-  Written communication makes it hard to understand the reasoning behind the comment especially if the developer and reviewer are not acquainted.
+-  Comment discussion may take a longer time if comments are unclear.
+-  Developers are biased towards their solution and may not be receptive to review comments.
 
 ## Resources 
 - [Code review](https://en.wikipedia.org/wiki/Code_review)
