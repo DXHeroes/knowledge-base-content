@@ -1,33 +1,32 @@
-
-
 ---
-slug: pull-requests
+slug: respectful-code-review
 stages:
   - development
-short_description: Respectful code reviews involve giving a positive feeback.
+short_description: Respectful code reviews involve giving a constructive feeback.The main goal should be to help deliver a good quality final product.
 tags:
-  - respectful code review
-  - git
-  - ci/cd
-  - Code Review
-  - teamwork
-  - Continuous Integration
-  - continuous delivery
-  - Bus Factor
+  - code review
+  - quality product
+  - communication
+  - conflict
+  - feedback
+  - knowledge sharing
+  - mentor
+  - comments
   - code review
 keywords:
   - code
   - reviews
-  - branch
-  - repository
-  - code
+  - respect
+  - constructive
+  - feedback
   - quality
-  - merge request
-  - meaningless work
+  - comments
+  - communication
 ---
 # Respectful Code Reviews
 
 **TL;DR**
+
 The basis for a fruitful and positive collaboration is respectful and constructive feedback.
 
 
@@ -41,11 +40,10 @@ The right style of communication not only helps to build relationships and healt
 
 ## Problems Respectful Code Reviews Helps to Solve
 
--  **Biased solutions**   People are often biased towards their own solutions .The reviewer may suggest new ways of solving a particular problem while reading through the code or asking questions. A constructive and positive feedback encourages a person to be more receptive towards feedback.
--   **Unhealthy work environment**  A positive feedback attracts better attention .It allows others to look at suggestions in accepting manner and be respectful towards other people’s views. This prompts a healthy work environment .
--   **Knowledge Stagnation**   Code reviews are also a great means of project- and company-specific knowledge exchange. Respectful code reviews encourage open discussions between the reviewer and developer and help in knowledge sharing.
-- **Time wastage**  A lot of time is saved when the reviewer and developer share a common goal of delivering a quality product and work together for it.
--   **Poor code quality** No developer is perfect, but everyone is different and has a unique perspective. Code reviews enable us to discover possible bugs or architectural flaws early on, before even manually testing and delivering the app.
+- [Toxic team culture](/problems/toxic-team-culture)
+- Knowledge Stagnation  e.g. open discussions lead to knowledge sharing.
+- [Long feedback loops](/problems/long-feedback-loops)
+- [Poor code quality](/problems/poor-code-quality)
 
 ## **How to Implement Respectful Code Reviews**
 
@@ -73,7 +71,7 @@ If you see something good in the change list, don’t forget to shout out the au
 
  **Address issues with calm mind**
 
-Address the feedback with a calm mind and in a compassionate way. Remember that most of the time, people have good intentions. Try to understand the intent of the feedback and incorporate or explain it keeping the code in mind.
+Try to understand the intent of the feedback and incorporate or explain it keeping the code in mind.Address the feedback with a calm mind and in a compassionate way. Remember that most of the time, people have good intentions. 
 
  **Common Pitfalls**
 
