@@ -60,7 +60,7 @@ Wherever possible, support your comments with an explanation. Suggestions and ex
 
 **Be respectful and clear**
 
-Use clear and respectful language. The development and review process aims to improve the quality of the product hence make comments keeping the code as the main subject of the discussion.
+Use clear and respectful language. The development and review process aims to improve the quality of the product. Make your code the main subject of the review discussion.
 
 **Appreciate good work during code review**
 
