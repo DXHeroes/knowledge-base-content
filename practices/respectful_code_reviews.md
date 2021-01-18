@@ -70,7 +70,7 @@ Recognize good work whenever you see it. Acknowledging good work boosts morale o
 
 As a developer, you should read the comments keeping in mind that review comments are quality checks for the code. They help to make the code and the product better.
 
- **Common Pitfalls**
+ ## Common Pitfalls
 
 -  Written communication makes it hard to understand the reasoning behind the comment especially if the developer and reviewer are not acquainted.
 -  Comment discussion may take a longer time if comments are unclear.
