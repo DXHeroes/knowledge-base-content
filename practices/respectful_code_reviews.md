@@ -43,7 +43,7 @@ The right style of communication not only helps to build relationships and healt
 - Knowledge Stagnation  e.g. open discussions lead to knowledge sharing.
 - [Long feedback loops](/problems/long-feedback-loops)
 - [Poor code quality](/problems/poor-code-quality)
-
+- [Finger-Pointing And Blaming](/problems/finger-pointing-and-blaming)
 ## **How to Implement Respectful Code Reviews**
 
 **Follow defined guidelines**
