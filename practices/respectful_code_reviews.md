@@ -44,7 +44,7 @@ The right style of communication not only helps to build relationships and healt
 - [Long feedback loops](/problems/long-feedback-loops)
 - [Poor code quality](/problems/poor-code-quality)
 - [Finger-Pointing And Blaming](/problems/finger-pointing-and-blaming)
-## **How to Implement Respectful Code Reviews**
+## How to Implement Respectful Code Reviews
 
 **Follow defined guidelines**
 
