@@ -64,7 +64,7 @@ Use clear and respectful language. The development and review process aims to im
 
 **Appreciate good work during code review**
 
-Recognize good work whenever you see it. Acknowledging good work boosts morale of the developer and lays the foundation for a healthy work environment.
+Recognize good work whenever you see it. Acknowledging good work boosts the morale of the developer and lays the foundation for a healthy work environment.
 
  **Try to understand the intent of feedback**
 
