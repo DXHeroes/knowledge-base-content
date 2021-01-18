@@ -72,7 +72,7 @@ As a developer, you should read the comments keeping in mind that review comment
 
  ## Common Pitfalls
 
--  Written communication makes it hard to understand the reasoning behind the comment especially if the developer and reviewer are not acquainted.
+-  Written communication makes it hard to understand the comment's intent, especially if the developer and reviewer don't know each other.
 -  Comment discussion may take a longer time if comments are unclear.
 -  Developers are biased towards their solution and may not be receptive to review comments.
 
