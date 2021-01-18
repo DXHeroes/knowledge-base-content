@@ -56,7 +56,7 @@ Have a clear picture of the functionality before you start a review. Read relate
 
 **Explain review comments**
 
-Wherever possible, support your comments with an explanation. Suggestions and examples help the developer to understand the comments better. If you are suggesting alternate solutions highlight the advantages.
+Wherever possible, support your comments with an explanation. Suggestions and examples help the developer to understand the comments better. If you are proposing alternative solutions, show the advantages.
 
 **Be respectful and clear**
 
