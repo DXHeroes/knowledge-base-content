@@ -1,6 +1,6 @@
 name: Node CI - Check Article Validity & Deploy
 
-on: [push, pull_request_target]
+on: [push, pull_request]
 
 env:
   # BEWARE of using ENV variables for "pull_request_target"! It may be exposed!
@@ -14,7 +14,7 @@ env:
 
 jobs:
   check-article:
-    if: github.event_name == 'pull_request_target'
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -43,7 +43,7 @@ jobs:
   #       run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_HEAD_REF"'
 
   deploy-to-preview:
-    if: github.event_name == 'pull_request_target' && github.base_ref == 'master'
+    if: github.event_name == 'pull_request' && github.base_ref == 'master'
     needs: check-article
     runs-on: ubuntu-latest
     steps:
