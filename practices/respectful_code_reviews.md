@@ -35,7 +35,7 @@ Respectful and constructive feedback is the basis of a fruitful collaboration, h
 Code review helps you to improve the quality of software projects. However, negative and unclear code review comments can have unwanted consequences.
 The right style of communication not only helps to build relationships and healthy work environments but also helps to achieve the final goal of delivering a quality product. It improves the overall health of the system and code.
 
-
+![Respectful Code Review](/files/respectful_code_review.jpg)
 
 ## Problems Respectful Code Reviews Helps to Solve
 
