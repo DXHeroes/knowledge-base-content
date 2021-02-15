@@ -132,6 +132,7 @@ The interview starts with understanding the point of purchase, then continue tow
 	- Did you buy something with it?
 
 Usually, it’s not a good idea to ask why did you make the purchase. Don’t make them question their purchase, make them remember the feelings alongside it instead.
+
 - **First thoughts**
 	- When did you first time realize that you “need” X?
 	- Where were you?
