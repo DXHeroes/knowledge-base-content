@@ -23,14 +23,18 @@ covered_by_dx_scanner: false
 ---
 
 # Jobs To Be Done
-**TL;DR** Jobs To Be Done (JTBD from now on) is a theoretical framework that helps you understand the motivations and constraints of your customers. With JTBD, you can build better products, improve your service, and understand how to create value for your customers.
+
+**TL;DR** 
+
+Jobs To Be Done (JTBD from now on) is a theoretical framework that helps you understand the motivations and constraints of your customers. With JTBD, you can build better products, improve your service, and understand how to create value for your customers.
 
 ## What Is JTBD?
 Jobs To Be Done is a framework using which you can create more value for your customers. A Job in this context is a process that a person undertakes when they improve themselves. The **Job To Be Done** have constraints that are working against the change. 
 
 Your product is a _tool_ that Customer hires to get their Job done. Through this hire, the person evolves and has more potential for new Jobs. With every hire, the customer fires competitors that were solving his Job before.
 
-Summarised, your role in the Job is to: 
+Summarised, your role in the Job is to:
+
 -  Understand your Customer
 -  Identify the Job (not Activity)
 -  Understand contrast and competition (The carp pâté can be a competitor to wine bottles)
