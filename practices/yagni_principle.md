@@ -32,7 +32,7 @@ covered_by_dx_scanner: false
 
 **TL;DR**
 
-YAGNI stands for 'You aren't gonna need it'. This principle states that only those functionalities which are necessary should be implemented.
+YAGNI stands for 'You aren't gonna need it'.This principle states that only the required functionalities should be implemented.
 
 
 
@@ -48,7 +48,7 @@ YAGNI is an extreme programming principle (XP) which states that you must not im
 ## Why You Might Want YAGNI Principle
 
 This principle helps you to focus on the required features and not add unnecessary functionality. As a programmer, you sometimes try to foresee the future of functionalities. You presume that additional requirements might come up in the future. There is an assumption that the present code should encapsulate this.
-A lot of effort, time, and cost is involved in implementing new functionalities. Implementing additional functionalities can lead to schedule slippage, code complexity apart from unnecessary code. These features need to be maintained and may even need to be modified in the future. There are chances that the functionalities may become obsolete and may never be needed.
+A lot of effort and time is involved in implementing new functionalities. Implementing additional functionalities can lead to schedule slippage, code complexity apart from unnecessary code. These features need to be maintained and may even need to be modified in the future. There are chances that the functionalities may become obsolete and may never be needed.
 
 
 
@@ -69,7 +69,7 @@ You must have a clear picture of the requirements and targets to prevent deviati
 
 **Analysis**
 
-Think if the extra features will be needed sometime soon or are you assuming they may be a part of the distant future.
+Think if you will need the extra features sometime soon or are you assuming they may be a part of the distant future.
 
 **Planning**
 
