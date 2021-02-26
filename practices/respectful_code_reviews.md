@@ -44,6 +44,9 @@ The right style of communication helps to build relationships and healthy work e
 - [Long feedback loops](/problems/long-feedback-loops)
 - [Poor code quality](/problems/poor-code-quality)
 - [Finger-Pointing And Blaming](/problems/finger-pointing-and-blaming)
+
+
+
 ## How to Implement Respectful Code Reviews
 
 **Follow defined guidelines**
@@ -70,7 +73,8 @@ Recognize good work whenever you see it. Acknowledging good work boosts the mora
 
 As a developer, you should read the comments keeping in mind that review comments are quality checks for the code. They help to make the code and the product better.
 
- ## Common Pitfalls
+
+## Common Pitfalls
 
 -  Written communication makes it hard to understand the comment's intent, especially if the developer and reviewer don't know each other.
 -  Comment discussion may take a longer time if comments are unclear.
