@@ -32,7 +32,7 @@ covered_by_dx_scanner: false
 
 **TL;DR**
 
-YAGNI stands for 'You aren't gonna need it'.This principle states that only the required functionalities should be implemented.
+YAGNI stands for **You aren't gonna need it**. This principle means you should implement only required functionalities.
 
 
 
