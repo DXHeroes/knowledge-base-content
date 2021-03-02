@@ -63,6 +63,7 @@ A lot of effort and time is involved in implementing new functionalities. Implem
 
 ## How to Implement YAGNI Principle
 
+
 **Clarity on requirements and deadlines**
 
 You need to have a clear picture of the requirements and targets to prevent deviations from the required design.
