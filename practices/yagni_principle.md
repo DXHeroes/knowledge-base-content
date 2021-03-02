@@ -65,7 +65,7 @@ A lot of effort and time is involved in implementing new functionalities. Implem
 
 **Clarity on requirements and deadlines**
 
-You must have a clear picture of the requirements and targets to prevent deviations from the required design.
+You need to have a clear picture of the requirements and targets to prevent deviations from the required design.```
 
 **Analysis**
 
