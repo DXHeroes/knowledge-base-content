@@ -38,7 +38,7 @@ YAGNI stands for **You aren't gonna need it**. This principle means you should i
 
 ## What Is YAGNI Principle
 
-YAGNI is an extreme programming principle (XP) which states that you must not implement features that you think may be needed in the future. Only those functionalities should be implemented which are needed as per current requirements. 
+YAGNI is an extreme programming principle (XP) which states that you must not implement features that you assume as significant in the future. 
 
 ![YAGNI Principle](/files/yagni_principle.png) 
 [YAGNI Principle](http://www.agilenutshell.com/yagni)
