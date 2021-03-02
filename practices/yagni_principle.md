@@ -47,7 +47,7 @@ YAGNI is an extreme programming principle (XP) which states that you must not im
 
 ## Why You Might Want YAGNI Principle
 
-This principle helps you to focus on the required features and not add unnecessary functionality. As a programmer, you sometimes try to foresee the future of functionalities. You presume that additional requirements might come up in the future. There is an assumption that the present code should encapsulate this.
+This principle helps you to focus on the required features and not add unnecessary functionality. As a programmer, you sometimes try to foresee the future. You presume that additional requirements might come up later in development. Then, there is an assumption that the present code should encapsulate this. 
 A lot of effort and time is involved in implementing new functionalities. Implementing additional functionalities can lead to schedule slippage, code complexity apart from unnecessary code. These features need to be maintained and may even need to be modified in the future. There are chances that the functionalities may become obsolete and may never be needed.
 
 
