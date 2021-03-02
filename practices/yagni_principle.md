@@ -69,7 +69,9 @@ You need to have a clear picture of the requirements and targets to prevent devi
 
 **Analysis**
 
-Think if you will need the extra features sometime soon or are you assuming they may be a part of the distant future.
+Ask yourself whether you will need these features  soon or if you are just assuming they might be important.```((
+
+Suggestion for clarity's sake, to show that the important distinction is in "will you need them or are you assuming that you will need them". In the original, a non-native speaker can instead think that the distinction is in the timing (soon vs distant future). 
 
 **Planning**
 
