@@ -13,7 +13,7 @@ tags:
   - cost
   - features
   - unnecessary
-- extreme programing 
+  - extreme programing 
 
 keywords: 
   - YAGNI
@@ -32,7 +32,7 @@ covered_by_dx_scanner: false
 
 **TL;DR**
 
-YAGNI stands for **You aren't gonna need it**. This principle means you should implement only required functionalities.
+YAGNI stands for *You aren't gonna need it*. This principle means you should implement only required functionalities.
 
 
 
@@ -65,13 +65,13 @@ A lot of effort and time is involved in implementing new functionalities. Implem
 
 **Clarity on requirements and deadlines**
 
-You need to have a clear picture of the requirements and targets to prevent deviations from the required design.```
+You need to have a clear picture of the requirements and targets to prevent deviations from the required design.
+
 
 **Analysis**
 
-Ask yourself whether you will need these features  soon or if you are just assuming they might be important.```((
+Ask yourself whether you will need these features  soon or if you are just assuming they might be important.
 
-Suggestion for clarity's sake, to show that the important distinction is in "will you need them or are you assuming that you will need them". In the original, a non-native speaker can instead think that the distinction is in the timing (soon vs distant future). 
 
 **Planning**
 
