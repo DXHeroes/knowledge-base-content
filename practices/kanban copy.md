@@ -32,7 +32,6 @@ In terms of application to [Developer Experience](practices/good-developer-exper
 
 It gets the job done (together with [SMART Goals](/practices/smart-goals)). Simpler, cleaner code (structure, database or architecture) is easier to maintain, less demotivating to work on or less painful to handover. Documentating, [updating dependencies](/practices/updating-the-dependencies) or even [portability](/practices/software-portability) is less demanding for cleaner stuff. KISS saves you a lot of pain (now and in the future).
 
-
 ## Problems the KISS Helps to Solve
 
 - [Demotivated team](/problems/demotivated-team)
@@ -40,7 +39,8 @@ It gets the job done (together with [SMART Goals](/practices/smart-goals)). Simp
 - [Bad product-market fit](/problems/bad-product-market-fit)
 - [Toxic team culture](/problems/toxic-team-culture)
 - [Sunk Cost](/problems/sunk-cost)
-- [Poor Code Quality](/problems/poor-code-quality)- [Toxic team culture](/problems/s)
+- [Poor Code Quality](/problems/poor-code-quality)
+- [Unnecessary features](/problems/unnecessary-features)
 
 ## How to Implement KISS
 
@@ -48,9 +48,7 @@ It gets the job done (together with [SMART Goals](/practices/smart-goals)). Simp
 
 ## Resources for KISS
 
-- Collab: [What Is Kanban? An Introduction to Kanban Methodology](https://resources.collab.net/agile-101/what-is-kanban)
-- Sitepoint: [How & Why to Use the Kanban Methodology for Software Development](https://www.sitepoint.com/how-why-to-use-the-kanban-methodology-for-software-development/)
-- Agile Alliance: [Kanban](https://www.agilealliance.org/glossary/kanban/)
-- Proof Hub Blog: [What Are the Advantages of Kanban Board System](https://blog.proofhub.com/what-are-the-advantages-of-kanban-board-system-ec7b4c3e8807)
-- Kanbanize: [6 Reasons you May Fail with Kanban Implementation](https://kanbanize.com/blog/problems-with-kanban-implementation/)
-- Excella: [How to Set Initial WIP Limits](https://www.excella.com/insights/how-to-set-initial-wip-limits)
+- [KISS (Keep it Simple, Stupid) - A Design Principle(https://www.interaction-design.org/literature/article/kiss-keep-it-simple-stupid-a-design-principle)
+- [](https://people.apache.org/~fhanik/kiss.html)
+- [](https://www.techopedia.com/definition/20262/keep-it-simple-stupid-principle-kiss-principle)
+- [](http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/johnson-clarence.pdf)
