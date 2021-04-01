@@ -30,25 +30,28 @@ In terms of application to [Developer Experience](practices/good-developer-exper
 
 ## Why You Might Want KISS
 
-It gets the job done (together with [SMART Goals](/practices/smart-goals)). Simpler, cleaner code (structure, database or architecture) is easier to maintain, less demotivating to work on or less painful to handover. Documentating, [updating dependencies](/practices/updating-the-dependencies) or even [portability](/practices/software-portability) is less demanding for cleaner stuff. KISS saves you a lot of pain (now and in the future).
+It gets the job done (together with [SMART Goals](/practices/smart-goals)). Simpler, cleaner code (structure, database or architecture) is easier to maintain, less demotivating to work on or less painful to handover. Documentating, [updating dependencies](/practices/updating-the-dependencies) or even [portability](/practices/software-portability) is less demanding for cleaner stuff. KISS saves you a lot of pain right now and even more in the future.
 
 ## Problems the KISS Helps to Solve
 
 - [Demotivated team](/problems/demotivated-team)
 - [Increased cost](/problems/increased-cost)
 - [Bad product-market fit](/problems/bad-product-market-fit)
-- [Toxic team culture](/problems/toxic-team-culture)
 - [Sunk Cost](/problems/sunk-cost)
 - [Poor Code Quality](/problems/poor-code-quality)
 - [Unnecessary features](/problems/unnecessary-features)
 
 ## How to Implement KISS
 
+A best way to u
+
 ## Common Pitfalls of KISS
+
+1. Simple seen as stupid
 
 ## Resources for KISS
 
-- [KISS (Keep it Simple, Stupid) - A Design Principle(https://www.interaction-design.org/literature/article/kiss-keep-it-simple-stupid-a-design-principle)
-- [](https://people.apache.org/~fhanik/kiss.html)
-- [](https://www.techopedia.com/definition/20262/keep-it-simple-stupid-principle-kiss-principle)
-- [](http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/johnson-clarence.pdf)
+- [KISS (Keep it Simple, Stupid) - A Design Principle](https://www.interaction-design.org/literature/article/kiss-keep-it-simple-stupid-a-design-principle)
+- [fhanik's KISS](https://people.apache.org/~fhanik/kiss.html)
+- [Keep It Simple Stupid Principle (KISS Principle)](https://www.techopedia.com/definition/20262/keep-it-simple-stupid-principle-kiss-principle)
+- [Clarence Leonard (Kelly) JoHnson - A Biographical Memoir by Ben r. Rich](http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/johnson-clarence.pdf)
