@@ -5,10 +5,16 @@ stages:
 short_description: KISS is a design principle reminding you to stop overcomplicating. It is better to keep things simple. Yet, devs struggle to achieve smart simplicity in their systems
 tags:
   - KISS
-  - 
+  - Organisation
+  - Task Creation
+  - Problem-solving
+  - Project management
 keywords:
   - KISS
   - scrum
+  - Project management
+  - Task management
+  - Problem-solving
 
 ---
 
@@ -46,7 +52,7 @@ It gets the job done (together with [SMART Goals](/practices/smart-goals)). Simp
 
 ## How to Implement KISS
 
-Universal and abstract implementation of the KISS principle can be summed up as the following:
+Universal and abstract implementation of the KISS principle for any problem-solving can be summed up as the following:
 
 1. Stop to gather information. 
 2. Take (or create if needed) the big, tough problem. 
