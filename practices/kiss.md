@@ -24,6 +24,9 @@ KISS is a principle standing for **K**eep **I**t **S**imple, **S**tupid (sometim
 
 The phrase originally comes from the Lockheed designer team and their head engineer Kelly Johnson (later founder of the Skunk Works). The idea behind KISS *is to get results cheaper sooner, and better through the application of common sense to tough problems. If it works, don’t fix it.*
 
+![KISS visually](/files/kiss.jpg)
+[Kiss Visually](https://www.clarizen.com/importance-kiss-principle-project-management/)
+
 If you apply the KISS principle to developer work, you should aim to split your hard problems into smaller ones and then solve them with simple solutions. If you are designing architecture, break it into parts (microservices vs monolith) and **[refactor](/practices/refactoring)** (a lot!). Don't make your code do four things at once (at the same time). Believe us, you will thank yourself for solutions aiming at simplicity.
 
 In terms of application to [Developer Experience](practices/good-developer-experience), Johnson mentions that you should *Reduce reports and other paperwork to a minimum* (use KISS for your [agile events](/practices/agile-events)) and in terms of [team culture](/practices/team-culture), he said *let managers run their programs with a minimum of interference. He not only gave you the authority but also the [responsibility](/practices/responsibility)*
@@ -43,12 +46,25 @@ It gets the job done (together with [SMART Goals](/practices/smart-goals)). Simp
 
 ## How to Implement KISS
 
-A best way to u
+An universal and abstract implementation of KISS principle can be sumed up as the following:
+
+1. Stop to gather information. 
+2. Take (or create if needed) the big, tough problem. 
+3. Think how you could solve it simply. 
+4. Try to find a **simple**  solution. 
+   1. If you can the problem was no tough nor big. You are done, congrats! If you have other tasks, GO TO 4.
+   2.  Otherwise, split it into smaller pieces. GO TO 4.
+
+In context of coding,the best implementation goes hand in hand with [DRY]() (don't repeat yourself) and with **[refactoring](/practices/refactoring)**.
+
+Speaking of systems, each piece should do its one simple task. Use [YAGNI] to understand which features you should have. Keep the scope simple.
+
+But always have in mind: Keep It Stupid Simple.
 
 ## Common Pitfalls of KISS
 
-1. Simple seen as stupid
-
+1.  **Simple seen as stupid.** To quote Enstein: *Everything should be as simple as possible, but not simpler.* Simple solutions are not bad or lacking to solve complex issues (you should not have a complex issue in the first place, split it!) 
+2. **Simple as final answer to everything.** Some things cannot be solve through KISS recursion (split-solve cycle). However, with these things (Like business strategy), splitting it into simple steps gives you actionable things to do. Yes, its not the full answer
 ## Resources for KISS
 
 - [KISS (Keep it Simple, Stupid) - A Design Principle](https://www.interaction-design.org/literature/article/kiss-keep-it-simple-stupid-a-design-principle)
