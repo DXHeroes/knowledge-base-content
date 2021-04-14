@@ -2,58 +2,42 @@
 slug: tech-writing
 stages:
   - building_team
-short_description: 
+short_description: Tech Writing is the practice of documenting software, hardware, or process to make the work easier. As Tech Writer, you manage knowledge and information.
 tags:
-  - team lead
-  - leader
-  - manager
-  - senior
-  - roles
+  - tech writing
+  - documentation
+  - information architecture
+  - information management
+  - knowledge management
   - motivation
   - demotivated team
   - team roles
 keywords:
-  - well being
-  - goal
-  - motivation
-  - unite
-  - accomplishment
-  - satisfaction
+  - tech writing
+  - what is tech writing
+  - who is tech writer
+  - what is documentation
+
 ---
 
 # Technical Writing
 
-**TL;DR**
-
-Team leads are responsible for the team’s well being. Who should be a Team Lead and how to do the job right? Read more!
+**TL;DR** Tech Writing is the practice of documenting software, hardware, or process to make the work easier through welcoming colaboration, both external and internal. As Tech Writer, you manage knowledge and information in your team.
 
 ## What Is Technical Writing 
 
-- **Seniors**  
-  are people who deeply understand the project. They teach newcomers and suggest solutions to the most difficult issues.
-- **Managers**  
-  have people to work for them. They plan, organize and coordinate and they are part of the company’s hierarchy and does not have to be a programmer.
-- **Team Leads**  
-  understand perfectly not only the technical side of the project but also the team management. They act as a shield to protect their team from managers and customers. They ensure that the developers are satisfied and motivated. They are the bridge between the team and management.
+Usually, Technical writing is generally understood through [Documentation](/practices/documentationes). In short, documentation is a tool that simplifies information sharing. Tech Writer is the one who is responsible to create documentation. They keep information up to day, are responsible for content quality (see [Documentation testing](/practices/documentation-testing))
 
-![Management](/files/team_lead.png)
-[Dilbert](https://dilbert.com/strip/2011-04-14)
+But that is not all Tech writing can do. Together with UX team he can help with Labeling, Descriptions and more. If you have experienced TW, they can take a part of [UX strategy](/practices/ux-strategy).
 
-## Why You Might Want the Team Lead
+However, the more significant things Tech Writing does are: Improvements to [DX](/practices/good-developer-experience) and Improvements to Developer Acquisition. A good tool - if it is API, [SDK](practices/software-development-kit) or whole Dev Portal or a software product, needs to have documentation. Even the simplest UI still needs some way of telling you what to do with it. Labels, description - these are as well part of documentation (together, they fall under Information Architecture, which is an umbrella term designing information)
 
-A good Team Lead helps your team with:
+## Why You Might Want Technical Writing 
 
-- productivity
-- well-being
-- improving listening and communication skills
-- motivating team members
-- creating a role model
-- achieving better results
-- following rules
-- communicating with management
-- creating a dependable and reliable workplace
 
-## Problems the Team Lead Solves
+
+
+## Problems Technical Writing Helps to Solve
 
 - [Bad product-market fit](/problems/bad-product-market-fit)
 - [Demotivated team](/problems/demotivated-team)
@@ -61,40 +45,13 @@ A good Team Lead helps your team with:
 - Unsuccessful product
 - Unhappy clients
 - [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
-- [Toxic Team Culture](/problems/toxic-team-culture)
 
-## How to Implement the Team Lead
+## How to Implement Technical Writing 
 
-The typical Team Lead’s responsibilities and characteristics are:
 
-- consideration of new tasks and their delegation
-- motivating team members
-- maintaining a healthy and friendly atmosphere
-- organizing standup with a team (if the scrum master does not do it)
-- organizing meetings
-- programming
-- solving architecture questions
-- Code Reviews
-- suppressing their ego to not to draw too much attention to themselves
-- decision making
-- dealing with personal conflicts
-- leading by example
+## Common Pitfalls of Technical Writing 
 
-Some of those skills cannot be learned. The best Team Leads get informal and natural recognition from their team. They are often developers themselves and they are recognized for their programming skills. The best way how to choose a Team Lead is when the team chooses them itself. To be a good Team Lead, they have to be not only skilled but they need the right motivation (company’s support and financial compensation).
 
-Team Leads have to know every team member very well, they have to communicate with them and get to know them closely. This skill is crucial because the main role of the Team Lead is to unite the team. The Team Lead never says “look what I have accomplished” but always “look what **we** have accomplished”.
-
-## Common Pitfalls of the Team Lead
-
-The most common pitfall is misunderstanding the role. The Team Lead is not a mentor, not a manager, not a boss. It is a colleague with more responsibilities.
-
-Another problem can occur when the Team Lead tries to lead everyone the same way. Different people need different motivation! A good Team Leads understand everyone’s needs because they know the team members well.
-
-Some Team Leads want to take credit for the things that go well and point the finger when things go south. As it was mentioned before, good Team Leads lead by example. They are members of the same team so they should act like it. Appreciate other’s contribution and admit when they do something wrong.
-
-## Resources for the Team Lead
+## Resources for Technical Writing 
 
 - Gaslight: [Team Lead: What is it and Why Do We Care?](https://teamgaslight.com/blog/team-lead-what-is-it-and-why-do-we-care)
-- luminousmen: [Who is a team lead?](https://luminousmen.com/post/who-is-a-team-lead)
-- Forbes: [5 Common Mistakes Most Leaders Make (And How To Avoid Them)](https://www.forbes.com/sites/deeppatel/2017/11/21/5-common-mistakes-most-leaders-make-and-how-to-avoid-them/#16299f57242d)
-- Dev: [What's the role of an engineering team lead?](https://dev.to/pawel_ledwon/whats-the-role-of-an-engineering-team-lead--47hc)
