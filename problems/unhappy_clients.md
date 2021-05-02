@@ -26,8 +26,7 @@ No matter how good you are at what you do, sooner or later you'll come across an
 So, what to do in such a situation?
 
 ![](/files/keep_calm.png)
-
-[Keep Calm and Carry On *(thanks to Ministry of Information – UK, 1939)*](dxheroes.io)
+[Keep Calm and Carry On *(thanks to Ministry of Information – UK, 1939)*](https://dxheroes.io)
 
 ## How to Deal With Unhappy Clients
 
