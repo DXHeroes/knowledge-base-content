@@ -28,7 +28,7 @@ Software portability is the possibility to use the same software in different en
 
 Common Portability kinds are applicatiion, source code and data portability.
 
-![It works on my machine](/folder/it_works.jpg)
+![It works on my machine](/files/it_works.jpg)
 [It works on my machine](https://www.architect.io/blog/the-importance-of-portability)
 
 ### Application Portability
@@ -55,7 +55,7 @@ For Dev teams, Portable software can be easily used on other platforms. So, if y
 
 ## Problems Software Portability Helps to Solve
 
-- [Poor Code Quality](problems/poor-code-quality)
+- [Poor Code Quality](/problems/poor-code-quality)
 - [Demotivated Team](/problems/demotivated-team)
 - [Increased Cost](/problems/increased-cost)
 - [Bad Product-Market Fit](/problems/bad-product-market-fit)
