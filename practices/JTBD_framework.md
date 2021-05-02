@@ -79,7 +79,7 @@ Moreover, when there is no Job To Be Done, there is no room for innovation. Prod
 * [Meaningless work](/problems/meaningless-work)
 * [Long feedback Loops](/problems/long-feedback-loops)
 * [Sunk Cost](/problems/sunk-cost)
-* [Unsuccessful product](/problems/unsuccessful-product)
+* [Unsuccessful product](/problems/unsuccessful-products)
 * [Unhappy customers](/problems/unhappy-clients)
 
 ## How to Implement JTBD?
@@ -213,7 +213,7 @@ Examples:
 
 With a hypothesis for the Job (with pulls, habits, and anxieties), go to the customer. Talk with them and look if your hypothesis work. As soon as they buy your product, start using the existing customer interview. 
 
-Your goal is to understand their **why** better than anyone else. Time spend on JTBD practices is saving you development costs of [unnecessary features](/problems/unnecessary-features), helping you to turn [unhappy clients](/problems/unhappy-clients) into happy ones, and finally, stops you from [Bad market fit]((/problems/bad-product-market-fit)).
+Your goal is to understand their **why** better than anyone else. Time spend on JTBD practices is saving you development costs of [unnecessary features](/problems/unnecessary-features), helping you to turn [unhappy clients](/problems/unhappy-clients) into happy ones, and finally, stops you from [Bad market fit](/problems/bad-product-market-fit).
 
 ## Common Pitfalls of JTBD
 - People keep focusing on Actions rather than on Jobs
