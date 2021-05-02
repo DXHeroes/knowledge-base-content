@@ -24,7 +24,7 @@ SMART Goals is a tool that can be used to plan and achieve your goals – both p
 
 ![](/files/smart3.png) 
 
-[SMART goals summary *(author)*](dxheroes.io)
+[SMART goals summary *(author)*](https://dxheroes.io)
 
 ## What Are SMART Goals?
 
