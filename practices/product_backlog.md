@@ -32,7 +32,7 @@ A Product Backlog is a breakdown of prioritized work to be done. It is a sorted 
 
 A Product Backlog is a prioritized list of work. Keeping the backlog is a typical agile practice. The backlog is a continuously improved list where the most important items are on the top of the list. It tells the team members what they should start with.
 
-The backlog consists of all the new features, use cases, user stories, bug fixes, changes to existing functionalities, and other requirements that are planned to finish for the future release of your product. All these requirements usually consist of to-do list entries where you can add descriptions and estimated characteristics. The backlog is finished when the product is finished.
+The backlog consists of all the new features, use cases, [user stories](/practices/user-stories), bug fixes, changes to existing functionalities, and other requirements that are planned to finish for the future release of your product. All these requirements usually consist of to-do list entries where you can add descriptions and estimated characteristics. The backlog is finished when the product is finished.
 
 It is usually the [Product Owners](/practices/product-owner) who are responsible for updating the backlog and they decide the prioritization. The backlog should be the connection between the Product Owner and the development team.
 

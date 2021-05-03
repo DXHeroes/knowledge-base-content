@@ -28,7 +28,7 @@ A UX Strategy is a plan that supports the overall Business Strategy. It focuses 
 
 ## What is a UX Strategy
 
-A strategy is just a high-level plan with a few key elements. It's intended to communicate key aspects of a project and to help them focus on what's important to make it happen. It is not a detailed, highly researched document. 
+A strategy is just a high-level plan with a few key elements. It's intended to communicate key aspects of a project and to help them focus on what's important to make it happen. It is not a detailed, highly researched document.
 
 The document can take pretty much any form but as a rule of thumb, it should fit on a single A4 page and that should have plenty of whitespaces. A popular form the UX Strategy Blueprint.
 
@@ -43,7 +43,7 @@ What do I want to achieve? Since this a UX strategy that focus should be on the 
 
 **Scope of Work**
 
-A brief statement of where we are now and the key steps needed to get to the goal. 
+A brief statement of where we are now and the key steps needed to get to the goal.
 
 **Metrics**
 
@@ -64,13 +64,9 @@ Writing a strategy forces the key stakeholders to think about what is vital to t
 ## Problems the UX Strategy Solves
 
 * Lack of vision or purpose of individual efforts
-
-* Demotivated team
-
-* Meaningless work
-
+* [Demotivated team](/problems/demotivated-team)
+* [Meaningless work](/problems/meaningless-work)
 * Constantly shifting goals
-
 * Not feeling progress
 
 ## How to Implement a UX Strategy
@@ -93,7 +89,7 @@ They need to:
 
 ## Common Pitfalls to a UX Strategy
 
-* Misunderstanding of 'experience' and why it's important to this project. 
+* Misunderstanding of 'experience' and why it's important to this project.
 
 * Lack of belief by the leadership team. If they don't understand or just see the strategy as a task that needs to be checked off it probably won't have much effect on the rest of the team.
 
@@ -104,7 +100,5 @@ They need to:
 ## Resources for the UX Strategy
 
 * [UX Strategy Blueprint](https://experiencinginformation.com/2014/08/12/ux-strategy-blueprint/)
-
 * [UX Strategy – It Is All About The Experience](https://usabilitygeek.com/ux-strategy-it-is-all-about-the-experience/)
-
 * [The 4 Elements of Every Worthwhile UX Strategy](https://www.depalmastudios.com/blog/the-4-elements-of-every-worthwhile-ux-strategy)

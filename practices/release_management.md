@@ -39,7 +39,7 @@ keywords:
 
 **TL;DR**
 
-In the world of business and IT, software systems, resources, and development processes expand in distribution and complexity. How does Release Management help with controlling your deployments? 
+In the world of business and IT, software systems, resources, and development processes expand in distribution and complexity. How does Release Management help with controlling your deployments?
 
 ## What Is Release Management
 
@@ -54,7 +54,7 @@ Delivering enterprise software is complex and comes with expectations of high-qu
 
 Release management is responsible for the planning, scheduling, testing, and deploying the controlled build of a software release. This process ensures the delivery of new and enhanced services while still being able to protect the robustness of existing services.
 
-With correct release management, you can achieve: 
+With correct release management, you can achieve:
 
 - Increases the success rate of releases while reducing releases with unexpected outcomes.
 - Reduces unpredictable incidents caused by a release.
@@ -113,7 +113,7 @@ Deployment is the final stage where the product release to a live production env
 The product release cycle waits on bug fixes.
 
 - **Lack of branch and version control:**
-  A versioning system with multiple branching support helps in managing the features of your product. Use one as main, and another to introduce changes.
+  A [versioning system](/practices/semantic-versioning) with multiple branching support helps in managing the features of your product. Use one as main, and another to introduce changes.
 
 ## Resources for Release Management
 

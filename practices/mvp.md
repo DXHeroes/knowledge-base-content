@@ -71,7 +71,7 @@ Necessary steps to build an MVP:
 
 1. **Problem**
    Clarify what problem you solve and for whom. Start by putting yourself in customer’s shoes: "Why do I need this product?" and "How it can help me?"
-   **Tip:** A practice of Value Proposition Canvas or Design Sprint can help you.
+   **Tip:** A practice of [Value Proposition Canvas](/practices/value-proposition) or [Design Sprint](/practices/design-sprint) can help you.
 2. **Competitor analysis**
    Do not forget to research what your competitors offer and how can you make your idea unique.
     **Tip:** There are various tools available that can help you investigate your competitor's websites or apps. One of them is Similar Web which is free and allows you to get some insights about their monthly traffic, sources of traffic, geographical location of a user and other helpful information.

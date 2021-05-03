@@ -28,11 +28,11 @@ Story points are generalized rough estimation of a story or a task's effort (ove
 
 ## What Are Story Points
 
-Some work has to go to every story in the product backlog. Story points are one of the ways to quantify this number on, usually, adjusted Fibonacci scale that doesn't reflect how much time the story will spend in development. Rather than that Story points focus on describing the overall complexity of successfully fulfilling Definition of Done of the story, as it is perceived by everyone involved in development - from designers to QA engineers. This complexity should cover these basic inputs:
+Some work has to go to every story in the [product backlog](/practices/product-backlog). Story points are one of the ways to quantify this number on, usually, adjusted Fibonacci scale that doesn't reflect how much time the story will spend in development. Rather than that Story points focus on describing the overall complexity of successfully fulfilling Definition of Done of the story, as it is perceived by everyone involved in development - from designers to QA engineers. This complexity should cover these basic inputs:
 
 - overall complexity - e.g. having a form with simple text boxes versus having a form with logic behind every field
 - load of work that has to be put into development - stories that change the core of an app (and thus affect great part of a system and have to be properly tested) are rated higher than story that only tweak a feature
-- any risk or uncertainty that might affect work e.g. estimating a story that is further in the product backlog without vaguely specified Definition of Done
+- any risk or uncertainty that might affect work e.g. estimating a story that is further in the [product backlog](/practices/product-backlog) without vaguely specified Definition of Done
 
 There are many different scales on which Story points are set, but the most common is adjusted Fibonacci scale (0, 0.5, 1, 2, 3, 5, 8, 13, 20, 40, 100) which is a relative number that is always related to the underlying specific base feature that was rated in the past.
 
@@ -82,7 +82,7 @@ There are few common pitfalls adopters of Story points fall into. Namely we can 
 - never re-adjusting the baseline story - when the structure of the team changes a lot, the baseline should be either changed or at least estimated again
 - giving in the opinion of the expert in the room
 
-## Resources for 16 Personalities
+## Resources for Story Points
 
 - [Atlassian.com: Story points and estimation](https://www.atlassian.com/agile/project-management/estimation)
 - [Mountain Goat Software: What Are Story Points?](https://www.mountaingoatsoftware.com/blog/what-are-story-points)

@@ -50,7 +50,7 @@ Another part of the Fail Fast Philosophy is this: if you think that your project
 
 Iteration is the most effective way how to go forward. It may help you to validate fast your vision with real clients and prepare a really useful application or concept.
 
-The main philosophy of the Fail Fast principle is to avoid or reduce the sunk cost effect which is often caused by the effort to develop a product that simply does not work.
+The main philosophy of the Fail Fast principle is to avoid or reduce the [sunk cost](/problems/sunk-cost) effect which is often caused by the effort to develop a product that simply does not work.
 The whole problem stems from the natural human nature of continuing to do meaningless work because of the internal guilt of failure.
 
 Fail Fast is one of the main practices that the team should adopt mostly in the Research phase. Conversely, the correct application of this principle can connect the team and allow it to focus on substantial solutions to real problems. Often, when applying this principle, teams also report an increase in motivation and relief from the opportunity of finding a truly meaningful product development path.
@@ -70,17 +70,17 @@ Fail Fast is one of the main practices that the team should adopt mostly in the 
 
 ## How to Implement the Fail Fast Philosophy
 
-- **Hunt the negatives**  
+- **Hunt the negatives**
   Seek out a negative opinion. Find people who are critical of the problems you are solving. Remember that your friends and family may not be completely honest or they are not sufficiently critical. They may tell you how great everything is and how well things are going. Do not listen to them!
-- **Be critical**  
+- **Be critical**
   Listen to your data including negative feedback.
-- **Prepare MVP**  
+- **Prepare MVP**
   Do not go away to perfect your product. If you have a [Minimum Viable Product](/practices/minimum-viable-product), go with it. In many respects, fewer means more.
-- **Set milestones**  
+- **Set milestones**
   Prepare milestones and consult them often, by this you may quickly identify if you are still on the right path.
-- **Find mentors/advisors**  
+- **Find mentors/advisors**
   Find people (best from your organization) who can assess your milestones and progress objectively. Consult your progress with them continuously.
-- **Fail at the right time**  
+- **Fail at the right time**
   Regularly validating the meaning of the problem you are addressing and adhering to the above principles will allow you to decide to stop the nonsensical development at the right time and focus on the real problem.
 
 Practices that they can help you to fail-fast:
@@ -97,11 +97,11 @@ Always look at the fail-fast philosophy as on the positive way how to improve yo
 
 ## Common Pitfalls of the Fail Fast Philosophy
 
-- **Syndrome of failure**  
+- **Syndrome of failure**
    The most common mistake is to continue to make meaningless developments because of the feeling that anything else is a failure.
-- **Uninformed management**  
+- **Uninformed management**
    The mistake is inadequate informing the business owner of the reasons for stopping the project/development.
-- **Not learning from mistakes**  
+- **Not learning from mistakes**
    It is not enough to stop continuing to implement the meaningless product or functionality, it is also necessary to evaluate the reasons why we end and take the result into future designs.
 
 ## Resources for the Fail Fast Philosophy

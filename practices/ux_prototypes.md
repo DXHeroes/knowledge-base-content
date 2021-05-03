@@ -50,7 +50,7 @@ Mockups are primarily used to present and test graphic elements of a UI.
 
 **Clickable Prototypes**
 
-Clickable prototypes can look like finished UIs or apps. They present screens or pages with at least some elements behaving like the finished product. They might be used to verify usability or features or test interactions.
+[Clickable prototypes](/practices/clickable-prototype) can look like finished UIs or apps. They present screens or pages with at least some elements behaving like the finished product. They might be used to verify usability or features or test interactions.
 
 ![The form of the prototype is dictated by the role it plays in the design process.](/files/prototype_role.png)
  [What is a Prototype? What are the Roles of Prototypes in Companies?](https://www.researchgate.net/publication/323198004_What_is_a_Prototype_What_are_the_Roles_of_Prototypes_in_Companies)

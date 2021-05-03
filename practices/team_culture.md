@@ -53,6 +53,7 @@ _"Teamwork is the ability to work together toward a common vision. The ability t
 - [Meaningless work](/problems/meaningless-work)
 - Lack of core values
 - Lack of communication
+- [Toxic Team Culture](/problems/toxic-team-culture)
 
 ## How to Implement Team Culture?
 

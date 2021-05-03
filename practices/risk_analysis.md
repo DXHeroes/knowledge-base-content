@@ -20,7 +20,7 @@ Risk analysis is a way of identifying potential issues that could impact your pr
 
 ## What Is Risk Analysis
 
-Risk analysis is the process of defining your risks, analyzing their probabilities, and determining what impact they could have on your project. Risk analysis is both quantitative or qualitative. 
+Risk analysis is the process of defining your risks, analyzing their probabilities, and determining what impact they could have on your project. Risk analysis is both quantitative or qualitative.
 ![Process](/files/risk_analysis.jpg)
 [Wallstreetmojo.com](https://www.wallstreetmojo.com/risk-analysis/)
 
@@ -49,10 +49,10 @@ Identifying the existing and possible threats that can be faced is the very firs
 - External:
   - Natural - Earthquake, Tornado, Weather, Blackout, Pandemic
   - Socio-political - Tax change, policies, laws, public trust, market reputation
-  - Operational - Disruptions due to suppliers, 
-- Management & Organization: 
-  - Project – Going over budget, long loops, bad planning 
-  - Team - Low bus factor, new team member
+  - Operational - Disruptions due to suppliers,
+- Management & Organization:
+  - Project – Going over budget, long loops, bad planning
+  - Team - [Low bus factor](/problems/low-bus-factor), new team member
   - Financial - Issues with money flow, funding issues
 
 You can use many tools to uncover possible threats such as **SWOT Analysis**, **Failure Mode**, and **Effects Analysis**, while **Scenario Analysis** helps you explore possible future threats.
@@ -78,7 +78,7 @@ After identification of threats that you can face, look at these two factors:
 - The likelihood of these threats happening
 - The possible impact of these threats (monetary costs)
 
-You can calculate the risk value with the following formula: 
+You can calculate the risk value with the following formula:
 ```
 Risk Value = Probability of Event A x Cost of Event A
 ```
@@ -86,7 +86,7 @@ Risk Value = Probability of Event A x Cost of Event A
 Continue with Risk Response Planning. In short, your goal is to:
 - Eliminate the risk
 - Lower the risk probability
-- Lower the risk impact  
+- Lower the risk impact
 
 For example, if your risk is that an external graphic studio won't deliver their product on time, agree on penalties beforehand. Another way is to have guidelines and procedures that come into play when needed. For example, you are a marketing company, and you got hit by a troll raid (people disliking your post, meme-ing, and hurting your public image). In that case, you should have clear communication guidelines to go through it.
 

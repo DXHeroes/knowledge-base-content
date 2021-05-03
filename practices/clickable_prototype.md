@@ -49,7 +49,7 @@ A Clickable Prototype is used as a presentation of the future product to gather 
 - **Product owners/decision makers**
   They choose what is in and out of scope and what is part of [MVP](/practices/minimum-viable-product). Clickable Prototypes help to generate support, gain agreement or even investment for the project.
 - **Developers**
-  It helps them to better understand the product. A prototype may reduce misunderstanding between developers and product owners or UX experts.
+  It helps them to better understand the product. A prototype may reduce misunderstanding between developers and [product owners](/practices/product-owner) or UX experts.
 - **End users**
    It lets them realize and confirm what they want. By using prototyping as an agile tool it is possible to test theories and ideas (for example, design or layout of the website). Prototypes help prevent drastic late changes or even rejection of the finalized product.
 
@@ -78,7 +78,7 @@ It is possible to create a great prototype with PowerPoint or Keynote. A prototy
 ## Common Pitfalls of Clickable Prototype
 
 - **Slowdown**
-  A Clickable Prototype usually clarifies communication between decision makers and the rest of the team. Sometimes it can conversely cause a slowdown of development, for example UX specialist/prototyper is on the other end of the globe than product owner and developer. Communication can be in this case very difficult.
+  A Clickable Prototype usually clarifies communication between decision makers and the rest of the team. Sometimes it can conversely cause a slowdown of development, for example UX specialist/prototyper is on the other end of the globe than [product owner](/practices/product-owner) and developer. Communication can be in this case very difficult.
 - **Unnecessary**
   It follows the point above: sometimes programming possible scenarios can be cheaper and faster than prototyping, and a paper or a blackboard wireframe might be sufficient. Consider whether it is necessary.
 - **Too much detail**
