@@ -99,8 +99,6 @@ For example, it will be very difficult (or impossible) to define a clear result 
 
 ![](/files/smart_templ1b.png)
 
-[SMART goals template *(author)*](/files/smart_templ1b.png)
-
 There are various SMART Goals worksheets, templates, and maps that can help you with the goals setting process – for example [Smartsheet](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals).
 
 ## Problems That SMART Goals Can Solve
