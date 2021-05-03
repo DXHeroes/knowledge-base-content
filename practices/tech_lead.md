@@ -11,6 +11,8 @@ tags:
   - management
   - team roles
 keywords:
+  - tech lead
+  - tech leader
   - technology
   - developer
   - leader

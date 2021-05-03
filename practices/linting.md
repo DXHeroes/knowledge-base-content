@@ -14,6 +14,7 @@ tags:
   - proper bug reporting
   - front-end build tools
 keywords:
+  - what is linting
   - style
   - checking
   - analyzing

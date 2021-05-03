@@ -14,6 +14,8 @@ keywords:
   - major
   - minor
   - patch
+  - semantic updates
+  - versioning
   - hyphen
   - identifier
   - initial development

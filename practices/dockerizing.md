@@ -12,6 +12,7 @@ tags:
   - good developer experience
   - front-end build tools
 keywords:
+  - dockerizing
   - container
   - application
   - package

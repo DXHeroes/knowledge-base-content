@@ -25,6 +25,7 @@ tags:
 - responsibility
 - versioning
 keywords:
+- software release management
 - release management
 - workflow
 - build

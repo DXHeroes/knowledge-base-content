@@ -25,6 +25,7 @@ keywords:
   - fail fast
   - product owner
   - scrum master
+  - definition of scrum
   - backlog
   - retrospective
   - user story

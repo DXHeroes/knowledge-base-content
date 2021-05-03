@@ -20,6 +20,8 @@ tags:
   - fail fast
 keywords:
   - code
+  - code review
+  - software code review
   - pull request
   - quality
   - merge

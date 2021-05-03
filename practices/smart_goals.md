@@ -9,6 +9,7 @@ tags:
   - planning
   - realistic goals
 keywords:
+  - what are smart goals
   - smart
   - goals
   - tool

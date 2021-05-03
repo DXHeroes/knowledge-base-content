@@ -15,6 +15,7 @@ keywords:
   - personality
   - team
   - team building
+  - strengthsfinder
   - role definition
   - team roles
   - agile

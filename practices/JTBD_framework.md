@@ -14,11 +14,13 @@ tags:
 keywords:
   - JTBD
   - Jobs To Be Done
+  - framework
   - Customer feedback
   - Understanding Customer
   - MVP
   - product validation
   - UX
+  - product development
 covered_by_dx_scanner: false
 ---
 
