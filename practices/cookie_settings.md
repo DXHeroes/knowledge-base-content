@@ -99,5 +99,4 @@ Also do not forget that in cookies, personal data may also be stored (not all of
 
 - [ePrivacy directive](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32002L0058)
 - [ICO](https://ico.org.uk)
-- [EDPB guidelines on consent under GDPR](https://edpb.europa.eu/our-work-tools/our-documents/nasoki/guidelines-052020-consent-under-regulation-2016679_en)
 - You can get more information about Cookies from the [SEDLAKOVALEGAL agency](https://sedlakovalegal.com/)

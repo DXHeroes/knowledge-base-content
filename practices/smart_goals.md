@@ -2,7 +2,7 @@
 slug: smart-goals
 stages:
   - development
-short_description: SMART Goals is a tool that can be used to plan and achieve your goals – both personal and work ones. This tool helps you to make your goals achievable by assessing whether they are Specific, Measurable, Attainable, Relevant, and Time-bound. 
+short_description: SMART Goals is a tool that can be used to plan and achieve your goals – both personal and work ones. This tool helps you to make your goals achievable by assessing whether they are Specific, Measurable, Attainable, Relevant, and Time-bound.
 tags:
   - SMART Goals
   - tool
@@ -20,10 +20,9 @@ keywords:
 
 ## TL;DR
 
-SMART Goals is a tool that can be used to plan and achieve your goals – both personal and work ones. This tool helps you to make your goals achievable by assessing whether they are **S**pecific, **M**easurable, **A**ttainable, **R**elevant, and **T**ime-bound. 
+SMART Goals is a tool that can be used to plan and achieve your goals – both personal and work ones. This tool helps you to make your goals achievable by assessing whether they are **S**pecific, **M**easurable, **A**ttainable, **R**elevant, and **T**ime-bound.
 
-![](/files/smart3.png) 
-
+![](/files/smart3.png)
 [SMART goals summary *(author)*](https://dxheroes.io)
 
 ## What Are SMART Goals?
@@ -40,7 +39,7 @@ SMART Goals is a tool that can be used to plan and achieve your goals – both p
 
 ### Specific
 
-Specify your goal to be able to focus your efforts. The following questions can help you: 
+Specify your goal to be able to focus your efforts. The following questions can help you:
 
 - What do I want to accomplish?
 - Why is this goal important?
@@ -50,7 +49,7 @@ Specify your goal to be able to focus your efforts. The following questions can 
 
 ### Measurable
 
-With measurable goals set, you can track your progress and stay motivated. Clearly set deadlines will help you to assess your progress. 
+With measurable goals set, you can track your progress and stay motivated. Clearly set deadlines will help you to assess your progress.
 A measurable goal should address questions such as:
 
 - How much?
@@ -65,12 +64,12 @@ To set an attainable goal, you will have to deal with the following questions:
 - How can I accomplish this goal?
 - How realistic is the goal, based on other constraints, such as financial factors?
 
-**NOTE**: Do not set goals that depend on someone else. Only goals that depend on you, your effort, and your skills are convenient ones. 
+**NOTE**: Do not set goals that depend on someone else. Only goals that depend on you, your effort, and your skills are convenient ones.
 
 ### Relevant
 
 Ensure that your goal matters to you, and is not in conflict with your other relevant goals. So, make sure that your plans drive everyone forward, but that you're still responsible for achieving your own goal.
-In order to set a relevant goal, answer these questions (answers should be “Yes”): 
+In order to set a relevant goal, answer these questions (answers should be “Yes”):
 
 - Does this seem worthwhile?
 - Is this the right time?
@@ -88,7 +87,7 @@ To set a time-bound goal, you will deal with the following questions:
 - What can I do six weeks from now?
 - What can I do today?
 
-### What SMART Goals Cannot Solve 
+### What SMART Goals Cannot Solve
 
 - goals that do not allow definition of a clear result
 - goals whose progress cannot be measured
@@ -105,15 +104,15 @@ There are various SMART Goals worksheets, templates, and maps that can help you 
 
 ## Problems That SMART Goals Can Solve
 
-SMART Goals can be used for problems that you are able to define fully following SMART Goals methodology carefully. 
+SMART Goals can be used for problems that you are able to define fully following SMART Goals methodology carefully.
 
-Examples: 
+Examples:
 
 - [Increased costs](/problems/increased-cost)
 - [Long feadback loop](/problems/long-feedback-loops)
-- [Sunk cost](/problems/sunk-cost) 
+- [Sunk cost](/problems/sunk-cost)
 
-## SMART Goals Pitfalls 
+## SMART Goals Pitfalls
 
 #### Focus is Too Narrow
 Fixating on a single SMART goal without the appropriate context, it is easy to fall into the trap of seeing it as the only goal.

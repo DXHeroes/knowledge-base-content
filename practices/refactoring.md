@@ -26,7 +26,6 @@ Code refactoring is the process of improving the the design of existing code wit
 You can see Refactoring as a controlled technique used for improving the design of existing code. By refactoring the code, you can improve the code readability and reduce its complexity.
 
 ![Refactoring](/files/refactoring.png)
-[Author unknown](https://developerexperience.io)
 
 > A good program is as good as its code.
 
@@ -61,7 +60,7 @@ The essence of refactoring is applying small coding changes that preserves the f
 
 - If code is not cleaner refactoring is not done.
 - Don't include new features.
-- Try making small changes step by step. 
+- Try making small changes step by step.
 - All tests should pass
 
 ## Common pitfalls of Refactoring
@@ -79,4 +78,3 @@ The essence of refactoring is applying small coding changes that preserves the f
 - [Science Direct: Refactoring](https://www.sciencedirect.com/topics/computer-science/refactoring)
 - [Agile Alliance: Refactoring](https://www.agilealliance.org/glossary/refactoring)
 - [Pros and Cons of Code Refactoring](https://www.c-sharpcorner.com/article/pros-and-cons-of-code-refactoring/)
-- [Analysis of Code Refactoring Impact on Software Quality](10.1051/matecconf/20165702012)

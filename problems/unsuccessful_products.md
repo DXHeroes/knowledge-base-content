@@ -2,7 +2,7 @@
 slug: unsuccessful-products
 stages:
   - development
-short_description: About 30 to 45% of new products fail to deliver any meaningful financial return. There are many reasons why this happens. 
+short_description: About 30 to 45% of new products fail to deliver any meaningful financial return. There are many reasons why this happens.
 tags:
   - Unsuccessful Products
   - market
@@ -27,9 +27,7 @@ About one-third of new products turn out to be unprofitable. It can be caused by
 
 ![](/files/zune.png)
 
-[Zune *(courtesy: Wierd)*](zune.png)
-
-## Why Do Some Products Fail? 
+## Why Do Some Products Fail?
 
 #### Poor Product Quality
 
@@ -45,7 +43,7 @@ In the case the product is introduced at an unsuitable time, it can easily fail.
 
 #### Inherent Defect
 
-Possible inherent defects can disqualify the product and turn it to be a failure. Buyers can avoid the product even if the defect is fixed later. 
+Possible inherent defects can disqualify the product and turn it to be a failure. Buyers can avoid the product even if the defect is fixed later.
 
 #### Big Competition
 
@@ -57,7 +55,7 @@ It is very important to promote the product, especially in the introduction stag
 
 #### Poor Support
 
-Support quality is another important thing. Non-existent or poor support can ruin the product's reputation. 
+Support quality is another important thing. Non-existent or poor support can ruin the product's reputation.
 
 #### Failure to Understand Consumer Needs and Wants
 
@@ -67,12 +65,12 @@ Blinded by their visions, some companies ignore negative user feedback. Their pr
 
 Do you remember Zune? Don't worry, neither do I. However, the iPod is a different story.
 
-After seeing Apple's success, Microsoft introduced its portable media player in 2006. From the very beginning, Zune faced these challenges: 
+After seeing Apple's success, Microsoft introduced its portable media player in 2006. From the very beginning, Zune faced these challenges:
 
-- inevitable comparisons to iPod 
+- inevitable comparisons to iPod
 - its software was only available for Windows
 
-In December 2008, Microsoft said Zune revenues had decreased by 54%, or $100 million. 
+In December 2008, Microsoft said Zune revenues had decreased by 54%, or $100 million.
 
 Microsoft admits that they were just chasing Apple with a product that offered no reasons for customers to switch.
 

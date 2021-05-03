@@ -60,7 +60,7 @@ There are some benefits of working from home:
 
 - [Increased Cost](/problems/increased-cost)
 - [Demotivated team](/problems/demotivated-team)
-- [Expensive Development](/problems/expensive-development)
+- Expensive Development
 
 ## How to Implement Home Office
 

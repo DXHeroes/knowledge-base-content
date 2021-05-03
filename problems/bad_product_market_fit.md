@@ -21,7 +21,7 @@ keywords:
   - bankruptcy
   - undersize
   - oversize
-  - innovate
+  # - innovate
   - feedback
   - survey
 ---
