@@ -16,6 +16,7 @@ tags:
 keywords:
   - lean canvas
   - business model canvas
+  - lean business model canvas
   - canvas
   - chart
   - blocks
