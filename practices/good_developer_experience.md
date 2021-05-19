@@ -44,21 +44,17 @@ The Developer Experience (DX) describes the experience developers have while usi
 
 We define a great DX by these four factors:
 
-1. **Fitting architecture**
-   
-   Find a compromise between simple and more complex architecture. Simple means more pain later, complex brings more pain now. Consider the size of your project and your team. Good architecture is difficult to break, has short feedback loops and it has a great introspection.
+### 1. Fitting architecture
+Find a compromise between simple and more complex architecture. Simple means more pain later, complex brings more pain now. Consider the size of your project and your team. Good architecture is difficult to break, has short feedback loops and it has a great introspection.
 
-2. **Great tools**
+### 2. Great tools
+Automate where possible. Repetitive tasks are exhausting. Automation lets your team understand the configurations.
 
-    Automate where possible. Repetitive tasks are exhausting. Automation lets your team understand the configurations.
+### 3. Processes to back that all up
+Processes work as automated checklists, and give you have consistent steps that need to be done each time. Defined processes help you with team discipline. Use processes for QA, deployment, feedback, and for onboarding if your company is big enough.
 
-3. **Processes to back that all up**
-
-   Processes work as automated checklists, and give you have consistent steps that need to be done each time. Defined processes help you with team discipline. Use processes for QA, deployment, feedback, and for onboarding if your company is big enough.
-
-4. **Nontoxic team culture**
-
-   Define the purpose of your company: making money should not be the only goal. Culture itself is the most important brainware (a software that runs in the brain) you can install within your company and the team - every decision the developers take will be filtered through the installed brainware. If they do not agree with the brainware, they ignore it.
+### 4. Nontoxic team culture
+Define the purpose of your company: making money should not be the only goal. Culture itself is the most important brainware (a software that runs in the brain) you can install within your company and the team - every decision the developers take will be filtered through the installed brainware. If they do not agree with the brainware, they ignore it.
 
 ## Why You Might Want the Good Developer Experience
 
@@ -126,6 +122,7 @@ There is a famous "Scope Triangle" created in the mid 1980s by Dr. Martin Barnes
 [Scope Triangle](https://www.projectsmart.co.uk/project-management-scope-triangle.php)
 
 This triangle means that if you want to increase the time, you have to increase money or quality.
+
 We disagree - that is not how it works in reality. You have to insert an emotional cost to the triangle:
 
 ![Emotional Cost](/files/emotional_cost.png)
