@@ -13,34 +13,21 @@ env:
   X_DX_AUTH_HEADER: ${{ secrets.X_DX_AUTH_HEADER }}
 
 jobs:
-  check-article:
-    if: github.event_name == 'pull_request'
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          fetch-depth: 1
-          ref: ${{ github.event.pull_request.head.sha }}
-      - name: Use Node.js 12
-        uses: actions/setup-node@v1
-        with:
-          node-version: 12
-      - name: Danger JS
-        run: |
-          yarn && yarn danger ci
-
-  # deploy-to-preview-orig:
-  #   if: github.event_name == 'pull_request' && github.base_ref == 'master'
-  #   needs: check-article
-  #   runs-on: ubuntu-latestt
+  # check-article:
+  #   if: github.event_name == 'pull_request'
+  #   runs-on: ubuntu-latest
   #   steps:
   #     - uses: actions/checkout@v2
+  #       with:
+  #         fetch-depth: 1
+  #         ref: ${{ github.event.pull_request.head.sha }}
   #     - name: Use Node.js 12
   #       uses: actions/setup-node@v1
   #       with:
   #         node-version: 12
-  #     - name: Deploy to preview.developerexperience.io
-  #       run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "branch=$GITHUB_HEAD_REF"'
+  #     - name: Danger JS
+  #       run: |
+  #         yarn && yarn danger ci
 
   deploy-to-preview:
     if: github.event_name == 'pull_request' && github.base_ref == 'master'
