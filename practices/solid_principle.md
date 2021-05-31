@@ -1,7 +1,7 @@
 ---
 slug: solid-principle
 stages:
-  - research
+  - development
 short_description: SOLID stands for the first five object-oriented design principles that help you make the software more understandable, easier to maintain, and easier to extend.
 tags: 
   - SOLID principle
@@ -168,4 +168,3 @@ One debated suggestion is to use [Dependency injection](https://en.wikipedia.org
 - [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 - [SOLID as an antipattern: when guiding principles go bad](http://blog.spinthemoose.com/2012/12/17/solid-as-an-antipattern/)
 - [In Defense of the SOLID Principles](https://blog.ndepend.com/defense-solid-principles/)
-
