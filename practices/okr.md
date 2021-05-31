@@ -80,13 +80,15 @@ OKRs solve a range of problems, but it will depend on how you implement them, ho
 
 ## Problems OKR Helps to Solve
 
-- OKRs enable teams to stay aligned on a goal.
-- Proper use of OKRs ensures a strong link between strategy and execution.
-- Effective use of OKRs minimizes unnecessary work.
-- Using OKRs reduces the problem of accountability in an organization.
-- OKRs Highlight the need for lead measures of success
+- [Demotivated Team](/problems/demotivated-team)
+- [Increased Cost](/problems/increased-cost)
+- [Bad Product-market Fit](/problems/bad-product-market-fit)
+- [Sunk Cost](/problems/sunk-cost)
+- [Meaningless Work](/problems/meaningless-work)
+- [Unsuccessful Product](/problems/unsuccessful-products)
+- [Toxic Team Culture](/problems/toxic-team-culture)
 
-Where I’ve been involved in implementing OKRs, the drive was to promote goal clarity. We wanted everybody in the organization to understand how their work contributed to our strategy.
+Where I’ve been involved in implementing OKRs, the drive was to promote goal clarity. We wanted everybody in the organization to understand how the work contributed to our strategy. A good tip is to make everyone partially [responsible](/practices/responsibility) for success. 
 
 ## How to Implement OKR
 
