@@ -145,7 +145,6 @@ Some common pitfalls we usually encounter using OKRs are:
 - Team burning. If your team is using all the resources for the objective,  it can burn your team. Plan to use 80 % so you can adjust during the ride.
 - Team doesn't commit enough (also exchangeable with sandbagging). Even with the best strategy and goal-setting methodology, if your execution fails. With OKR, you can see where the failure happens and adjust for the future.
 
-
 ## What are next steps with OKR?
 
 Pitfalls like this are unavoidable in setting or writing an OKR. However, if the listed mistakes resonate with you, you need to look into your OKR and probably set a new one.
