@@ -1,5 +1,5 @@
 ---
-slug: solid-principle
+slug: solid
 stages:
   - development
 short_description: SOLID stands for the first five object-oriented design principles that help you make the software more understandable, easier to maintain, and easier to extend.
