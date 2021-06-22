@@ -39,7 +39,7 @@ I prefer a simpler form. I focus on:
 
 **Goals**
 
-What do I want to achieve? Since this a UX strategy that focus should be on the experience, that is, on what emotion(s) we want to achieve. This should include a very brief descriptio0n of the target audience. A good way to think of it is by providing the answer to two questions: "Who are we doing it for?" and "Why should they care?"
+What do I want to achieve? Since this a UX strategy that focus should be on the experience, that is, on what emotion(s) we want to achieve. This should include a very brief description of the target audience. A good way to think of it is by providing the answer to two questions: "Who are we doing it for?" and "Why should they care?"
 
 **Scope of Work**
 
