@@ -17,7 +17,6 @@ keywords:
   - Interface Segregation Principle
   - Dependency Inversion Principle
   - Design Principles
----
 covered_by_dx_scanner: false
 ---
 
