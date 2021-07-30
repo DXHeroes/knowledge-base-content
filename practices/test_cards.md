@@ -4,6 +4,7 @@ stages:
   - research
 short_description: A test card helps you to test and validate your business ideas by defining how you will test them, what you will measure, and what success looks like.
 tags:
+  - test cards
   - value proposition
   - feedback
   - mvp
