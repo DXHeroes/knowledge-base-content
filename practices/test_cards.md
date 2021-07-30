@@ -47,11 +47,11 @@ A test card helps you to stay focused on what to measure as you go about testing
 
 ## Problems the Test Card Helps to Solve
 
-- [Bad Product-Market Fit](/problems/bad_product_market_fit)
-- [Sunk Cost](/problems/sunk_cost)
-- [Unhappy Clients](/problems/unhappy_clients)
-- [Unnecessary Features](/problems/unnecessary_features)
-- [Unsuccessful Product](/problems/unsuccessful_products)
+- [Bad Product-Market Fit](/problems/bad-product-market-fit)
+- [Sunk Cost](/problems/sunk-cost)
+- [Unhappy Clients](/problems/unhappy-clients)
+- [Unnecessary Features](/problems/unnecessary-features)
+- [Unsuccessful Product](/problems/unsuccessful-products)
 
 ## How to Implement the Test Card
 
