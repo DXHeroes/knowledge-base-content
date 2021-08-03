@@ -29,20 +29,20 @@ jobs:
   #       run: |
   #         yarn && yarn danger ci
 
-  deploy-to-preview:
-    if: github.event_name == 'pull_request' && github.base_ref == 'master'
-    needs: check-article
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.js 12
-        uses: actions/setup-node@v1
-        with:
-          node-version: 12
-      - name: Deploy to preview.developerexperience.io
-        env:
-          HEAD_REPO_GIT_URL: ${{ github.event.pull_request.head.repo.git_url }}
-        run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "repo_url=$HEAD_REPO_GIT_URL" -d "branch=$GITHUB_HEAD_REF"'
+  #deploy-to-preview:
+  #  if: github.event_name == 'pull_request' && github.base_ref == 'master'
+  #  needs: check-article
+  #  runs-on: ubuntu-latest
+  #  steps:
+  #    - uses: actions/checkout@v2
+  #    - name: Use Node.js 12
+  #      uses: actions/setup-node@v1
+  #      with:
+  #        node-version: 12
+  #    - name: Deploy to preview.developerexperience.io
+  #      env:
+  #        HEAD_REPO_GIT_URL: ${{ github.event.pull_request.head.repo.git_url }}
+  #      run: 'curl -f -XPOST -H "X-DX-Auth: FskPmL8JM4BaH8j2KTKRRqMU4F3TUgvKxppuyn" https://preview.developerexperience.io/api/v1/articles/import -d "repo_url=$HEAD_REPO_GIT_URL" -d "branch=$GITHUB_HEAD_REF"'
 
   deploy-to-production:
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
