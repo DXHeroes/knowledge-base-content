@@ -76,7 +76,7 @@ Test cards generally contain the following four questions:
 - Weak or messy data.
 - Failure to learn from insights can also block progress in your testing process.
 
-## Resources for Pull Requests
+## Resources for Test Cards
 
 - Strategyzer: [Validate Your Ideas with the Test Card](https://www.strategyzer.com/blog/posts/2015/3/5/validate-your-ideas-with-the-test-card)
 - Strategyzer: [The Most Common Experiment Pitfalls and How to Avoid Them](https://www.strategyzer.com/blog/the-most-common-experiment-pitfalls-and-how-to-avoid-them)
