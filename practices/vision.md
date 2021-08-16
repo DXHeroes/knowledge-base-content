@@ -41,9 +41,16 @@ A **team vision** helps define what the team should strive towards in terms of f
 
 A **product vision** can be thought of as the product's mission statement. It helps to ensure that you have a realistic product strategy, and helps to motivate the team working on your product.
 
-![Vision](/files/vision_amazon.png)
+### Best Examples of Strong Vision Statement
 
-[Your Dictionary: Best Examples of Strong Company Vision Statements](https://examples.yourdictionary.com/best-examples-of-a-vision-statement.html)
+#### Amazon
+> "Our vision is to be earth's most customer centric company; to build a place where people can come to find and discover anything they might want to buy online."
+
+#### Tesla
+> "To accelerate the world's transition to sustainable energy."
+
+#### Apple Computer
+> "We believe that we are on the face of the earth to make great products and that's not changing. We are constantly focusing on innovating. We believe in the simple not the complex. We believe that we need to own and control the primary technologies behind the products that we make, and participate only in markets where we can make a significant contribution. We believe in saying no to thousands of projects, so that we can really focus on the few that are truly important and meaningful to us. We believe in deep collaboration and cross-pollination of our groups, which allow us to innovate in a way that others cannot. And frankly, we don't settle for anything less than excellence in every group in the company, and we have the self-honesty to admit when we're wrong and the courage to change. And I think regardless of who is in what job those values are so embedded in this company that Apple will do extremely well."- Tim Cook, CEO of Apple Computer
 
 ## Why You Might Want A Vision
 
