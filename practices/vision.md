@@ -41,6 +41,10 @@ A **team vision** helps define what the team should strive towards in terms of f
 
 A **product vision** can be thought of as the product's mission statement. It helps to ensure that you have a realistic product strategy, and helps to motivate the team working on your product.
 
+![Vision](/files/vision_mission.jpg)
+
+[EXIDASP: Vision, Mission & Core Values](http://exidasp.ca/EPS/about-us/vision)
+
 ### Best Examples of Strong Vision Statement
 
 #### Amazon
@@ -59,6 +63,17 @@ A company vision statement is future-based and gives inspiration and direction t
 A team vision creates a common vision that's built upon three factors: **why** it exists, **what** it's trying to achieve, and **how** the team will do it.
 
 A product vision clarifies the purpose of a product and what it aims to offer to users and customers. It also supports the product owner in decision-making throughout the product buliding process.
+
+As can be seen in the section above, Amazon's vision statement is clear about being a place where people can shop online for "anything they might want to buy online."
+
+As an e-commerce giant, Amazon makes its revenue through the following ways:
+
+- Amazon.com store (sells virtually everything--electronics, clothes, food, video games, ebooks, print books, and more)
+- Amazon Kindle and Amazon Echo (hardware and consumer electronics)
+- Amazon Web Services (cloud infrastructure)
+- Amazon Prime (subscription service that includes free shipping and unlimited streaming of movies and TV episodes)
+
+This is a great example of how a strong company vision steers an organization forward to achieve its ambitious goals.
 
 ## Problems Vision Helps to Solve
 
@@ -120,3 +135,4 @@ Lastly, vision statements are sometimes not implemented. It should be displayed 
 - Indeed: Vision Statements: [Tips, Example and Importance](https://www.indeed.com/career-advice/career-development/vision-statements/)
 - Vantage Leadership Consulting: [Pitfalls of Establishing a Company Vision - What Could Go Wrong?](https://www.vantageleadership.com/our-blog/communicate-vision-effectively/)
 - Chron: [What Makes Vision Statements Ineffective?](https://smallbusiness.chron.com/vision-statements-ineffective-35572.html)
+- Investopedia: [6 Companies Owned by Amazon](https://www.investopedia.com/articles/markets/102115/top-10-companies-owned-amazon.asp)
