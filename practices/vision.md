@@ -25,9 +25,7 @@ keywords:
 
 **TL;DR**
 
-Vision represents the highest ambitions of the company, team, or product. 
-
-Vision (also known as vision statement) may refer to a company, team, or product vision. 
+Vision (also known as vision statement) represents the highest ambitions of the company, team, or product. It helps to make and manage the right decisions based on a shared vision.
 
 ## What Is Vision?
 
