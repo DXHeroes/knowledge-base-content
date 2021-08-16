@@ -35,11 +35,11 @@ An effective vision should be future-oriented, clear, inspirational, unique, gen
 
 Mission and values can be incorporated into a single, impactful vision statement that offers the where, why and how that guides strategy.
 
-A company vision statement describes what the company aspires to be. It helps the company to define its goals in simple terms.
+A **company vision** statement describes what the company aspires to be. It helps the company to define its goals in simple terms.
 
-A team vision helps define what the team should strive towards in terms of forward momentum. It defines what the team aims to be.
+A **team vision** helps define what the team should strive towards in terms of forward momentum. It defines what the team aims to be.
 
-A product vision can be thought of as the product's mission statement. It helps to ensure that you have a realistic product strategy, and helps to motivate the team working on your product.
+A **product vision** can be thought of as the product's mission statement. It helps to ensure that you have a realistic product strategy, and helps to motivate the team working on your product.
 
 ![Vision](/files/vision_amazon.png)
 
