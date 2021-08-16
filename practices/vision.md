@@ -105,7 +105,7 @@ Lastly, vision statements are sometimes not implemented. It should be displayed 
 
 ## Resources for Vision
 
-- Product Board: [How to write and communicate an effective product vision](https://www.productboard.com/blog/write-product-vision/)
+- Productboard: [How to write and communicate an effective product vision](https://www.productboard.com/blog/write-product-vision/)
 - Your Dictionary: [Best Examples of Strong Company Vision Statements](https://examples.yourdictionary.com/best-examples-of-a-vision-statement.html)
 - Business News Daily: [What Is a Vision Statement?](https://www.businessnewsdaily.com/3882-vision-statement.html)
 - Scrum: [10 Tips for Product Owners on the Product Vision](https://www.scrum.org/resources/blog/10-tips-product-owners-product-vision)
