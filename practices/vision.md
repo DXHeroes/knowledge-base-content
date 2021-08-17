@@ -4,9 +4,6 @@ stages:
   - research
   - building_team
   - development
-  - launch
-  - maintenance
-  - phase_out
 short_description: Vision represents the highest ambitions of a company, team, or product. Its purpose is to unify and motivate people and teams towards achieving an ultimate goal.
 tags:
   - team
@@ -14,11 +11,16 @@ tags:
   - team culture
   - values
   - common goal
+  - goal
+  - motivation
 keywords:
   - vision
   - company vision
   - team vision
   - product vision
+  - motivation
+  - team motivation
+  - team goal
 ---
 
 # Vision
