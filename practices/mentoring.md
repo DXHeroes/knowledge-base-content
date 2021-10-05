@@ -59,6 +59,7 @@ A **mentee** can gain the following benefits:
 - In case that mentee and mentor work in the same organization, mentee get information about the organization’s culture and unspoken rules
 - Networking with other interesting people
 - Sharing frustrations as well as successes
+- Relearning the subject from ground zero while teaching
 
 Your organization can gain the following benefits from a successful Mentoring program:
 
@@ -103,7 +104,8 @@ Your organization can gain the following benefits from a successful Mentoring pr
    - steps back from the detail
    - offers friendship
    - observes and reflects
-
+   - Caliberates to learning rate
+   
 3. **Find mentees**  
    Find mentees and complete the task force, especially from a cross-section of the organization.
 4. **Match participants**  
@@ -134,3 +136,4 @@ Your organization can gain the following benefits from a successful Mentoring pr
 - The Path Forward: [Founder Mentoring: When is it useful and how can you make the most of it?](https://thepathforward.io/founder-mentoring/)
 - Leadership Thoughts: [The Difference Between Coaching and Mentoring](https://www.leadershipthoughts.com/difference-between-coaching-and-mentoring/)
 - The Invisible Mentor: [7 Common Pitfalls to Avoid with your Mentoring Programs](https://theinvisiblementor.com/7-common-pitfalls-to-avoid-with-your-mentoring-programs/)
+- Coaching and mentoring :[Learning how to](https://www.tutorialspoint.com/coaching_and_mentoring/index.htm)
