@@ -59,6 +59,7 @@ Example article: [pull request](https://github.com/DXHeroes/knowledge-base/blob/
 - **meta informations**
   - Starting with `---` (a triple dash) and ending with a second `---` (triple dash)
   - Contains meta info of the article
+  - **author_github_username** - GitHub username of the author. After the author sets up his/her account on DX Knowledgebase web app, the author box will appear under the article on the web.
   - **slug** - A friendly ID of the article visible in the URL of the Knowledge base (e.g.: `https://developerexperience.io/practices/pull-requests`
   - **stages** - Categorizes the article to some stages of the project. Valid values are:
     - `research`
