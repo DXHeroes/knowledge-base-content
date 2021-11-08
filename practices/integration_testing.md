@@ -116,7 +116,7 @@ Integration testing falls under the validation category. Its primary objective i
 
 ### Sequence of Testing
 
-- [Unit Testing](/practice/unit-testing)
+- [Unit Testing](/practices/unit-testing)
 - Integration Testing
 - System Testing
 - Acceptance Testing

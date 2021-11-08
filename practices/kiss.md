@@ -34,7 +34,7 @@ The phrase originally comes from the Lockheed designer team and their head engin
 [Kiss Visually](https://www.clarizen.com/importance-kiss-principle-project-management/)
 
 If you apply the KISS principle to developer work, you should split your hard problems into smaller ones and then solve them with simple solutions. If you are designing architecture, break it into parts (from monoliths to microservices) and **[refactor](/practices/refactoring)** (a lot!). Don't make your code do four things at once (at the same time). You will thank yourself for solutions aiming at simplicity.
-In terms of application to [Developer Experience](practices/good-developer-experience), Johnson mentions that you should *Reduce reports and other paperwork to a minimum* (use KISS for your [agile events](/practices/agile-events)), and in terms of [team culture](/practices/team-culture), he said *let managers run their programs with a minimum of interference. He not only gave you the authority but also the [responsibility](/practices/responsibility)*
+In terms of application to [Developer Experience](/practices/good-developer-experience), Johnson mentions that you should *Reduce reports and other paperwork to a minimum* (use KISS for your [agile events](/practices/agile-events)), and in terms of [team culture](/practices/team-culture), he said *let managers run their programs with a minimum of interference. He not only gave you the authority but also the [responsibility](/practices/responsibility)*
 
 ## Why You Might Want KISS
 
@@ -53,10 +53,10 @@ It gets the job done (together with [SMART Goals](/practices/smart-goals)). Simp
 
 You can sum up the universal and abstract implementation of the KISS (as a principle for any problem-solving) as the following:
 
-1. Stop to gather information. 
-2. Take (or create if needed) the big, tough problem. 
-3. Think about how you could simply solve it. 
-4. Try to find a **simple**  solution. 
+1. Stop to gather information.
+2. Take (or create if needed) the big, tough problem.
+3. Think about how you could simply solve it.
+4. Try to find a **simple**  solution.
    1. If you can, congrats! GO TO 4 if you have other work.
    2.  If you can not find a solution, split the problem into smaller pieces. GO TO 4.
 
@@ -68,8 +68,8 @@ But always have in mind: Keep It Stupid Simple.
 
 ## Common Pitfalls of KISS
 
-1.  **Simple being seen as stupid.** To quote Einstein: *Everything should be as simple as possible, but not simpler.* Simple solutions are not bad or lacking to solve complex issues (you should not have a complex issue in the first place, split it!) 
-2. **Simple as the final answer to everything, without thinking.** There are some tasks that you can not solve only through KISS recursion (split-solve cycle) alone. Sometimes, keeping the big picture is vital, or splitting is not possible. However, with these things (Like business strategy), you can split your solution into simple steps. Doing so gives you actionable things to do. 
+1.  **Simple being seen as stupid.** To quote Einstein: *Everything should be as simple as possible, but not simpler.* Simple solutions are not bad or lacking to solve complex issues (you should not have a complex issue in the first place, split it!)
+2. **Simple as the final answer to everything, without thinking.** There are some tasks that you can not solve only through KISS recursion (split-solve cycle) alone. Sometimes, keeping the big picture is vital, or splitting is not possible. However, with these things (Like business strategy), you can split your solution into simple steps. Doing so gives you actionable things to do.
 
 ## Resources for KISS
 
