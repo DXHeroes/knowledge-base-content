@@ -1,4 +1,5 @@
 ---
+author_github_username:
 slug: template-problem
 stages: //pick one
   - research
@@ -11,7 +12,7 @@ short_description: // Should be eye catching - use https://zeo.org/seo-tools/ser
 tags: //Used by our search engine to find related practices/problems
   - tag1
   - tag2
-  - 
+  -
 keywords: //Used by external search engines to find your article
   - tag1
   - tag2
@@ -23,14 +24,13 @@ keywords: //Used by external search engines to find your article
 
 //short sum up of your article
 
-## What Is 
+## What Is
 
 ![Alt Name](/files/your image)
 [Name](https://image source)
 
-## Reasons for 
+## Reasons for
 
 ## Resources for
 
 - [Mock Up Resource](https://dxkb.io)
-

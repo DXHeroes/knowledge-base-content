@@ -1,4 +1,5 @@
 ---
+author_github_username: prokopsimek
 slug: 16personalities
 stages:
   - building_team
