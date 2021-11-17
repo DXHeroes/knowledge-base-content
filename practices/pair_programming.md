@@ -18,6 +18,7 @@ keywords:
   - pair programming
   - pair programming best practices
   - code review
+author_github_username: prokopsimek
 ---
 
 # Pair Programming

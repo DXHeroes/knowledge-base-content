@@ -1,5 +1,4 @@
 ---
-author_github_username: prokopsimek
 slug: 16personalities
 stages:
   - building_team
@@ -19,7 +18,7 @@ keywords:
   - role definition
   - team roles
   - agile
-covered_by_dx_scanner: false
+author_github_username: zeman-j4
 ---
 
 # 16 Personalities

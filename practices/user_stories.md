@@ -27,6 +27,7 @@ keywords:
   - estimating
   - implementation
   - epic
+author_github_username: prokopsimek
 ---
 
 # User Stories

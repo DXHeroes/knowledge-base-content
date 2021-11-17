@@ -24,6 +24,7 @@ keywords:
   - digital nomads
   - working remotely
   - remote working
+author_github_username: prokopsimek
 ---
 
 # Home Office

@@ -29,6 +29,7 @@ keywords:
   - agile events
   - scrum events
   - agile ceremonies
+author_github_username: prokopsimek
 ---
 
 # Design Sprint
@@ -48,19 +49,19 @@ The Design Sprint uses design thinking to reduce risks of launching a new produc
 
 **Phases of the Design Sprint:**
 
-1. **Map**  
+1. **Map**
    Map the problems and identify the important areas to focus on. Set a long term goal.
 
-2. **Sketch**  
+2. **Sketch**
    Sketch down the creative ways how to solve the problem on the paper.
 
-3. **Decide**  
+3. **Decide**
    Remove the unfeasible ideas from the first two phases. Make a storyboard and decide what should be prototyped. The final choice is made by Decision Makers.
 
-4. **Prototype**  
+4. **Prototype**
    Make a realistic prototype that can be tested by potential or existing customers.
 
-5. **Test**  
+5. **Test**
    Run the user testing and get the feedback.
 
 ![Phases of Design Sprint](/files/design_sprint_phases.jpeg)

@@ -19,6 +19,7 @@ keywords:
   - release
   - deploy
   - update
+author_github_username: prokopsimek
 ---
 
 # Staged Rollout
@@ -62,7 +63,7 @@ When implementing the Staged Rollout, follow these rules:
 6. You can start with a minimum percentage of users (you can target as low as 0.01%) and if everything looks fine, keep increasing the percentage until you reach 100%.
 7. You can use the Staged Rollout as an A/B testing. For example, if you have a new feature in your game application, make a Staged Rollout to a subset of players. You can then compare the performance of your game app with and without the feature.
 
-**Halt the Staged Rollout**  
+**Halt the Staged Rollout**
 You can always halt (pause) the Rollout if you see that there is something wrong. That means that you can prevent more users from experiencing issues. Users that have not installed the new product version will not receive any updates. You have time to analyze the problems without spreading. Before you make the Staged Rollout, ensure you have a rollback plan. You should always be able not to implement the changes and head into a different direction with your product. Backup plans are a must!
 
 ## Common Pitfalls of the Staged Rollout

@@ -21,6 +21,7 @@ keywords:
   - goals
   - team goals
   - product vision
+author_github_username: prokopsimek
 ---
 
 # Objectives and Key Results (OKR)
@@ -54,14 +55,14 @@ Unlike Objective, Key Results are continuously measured as the work progressed. 
 
 ## Why You Might Want To Use OKR?
 
-Many businesses trap themselves in the misconceptions and misinterpretations of OKRs. People can see them as just a set of goals, especially when they are ignorant of the benefits of a new product or tool. 
+Many businesses trap themselves in the misconceptions and misinterpretations of OKRs. People can see them as just a set of goals, especially when they are ignorant of the benefits of a new product or tool.
 
 It is important to note that OKRs go deeper and highly precise in setting the goals and strategically achieving those goals.
 
 Since businesses thrive on exchanging value for money, most companies and individuals want to know what they get back from a product or service before investing in it. Likewise, before using a tool for business operation, you might want to know how useful it will be for you.
 
-So, whether the idea is to 
-* improve your goals, 
+So, whether the idea is to
+* improve your goals,
 * improve goals of your company,
 * even to suggest the new management tool for your team/project/company
 
@@ -88,7 +89,7 @@ OKRs solve a range of problems, but it will depend on how you implement them, ho
 - [Unsuccessful Product](/problems/unsuccessful-products)
 - [Toxic Team Culture](/problems/toxic-team-culture)
 
-Where I’ve been involved in implementing OKRs, the drive was to promote goal clarity. We wanted everybody in the organization to understand how the work contributed to our strategy. A good tip is to make everyone partially [responsible](/practices/responsibility) for success. 
+Where I’ve been involved in implementing OKRs, the drive was to promote goal clarity. We wanted everybody in the organization to understand how the work contributed to our strategy. A good tip is to make everyone partially [responsible](/practices/responsibility) for success.
 
 ## How to Implement OKR
 
@@ -121,16 +122,16 @@ Organizations' OKRs have little of a difference from personal OKRs. However, the
 - KR2:
   - Increase distribution, so we cover at least 40 % of rural areas around our city in the second quarter.
 - KR3:
-  - Increasing capital and investments by 10 % through attracting new shareholders and investors 
+  - Increasing capital and investments by 10 % through attracting new shareholders and investors
   	- by improving creditworthiness and cash flow.
   	- by the active acquisition of shareholders through events
 
-Note that every KR and objective has a date and measurable value. 
+Note that every KR and objective has a date and measurable value.
 
 To create your own OKR:
 1. Start with writing your objective with the end date. From now on, you own that objective, and you are committing to it.
 2. Write down the first key result to measure your success in achieving the objective.
-3. Set at least two more key results. Be harsh yet realistic with yourself. 
+3. Set at least two more key results. Be harsh yet realistic with yourself.
 
 ## Common Pitfalls of OKR
 

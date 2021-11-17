@@ -18,6 +18,7 @@ keywords:
   - who is tech writer
   - what is documentation
 
+author_github_username: prokopsimek
 ---
 
 # Technical Writing

@@ -19,6 +19,7 @@ keywords:
 - dependencies
 - database
 covered_by_dx_scanner: true
+author_github_username: prokopsimek
 ---
 
 # Updating the Dependencies

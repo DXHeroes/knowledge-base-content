@@ -27,6 +27,7 @@ keywords:
   - ideation
   - iteration
   - collaboration
+author_github_username: prokopsimek
 ---
 
 # Design Thinking

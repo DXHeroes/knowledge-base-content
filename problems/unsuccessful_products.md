@@ -17,6 +17,7 @@ keywords:
   - price
   - promotion
   - Zune
+author_github_username: prokopsimek
 ---
 
 # Unsuccessful Product

@@ -21,6 +21,7 @@ keywords:
   - motivation
   - team motivation
   - team goal
+author_github_username: fanatiicx
 ---
 
 # Vision
@@ -33,7 +34,7 @@ Vision (also known as vision statement) represents the highest ambitions of the 
 
 A vision's purpose is to unify and motivate people and teams towards achieving an ultimate goal.
 
-An effective vision should be future-oriented, clear, inspirational, unique, genuine, and aware of challenges. 
+An effective vision should be future-oriented, clear, inspirational, unique, genuine, and aware of challenges.
 
 Mission and values can be incorporated into a single, impactful vision statement that offers the where, why and how that guides strategy.
 
@@ -113,13 +114,13 @@ This section goes into a bit more detail on crafting a vision in the context of 
 ### Tips on forming a product vision:
 
 1. Focus on the customer or end user. They are the reason for the existence of your product.
-2. Be ambitious, but not impractical. The vision needs to be something tangible that can be achieved. 
+2. Be ambitious, but not impractical. The vision needs to be something tangible that can be achieved.
 3. Be unique. How is your product different from other products out there from competitors?
 4. Look ahead. What do you want people to associate your product within 1, 3, 5 years' time?
 
 ## Common Pitfalls of Vision
 
-A vision statement that has too much jargon or vague wording will not be effective. It needs to be easily understandable by everyone in the company or team. 
+A vision statement that has too much jargon or vague wording will not be effective. It needs to be easily understandable by everyone in the company or team.
 
 A vision that is based on measures like profits or saving money will not inspire teams to do their best work. It needs to describe a significant impact on people's lives for team members to feel motivated to perform at a consistently high level.
 

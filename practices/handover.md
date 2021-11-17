@@ -2,7 +2,7 @@
 slug: handover
 stages:
   - development
-short_description: 
+short_description:
 tags:
   - efficiency
   - sustainability
@@ -14,8 +14,9 @@ keywords:
   - knowledge transfer
   - team building
   - communication
-  - support 
+  - support
 covered_by_dx_scanner: false
+author_github_username: schezfaz
 ---
 
 # Handover
@@ -30,7 +31,7 @@ Transferring projects from one team to another is often seen as a mammoth task. 
 
 ## What Is a Handover?
 
-A handover is a process of transferring the roles and responsibilities of a project from one team/individual to another. Typically, this transfer takes place over the duration of a couple of months, in order to ensure that the receiving team/individual has fully grasped the working of the project, and their roles corresponding to the same. 
+A handover is a process of transferring the roles and responsibilities of a project from one team/individual to another. Typically, this transfer takes place over the duration of a couple of months, in order to ensure that the receiving team/individual has fully grasped the working of the project, and their roles corresponding to the same.
 
 ### What Is Handover Documentation?
 
@@ -50,11 +51,11 @@ In a broad sense, the handover procedure involves the following steps:
 
 ## Why You Might Want a Good Handover
 
-It is essential to conduct the handover correctly to ensure that the ongoing functionalities of the product continue to work seemlessly, as well as any further developments to it can be done without any major hiccups. 
+It is essential to conduct the handover correctly to ensure that the ongoing functionalities of the product continue to work seemlessly, as well as any further developments to it can be done without any major hiccups.
 
 The transfer of the roles and responsibilities should go unnoticed to the end-users when they are interacting with the product, in such a way that the product is abstracted from its immediate product developers.
 
-The better the handover, the easier it is for the succeeding team or individual to understand the project. This in turn, will affect their performance when it comes to developing and providing support for that project. 
+The better the handover, the easier it is for the succeeding team or individual to understand the project. This in turn, will affect their performance when it comes to developing and providing support for that project.
 
 ## Problems a Good Handover Helps to Solve
 
@@ -91,7 +92,7 @@ A typical handover stratergy would cover the following aspects:
 
 4. __Multi-faceted Knowledge Transfer Process:__ Knowledge transfer during handover can take place across multiple channels. While face-to-face communication such as over a meeting online or in real-life is the most common, channels such as video guides, resource lists, workarounds and the sharing of previous obstacles and their corresponding solutions aid the process multifold.
 
-## Common Pitfalls of Any Handover 
+## Common Pitfalls of Any Handover
 
 There are a number of reasons why a handover may be poorly delivered. Such as:
 

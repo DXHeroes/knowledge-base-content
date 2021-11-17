@@ -21,6 +21,7 @@ keywords:
   - grooming
   - refinement
 covered_by_dx_scanner: false
+author_github_username: prokopsimek
 ---
 
 # Product Backlog Refinement

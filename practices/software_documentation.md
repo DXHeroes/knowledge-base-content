@@ -19,6 +19,7 @@ keywords:
 
   - end-user
   - roadmaps
+author_github_username: prokopsimek
 ---
 
 # Software Documentation
@@ -38,18 +39,18 @@ There are two types of software documentation: **internal** and **external**.
 
 **Internal documentation:**
 
-- **Team documentation**  
+- **Team documentation**
   Project plans, status reports, meeting notes or anything that the team may need for work.
-- **Reference documentation**  
+- **Reference documentation**
   Company’s policies, legal processes and other information for the employees about the company’s important topics. Reference documentation is usually sent by the HR department.
-- **Project documentation**  
+- **Project documentation**
   Proposals, design guidelines, roadmaps, and other information useful for product development.
 
 **External documentation:**
 
-- **System documentation**  
+- **System documentation**
   Description of the code, API, and other processes that developers need for creating a specific product.
-- **End-user documentation**  
+- **End-user documentation**
   Readme, installation guides, tutorials and other types of product documentation provided for the end users.
 
 ## Why You Might Want the Software Documentation
@@ -75,15 +76,15 @@ Software documentation helps:
 
 ## How to Implement the Software Documentation
 
-1. **Hire a tech writer**  
+1. **Hire a tech writer**
    If it is possible, hire a technical writer and let them take care of your software documentation.
-2. **Set rules**  
+2. **Set rules**
    It is crucial that stakeholders understand everything clearly. Use simple language and follow technical writing standards, such as [Michigan State University: Technical Writing Guide](https://msu.edu/course/be/485/bewritingguideV2.0.pdf), or [Wikiversity: Technical writing](https://en.wikiversity.org/wiki/Technical_writing). Be straightforward, to the point, and consistent.
-3. **Do your research**  
+3. **Do your research**
    Ensure that you know the product you are documenting. Be able to answer any questions about the product. Get information from different sources.
-4. **Know your audience**  
+4. **Know your audience**
    The way you write is determined by your readers. The general rule is the less your audience knows, the less technical is your documentation.
-5. **Structure and design**  
+5. **Structure and design**
    Technical documentation has to be structurally logical and easy to navigate. Think about the hierarchy of information. Break up long content with lists, visual diagrams or images. Use templates for consistent design, as you may see in our articles:
 
    - What Is a /name/
@@ -93,11 +94,11 @@ Software documentation helps:
    - Common Pitfalls of the /name/
    - Resources for the /name/
 
-6. **Collaborate and review**  
+6. **Collaborate and review**
    Share your documentation with the team members and get feedback. Use agile methods for collaboration. Ensure that the reviewers understand the goal of the documentation.
-7. **Make enough documentation**  
+7. **Make enough documentation**
    There is no need to document every single step you do at work. It is crucial to find a good balance between excessive documentation and a lack of it. Be thorough in the description but do not bore your readers with unnecessary details.
-8. **Update your documentation**  
+8. **Update your documentation**
    Publish and ensure that your documentation us up-to-date. Updating is an ongoing process.
 
 ## Common Pitfalls of the Software Documentation

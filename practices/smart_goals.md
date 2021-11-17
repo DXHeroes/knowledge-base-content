@@ -15,6 +15,7 @@ keywords:
   - tool
   - planning
   - methodology
+author_github_username: prokopsimek
 ---
 
 # SMART Goals

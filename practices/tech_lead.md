@@ -24,6 +24,7 @@ keywords:
   - lead
   - team
   - roles
+author_github_username: prokopsimek
 ---
 
 # Tech Lead

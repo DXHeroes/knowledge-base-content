@@ -19,6 +19,7 @@ keywords:
   - graphic design
   - grayscale
   - visual representation
+author_github_username: prokopsimek
 ---
 
 # Wireframing
@@ -62,7 +63,7 @@ You can use the Wireframes to:
 
 ## How to Implement the Wireframe
 
-As mentioned earlier, the Wireframe can be drawn on a piece of paper so it can be created very fast. It is important not to go into too many details. The Wireframe should be customized for the target group. For example, a user prototype needs to have a real content - high fidelity, but a graphic concept without any real content is enough for stakeholders - low fidelity.  
+As mentioned earlier, the Wireframe can be drawn on a piece of paper so it can be created very fast. It is important not to go into too many details. The Wireframe should be customized for the target group. For example, a user prototype needs to have a real content - high fidelity, but a graphic concept without any real content is enough for stakeholders - low fidelity.
 The Wireframe does not define the final look of the UI. It shows how the UI will work.
 
 When drawing a Wireframe, follow these simple rules:
@@ -70,7 +71,7 @@ When drawing a Wireframe, follow these simple rules:
 - Always use just a **grayscale**: white, black and shades of gray.
 - Use a maximum of **two fonts**. If you want to show the hierarchy, use different sizes or styles of the fonts instead of changing the font.
 - The text can be replaced with **lorem ipsum**.
-- Avoid complicated pictures. Use **simple objects** like squares or rectangles.  
+- Avoid complicated pictures. Use **simple objects** like squares or rectangles.
   **Examples:** Instead of placing a real picture, write an "x". Instead of inserting a video, use a triangle (as a play button).
 
 ![Wireframing Samples](/files/wireframing_samples.png)
@@ -85,14 +86,14 @@ Make your life easier and pick a tool for Wireframing, such as:
 
 ## Common Pitfalls of Wireframing
 
-It is common that the developers skip the Wireframing and create the UI directly. There is a risk of making some mistakes and it is more difficult and expensive to change it.  
+It is common that the developers skip the Wireframing and create the UI directly. There is a risk of making some mistakes and it is more difficult and expensive to change it.
 When you present the Wireframe to the stakeholders, you can get stuck on the look of the Wireframe. This can be a result of the following examples:
 
-- **A lack of information**  
+- **A lack of information**
   The stakeholders cannot imagine how the UI will look. You did not explain to them that the Wireframe is for discussing the functionality, not the design.
-- **Too polished Wireframe**  
+- **Too polished Wireframe**
   You misjudged the detail and did not focus on the functionality enough.
-- **The stakeholders do not see their expectations**  
+- **The stakeholders do not see their expectations**
   You were too focused on your own image of the UI that the stakeholders' needs are missing.
 
 ## Resources for the Wireframing

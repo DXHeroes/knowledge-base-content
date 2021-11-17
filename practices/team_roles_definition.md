@@ -21,6 +21,7 @@ keywords:
   - skills
   - hiring
   - responsibilities
+author_github_username: prokopsimek
 ---
 
 # Team Roles Definition

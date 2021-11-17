@@ -2,7 +2,7 @@
 slug: unhappy-clients
 stages:
   - development
-short_description: How to deal with unhappy clients? First, stay calm. No matter how good you are at what you do, sooner or later you'll come across an unhappy client. Navigate to the article to read more. 
+short_description: How to deal with unhappy clients? First, stay calm. No matter how good you are at what you do, sooner or later you'll come across an unhappy client. Navigate to the article to read more.
 tags:
   - Unhappy Clients
   - communication
@@ -15,6 +15,7 @@ keywords:
   - complaint
   - planning
   - methodology
+author_github_username: prokopsimek
 ---
 
 # Unhappy Clients
@@ -89,7 +90,7 @@ Within this [Knowledge Base](https://dxkb.io/), there are multiple articles that
 
 -   In the case the issue's extent is really big, the project can become unprofitable.
 -   Such cases are usually very time consuming and can delay your other projects.
-    
+
 ## Resources for Unhappy Clients
 
 - [How to deal with an unhappy client](https://www.creativeboom.com/tips/how-to-deal-with-an-unhappy-client)

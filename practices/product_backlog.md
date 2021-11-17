@@ -20,6 +20,7 @@ keywords:
   - prioritization
   - product owner
 covered_by_dx_scanner: false
+author_github_username: prokopsimek
 ---
 
 # Product Backlog

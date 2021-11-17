@@ -30,6 +30,7 @@ keywords:
   - team culture
   - emotions
   - toxic team culture
+author_github_username: prokopsimek
 ---
 
 # Good Developer Experience
@@ -61,23 +62,23 @@ Define the purpose of your company: making money should not be the only goal. Cu
 **The teams with good DX are highly productive, and display these traits:**
 
 - **Sense of impact**
-  
+
   They understand that they are not just making money. They know that their work matters, they are improving someone else’s life.
 
 - **Great sense of ownership and responsibility**
-  
+
   They are responsible for the success. Every team member should feel a responsibility for the company’s success.
 
 - **A common goal**
-  
+
   With the team, their division, and the company as a whole.
 
 - **Friendliness and honesty**
-  
+
   We call it “hey bro” culture. We emphasize sincerity with great respect.
 
 - **Allows for failure**
-  
+
   Developers should be brave and take risks. But risks should always be calculated, and developers have to be aware of how much of a boom every action can cause.
 
 **Traits of culture with bad DX:**

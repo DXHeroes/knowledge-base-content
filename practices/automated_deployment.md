@@ -28,6 +28,7 @@ keywords:
   - testing
   - deploy
   - automation
+author_github_username: prokopsimek
 ---
 
 # Automated Deployment

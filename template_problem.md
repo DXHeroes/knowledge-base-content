@@ -1,5 +1,4 @@
 ---
-author_github_username:
 slug: template-problem
 stages: //pick one
   - research
@@ -16,6 +15,7 @@ tags: //Used by our search engine to find related practices/problems
 keywords: //Used by external search engines to find your article
   - tag1
   - tag2
+author_github_username: prokopsimek
 ---
 
 # Title

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Validate content for Developer Experience Knowledge Base",
   "main": "index.js",
-  "repository": "git@github.com:DXHeroes/knowledge-base.git",
+  "repository": "git@github.com:DXHeroes/knowledge-base-content.git",
   "author": "Prokop Simek <prokop.simek@dxheroes.io>",
   "license": "SEE LICENSE IN LICENSE",
   "scripts": {

@@ -18,6 +18,7 @@ keywords:
   - common goal
   - values
   - beliefs
+author_github_username: mohitshende
 ---
 
 # Team Culture

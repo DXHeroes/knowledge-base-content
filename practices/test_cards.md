@@ -20,6 +20,7 @@ keywords:
   - customer feedback
   - lean startup
   - value proposition
+author_github_username: fanatiicx
 ---
 
 # Test Cards
@@ -41,9 +42,9 @@ Test cards help you to stay focused on what to measure as you go about testing y
 
 ## Why You Might Want Test Cards
 
-- Validating your business ideas helps you to learn more about a belief you have that you can’t guarantee is true. 
+- Validating your business ideas helps you to learn more about a belief you have that you can’t guarantee is true.
 - Test cards help you to gather more information through testing and experimenting before sinking in too much money and resources in a business idea that might not be profitable.
-- Using test cards is a practical process that can save you the frustration of making business decisions based on guesses or following what others are doing without looking at the specific needs of your own customers. 
+- Using test cards is a practical process that can save you the frustration of making business decisions based on guesses or following what others are doing without looking at the specific needs of your own customers.
 
 ## Problems Test Cards Help to Solve
 

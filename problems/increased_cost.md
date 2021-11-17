@@ -17,6 +17,7 @@ keywords:
   - design sprint
   - value proposition
   - lean canvas
+author_github_username: prokopsimek
 ---
 
 # Increased Cost

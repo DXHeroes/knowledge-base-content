@@ -18,6 +18,7 @@ keywords:
   - estimation
   - task estimation
 covered_by_dx_scanner: false
+author_github_username: prokopsimek
 ---
 
 # Story Points

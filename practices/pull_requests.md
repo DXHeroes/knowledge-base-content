@@ -1,5 +1,4 @@
 ---
-author_github_username: prokopsimek
 slug: pull-requests
 stages:
   - development
@@ -22,6 +21,7 @@ keywords:
   - quality
   - merge request
   - meaningless work
+author_github_username: prokopsimek
 ---
 
 # Pull Requests

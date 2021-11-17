@@ -12,6 +12,7 @@ keywords:
   - automated testing
   - testing
   - test integrations
+author_github_username: prokopsimek
 ---
 
 # Integration Testing

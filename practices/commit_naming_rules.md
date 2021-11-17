@@ -20,6 +20,7 @@ keywords:
   - commit rules
   - commit best practices
 covered_by_dx_scanner: true
+author_github_username: yogesh-hackx
 ---
 
 # Commit Naming Rules
@@ -74,7 +75,7 @@ Besides all these commit naming conventions, there are things that are highly su
 * Developers don't follow the Commit Naming Rules
 * The Commit Naming Rules are frequently changed
 * Developers don't use Semantic Versioning together with Commit Naming Rules
-* Developers hide unreadable code behind explanatory names 
+* Developers hide unreadable code behind explanatory names
 ### Resources for Commit Naming Rules
 
 - [Conventional Commits](https://www.conventionalcommits.org/en)

@@ -17,7 +17,7 @@ keywords:
   - morris
   - IaC principles
   - DevOps
-covered_by_dx_scanner: false
+author_github_username: ridlees
 ---
 
 # Infrastructure as Code

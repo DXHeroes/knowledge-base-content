@@ -24,6 +24,7 @@ keywords:
   - meeting
   - scrum
   - team
+author_github_username: prokopsimek
 ---
 
 # Product Owner

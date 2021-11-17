@@ -14,6 +14,7 @@ keywords:
   - factor
   - team
   - methodology
+author_github_username: prokopsimek
 ---
 
 # Low Bus Factor

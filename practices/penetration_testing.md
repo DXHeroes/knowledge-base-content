@@ -22,6 +22,7 @@ keywords:
   - cyberattack
   - network
   - security vulnerabilities
+author_github_username: prokopsimek
 ---
 
 # Penetration Testing
@@ -63,15 +64,15 @@ Penetration Testing should be a part of your software development lifecycle, not
 
 **Penetration Testing involves these stages:**
 
-1. **Planning and reconnaissance**  
+1. **Planning and reconnaissance**
    Penetration Testers define the goals of the test and find proper testing methods.
-2. **Scanning**  
+2. **Scanning**
    Testers analyze how the system responds to the test.
-3. **Gaining access**  
+3. **Gaining access**
    Attack the system! Testers try to break into the system with a strategy like SQL injection, backdoors, or cross-site scripting to uncover weaknesses.
-4. **Maintaining exploit**  
+4. **Maintaining exploit**
    How long can the tester stay in the system? Is it long enough that the actual hacker could gain deeper access?
-5. **Analysis and configuration review**  
+5. **Analysis and configuration review**
    Testers make a detailed report on the performed test.
 
 ![Penetration Testing](/files/pen-testing.jpg)

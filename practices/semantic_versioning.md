@@ -21,6 +21,7 @@ keywords:
   - initial development
   - pre-release
   - production
+author_github_username: prokopsimek
 ---
 
 # Semantic Versioning

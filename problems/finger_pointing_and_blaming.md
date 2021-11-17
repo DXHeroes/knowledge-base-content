@@ -20,6 +20,7 @@ keywords:
   - environment
   - efficiency
   - empowerment
+author_github_username: shashwat28nov
 ---
 
 # Finger-Pointing And Blaming
@@ -35,15 +36,15 @@ It was not my fault - Martin did it! He butchered the business analysis. No, it 
 ![Finger-Pointing](/files/finger_pointing.jpg)
 [Finger-Pointing](https://pixabay.com/photos/angry-man-point-finger-india-angry-274175/)
 
-Finger-pointing and blaming is visible side effect of [Toxic Team Culture](/problems/toxic-team-culture) that can lead into [Not My Problem Mentality](/problems/not-my-problem-mentality) and even into [Demotivated Team](/problems/demotivated-team). Watching someone blame others for their mistakes is contagious and detrimental, particularly in the workplace. In an organization where to blame is your norm, people are likely to be less creative, perform poorly, and get unhappy about the team. 
+Finger-pointing and blaming is visible side effect of [Toxic Team Culture](/problems/toxic-team-culture) that can lead into [Not My Problem Mentality](/problems/not-my-problem-mentality) and even into [Demotivated Team](/problems/demotivated-team). Watching someone blame others for their mistakes is contagious and detrimental, particularly in the workplace. In an organization where to blame is your norm, people are likely to be less creative, perform poorly, and get unhappy about the team.
 
-When someone is always pointing the finger at their mistakes they can’t learn from those mistakes. 
+When someone is always pointing the finger at their mistakes they can’t learn from those mistakes.
 
 ## Reasons for Finger-Pointing And Blaming
 
 If things go sour, it is only natural for people to start finding the one to blame. During crises or conflicts, anyone can be tempted to hide away from the issue. Imagine that the team culture is not based on [Responsibility](/practices/responsibility) and accountability. Then any conflicts or any issue reflections (during [Retrospective](/practices/retrospective), for example) have a high chance of finger-pointing and blame-shifting.
 
-Finger-pointing can also be a logical conclusion to unresolved conflicts in your team. If there are self-images involved, things can get emotional and heated. 
+Finger-pointing can also be a logical conclusion to unresolved conflicts in your team. If there are self-images involved, things can get emotional and heated.
 
 But in any case, it is a visible side effect of insufficiently set [Responsibility](/practices/responsibility) in your [Team Culture](/practices/team-culture).
 

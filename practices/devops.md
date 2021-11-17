@@ -31,6 +31,7 @@ keywords:
   - sprint refinement
   - design sprint
   - product backlog refinement
+author_github_username: prokopsimek
 ---
 
 # Devops

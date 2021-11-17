@@ -18,6 +18,7 @@ keywords:
   - Kovarus
   - investment
   - budget
+author_github_username: prokopsimek
 ---
 
 # Disconnect Between Business and IT
@@ -46,19 +47,19 @@ The business units make independent decisions about investments in the IT depart
 
 ## Reasons for the Disconnect Between Business and IT
 
-- **Management**  
+- **Management**
   Management is separated from the IT department. The reason could be the relative newness of the IT departments.
-- **Focus on the technicalities**  
+- **Focus on the technicalities**
   The functionalities are not verifiable on clients because the IT department is separated from them. The main focus is on the technical solutions.
-- **No sense**  
+- **No sense**
   The principle of business is not fulfilled. The business units do not see the sense in the development.
-- **Redundancy**  
+- **Redundancy**
   Developers are working on something that the clients do not want.
-- **Lack of information**  
+- **Lack of information**
   Developers are not informed. They either do not know what are they working on, or they do not understand its purpose.
-- **Budget**  
+- **Budget**
   The company has some budget difficulties. Sometimes the decision makers are just not able to allocate as much money as they want to.
-- **No cooperation**  
+- **No cooperation**
   The IT department is often noticed only when something breaks.
 
 Long story short, the companies should to start looking at the big picture regarding their IT departments, business models and therefore their future. Good news is that the current business trends focus more and more on trying to close the gaps between IT and business as much as possible. The Kovarus survey was implemented in 2014 and there have been some changes since then. However, the ideal business-IT model is still far in the future.

@@ -11,12 +11,11 @@ short_description: // Should be eye catching - use https://zeo.org/seo-tools/ser
 tags: //Used by our search engine to find related practices/problems
   - tag1
   - tag2
-  - 
+  -
 keywords: //Used by external search engines to find your article
   - tag1
   - tag2
----
-covered_by_dx_scanner: true / false // pick one based on issue label
+author_github_username: prokopsimek
 ---
 
 # Title
@@ -25,7 +24,7 @@ covered_by_dx_scanner: true / false // pick one based on issue label
 
 //short sum up of your article
 
-## What Is 
+## What Is
 
 ![Alt Name](/files/your image)
 [Name](https://image source)
@@ -38,7 +37,7 @@ covered_by_dx_scanner: true / false // pick one based on issue label
 - [Poor code quality](/problems/poor-code-quality)
 
 
-## How to Implement 
+## How to Implement
 
 ## Common Pitfalls
 

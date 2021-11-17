@@ -19,6 +19,7 @@ keywords:
   - team building
   - agile
 covered_by_dx_scanner: false
+author_github_username: prokopsimek
 ---
 
 # Feedback
@@ -45,7 +46,7 @@ Feedback can help you finish any work pretty quickly and efficiently. You need t
 - [Bad product-market fit](/problems/bad-product-market-fit)
 - [Unsuccessful Product](/problems/unsuccessful-products)
 - [Unhappy Clients](/problems/unhappy-clients)
-- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it) 
+- [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 - [Sunk Cost](/problems/sunk-cost)
 - [Demotivated Team](/problems/demotivated-team)
 - [Toxic Team Culture](/problems/toxic-team-culture)
@@ -64,8 +65,8 @@ Many executives feel that video conferences are the best way to give feedback. H
 
 When the feedback is small and doesn't criticize the work done so far, it is best to give it through small text messages. However, if the feedback is vital to the project and is difficult to convey through texts, go for a video conference.
 
-When giving feedback through texts, it is essential to use the right words. Wording a sentence the right way can save you a ton of time when giving feedback. Be careful when you are using texts. 
-Sometimes, people perceive the text form as less valuable than the one-on-one meeting. 
+When giving feedback through texts, it is essential to use the right words. Wording a sentence the right way can save you a ton of time when giving feedback. Be careful when you are using texts.
+Sometimes, people perceive the text form as less valuable than the one-on-one meeting.
 
 #### 2. Personal Meeting
 
@@ -111,7 +112,7 @@ If the feedback is too vague for you to follow, ask for additional remarks on th
 
 Managers like nothing more than an employee who voluntarily asks for feedback. Generally, managers schedule weekly or monthly meetings to give feedback. If that structure is not present at your workplace, you can always ask your manager directly for feedback.
 
-When asking for feedback, be as specific as possible. For instance, you are looking for some feedback on your presentation to the client. Then, you ask: Hey, would you mind telling me what you think about my Monday presentation to X about the new shoes? 
+When asking for feedback, be as specific as possible. For instance, you are looking for some feedback on your presentation to the client. Then, you ask: Hey, would you mind telling me what you think about my Monday presentation to X about the new shoes?
 
 Being specific helps the managers give better feedback. Be careful how you plan to ask for feedback. Be sure that they have enough time for preparation. In DXHeroes, we usually ask five days before the meeting happens. Check if everything is working before you meet. After all, you don't want to take more time out of their day.
 

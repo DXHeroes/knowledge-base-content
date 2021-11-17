@@ -22,6 +22,7 @@ keywords:
   - ritual
   - meeting
   - architecture
+author_github_username: prokopsimek
 ---
 
 # Meaningless Work

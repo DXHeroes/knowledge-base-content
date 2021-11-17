@@ -26,6 +26,7 @@ keywords:
   - networking
   - experience exchange
   - remote activity
+author_github_username: liliancavalet
 ---
 
 # Icebreaker
@@ -37,13 +38,13 @@ An icebreaker is an activity you can use at the beginning of a meeting to make a
 
 ## What Is an Icebreaker?
 
-An icebreaker is an activity or game designed to "break the ice" between attendees in a meeting. In general, it is used at the beginning of the session to introduce participants to each other, get them relaxed and energized for the upcoming activities. 
+An icebreaker is an activity or game designed to "break the ice" between attendees in a meeting. In general, it is used at the beginning of the session to introduce participants to each other, get them relaxed and energized for the upcoming activities.
 
-Icebreakers are unrestricted to the beginning of a meeting, neither to a random group of attendees. You can use one at the start, during, and at the end of the session. Icebreakers also help with setting a safe space for attendees (even for familiar ones) to learn and share. 
+Icebreakers are unrestricted to the beginning of a meeting, neither to a random group of attendees. You can use one at the start, during, and at the end of the session. Icebreakers also help with setting a safe space for attendees (even for familiar ones) to learn and share.
 
 ## Why You Might Want Use Icebreakers?
 
-![Icebreakers example](/files/icebreakers.jpg)  
+![Icebreakers example](/files/icebreakers.jpg)
 [Icebreakers example](https://business.linkedin.com/talent-solutions/blog/recruiting-tips/2016/9-icebreakers-that-every-recruiter-can-use)
 
 Icebreakers are fun and remarkable ways to start meetings or training sessions. They are a versatile and adaptable tool used to make the attendees more comfortable with each other, encouraging them to speak up, listen up, join in, and open up to new ideas.
@@ -65,7 +66,7 @@ One of the best places to find an icebreaker is online. However, you should be c
 
 Bellow, are some examples of how to choose icebreakers aiming for a specific goal.
 
-- If your goal is to introduce participants (or enhance their interactions), the chosen activity should focus on the individual presentations and establishing a bonding way between attendees. 
+- If your goal is to introduce participants (or enhance their interactions), the chosen activity should focus on the individual presentations and establishing a bonding way between attendees.
 
 - If the aim is to introduce the meeting topic, you may want a fun activity, or even something more casual and thoughtful. For example, something related to questions and answers that prepare people for the following experiences.
 

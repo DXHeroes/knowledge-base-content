@@ -17,11 +17,12 @@ keywords:
   - unnecessary feature
   - feature creep
   - killing feature
-covered_by_dx_scanner: false
+author_github_username: ridlees
 ---
+
 # Unnecessary features
 **TL;DR**
-As every product or service ages, it gets more bloated with unnecessary features from which not all of them are necessarily successful nor needed. 
+As every product or service ages, it gets more bloated with unnecessary features from which not all of them are necessarily successful nor needed.
 
 Preventing what is also known as feature creep is needed as long as you plan on having a successful product that is easy to use and helps people get done what they need to do.
 

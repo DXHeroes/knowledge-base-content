@@ -31,6 +31,7 @@ keywords:
   - user tests
   - ux testing
   - fail fast
+author_github_username: prokopsimek
 ---
 
 # MVP

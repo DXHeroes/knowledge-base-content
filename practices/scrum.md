@@ -30,6 +30,7 @@ keywords:
   - retrospective
   - user story
   - definition of done
+author_github_username: prokopsimek
 ---
 
 # Scrum

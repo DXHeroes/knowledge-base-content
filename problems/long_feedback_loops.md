@@ -18,6 +18,7 @@ tags:
 keywords:
   - feedback loops
   - continuous delivery
+author_github_username: prokopsimek
 ---
 
 # Long Feedback Loops
@@ -37,11 +38,11 @@ With fast feedback, there is fast dealing with problems and, therefore, fast lau
 There can be various reasons:
 
 - **Ignoring the importance of feedback loops**
-- **Ignoring Agile**  
+- **Ignoring Agile**
   The Agile process was created for shortening the feedback loops. Before Agile and its famous Sprints, the feedback took even several months to get.
-- **Getting feedback only at the end of each Sprint**  
+- **Getting feedback only at the end of each Sprint**
    That is the wrong set-up. You need validation from the users as often as possible, especially during the early stages of development.
-- **Wrong tooling**  
+- **Wrong tooling**
    Specialized tools for developers are usually difficult to understand for the users. How to make their lives easier?
   - Create a shared space for the entire team to get the feedback you need.
   - Enable others to see the work live via app sharing.

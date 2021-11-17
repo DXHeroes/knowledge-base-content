@@ -19,6 +19,7 @@ keywords:
   - libraries
   - apis
   - sdk
+author_github_username: sudiptog81
 ---
 
 # Software Development Kit (SDK)
@@ -45,9 +46,9 @@ The SDK serves as a structured package that provides an abstraction for the APIs
 
 ### Why You Might Want SDK
 
-If you want to improve [DX](/practices/good-developer-experience) around your product, you should consider creating an SDK for devs. With SDK, you provide them with relevant software libraries, technical documentation, code-snippets, specialized application software, such as compilers, interpreters, debuggers, and tools that  can be used to build applications. 
+If you want to improve [DX](/practices/good-developer-experience) around your product, you should consider creating an SDK for devs. With SDK, you provide them with relevant software libraries, technical documentation, code-snippets, specialized application software, such as compilers, interpreters, debuggers, and tools that  can be used to build applications.
 
-An SDK is designed to create or extend applications built on a specific platform or programming language. Developers appreciate having a standardized way to interact with your services that they can pick up and reuse. 
+An SDK is designed to create or extend applications built on a specific platform or programming language. Developers appreciate having a standardized way to interact with your services that they can pick up and reuse.
 
 ## Problems SDK Helps to Solve
 

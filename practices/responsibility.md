@@ -13,13 +13,13 @@ tags:
   - problem-solving
   - assign
   - leader
-
 keywords:
   - responsibility
   - trust
   - people
   - benefits
   - team lead
+author_github_username: ShyamPraveenSingh
 ---
 
 # Responsibility
@@ -40,9 +40,9 @@ Responsibility is not for everyone but who chooses to become responsible for the
 
 Responsibility brings us many folds of its benefits. It helps an individual achieve its goals and complete the assigned work before deadline. It helps the company or oganization work more efficiently and keep its client happy.
 
-From a team point of view, if we have more responsible people in our team, the better will be our performance: 
+From a team point of view, if we have more responsible people in our team, the better will be our performance:
 
-- Each team member will be able to work more independently and make better decisions. 
+- Each team member will be able to work more independently and make better decisions.
 - We can trust the team members about the work assigned to them.
 - The team members will also tend to be more honest and keep their promises.
 - Responsibility is a part of healthy [team culture](/practices/team-culture)

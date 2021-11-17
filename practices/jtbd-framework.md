@@ -21,7 +21,7 @@ keywords:
   - product validation
   - UX
   - product development
-covered_by_dx_scanner: false
+author_github_username: ridlees
 ---
 
 # Jobs To Be Done

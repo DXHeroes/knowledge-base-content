@@ -22,7 +22,9 @@ keywords:
   - quality
   - comments
   - communication
+author_github_username: ShvetaVasisht
 ---
+
 # Respectful Code Reviews
 
 **TL;DR**
@@ -35,7 +37,7 @@ Respectful and constructive feedback is the basis of a fruitful collaboration, h
 Code review helps you to improve the quality of software projects. However, negative and unclear code review comments can have unwanted consequences.
 The right style of communication helps to build relationships and healthy work environments.Respectful Code Reviews help to achieve the final goal of delivering a quality product. They improve the overall health of the system and code.
 
-![Respectful Code Review](/files/respectful_code_review.jpg) 
+![Respectful Code Review](/files/respectful_code_review.jpg)
 
 ## Problems Respectful Code Reviews Helps to Solve
 
@@ -80,7 +82,7 @@ As a developer, you should read the comments keeping in mind that review comment
 -  Comment discussion may take a longer time if comments are unclear.
 -  Developers are biased towards their solution and may not be receptive to review comments.
 
-## Resources 
+## Resources
 - [Code review](https://en.wikipedia.org/wiki/Code_review)
 - [Code Health: Respectful Reviews == Useful Reviews](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html)
 - [How to Give Respectful and Constructive Code Review Feedback](https://www.michaelagreiler.com/respectful-constructive-code-review-feedback/)

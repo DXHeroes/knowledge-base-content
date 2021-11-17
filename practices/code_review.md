@@ -28,6 +28,8 @@ keywords:
   - testing
   - codebase
   - feedback
+covered_by_dx_scanner: true
+author_github_username: prokopsimek
 ---
 
 # Code Review

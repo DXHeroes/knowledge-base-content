@@ -19,6 +19,7 @@ keywords:
   - privacy policy
   - sedlakovalegal
 covered_by_dx_scanner: false
+author_github_username: prokopsimek
 ---
 
 # Correct Cookies Setting

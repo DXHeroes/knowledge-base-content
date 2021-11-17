@@ -18,11 +18,12 @@ keywords:
 - frontend
 - front end
 covered_by_dx_scanner: true
+author_github_username: prokopsimek
 ---
 
 # Javascript Front-End Build Tools
 
-**TL;DR**  
+**TL;DR**
 As a front-end developer, build tools can save you valuable time. They can do almost anything: download libraries, run tests, bundle packages, automatize tasks, and so much more.
 
 ## What Are JavaScript Front-End Build Tools?
@@ -41,7 +42,7 @@ There are so many different build tools and you have to figure out which ones ar
   - Read more: [Linting](/practices/linting)
 - [Grunt](https://gruntjs.com): Runs and automatizes tasks.
 
-![Build Tools](/files/build-tools.jpg)  
+![Build Tools](/files/build-tools.jpg)
 [Build Tools](https://medium.com/@withinsight1/the-front-end-spectrum-c0f30998c9f0)
 
 ## Why You Might Want Javascript Front-End Build Tools
@@ -73,13 +74,13 @@ The combination of the tools is up to you. Play with it, try to find the perfect
 
 ## Common Pitfalls of Javascript Front-End Build Tools
 
-**Too much information**  
+**Too much information**
 There are so many front-end build tools that you can feel overwhelmed. But do not worry - once you make sense of the tools, you will realize that they are here to make your life easier, not more difficult.
 
-**Complexity**  
+**Complexity**
 Build tools can add a whole additional layer of complexity to your project. Learn just exactly what you need and do not worry about the rest. It may seem really complicated and only confuse you. Use only tools that your project really needs. When there is needed something new, learn it then.
 
-**Documentation sucks**  
+**Documentation sucks**
 Sometimes the documentation is just simply wrong. If you are confused, it might mean that the documentation is confusing. Or lacking whatsoever. Try to find a similar tool and do not waste your time.
 
 ## Resources for Javascript Front-End Build Tools

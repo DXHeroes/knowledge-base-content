@@ -18,7 +18,7 @@ keywords:
 - organising meeting
 - events
 - moderator in meetings
-covered_by_dx_scanner: false
+author_github_username: ridlees
 ---
 
 # Meaningful Meetings

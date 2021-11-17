@@ -26,6 +26,7 @@ keywords:
   - environment
   - efficiency
   - empowerment
+author_github_username: prokopsimek
 ---
 
 # Not My Problem Mentality
@@ -51,17 +52,17 @@ If the team lead recognizes the “Not My Problem” mentality in the team, they
 
 ## Reasons of Not My Problem Mentality
 
-- **Disengagement**  
+- **Disengagement**
    A feeling of a withdrawn. If you are not satisfied at work, why would you engage with other people's problems?
-- **Overwork**  
+- **Overwork**
    You simply cannot help anyone because you are overloaded with your own work. There is a very high risk of burnout and losing a valuable employee.
-- **Unclear responsibilities**  
+- **Unclear responsibilities**
    If the employees do not have a clearly defined roles, their work becomes less efficient and the collaboration stagnates. “Not My Problem” mentality spreads.
-- **Bad examples**  
+- **Bad examples**
    If the senior leaders do not seem to go the extra mile, why should the employees bother. Bad example can trigger “Not My Problem” mentality very quickly.
-- **No recognition**  
+- **No recognition**
    It does not have to be a huge pay rise but sometimes just a simple “good job” feels like the boss recognized your extra work. Feeling the appreciation encourages employees to walk the extra mile and be good team players.
-- **Bad team leads**  
+- **Bad team leads**
   The team leads are not the team players at the first place. If they cannot identify themselves with the team, they can spread the “Not My Problem” mentality. The team members’ problems should be their problems as well.
 
 ## Resources for Not My Problem Mentality
