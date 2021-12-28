@@ -5,6 +5,8 @@ stages:
 short_description: A SDK is a set of toolchains that allow a developer to write applications for a given platform or allow them to use a specific framework to do so.
 tags:
   - sdk
+  - dev tools
+  - developer tools
   - software development
   - software engineering
   - development
@@ -19,38 +21,37 @@ keywords:
   - libraries
   - apis
   - sdk
-author_github_username: sudiptog81
+  - dev tools
+author_github_username: prokopsimek
 ---
 
 # Software Development Kit (SDK)
 
 **TL;DR**
 
-Software Development Kit is a set of toolchains that allow a developer to write applications for a given platform or to use a specific framework to do so. SDK has the necessary tools to get the job done. But what you include in your kit toolbox varies from platform to platform.
+Software development kit (SDK) sdk include the necessary tools to get the job done. But what you include in your kit toolbox varies from platform to platform.
 
-## What Is SDK
+## What Is a Software Development Kit (SDK)?
 
-A Software Development Kit (SDK) is an organized collection of software development tools that make it easier to create applications for a specific software or hardware platform.
+A software development kit (SDK) is a set of tools that allow developers to write or use an existing framework to develop applications for a given platform. SDKs are often the backbone of many popular applications, games, and apps. What's in your SDK toolbox varies from platform to platform so it makes sense for you to know what SDK tools are available on your chosen software development kit before starting any SDK-related project.
 
-You can also think of it as a wrapper library or framework developed by a service provider that provides an abstraction around the services or capabilities that the platform has or supports.
+SDK tools are not only limited to the frameworks but also include everything else within it. This could be anything from testing and debugging, all the way through to hardware access like controllers or sensors for your software development kit. Having SDK means you can go beyond just creating an app on a platform by giving developers SDK-level access which is essential if they want their application to function optimally with that particular system. The benefits of SDKs aren't without consequence however as some platforms choose not to offer SDK tools due to security concerns (Apple's iOS being one example).
 
 ![SDK](/files/software_development_kit.png)
 [CleverTap: What is an SDK? Everything You Need to Know](https://clevertap.com/blog/what-is-an-sdk/)
 
 
-### What Is the Difference between SDK and API
+### Why You Might Want an SDK
 
-There are notable differences between an API and an SDK. An API is an interface to a service that you provide to developers who want to build applications revolving around your product. Developers create APIs to communicate between various applications. You ideally have an API for each service and relevant documentation.
+SDK can be extremely valuable for companies as they offer a way to access and understand how the platform works. Often, SDKs include documentation that is far more extensive than what's available online which can be incredibly useful when it comes time to debug your application. Additionally, sdk give you access to lower-level APIs which might not be available through other means. This can allow developers who are working on porting an existing app or game over to your platforms to do so more easily.
 
-The SDK serves as a structured package that provides an abstraction for the APIs. With SDK, the developer can create applications with APIs that are consistent on a particular platform. An API does not include an SDK. On the other hand, an SDK can contain various APIs.
-
-### Why You Might Want SDK
-
-If you want to improve [DX](/practices/good-developer-experience) around your product, you should consider creating an SDK for devs. With SDK, you provide them with relevant software libraries, technical documentation, code-snippets, specialized application software, such as compilers, interpreters, debuggers, and tools that  can be used to build applications.
-
-An SDK is designed to create or extend applications built on a specific platform or programming language. Developers appreciate having a standardized way to interact with your services that they can pick up and reuse.
+SDKs also come with testing tools which make it possible for devs to find and fix errors in their code before shipping their product out. The best part about sdk? They're free! All of these benefits make sdk essential for anyone looking to get serious about SDK.
 
 ## Problems SDK Helps to Solve
+
+SDK can help to solve a number of common development problems. One such problem is that SDK offer access to lower-level APIs which might not be available through other means. This can allow developers who are working on porting an existing app or game over to your platforms to do so more easily.
+
+Additionally, SDK includes testing tools that make it possible for devs to find and fix errors in their code before shipping their product out. Finally, SDK comes with extensive documentation that can be incredibly useful when it comes time to debug your application. By solving these common problems, SDK helps companies create better products faster and easier than ever before!
 
 - Risk mitigation
 - [Meaningless work](/problems/meaningless-work)
@@ -84,6 +85,8 @@ When your SDK uses an API, document, and provide insight into how the API calls 
 Make your SDK available for users by using an accessible repository for supported languaged, have file storage, or distribution facility in place. The documentation should also be available. If the SDK is open-source, host the source code at places that encourage collaboration and community contribution.
 
 ## Common Pitfalls of an SDK
+
+There are a few common pitfalls to avoid when implementing SDK. One such pitfall is that SDK can be extremely valuable for companies as they offer a way to access and understand how the platform works but doesn't include documentation, testing tools, or lower-level APIs - limiting what devs can do with SDK. Additionally, SDK gives you access to lower-level APIs which might not be available through other means but without these other tools included it could be hard for developers working on your platform using SDK! Finally, SDK includes everything else within it from hardware access like controllers or sensors all through to testing and debugging - known as toolchains but only if the developer knows enough about them in order to them effectively.
 
 - Missing proper documentation makes tracing bugs and errors difficult for developers
 - Developers don't maintain SDK for each supported functionality or service
