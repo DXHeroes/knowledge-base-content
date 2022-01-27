@@ -90,3 +90,4 @@ If you want to do the Penetration Tests by yourself, you have to train professio
 - Cipher: [The Types of Pentests You Must Know About](http://blog.cipher.com/the-types-of-pentests-you-must-know-about)
 - IT Governance: [Why is Penetration Testing necessary?](https://www.itgovernance.co.uk/media/press-releases/why-is-penetration-testing-necessary)
 - Cybrary: [7 Best Cyber Security Penetration Testing Tools](https://www.cybrary.it/0p3n/7-cyber-security-pentesting-tools/)
+- comparitech.com [Burp Suite Cheat Sheet](https://www.comparitech.com/net-admin/burp-suite-cheat-sheet/)
