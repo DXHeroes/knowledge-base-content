@@ -90,7 +90,7 @@ Together, they are helping you to design future-proof code, so your code can eas
 
 The Single-responsibility principle makes your code/software/architecture easier to implement. Moreover, it prevents unexpected bugs/effects of future changes.
 
-If Class has only one responsibility to do, it's easier to read and maintain - it's like following [KISS](practices/kiss-principle) in your class design. If you are still unsure, think about it this way. Would you rather maintain a class with thousands of responsibilities or with just one?
+If Class has only one responsibility to do, it's easier to read and maintain - it's like following [KISS](/practices/kiss-principle) in your class design. If you are still unsure, think about it this way. Would you rather maintain a class with thousands of responsibilities or with just one?
 
 ### Open-closed Principle
 
@@ -132,7 +132,7 @@ Generally, a good starting point could be your code (or any code, you can always
 
 ### Single-responsiblity Principle
 
-Keep your classes simple ([KISS](practices/kiss-principle)) - start at abstractions, split the classes, and user interfaces and inheritance whenever you can. Don't allow classes that someone can change for more than one reason. Business logic should change abstract things, and things like infrastructure should change only low-level modules.
+Keep your classes simple ([KISS](/practices/kiss-principle)) - start at abstractions, split the classes, and user interfaces and inheritance whenever you can. Don't allow classes that someone can change for more than one reason. Business logic should change abstract things, and things like infrastructure should change only low-level modules.
 
 ### Open-closed Principle
 
