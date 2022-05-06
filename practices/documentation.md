@@ -29,8 +29,8 @@ Every software should have documentation written for it. It helps users by provi
 
 Documentation in a software project is a manual that describes the architecture of the software and provides helpful instructions to the users. These instructions include an installation guide, how to use the software, and also guides to resolve common issues users might experience while working with the software.
 
-![documentation](/files/documentation)
-[Basics Of Technical Documentation For Engineers](https://medium.com/datasheetest-by-tdsmaker/basics-of-technical-documentation-for-engineers-36deab8d1220)
+![documentation](/files/documentation.png)
+[Pinclipart](https://www.pinclipart.com/pindetail/JJoJJT_choice-clipart-process-documentation-png-download/)
 
 ## Why You Might Want Documentation
 
