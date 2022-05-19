@@ -1,5 +1,5 @@
 ---
-slug: extreme_ownership
+slug: extreme-ownership
 stages:
   - development
   - research
