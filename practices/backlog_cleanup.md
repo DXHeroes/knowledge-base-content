@@ -44,7 +44,8 @@ When backlogs grow, it will be harder to see the relationship between items. Bac
 - **Go through the product backlog on a regular basis:** For example, once a week or month: This process is called Grooming. The frequency depends on your the number of new cards and how often strategy changes happen.
 - **Find a good upper limit:** Find a good number of backlog items that you can deal with. You can store your ideas separately and review them after your next strategy meeting. 
 - **Group related items:** To find relations between items, you can try to group them in Epics. Epics are your big topics that contain smaller pieces that are required to reach a goal or ship a bigger feature.
-- **Prioritize your backlog and make the top items ready to work on:** In each sprint, your team will work on the items at the top of your backlog. They will need to know what to do.
+- **Prioritize your backlog:** The higher the items in the list, the more important they are.
+- **Make enough items ready to work on:** In each sprint, your team works on the items at the top of your backlog. The team needs to know what to do.
 
 ## Common Pitfalls
 
