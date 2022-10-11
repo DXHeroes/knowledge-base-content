@@ -32,7 +32,7 @@ Backlog Cleanup describes the process of managing issues or ideas for new featur
 ## Why You Might Want Backlog Cleanup
 
 Both the prioritiation and the size of a product backlog is key. Your team will most probably work on the top items in the list. 
-When product backlogs grow, it will be harder to see the relation between items. Backlog cleanup will help you to keep the overview.
+When backlogs grow, it will be harder to see the relationship between items. Backlog cleanup will help you to keep track.
 
 ## Problems Backlog Cleanup Helps to Solve
 
