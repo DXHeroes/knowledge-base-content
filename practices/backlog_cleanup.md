@@ -1,5 +1,3 @@
-cleaning your product backlog
-
 ---
 slug: backlog-cleaning
 stages:
