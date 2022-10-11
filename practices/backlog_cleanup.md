@@ -20,8 +20,7 @@ author_github_username: cadamini
 
 **TL;DR**
 
-To not loose the overview, you must regularly remove obsolete backlog items that have been created during the overall lifecycle of a project. 
-A well-managed backlog results in a better overview of your important open issues and features, faster plannings, and a cleaner scope.
+A well-managed backlog results in a better overview of your important open issues and features, faster planning, and a cleaner scope. Periodically remove obsolete items from the backlog that have been created throughout the project lifecycle.
 
 ## What Is Backlog Cleanup  
 
