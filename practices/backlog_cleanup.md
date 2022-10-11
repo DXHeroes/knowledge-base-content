@@ -48,8 +48,8 @@ When backlogs grow, it will be harder to see the relationship between items. Bac
 
 ## Common Pitfalls
 
-- You will see items that are not ready to work on. Remove these items and take them to your next Grooming meeting (again).
-- There may be ideas that are not in line with the current product strategy. Lower their priority or remove them from your backlog. 
+- You will often see items that are not ready to work on yet. Remove these items and take them (again) to your next grooming meeting.
+- There may be ideas that do not fit the current product strategy. Don't forget to lower their priority or remove them from your backlog.
 
 ## Resources for Backlog Cleanup
 
