@@ -51,6 +51,7 @@ When backlogs grow, it will be harder to see the relationship between items. Bac
 
 - You will often see items that are not ready to work on yet. Remove these items and take them (again) to your next grooming meeting.
 - There may be ideas that do not fit the current product strategy. Don't forget to lower their priority or remove them from your backlog.
+- When you have too many backlog items to work on, it becomes difficult to work with your backlog.
 
 ## Resources for Backlog Cleanup
 
