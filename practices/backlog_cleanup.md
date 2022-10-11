@@ -24,8 +24,7 @@ A well-managed backlog results in a better overview of your important open issue
 
 ## What Is Backlog Cleanup  
 
-Backlog Cleanup describes the process of managing issues in your product backlog. Your backlog may be full of old feature ideas.
-After some strategy meetings in the last months/quarters, your feature ideas may be out of scope, since the product strategy has shifted in a different direction.
+Backlog Cleanup describes the process of managing issues or ideas for new features in your product backlog. After some strategy meetings in the last months/quarters, some of the items in your backlog may be out of scope, since the product strategy has shifted in a different direction.
 
 ![Product backlog](/files/backlog_cleanup.webp)
 [Name](https://img.freepik.com/free-photo/close-up-sticky-note-with-product-backlog_23-2148513829.jpg)
