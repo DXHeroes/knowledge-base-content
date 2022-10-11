@@ -14,7 +14,7 @@ keywords:
   - cleaning
   - grooming
   - agile
-  - scum
+  - scrum
 author_github_username: cadamini
 ---
 
