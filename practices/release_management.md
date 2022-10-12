@@ -74,8 +74,8 @@ With correct release management, you can achieve:
 
 ## Problems Release Management Solves
 
-- [Unsuccessful product](/problems/unhappy-clients)
-- Unhappy clients
+- [Unsuccessful product](/problems/unsuccessful-product)
+- [Unhappy clients](/problems/unhappy-clients)
 - [Meaningless work](/problems/meaningless-work)
 - [Poor code quality](/problems/poor-code-quality)
 - [Increased cost](/problems/increased-cost)
