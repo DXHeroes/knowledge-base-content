@@ -31,7 +31,7 @@ Backlog Cleanup describes the process of managing tasks, issues, and ideas in yo
 
 ## Why You Might Want Backlog Cleanup
 
-Typically, companies have a project board, such as Trello, Jira, or GitHub projects. The boards contain columns for the different stages and the inbox or backlog column contains many different items. After some strategy meetings in the past months, some of the items in your backlog may be out of scope, since the product strategy or your team's priorities have shifted in a different direction.
+Typically, companies have a project board, such as GitHub projects, that contains columns for different stages. The inbox or backlog column contains many different items. After some strategy meetings in the past months, some of the items in your backlog may be out of scope, since the product strategy or your team's priorities have shifted in a different direction.
 
 Both the prioritiation and the size of a product backlog is key. When backlogs grow, it will be harder to see the relationship between items. Backlog cleanup will help you to keep track. And, your team will start working on the first items in the list. You want these top prioritzed items to be ready to work on.
 
