@@ -1,5 +1,5 @@
 ---
-slug: tips-for-coders
+slug: start-as-a-coder
 stages:
   - research
   - development
@@ -11,7 +11,6 @@ tags:
   - advices
   - coders
   - consistency
-  - emotion
   - motivation
   - encouragement
   - developer
@@ -31,7 +30,9 @@ author_github_username: KHUSHI-jai-n
 
 Everyone of us can code. We just need a little encouragement and confidence in ourselves.
 
-## What Are The Tips for coders?
+## Who is the coder?
+
+Every person who commit to his practices and make coding as a daily habit is a coder.All that you need is to pump yourself and get through thse tips!
 
 1. You don’t need a hi-tech computer to start coding
 
@@ -73,28 +74,33 @@ Nobody became a pro by putting in 20 hours in a day, but a lot of people did it 
 
 Open Source is a great way to learn by building amazing Softwares and tools. But be prepared to be constantly learning as you would be required to be constantly adapting to new technologies. 
 
-## Why You Might Want The Tips For Coders
+## Why You Might Become a Coder
 
 A good coder is not made in a day, a week or a month.
 It takes much grinding and hardwork to polish your skills. These tips are just to give you a roadmap and help you out in your coding journey.
 
-## Problems The Tips For Coders Helps to Solve
+## Problems The Coder Solves and problems that these tips would solve
 
-It helps beginners to start a smoother journey.
-It helps the experienced ones to become more efficient and have trust in themselves.
+As a coder you would-
+You can solve any problem from searching, sorting or manipulating to automating, analysis and development.
+
+these tips would help you-
+for beginners to start a smoother journey.
+for the experienced ones to become more efficient and have trust in themselves.
 
 These tips might seem very normal and basic but are missed out by most of us so consider these all just to remind you of the best practices you should follow.
 
-## How to Implement the Tips For Coders?
 
-Just follow them daily throughout your coding journey.
+## How to Become a Coder?
+
+Just follow these advices and suggestions daily throughout your coding journey.
 Or feel free to come back and read them again to build more confidence.
 They could prove to be very motivating and guide you to the right path.
 
-## Common Pitfalls of the Tips For Coders
+## Common Pitfalls of the Path to Become a Coder
 
 **Making it seem too easy**
-This might make you look at things lightly which is not actually true. Coding requires consistent efforts and practice.
+This article might make you look at things lightly which is not actually true. Coding requires consistent efforts and practice.
 
 **May only follow half the tips**
 There are so many tips and advices that you can feel overwhelmed. But do not worry - once you make youself comfortable with coding, you will realize that they are here to make your life easier, not more cumbersome.
@@ -102,8 +108,16 @@ There are so many tips and advices that you can feel overwhelmed. But do not wor
 **These are not just all**
 These are only few of the many tips you can get. But I felt they were the most important so added these in this article.
 
-## Resources for the Tips For Coders
+## Resources to Become a Coder
+
+**Find more tips**
 
 - Medium: [To get a whole bunch of tips you can refer to this article](https://medium.com/@tapajyoti-bose/25-tips-i-wish-i-knew-before-i-started-to-code-2c6c1af20b71)
 - Analytics Insight: [Tips to make your programming joourney easier](https://www.analyticsinsight.net/top-10-secret-coding-tips-to-make-your-programming-journey-easier/)
 - GeeksForGeeks: [7 tips and tricks to learn programming faster](https://www.geeksforgeeks.org/7-tips-and-tricks-to-learn-programming-faster/)
+
+**To become a self-taught programmer**
+
+- W3Schools:[w3schools](https://www.w3schools.com/)
+- GeeksForGeeks:[geeksforgeeks](https://www.geeksforgeeks.org/)
+- And youtube! you can find many channels. Choose the one that you like the most!
