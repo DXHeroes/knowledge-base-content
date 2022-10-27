@@ -5,9 +5,9 @@ stages:
   - development
   - launch
   - maintenance
-short_description: Starting on the journey of coding can be extremely overwhelming. Some tips can ease your path at the beginning of the journey. Here are the tips I wish someone told me when I was starting out.
+short_description: Starting on the journey of coding can be extremely overwhelming. But consistent efforts and determination will surely help you out in this journey.
 tags:
-  - tips
+  - steps
   - advices
   - coders
   - consistency
@@ -15,8 +15,8 @@ tags:
   - encouragement
   - developer
 keywords:
-  - coding
-  - computer
+  - coder
+  - automate
   - journey
   - programming
   - software
@@ -36,6 +36,8 @@ A coder is a professional who uses programming languages to communicate with com
 Companies hire coders to help with software development. Coders spend their time designing, writing and testing code. They work closely with developers and programmers. 
 
 But in easy words, every person who commit to his practices and make coding as a daily habit is a coder.All that you need is to pump yourself and get through these tips!
+
+## How to become a Coder
 
 1. You don’t need a hi-tech computer to start coding
 
@@ -97,9 +99,9 @@ Learning how to code takes time and effort. It requires you to remain patient an
 
 
 A good coder is not made in a day, a week or a month.
-It takes much grinding and hardwork to polish your skills. These tips are just to give you a roadmap and help you out in your coding journey.
+It takes much grinding and hardwork to polish your skills.
 
-## Problems The Coder Solves and problems that these tips would solve
+## Problems The Coder Solves
 
 As a coder you would-
 
@@ -107,16 +109,20 @@ As a coder you would-
 2. Autofill Online Forms
 3. Schedule Repetitive Tasks
 4. Improve Your Favorite Open-Source projects
+5. Identify Spam
+6. Make Product Recommendations 
+7. Customer Segmentation 
+8. Image & Video Recognition 
 
 You can solve any problem from searching, sorting or manipulating to automating, analysis and development.
 
-And these tips would help you in the following ways-
+And the above steps would help you in the following ways-
 - for beginners to start a smoother journey.
 - for the experienced ones to become more efficient and have trust in themselves.
 
 ## How to Become a Coder?
 
-Just follow these advices and suggestions daily throughout your coding journey.
+Just follow these advices and steps daily throughout your coding journey.
 Or feel free to come back and read them again to build more confidence.
 They could prove to be very motivating and guide you to the right path.
 
@@ -138,9 +144,8 @@ It can be difficult to decide which programming language to learn and which one 
 
 **Find more tips**
 
-- Medium: [To get a whole bunch of tips you can refer to this article](https://medium.com/@tapajyoti-bose/25-tips-i-wish-i-knew-before-i-started-to-code-2c6c1af20b71)
-- Analytics Insight: [Tips to make your programming joourney easier](https://www.analyticsinsight.net/top-10-secret-coding-tips-to-make-your-programming-journey-easier/)
-- GeeksForGeeks: [7 tips and tricks to learn programming faster](https://www.geeksforgeeks.org/7-tips-and-tricks-to-learn-programming-faster/)
+- Medium: [To get a whole bunch of tip](https://medium.com/@tapajyoti-bose/25-tips-i-wish-i-knew-before-i-started-to-code-2c6c1af20b71)
+- Analytics Insight: [To make your programming joourney easier](https://www.analyticsinsight.net/top-10-secret-coding-tips-to-make-your-programming-journey-easier/)
 
 **To become a self-taught coder**
 
