@@ -32,7 +32,10 @@ Everyone of us can code. We just need a little encouragement and confidence in o
 
 ## Who is the coder?
 
-Every person who commit to his practices and make coding as a daily habit is a coder.All that you need is to pump yourself and get through thse tips!
+A coder is a professional who uses programming languages to communicate with computers and software and make them perform certain tasks. 
+Companies hire coders to help with software development. Coders spend their time designing, writing and testing code. They work closely with developers and programmers. 
+
+But in easy words, every person who commit to his practices and make coding as a daily habit is a coder.All that you need is to pump yourself and get through these tips!
 
 1. You don’t need a hi-tech computer to start coding
 
@@ -76,20 +79,40 @@ Open Source is a great way to learn by building amazing Softwares and tools. But
 
 ## Why You Might Become a Coder
 
+1. Attractive Salary and Multiple Career Opportunities
+
+Programmers are high in demand all over the world. You can become a freelancer and work freely, you can work for a company, you can work on your own side projects or you can also use your coding skills for your own startup.The salary of programmers is also attractive because it requires critical thinking and analysis.
+
+2. Job security.
+
+Analysts predict that most of the existing jobs will be lost to automation soon. Programmers are not bothered in any way due to the increased demand for skilled computer programmers. Additionally, coding has found applications in almost all industries and areas of life, thereby increasing its value.
+
+3. Creative freedom.
+
+Programming has extensive practical applications ranging from web and game design to data science and scientific computation. The exciting aspect of coding is that it can be applied in almost every sector, giving you more career opportunities. 
+
+4. You get to learn patience and persistence.
+
+Learning how to code takes time and effort. It requires you to remain patient and consistent despite how tedious the process may be. By the time you finish learning, these skills would have become a massive part of you.
+
+
 A good coder is not made in a day, a week or a month.
 It takes much grinding and hardwork to polish your skills. These tips are just to give you a roadmap and help you out in your coding journey.
 
 ## Problems The Coder Solves and problems that these tips would solve
 
 As a coder you would-
+
+1. Automate Data Entry Tasks
+2. Autofill Online Forms
+3. Schedule Repetitive Tasks
+4. Improve Your Favorite Open-Source projects
+
 You can solve any problem from searching, sorting or manipulating to automating, analysis and development.
 
-these tips would help you-
-for beginners to start a smoother journey.
-for the experienced ones to become more efficient and have trust in themselves.
-
-These tips might seem very normal and basic but are missed out by most of us so consider these all just to remind you of the best practices you should follow.
-
+And these tips would help you in the following ways-
+- for beginners to start a smoother journey.
+- for the experienced ones to become more efficient and have trust in themselves.
 
 ## How to Become a Coder?
 
@@ -99,14 +122,17 @@ They could prove to be very motivating and guide you to the right path.
 
 ## Common Pitfalls of the Path to Become a Coder
 
-**Making it seem too easy**
-This article might make you look at things lightly which is not actually true. Coding requires consistent efforts and practice.
+**You have trouble finding the time to code**
+For many new developers, it can be challenging to find the time you need to learn how to code. The key to overcoming this obstacle is to have a goal in mind. 
 
-**May only follow half the tips**
-There are so many tips and advices that you can feel overwhelmed. But do not worry - once you make youself comfortable with coding, you will realize that they are here to make your life easier, not more cumbersome.
+**You aren’t motivated to learn**
+A lack of motivation makes it especially hard to learn to code. While we all have different things that get us motivated, one thing that might help you is to surround yourself with people who are passionate about coding.
 
-**These are not just all**
-These are only few of the many tips you can get. But I felt they were the most important so added these in this article.
+**You don’t know who to ask for help**
+We’ve already told you one of the secrets of professional programmers: Google is their best friend. But, many of them also turn to Stack Overflow.
+
+**You don’t know what technology to start with**
+It can be difficult to decide which programming language to learn and which one matches your strengths and interests. It can also be challenging to figure out exactly what you’ll be able to do with your new skills.
 
 ## Resources to Become a Coder
 
@@ -116,8 +142,9 @@ These are only few of the many tips you can get. But I felt they were the most i
 - Analytics Insight: [Tips to make your programming joourney easier](https://www.analyticsinsight.net/top-10-secret-coding-tips-to-make-your-programming-journey-easier/)
 - GeeksForGeeks: [7 tips and tricks to learn programming faster](https://www.geeksforgeeks.org/7-tips-and-tricks-to-learn-programming-faster/)
 
-**To become a self-taught programmer**
+**To become a self-taught coder**
 
 - W3Schools:[w3schools](https://www.w3schools.com/)
 - GeeksForGeeks:[geeksforgeeks](https://www.geeksforgeeks.org/)
+- freeCodeCamp:[freeCodeCamp](https://www.freecodecamp.org/)
 - And youtube! you can find many channels. Choose the one that you like the most!
