@@ -24,6 +24,7 @@ keywords:
   - automating installing
   - automatic configuring
 covered_by_dx_scanner: true
+author_github_username: prokopsimek
 ---
 
 # Package Management
@@ -59,7 +60,7 @@ Examples of Package Managers:
 
 - [npm](https://en.wikipedia.org/wiki/Npm) and [Yarn](https://yarnpkg.com/lang/en/) for Javascript
 - [Bundler](https://bundler.io/) for Ruby
-- [Apache](https://maven.apache.org/) for Java
+- [Apache](https://maven.apache.org/) and [Gradle](https://gradle.org/) for Java
 - [Composer](https://getcomposer.org/) for PHP
 - [NuGet](https://www.nuget.org/) - for .NET
 - [apk-tools](http://apk-tools.sourceforge.net/) for UNIX like RAM-based embedded systems
@@ -91,17 +92,17 @@ Package Managers:
 
 ## Common Pitfalls of the Package Management
 
-- **Specification**  
+- **Specification**
   The package is not specified and when the new version is published, the package breaks. You have to specify the major version at least.
-- **Updating**  
+- **Updating**
   Dependencies are not updated. Important security bugs fixes could be missing.
-- **Modifications**  
+- **Modifications**
   Packages are downloaded and then their code is modified by hand. The changes disappear after the next installation.
-- **Security**  
+- **Security**
   The dependency security audit is being ignored.
-- **Different packages**  
+- **Different packages**
   Many different packages are being used or each developer uses a different package. They can contain different properties and act differently.
-- **Libraries**  
+- **Libraries**
   Libraries needed for development are added to the global dependencies.
 - **Lockfile**
 

@@ -18,6 +18,7 @@ keywords:
   - team culture
   - libraries
   - code quality
+author_github_username: prokopsimek
 ---
 
 # Poor Code Quality

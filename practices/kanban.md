@@ -29,6 +29,7 @@ keywords:
   - agile events
   - scrum events
   - agile ceremonies
+author_github_username: prokopsimek
 ---
 
 # Kanban
@@ -67,11 +68,11 @@ Kanban is summarized by the premise: "Stop Starting, Start Finishing". Teams con
 
 Kanban is based on the following key principles:
 
-- **Visualize a workflow**  
+- **Visualize a workflow**
    Kanban board is a visualization mechanism and presents what the team does today. Either use an actual board and sticky notes or use one of various templates, such as [Trello](https://trello.com/), [MeisterTask](https://www.meistertask.com), or [Kanban Tool](https://Kanbantool.com). Set your process steps considering the complexity of your project.
-- **Limit of work in progress (WIP)**  
+- **Limit of work in progress (WIP)**
    Teams do not start too many work issues at once. It helps to keep the workflow in the balance.
-- **Manage workflow**  
+- **Manage workflow**
    The typical Kanban practice is also explicit policies, such as WIP limits, acceptance criteria, or clear definition of the flow. For example, when something is finished, the next highest item from the backlog will be picked out.
 
 In addition, Kanban encourages collaboratively improving, experimental evolving, and constant learning by feedback loops.
@@ -81,15 +82,15 @@ Attlasian: [Learn Kanban with Jira Software](https://www.atlassian.com/agile/tut
 
 ## Common Pitfalls of Kanban
 
-- **"Big Bang"**  
+- **"Big Bang"**
    The approach of starting everything from zero may cause you a lot of trouble. Kanban is about continuous enhancement. So, instead of throwing your current process away, map it on a Kanban board and start improving.
-- **Nobody respects the WIP limits**  
+- **Nobody respects the WIP limits**
    It caused that the Kanban board is overcrowded at each stage of the workflow and issues are moving very slowly to "done" column. Applying WIP limits and respecting them ensure that team members are focused on their current work and process runs faster.
-  Keep in mind that applying WIP limits may not work from the very first try. You need to monitor your workflow constantly and adjust WIP limits until you find the optimal configuration for your team.  
+  Keep in mind that applying WIP limits may not work from the very first try. You need to monitor your workflow constantly and adjust WIP limits until you find the optimal configuration for your team.
    **Tip:** There are many approaches for setting initial WIP limits, for example, "two items per person", "start with the number what you do now", or "n-1" (setting one under the number of team members may cause greater collaboration by forcing team members to work together).
-- **Nobody respects the Kanban board**  
+- **Nobody respects the Kanban board**
    Problems appear directly to "done" stage without being picked out from the backlog and going through the workflow. Do not forget, the purpose of a Kanban board is a visualization of everything the team does. It helps to estimate the team’s capacity and utilize them to their maximum level.
-- **Focus On Tools**  
+- **Focus On Tools**
    In brief, tools are not important - people and principles are.
 
 ## Resources for Kanban

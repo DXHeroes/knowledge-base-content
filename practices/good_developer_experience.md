@@ -22,11 +22,15 @@ keywords:
   - experience
   - satisfaction
   - architecture
+  - dx
+  - developer experience
+  - best developer
   - great tools
   - processes
   - team culture
   - emotions
   - toxic team culture
+author_github_username: prokopsimek
 ---
 
 # Good Developer Experience
@@ -41,40 +45,60 @@ The Developer Experience (DX) describes the experience developers have while usi
 
 We define a great DX by these four factors:
 
-1. **Fitting architecture**  
-   Find a compromise between simple and more complex architecture. Simple means more pain later, complex brings more pain now. Consider the size of your project and your team. Good architecture is difficult to break, has short feedback loops and it has a great introspection.
-2. **Great tools**  
-   Automate where possible. Repetitive tasks are exhausting. Automation lets your team understand the configurations.
-3. **Processes to back that all up**  
-   Processes work as automated checklists, and give you have consistent steps that need to be done each time. Defined processes help you with team discipline. Use processes for QA, deployment, feedback, and for onboarding if your company is big enough.
-4. **Nontoxic team culture**  
-   Define the purpose of your company: making money should not be the only goal. Culture itself is the most important brainware (a software that runs in the brain) you can install within your company and the team - every decision the developers take will be filtered through the installed brainware. If they do not agree with the brainware, they ignore it.
+### 1. Fitting architecture
+Find a compromise between simple and more complex architecture. Simple means more pain later, complex brings more pain now. Consider the size of your project and your team. Good architecture is difficult to break, has short feedback loops and it has a great introspection.
+
+### 2. Great tools
+Automate where possible. Repetitive tasks are exhausting. Automation lets your team understand the configurations.
+
+### 3. Processes to back that all up
+Processes work as automated checklists, and give you have consistent steps that need to be done each time. Defined processes help you with team discipline. Use processes for QA, deployment, feedback, and for onboarding if your company is big enough.
+
+### 4. Nontoxic team culture
+Define the purpose of your company: making money should not be the only goal. Culture itself is the most important brainware (a software that runs in the brain) you can install within your company and the team - every decision the developers take will be filtered through the installed brainware. If they do not agree with the brainware, they ignore it.
 
 ## Why You Might Want the Good Developer Experience
 
 **The teams with good DX are highly productive, and display these traits:**
 
-- **Sense of impact**  
+- **Sense of impact**
+
   They understand that they are not just making money. They know that their work matters, they are improving someone else’s life.
-- **Great sense of ownership and responsibility**  
+
+- **Great sense of ownership and responsibility**
+
   They are responsible for the success. Every team member should feel a responsibility for the company’s success.
+
 - **A common goal**
+
   With the team, their division, and the company as a whole.
-- **Friendliness and honesty**  
+
+- **Friendliness and honesty**
+
   We call it “hey bro” culture. We emphasize sincerity with great respect.
-- **Allows for failure**  
+
+- **Allows for failure**
+
   Developers should be brave and take risks. But risks should always be calculated, and developers have to be aware of how much of a boom every action can cause.
 
 **Traits of culture with bad DX:**
 
-- **Finger-pointing**  
+- **Finger-pointing**
+
   Team members may blame each other for poor work. This is a very toxic thing but it happens a lot.
-- **Big penalty for a failure**  
+
+- **Big penalty for a failure**
+
   For example, when your boss says that if you do not meet the deadline, you can be fired
+
 - **Constant crunch time, constant overloading of the teams**
-- **Hostility and uncertainty**  
+
+- **Hostility and uncertainty**
+
   Unhealthy competitiveness between teams (for example, this guy was promoted because he did a better job than me)
-- **Diluted responsibility**  
+
+- **Diluted responsibility**
+
   In big companies, it can feel like nobody is responsible for anything. It takes balls to say: “sorry guys, I screwed up”. It is crucial to be able to take responsibility.
 
 ## Problems the Good Developer Experience Solves
@@ -96,10 +120,10 @@ We define a great DX by these four factors:
 There is a famous "Scope Triangle" created in the mid 1980s by Dr. Martin Barnes. It shows the relationship between the three primary forces in a project:
 
 ![Scope Triangle](/files/scope_triangle.png)
-
 [Scope Triangle](https://www.projectsmart.co.uk/project-management-scope-triangle.php)
 
 This triangle means that if you want to increase the time, you have to increase money or quality.
+
 We disagree - that is not how it works in reality. You have to insert an emotional cost to the triangle:
 
 ![Emotional Cost](/files/emotional_cost.png)
@@ -120,3 +144,4 @@ If your developer has to stay late to finish a task, it is not only the time the
 - Youtube: [Vratislav Kalenda: The only way how to have happy & productive developers [DevFest CZ 2018]](https://www.youtube.com/watch?v=X4NSLo97Az8)
 - Cristiano Betta: [The 7 Sins of Developer Experience](https://betta.io/blog/2017/11/10/the-seven-sins-of-developer-experience/)
 - The AppsLab: [Developer Experience: What and Why](http://theappslab.com/2017/04/04/developer-experience-what-and-why/)
+- Developer Care: [Developer Care: restoring the common core](https://dev.to/heetch/developer-care-22i)

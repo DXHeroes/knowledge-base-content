@@ -22,6 +22,7 @@ keywords:
   - build
   - regression
   - quality assurance
+author_github_username: prokopsimek
 ---
 
 # Smoke Testing
@@ -65,11 +66,11 @@ It is always a good idea to apply Smoke Testing from the user experience point o
 
 For the correct application of Smoke Tests, the following rules apply:
 
-- **Regular**  
+- **Regular**
    Smoke Testing should be performed after each application build and always before the version is submitted for functional testing.
-- **Simple**  
+- **Simple**
    The test should be focused only on the essential functionality whose chances can completely prevent the use of the product/application.
-- **Fast**  
+- **Fast**
    The Smoke Test should consist of simple steps to test functionality, should not include alternative scenarios and "marginal" functionalities that are within the scope of functional tests.
 
 **Example of the Smoke Test:**

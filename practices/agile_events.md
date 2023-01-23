@@ -40,6 +40,7 @@ keywords:
   - demotivated team
   - retrospective
   - meaningless work
+author_github_username: prokopsimek
 ---
 
 # Agile Events

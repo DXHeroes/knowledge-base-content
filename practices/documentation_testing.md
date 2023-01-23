@@ -22,6 +22,7 @@ keywords:
   - Testing your Documentation
   - Tech writing feedback
 covered_by_dx_scanner: false
+author_github_username: ridlees
 ---
 
 # Documentation Testing
@@ -32,7 +33,7 @@ covered_by_dx_scanner: false
 
 Documentation testing is a few processes of continuous feedback gathering and documentation improvements based on feedback. You can imagine it as active listening to your developers. Similarly, as you use testing for your code, you should be testing your docs to provide clear and precise information that contributes to positive developer experience.
 
-Docs are a developer’s first impression of your product, yet they are often overlooked. Improving your Docs directly translate into improving first impressions. 
+Docs are a developer’s first impression of your product, yet they are often overlooked. Improving your Docs directly translate into improving first impressions.
 
 ![Documentation example](/files/docs-example.png)
 [Documentation example](https://zapier.com/engineering/great-documentation-examples/)
@@ -59,7 +60,7 @@ It is a series of good practices and even small teams without tech writers can i
 * Damaged information flow
 * Unclear instructions
 * Lack of empathy towards developers
-* Bad first impression 
+* Bad first impression
 
 ## How to Implement Documentation Testing?
 ### Implementing Passive Feedback Gathering
@@ -69,7 +70,7 @@ Start by adding a way to rate your existing documentation. Consider adding quest
 > Allowing ratings on your Docs helps to build rapport with your readers. Look at which pages are well-received and which need improvements.
 
 #### On-Page Behaviour
-The behavior on-page can tell you a lot about your Doc’s perception. Start using analytical software (popular options are: [Google Analytics](http://analytics.google.com), [GoSquared](https://www.gosquared.com/analytics/), [Clicky](https://clicky.com), [Statcounter](https://statcounter.com), or [Matomo](https://matomo.org)) to monitor your readers. 
+The behavior on-page can tell you a lot about your Doc’s perception. Start using analytical software (popular options are: [Google Analytics](http://analytics.google.com), [GoSquared](https://www.gosquared.com/analytics/), [Clicky](https://clicky.com), [Statcounter](https://statcounter.com), or [Matomo](https://matomo.org)) to monitor your readers.
 > The time spent on each page, the bounce rate of your pages, referrals, and leaving pages can help you understand how people interact with your docs.
 
 #### Off-page Behaviour
@@ -81,27 +82,27 @@ Consider logging how many people download your code samples. For this logging, y
 > Track any action that is important for you. From Sign-ups to completing Demos, this information directly makes a difference in improving the developer experience.
 
 ### Implementing Active Testing
-Active Testing activities can be both in-house and off-house. In-house testing is more controlled but can be affected by knowledge bias. Off-house testing gives you another point of view but it can be more resource (time, money, energy) demanding. A possible alternative to off-house testing can be surveys and questionnaires. 
+Active Testing activities can be both in-house and off-house. In-house testing is more controlled but can be affected by knowledge bias. Off-house testing gives you another point of view but it can be more resource (time, money, energy) demanding. A possible alternative to off-house testing can be surveys and questionnaires.
 
 #### In-house Testing
 One of the best things you can always do is to test your documentation In-house. Read through your docs.  Let your developers try the demos and gather their thoughts. Take people from different backgrounds and with different skillsets. 5 to 6 people is enough to start improving your developer experience. Look at [UX Testing Goals](https://developerexperience.io/practices/ux-testing-goals) or at [Unit Testing](https://developerexperience.io/practices/unit-testing) for ideas.
 > Anyone around you can help you with in-house testing. Test if you can understand your docs. Test if your sample codes work. Test what happens if you auto-translate your docs. What does happen if you strictly follow your docs? Is the provided information enough? Be emphatic. Use my favorite definition: _Empathy is connecting with emotions, not with experience._
 
 #### Automatizated Testing
-You can use frameworks like [dtf](http://cyborginstitute.org/projects/dtf/strategy/) to keep your Documentation unified in terms of glossary and clarity. If your Documentation is code example heavy, you can use tools like [rustdoc](https://doc.rust-lang.org/beta/rustdoc/documentation-tests.html) to automatically test your code samples. 
+You can use frameworks like [dtf](http://cyborginstitute.org/projects/dtf/strategy/) to keep your Documentation unified in terms of glossary and clarity. If your Documentation is code example heavy, you can use tools like [rustdoc](https://doc.rust-lang.org/beta/rustdoc/documentation-tests.html) to automatically test your code samples.
 > Although Documentation testing should be manual, sample code testing, grammar checks, or word consistency tests can be automatic. Using frameworks like dtf or rustdoc allows your testers to focus more on information and empathy than on grammar and code syntax.
 
-#### Questionnaires and surveys 
+#### Questionnaires and surveys
 Questionnaires and surveys give your readers a way to directly give their feedback. You can gather interesting information through it. Moreover, if you reach out after the questionnaire you can improve community relationships.
 > Forms, surveys, and questionnaires are powerful tools if used correctly. With a good form, you can build rapport and turn this rapport into a better dx. A good starting point is this [Hubspot Article](https://blog.hubspot.com/service/questionnaire) or this [Harvard Guide](https://psr.iq.harvard.edu/files/psr/files/PSRQuestionnaireTipSheet_0.pdf).
 
 #### Outsourced Testing
 If you don’t want to spend your resources on In-house Testing, you can try outsourcing it. Services like [Betatesting](https://betatesting.com/beta-testers), [Usertesting](https://www.usertesting.com), [Testfort](https://testfort.com/qa-documentation)or [Devskiller](https://devskiller.com) can connect you with a testing developer. You can reach out to the developer community at places like [Dev](https://dev.to) or [DXheroes Slack](https://join.slack.com/t/developerexperiencehq/shared_invite/enQtNzU5NjUyNDk2MDM1LTRmNjM5ZTllOTc1NmU5ZWRhNGNkODU1ZmY0ZWExYWUyN2YyNzM4ZTMzNjIyNWJhNTRmNjA5ZTVhMGRmZjM4ZjY). Alternatively, you can hire freelancers through platforms like [Freelancer](http://freelancer.com), [Upwork](https://www.upwork.com), [Fivver](https://www.fiverr.com), or [Peopleperhour](https://www.peopleperhour.com).
-> You can always outsource the testings if you don’t want to use in-house testing or you want additional data. Outsourcing your testing is not as expensive as you may think, having around 5 - 6 testers is generally enough to understand the dx you provide. 
+> You can always outsource the testings if you don’t want to use in-house testing or you want additional data. Outsourcing your testing is not as expensive as you may think, having around 5 - 6 testers is generally enough to understand the dx you provide.
 
 ## Common Pitfalls of Documentation Testing
 - Developers or tech writers doubt gathered data.
-- Analytics are poorly set and don’t collect crucial data 
+- Analytics are poorly set and don’t collect crucial data
 - Knowledge bias influences Documentation Testing.
 - Developers or tech writers don’t listen to feedback.
 > Documentation testing is not done regularly.

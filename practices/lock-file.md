@@ -19,6 +19,7 @@ keywords:
   - automating installing
   - automatic configuring
 covered_by_dx_scanner: true
+author_github_username: prokopsimek
 ---
 
 # Lock File

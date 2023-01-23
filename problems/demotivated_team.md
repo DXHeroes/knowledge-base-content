@@ -28,6 +28,7 @@ keywords:
   - micromanagement
   - environment
   - efficiency
+author_github_username: prokopsimek
 ---
 
 # Demotivated Team

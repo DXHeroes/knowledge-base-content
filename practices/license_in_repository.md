@@ -19,6 +19,7 @@ keywords:
   - repository
   - royalty terms
   - copyright
+author_github_username: prokopsimek
 ---
 
 # License in Repository
@@ -66,7 +67,7 @@ Follow these steps to add a license to your repository:
 2. Select "Create a new file".
    A pop-up window appears. Select “Text file”.
 3. Name the text file. Typically “LICENSE.md”. (We recommend using upper case for the file name).
-4. Open the license text file, and add the text of your license.  
+4. Open the license text file, and add the text of your license.
    **Tip: pick an open-source license here: [Choose a License](https://choosealicense.com/) and simply copy+paste the text.**
 5. Commit the license to your repository.
 

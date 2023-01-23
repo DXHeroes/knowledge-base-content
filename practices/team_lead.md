@@ -19,6 +19,7 @@ keywords:
   - unite
   - accomplishment
   - satisfaction
+author_github_username: prokopsimek
 ---
 
 # Team Lead
@@ -35,11 +36,11 @@ What all the Team Leads have in common? They ensure that everyone is on the same
 
 So what is the difference between a **senior**, a **manager**, and a **Team Lead**?
 
-- **Seniors**  
+- **Seniors**
   are people who deeply understand the project. They teach newcomers and suggest solutions to the most difficult issues.
-- **Managers**  
+- **Managers**
   have people to work for them. They plan, organize and coordinate and they are part of the company’s hierarchy and does not have to be a programmer.
-- **Team Leads**  
+- **Team Leads**
   understand perfectly not only the technical side of the project but also the team management. They act as a shield to protect their team from managers and customers. They ensure that the developers are satisfied and motivated. They are the bridge between the team and management.
 
 ![Management](/files/team_lead.png)
@@ -80,7 +81,7 @@ The typical Team Lead’s responsibilities and characteristics are:
 - organizing meetings
 - programming
 - solving architecture questions
-- Code Reviews
+- [Code Reviews](/practices/code-review)
 - suppressing their ego to not to draw too much attention to themselves
 - decision making
 - dealing with personal conflicts

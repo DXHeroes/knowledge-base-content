@@ -1,8 +1,8 @@
 ---
 slug: infrastructure-as-code
 stages:
-  - Development
-  - Maintenance 
+  - development
+  - maintenance
 short_description: Infrastructure as code (IaC), is both a principle and a set of tools, a modern way to manage the infrastructure minimising the manual work.
 tags:
   - infrastructure as code
@@ -10,17 +10,18 @@ tags:
   - IaC principles
   - DevOps
 keywords:
- - azure
+  - what is infrastructure as code
+  - azure
   - terraform
   - kubernetes
   - morris
   - IaC principles
   - DevOps
-covered_by_dx_scanner: false
+author_github_username: ridlees
 ---
 
 # Infrastructure as Code
-**TL;DR** 
+**TL;DR**
 Infrastructure as code (IaC) is both a principle and a set of tools, a modern way to manage the infrastructure minimizing the manual work.
 
 ## What is Infrastructure As Code
@@ -30,12 +31,12 @@ IaC is a principle (or process) of provisioning and managing your infrastructure
 [Infrastructure as code](https://pixabay.com/cs/vectors/cloud-computing-oblak-za%C5%99%C3%ADzen%C3%AD-data-1989339/)
 
 With IaC, you can spin your resources to match your needs (utility computing). New peak of visitors? You just adjust your infrastructure to the new load.
- 
+
 ### Old Approach
-Before IaC, Ops and Devs a had hard time managing your resources. You were always setting up your servers, configuring networks, creating routing tables, or installing software — all that on your hardware. If you had more visitors, it could take weeks to adjust for this load. Not only that, but any update takes a lot of time (updating databases, checking dependencies, and much more) and resources.
+Before IaC, Ops and Devs had a hard time managing your resources. You were always setting up your servers, configuring networks, creating routing tables, or installing software — all that on your hardware. If you had more visitors, it could take weeks to adjust for this load. Not only that, but any update takes a lot of time (updating databases, checking dependencies, and much more) and resources.
 
 That is why IaC is gaining popularity as it is a modern response to the old situation.
- 
+
 ### Approaches of IaC - Declarative (functional)
 Focuses on _What_. What is the desired end look? With this approach, you declare the end state, and the system makes it happen
 ### Approaches of IaC - Imperative (procedural)
@@ -56,7 +57,8 @@ Together with [Continous Delivery/Deployment](/practices/continuous-delivery), y
 
 ### Risk
 
-With automation, you are lowering the risk of human error, and with configuration files instead of manual labor, you are increasing reliability (the system will always behave the same way). Using source control, you can audit changes. DevOps or Ops teams are able to write tests for your IaC. 
+
+With automation, you are lowering the risk of human error, and with configuration files instead of manual labor, you are increasing reliability (the system will always behave the same way). Using source control, you can audit changes. DevOps or Ops teams are able to write tests for your IaC.
 
 ## Problems Infrastructure As Code Helps to Solve
 * [Increased Cost](/problems/increased-cost)
@@ -80,7 +82,7 @@ Declarative, Provisioning, drag-n-drop UI,  highly reliable, available, and scal
 #### [Azure Resource Manager](https://docs.microsoft.com/cs-cz/azure/azure-resource-manager/management/overview)
 Declarative, Group deployments, group pricing options, JSON templates (instead of YAML).
 #### [Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager)
-Declarative, integration with other Google Cloud Services, console UI, supports both Python and JINJA, 
+Declarative, integration with other Google Cloud Services, console UI, supports both Python and JINJA,
 #### [Puppet](https://puppet.com/)
 Declarative, own language for iac, needs master server.
 #### [Chef](https://www.chef.io)
@@ -95,7 +97,7 @@ If you don't have a dev-ops team or your team is on junior level, consider askin
 ## Common Pitfalls of Infrastructure As Code
 - The management can be against moving towards IaC since they don’t see the results immediately
 - IaC opens code-like issues such as the question of code maintenance, working with someone’s code, or just question of collaboration
-- For some tools, there is a general lack of code samples 
+- For some tools, there is a general lack of code samples
 - The integration with CI/CD pipeline can be tricky
 - Devs can have problems learning with IaC tools
 

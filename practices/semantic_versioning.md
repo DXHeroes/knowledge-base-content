@@ -14,11 +14,14 @@ keywords:
   - major
   - minor
   - patch
+  - semantic updates
+  - versioning
   - hyphen
   - identifier
   - initial development
   - pre-release
   - production
+author_github_username: prokopsimek
 ---
 
 # Semantic Versioning

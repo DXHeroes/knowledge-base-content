@@ -27,6 +27,7 @@ keywords:
   - estimating
   - implementation
   - epic
+author_github_username: prokopsimek
 ---
 
 # User Stories
@@ -44,7 +45,7 @@ A User Story (US) is the smallest chunk of work in an agile framework. It divide
 - User Stories are usually written by a Product Owner who also defines the prioritization.
 - A US is just a few sentences written in a simple language without going into detail.
 - They follow a simple template, such as: "as a \<type of user\>, I want \<some goal\> so that \<some reason\>".
-- Work is divided into US during backlog refinement (formerly grooming) where the team estimates stories and assign story points.
+- Work is divided into US during [backlog refinement](/practices/product-backlog-refinement) (formerly grooming) where the team estimates stories and assign [story points](/practices/story-points).
 - A US can be written on a post-it note and stick it on a board, or created in software.
 - US have to be testable. Even if your US are divided into smaller US, each US has to be testable.
 - It is recommended to have a specific hierarchy - US are usually roofed by an epic. US can be broken into smaller chunks of work, such as tasks or features.
@@ -58,7 +59,7 @@ A User Story (US) is the smallest chunk of work in an agile framework. It divide
 
 **What Are Story Points?**
 
-- Story points (SP) define the effort needed to implement a US.
+- [Story points](/practices/story-points) (SP) define the effort needed to implement a US.
 - A US with 2 SP should require twice as much effort to finish it than a US with 1 SP.
 - Every team has to decide what SP mean to them regarding the complexity of their project.
 - It takes time to settle the value of SP - the team has to compare previous experiences.
@@ -71,7 +72,7 @@ Why not just break the epic into steps? Why bother with creating the User Storie
 - give the team context and associate their work with the value of their effort.
 - keep the focus on the user. By breaking down user needs (= User Stories) into smaller features or tasks the team can better concentrate on solving small and immediate customer needs.
 - allow easier collaboration among the team, the Product Owner and users. They discuss and review all the US every sprint planning meeting. That encourage the team to approach their work and the goal achievement critically and creatively.
-- allow the team to prioritize more easily. When the US are added to the product backlog, the Product Owner can prioritize the more important US.
+- allow the team to prioritize more easily. When the US are added to the [product backlog](/practices/product-backlog), the Product Owner can prioritize the more important US.
 - allow you to track the project development and every closed US is a an achievement which brings a satisfaction.
 
 ## Problems User Stories Solve
@@ -80,15 +81,15 @@ Why not just break the epic into steps? Why bother with creating the User Storie
 - [Increased cost](/problems/increased-cost)
 - [Meaningless work](/problems/meaningless-work)
 - ["Not my problem" mentality](/problems/not-my-problem-mentality)
-- Unnecessary functions
-- Unhappy clients
+- [Unnecessary features](/problems/unnecessary-features)
+- [Unhappy clients](/problems/unhappy-clients)
 - [Disconnect Between Business and IT](/problems/disconnect-between-business-and-it)
 - [Toxic Team Culture](/problems/toxic-team-culture)
 - [Poor Code Quality](/problems/poor-code-quality)
 
 ## How to Implement User Stories
 
-The Product Owner (or a Product Manager, or a Program Manager) writes the User Stories and submits them for review. The review can be done by all the team members. Each team member decides which US they will take during the sprint planning meeting. The next step is discussing the US requirements that are added to the US. An important part of sprint planning is estimating the story points.
+The Product Owner (or a Product Manager, or a Program Manager) writes the User Stories and submits them for review. The review can be done by all the team members. Each team member decides which US they will take during the sprint planning meeting. The next step is discussing the US requirements that are added to the US. An important part of sprint planning is estimating the [story points](/practices/story-points).
 The team can use visual planning tools (such as release plan, story map, or a task board) where they stick post-it notes with each US.
 
 ![Using A Task Board](/files/user_stories.png)
@@ -96,9 +97,9 @@ The team can use visual planning tools (such as release plan, story map, or a ta
 
 ## Common Pitfalls of User Stories
 
-- The US are **too big**  
+- The US are **too big**
   The functionalities are not easy to implement and they are moved from sprint to sprint. This can bring a [Toxic Team Culture](/problems/toxic-team-culture) because it feels like the work is never finished.
-- The team mistakes the story points with the **time estimation**  
+- The team mistakes the [story points](/practices/story-points) with the **time estimation**
   The points are there for easy comparison of the US difficulty. They do not say how long it will take to implement.
 
 ## Resources for User Stories

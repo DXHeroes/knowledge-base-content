@@ -18,7 +18,7 @@ keywords:
   - role definition
   - team roles
   - agile
-covered_by_dx_scanner: false
+author_github_username: zeman-j4
 ---
 
 # 16 Personalities
@@ -30,6 +30,7 @@ covered_by_dx_scanner: false
 ## What Is 16 Personalities
 
 16personalities is a personality test analyzing the personal traits of the test-taker and putting those on a scale from 0 to 100. The corner values represent the very opposite sides of the spectrum for the given trait. The test distinguishes 5 different traits, namely:
+
 - Mind - Introverted vs. Extroverted
 - Energy - Observant vs. Intuitive
 - Nature - Thinking vs. Feeling

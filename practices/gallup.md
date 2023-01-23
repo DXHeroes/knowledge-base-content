@@ -15,11 +15,12 @@ keywords:
   - personality
   - team
   - team building
+  - strengthsfinder
   - role definition
   - team roles
   - agile
   - cliftonstrengths
-covered_by_dx_scanner: false
+author_github_username: zeman-j4
 ---
 
 # Gallup CliftonStrengths Test

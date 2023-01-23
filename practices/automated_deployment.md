@@ -15,16 +15,20 @@ tags:
   - unit tests
   - devops
 keywords:
+  - auto deployment
+  - automated deployments
+  - automated code deployment
   - continuous integration
   - continuous delivery
   - effective deployment
   - deployment pipeline
+  - deploy automation
   - devops
   - git
   - testing
+  - deploy
   - automation
-  - Travis CI
-  - Zeit Now
+author_github_username: prokopsimek
 ---
 
 # Automated Deployment

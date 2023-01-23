@@ -24,6 +24,7 @@ keywords:
   - diagram
   - canvas
   - post-it notes
+author_github_username: prokopsimek
 ---
 
 # Value Proposition
@@ -39,24 +40,24 @@ Value Proposition Canvas is a visual tool that helps to understand the customer'
 ![Value Proposition Canvas](/files/value_proposition_canvas.png)
 [B2B International: What is the Value Proposition Canvas?](https://www.b2binternational.com/research/methods/faq/what-is-the-value-proposition-canvas/)
 
-**WHO**  
+**WHO**
 The right side of the diagram (the circle) answers the question **who**. It defines the customer segment.
 
-- **Customer Jobs**  
+- **Customer Jobs**
   Customer’s basic needs, the problems they try to solve and the tasks they want to accomplish.
-- **Pains**  
+- **Pains**
   Customer’s fears, concerns, and other negative emotions.
-- **Gains**  
+- **Gains**
   The benefits that the customer wants.
 
-**WHY**  
+**WHY**
 The left side of the diagram (the square) answers the question of **why**. It defines the value proposition.
 
-- **Product & Service**  
+- **Product & Service**
   The products and services you offer to the customer. The offers create gain and relieve pain.
-- **Pain Relievers**  
+- **Pain Relievers**
   A description of how the product relieves the customer’s pains.
-- **Gain Creators**  
+- **Gain Creators**
   How the product creates the customer’s gains.
 
 ## Why You Might Want the Value Proposition Canvas

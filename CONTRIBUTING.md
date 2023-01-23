@@ -50,6 +50,7 @@ Source: [How to Become a Technical Writer: A Beginner’s Guide](https://www.ins
 - Articles are written in [markdown](https://guides.github.com/features/mastering-markdown/)
 - Names of the file should be [snake_cased](https://en.wikipedia.org/wiki/Snake_case) (`lower_case_with_underscores`)
 - Put your file to correct folder based on the type of your article ([problem](https://github.com/DXHeroes/knowledge-base/tree/master/problems)/[practice](https://github.com/DXHeroes/knowledge-base/tree/master/practices)). E.g. practice pull request [on the Knowledge Base](https://developerexperience.io/practices/pull-requests) and [in the repository](https://github.com/DXHeroes/knowledge-base/blob/master/practices/pull_requests.md)
+- You can use [template_practice](https://github.com/DXHeroes/knowledge-base/blob/master/template_practice.md) and [template_problem](https://github.com/DXHeroes/knowledge-base/blob/master/template_problem.md) to start with your Article
 
 **Content Format**
 
@@ -58,6 +59,7 @@ Example article: [pull request](https://github.com/DXHeroes/knowledge-base/blob/
 - **meta informations**
   - Starting with `---` (a triple dash) and ending with a second `---` (triple dash)
   - Contains meta info of the article
+  - **author_github_username** - GitHub username of the author. After the author sets up his/her account on DX Knowledgebase web app, the author box will appear under the article on the web.
   - **slug** - A friendly ID of the article visible in the URL of the Knowledge base (e.g.: `https://developerexperience.io/practices/pull-requests`
   - **stages** - Categorizes the article to some stages of the project. Valid values are:
     - `research`

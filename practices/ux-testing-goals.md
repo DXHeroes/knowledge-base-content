@@ -10,7 +10,6 @@ tags:
   - experience design
   - strategic planning
   - product design
-
 keywords:
   - ux
   - user experience
@@ -19,8 +18,7 @@ keywords:
   - user testing
   - usability testing
   - experience design
-
-
+author_github_username: nikpage
 ---
 # UX Testing: Goals
 

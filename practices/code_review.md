@@ -20,12 +20,16 @@ tags:
   - fail fast
 keywords:
   - code
+  - code review
+  - software code review
   - pull request
   - quality
   - merge
   - testing
   - codebase
   - feedback
+covered_by_dx_scanner: true
+author_github_username: prokopsimek
 ---
 
 # Code Review
@@ -72,7 +76,7 @@ Code Reviewing is a very important tool for developing process. It improves code
 - ["Not my problem" mentality](/problems/not-my-problem-mentality)
 - [Meaningless work](/problems/meaningless-work)
 - Unsuccessful product
-- Unhappy clients
+- [Unhappy clients](/problems/unhappy-clients)
 
 ## How to Implement the Code Review
 

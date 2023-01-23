@@ -12,6 +12,7 @@ tags:
   - good developer experience
   - front-end build tools
 keywords:
+  - dockerizing
   - container
   - application
   - package
@@ -28,6 +29,7 @@ keywords:
   - deploy
   - cloud
 covered_by_dx_scanner: true
+author_github_username: prokopsimek
 ---
 
 # Dockerizing
@@ -109,5 +111,5 @@ Docker is:
 - Medium: [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.com/free-code-camp/a-beginner-friendly-introduction-to-containers-vms-and-Docker-79a9e3e119b)
 - eZ: [What is Docker and why should I care?](https://ez.no/Blog/What-is-Docker-and-why-should-I-care)
 - Hackernoon: [How to Dockerize any application](https://hackernoon.com/how-to-dockerize-any-application-b60ad00e76da)
-- FreeCodeCamp: [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-Docker-79a9e3e119b/)
+- FreeCodeCamp: [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
 - Towards Data Science: [How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-Docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)

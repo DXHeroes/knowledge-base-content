@@ -22,6 +22,7 @@ keywords:
   - cyberattack
   - network
   - security vulnerabilities
+author_github_username: prokopsimek
 ---
 
 # Penetration Testing
@@ -63,15 +64,15 @@ Penetration Testing should be a part of your software development lifecycle, not
 
 **Penetration Testing involves these stages:**
 
-1. **Planning and reconnaissance**  
+1. **Planning and reconnaissance**
    Penetration Testers define the goals of the test and find proper testing methods.
-2. **Scanning**  
+2. **Scanning**
    Testers analyze how the system responds to the test.
-3. **Gaining access**  
+3. **Gaining access**
    Attack the system! Testers try to break into the system with a strategy like SQL injection, backdoors, or cross-site scripting to uncover weaknesses.
-4. **Maintaining exploit**  
+4. **Maintaining exploit**
    How long can the tester stay in the system? Is it long enough that the actual hacker could gain deeper access?
-5. **Analysis and configuration review**  
+5. **Analysis and configuration review**
    Testers make a detailed report on the performed test.
 
 ![Penetration Testing](/files/pen-testing.jpg)
@@ -89,3 +90,4 @@ If you want to do the Penetration Tests by yourself, you have to train professio
 - Cipher: [The Types of Pentests You Must Know About](http://blog.cipher.com/the-types-of-pentests-you-must-know-about)
 - IT Governance: [Why is Penetration Testing necessary?](https://www.itgovernance.co.uk/media/press-releases/why-is-penetration-testing-necessary)
 - Cybrary: [7 Best Cyber Security Penetration Testing Tools](https://www.cybrary.it/0p3n/7-cyber-security-pentesting-tools/)
+- comparitech.com [Burp Suite Cheat Sheet](https://www.comparitech.com/net-admin/burp-suite-cheat-sheet/)

@@ -22,7 +22,7 @@ keywords:
 - integrate
 - integration
 - deploy
-covered_by_dx_scanner: false
+author_github_username: prokopsimek
 ---
 
 # Continuous Delivery

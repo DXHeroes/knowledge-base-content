@@ -21,6 +21,7 @@ keywords:
   - grooming
   - refinement
 covered_by_dx_scanner: false
+author_github_username: prokopsimek
 ---
 
 # Product Backlog Refinement
@@ -35,9 +36,9 @@ Product Backlog Refinement is an act when the [Product Owner](/practices/product
 
 During Product Backlog Refinement, the PO and the Development Team collaborate and review the backlog items. It should be set regularly before Sprint Planning. however, the PO can update the backlog items any time during the Sprint.
 
-**FYI**  
+**FYI**
 
-**Product Backlog** is a prioritized list of items the Scrum team is going to finish in the current sprint. For more information, see [Product Backlog](/practices/product-backlog).  
+**Product Backlog** is a prioritized list of items the Scrum team is going to finish in the current sprint. For more information, see [Product Backlog](/practices/product-backlog).
 
 Backlog Refinement is also known as Backlog Grooming. The word “grooming” was officially replaced by “refinement” in the [Scrum Guide](https://www.scrum.org/resources/scrum-guide) due to negative connotations in British English.
 
@@ -60,13 +61,13 @@ The backlog is a dynamic list and keeping it updated is crucial for smooth produ
 
 ## How to Implement Product Backlog Refinement
 
-**When?**  
+**When?**
 The Product Backlog Refinement can happen any time and as often as necessary but it is usually considered as one of the Agile events and happens regularly once each sprint.
 
-**How long?**  
+**How long?**
 The Development Team should not spend more than 10% of their time refining their backlog each sprint. The PO should have a prepared vision for the product before the meeting and then each refinement should not take longer than one hour.
 
-**What?**  
+**What?**
 During the refinement, the PO is responsible for:
 
 - Reviewing backlog items
@@ -74,7 +75,7 @@ During the refinement, the PO is responsible for:
 - Creating new items whenever there is a requirement
 - Re-assessing priorities
 - Changing the estimates if it is needed
-- Splitting user stories or moving them to the next iteration if necessary
+- Splitting [user stories](/practices/user-stories) or moving them to the next iteration if necessary
 
 The refined Product Backlog items express the work that should be finished during one sprint/iteration.
 

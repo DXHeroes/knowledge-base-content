@@ -24,6 +24,7 @@ keywords:
   - hotfix
   - github
   - gitlab
+author_github_username: prokopsimek
 ---
 
 # Git Flow

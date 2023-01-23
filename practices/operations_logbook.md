@@ -21,6 +21,7 @@ keywords:
   - captains log
   - incident logbook
   - incident log
+author_github_username: prokopsimek
 ---
 
 # Operations Logbook

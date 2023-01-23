@@ -26,6 +26,7 @@ keywords:
   - testing
   - defect
   - problem
+author_github_username: prokopsimek
 ---
 
 # Proper Bug Reporting
@@ -70,38 +71,38 @@ Bug reporting can be automatized or semi-automatized. Some of the most popular b
 
 To write an effective bug report, follow these 10 steps:
 
-1. **Condense**  
+1. **Condense**
    Be clear and brief. Ensure that every information in the bug report is relevant.
-2. **Accurate**  
+2. **Accurate**
    Ensure that you are reporting a real bug. The problem can be a setup problem, user error or just a misunderstanding of a product. It is better to consult with a more experienced tester than reporting a mistake that is not a bug.
-3. **Neutralize**  
+3. **Neutralize**
    Do not use emotionally charged statements. The report has to be neutral, professional, and factual.
-4. **Precise**  
+4. **Precise**
    Try to be as explicit as possible. Summarize the problem at the beginning. The goal is to write a description that cannot be misunderstood.
-5. **Isolate**  
+5. **Isolate**
    Isolate the problem. If possible, describe what inputs trigger the bug.
-6. **Generalize**  
+6. **Generalize**
    Try to find out if the bug is more general than it seems. Sometimes the bug occurs at multiple locations - the bug needs a more general fix.
-7. **Re-create**  
+7. **Re-create**
    If it is possible, describe how to re-create the bug. List all the steps, describe the environment.
-8. **Impact**  
+8. **Impact**
    If it is not obvious, describe the impact on the customer.
-9. **Debug**  
+9. **Debug**
    What does the developer need to be able to debug the problem? For example, are there any logs he needs?
-10. **Evidence**  
+10. **Evidence**
     Provide documentation that can prove the existence of the bug.
 
 ## Common Pitfalls of Proper Bug Reporting
 
-- **Underestimated bug reporting**  
+- **Underestimated bug reporting**
   For example, some websites do not offer any opportunity to report a bug. If you find a bug, you cannot submit feedback or contact the person who can fix it.
-- **Untraceable bug**  
+- **Untraceable bug**
   The developer did not get enough information to fix the bug or cannot meet the mandatory conditions (for example, a regulator that can capture every client’s reaction).
-- **The team does not react**  
+- **The team does not react**
   The developers get the bug reports, but do not fix the bugs efficiently.
-- **Too much information**  
+- **Too much information**
   If the bug report is too detailed, it can be difficult to understand. It also increases the time and energy of the people who have to read the report.
-- **Too vague**  
+- **Too vague**
   It is necessary to find a balance between being too vague and too detailed. It saves time when the person who has to fix the bug does not have to ask for more information.
 
 ## Resources for the Bug Reporting

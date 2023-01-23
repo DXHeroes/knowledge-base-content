@@ -21,9 +21,9 @@ keywords:
   - bankruptcy
   - undersize
   - oversize
-  - innovate
   - feedback
   - survey
+author_github_username: prokopsimek
 ---
 
 # Bad Product-Market Fit

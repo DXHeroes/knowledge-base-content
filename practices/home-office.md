@@ -24,6 +24,7 @@ keywords:
   - digital nomads
   - working remotely
   - remote working
+author_github_username: prokopsimek
 ---
 
 # Home Office
@@ -60,7 +61,7 @@ There are some benefits of working from home:
 
 - [Increased Cost](/problems/increased-cost)
 - [Demotivated team](/problems/demotivated-team)
-- [Expensive Development](/problems/expensive-development)
+- Expensive Development
 
 ## How to Implement Home Office
 
@@ -120,7 +121,7 @@ There are some obstacles you might meet at the Home Office:
 
 ## Resources for Home Office
 
-- Incestopedia: [Home Office](https://www.investopedia.com/terms/h/home-office.asp)
+- Investopedia: [Home Office](https://www.investopedia.com/terms/h/home-office.asp)
 - Forbes: [Five Crucial Tips for Working from Home](https://www.forbes.com/sites/danpontefract/2020/03/07/five-crucial-tips-for-working-from-home/#560d4ce51ad8)
 - The Muse: [7 Tried-and-True Secrets for a Productive Home Office](https://www.themuse.com/advice/7-triedandtrue-secrets-for-a-productive-home-office)
 - Clocktime: [Top 10 Advantages and Disadvantages of Working from Home](https://www.clicktime.com/blog/top-10-advantages-disadvantages-working-from-home/)
