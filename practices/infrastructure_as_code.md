@@ -57,6 +57,7 @@ Together with [Continous Delivery/Deployment](/practices/continuous-delivery), y
 
 ### Risk
 
+
 With automation, you are lowering the risk of human error, and with configuration files instead of manual labor, you are increasing reliability (the system will always behave the same way). Using source control, you can audit changes. DevOps or Ops teams are able to write tests for your IaC.
 
 ## Problems Infrastructure As Code Helps to Solve
