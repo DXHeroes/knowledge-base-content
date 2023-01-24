@@ -41,6 +41,7 @@ However, the .gitignore file itself IS tracked by Git.
 It is a good practice to use a .gitgnore file to protect your code from leaks and to keep it clean. It is almost mandatory on any open source projects or big collaboration projects. Otherwise, your code becomes a big pile of personal, log, or hidden files. Cluttering your code is never a good idea.
 
 Moreover, it keeps your private files from public git records. Without it, you can accidentally leak your API key, production info, or environment settings which can hurt your project. Just to put it in perspective, [over  100000 GitHub repos have leaked their API or cryptographic keys](https://www.zdnet.com/article/over-100000-github-repos-have-leaked-api-or-cryptographic-keys/), and the average API key leak costs around [$1.2 million per year](https://securityboulevard.com/2023/01/wallarm-releases-new-end-to-end-solution-to-reduce-risk-and-time-to-remediate-leaked-api-keys-and-secrets/#:~:text=While%20API%20key%20leakage%20incidents%20are%20not%20new%2C,keys%20is%20both%20a%20security%20and%20financial%20imperative).
+
 ## Problems .gitignore Helps to Solve
 
 * API Key Leak
