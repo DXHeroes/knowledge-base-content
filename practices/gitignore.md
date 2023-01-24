@@ -6,21 +6,21 @@ short_description: The .gitignore file is a text file that tells Git which folde
 tags:
 - gitignore
 - development
-- 
 keywords:
 - gitignore
 - .gitignore
 - developer practices
-- 
 covered_by_dx_scanner: false
 ---
 
 # .gitignore
 
 **TL;DR**
+
 The .gitignore file is a text file that tells Git which folders or files to ignore in a project when sharing it through git.
 
 ## What Is .gitignore?
+
 The .gitignore text file specifies intentionally untracked files to ignore while sharing your code. To be clear, it ignores certain items from git commands like git push. Using it, you can dedicate which files/folders you don't want to share using git. 
 
 Keeping folders or files from your git records makes your code cleaner (You don't share module files that everyone will install on their own) and safer (You don't accidentally leak info or environment details). Moreover, you can remove pointless stuff from your commits like MacOS .DS_store
@@ -36,7 +36,6 @@ Usually, devs use .gitignore to hide:
 
 However, the .gitignore file itself IS tracked by Git.
 
-
 ## Why You Might Want .gitignore?
 
 It is a good practice to use a .gitgnore file to protect your code from leaks and to keep it clean. It is almost mandatory on any open source projects or big collaboration projects. Otherwise, your code becomes a big pile of personal, log, or hidden files. Cluttering your code is never a good idea.
@@ -49,33 +48,40 @@ Moreover, it keeps your private files from public git records. Without it, you c
 * [Poor code quality](/problems/poor-code-quality)
 
 ## How to Implement .gitignore?
+
 If you are using GitHub, you can create a .gitignore file while creating new repo using GitHub templates. Just scroll down to where the license option is and select Add .gitignore
+
 ![Github](/files/getignore.png)
 [Github](https://www.github.com/)
 
-You can create your .gitignore file manually. Start with creating a blank text file and name it *.gitignore*. Be sure to add the dot at the start. Then each line is a pattern where: 
+You can create your .gitignore file manually. Start with creating a blank text file and name it *.gitignore*. Be sure to add the dot at the start. Then each line is a pattern where:
+
 - "*" is used as a wildcard match
 - "/"  is used to ignore pathnames relative to the .gitignore file
 - "#" is used to add comments to a .gitignore file
 - "!" is used to create an exception
 - "?" matches a single non-specific character
 
-So, for example, we want to untrack all .log files and the .env file. Your .gitignore file should look like this:
+So, for example, we want to untrack all `.log` files and the `.env` file. Your .gitignore file should look like this:
 
+```
 *.log
 
 .env
+```
 
 Look into popular [Github templates](https://github.com/github/gitignore) and adjust them according to your needs.
 
-You can also create a global .gitgnore file using the following command "git config --global core.excludesfile ~/.gitignore_global". Global .gitignore behaves like normal .gitignore, but it is across multiple repos.
+You can also create a global .gitgnore file using the following command `git config --global core.excludesfile ~/.gitignore_global`. Global .gitignore behaves like normal .gitignore, but it is across multiple repos.
 
 ## Common Pitfalls of Implementing .gitignore
+
 - The pattern matching is not correctly set
 - Important security file is accidentally shared
 - .gitignore is not set up
 
 ## Resources for .gitignore
+
 - [Git documentation](https://git-scm.com/docs/gitignore)
 - [Tool to create .gitignore online](https://www.toptal.com/developers/gitignore)
 - [Git Ignore and .gitignore](https://www.w3schools.com/git/git_ignore.asp)
