@@ -27,6 +27,7 @@ Keeping folders or files from your git records makes your code cleaner (You don'
 changes.
 
 Usually, devs use .gitignore to hide:
+
 * log files
 * temporary files
 * hidden files
