@@ -51,7 +51,7 @@ Moreover, it keeps your private files from public git records. Without it, you c
 
 If you are using GitHub, you can create a .gitignore file while creating new repo using GitHub templates. Just scroll down to where the license option is and select Add .gitignore
 
-![Github](/files/getignore.png)
+![Github](/files/gitignore.png)
 [Github](https://www.github.com/)
 
 You can create your .gitignore file manually. Start with creating a blank text file and name it *.gitignore*. Be sure to add the dot at the start. Then each line is a pattern where:
