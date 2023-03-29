@@ -40,7 +40,7 @@ According to ***Mastering API Architecture book by James Gough, Daniel Bryant & 
 *  An API has defined semantics or behavior to model the exchange of information effectively.
 *  Effective API design enables the extension to customers or third parties for business integration.
 
-##What is REST API?
+## What is the REST API?
 
 A set of constraints to be applied while developing web services are defined by the REST architectural style for software. In general, REST technology is favored above other, comparable technologies. This is frequently the case as REST requires less bandwidth and is therefore more suited for effective internet use.
 
