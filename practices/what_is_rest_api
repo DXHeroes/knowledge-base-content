@@ -25,6 +25,8 @@ author_github_username: D-stevpm
 
 ![RESTful API](/files/what_is_rest_api.png)
 
+**TL;DR**
+
 The majority of applications in use today are created for web and mobile platforms. Application Programming Interfaces (APIs) for the web have consequently gained importance. Among the different types of web APIs, REST (Representational State Transfer) API has become the most popular due to its simplicity, scalability, and flexibility.
 
 ##What is an API 
