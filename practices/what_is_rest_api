@@ -46,7 +46,7 @@ A RESTful API is based on representational state transfer (REST), an architectur
 
 Safe online information exchange between two computer systems is made possible by the RESTful API. To carry out various duties, the majority of business apps must interface with other internal and external applications. For instance, in order to automate invoicing and connect with an internal timesheet application, your internal accounts system must exchange information with your customers' banking system in order to generate monthly payslips. This information transmission is supported by RESTful APIs because they adhere to standards for safe, dependable, and effective software communication
 
-###How RESTful API Works
+###How to Implement RESTful API
 
 ![How RESTful API Works](/files/how_restful_api_works.png)
 
