@@ -29,7 +29,7 @@ author_github_username: D-stevpm
 
 The majority of applications in use today are created for web and mobile platforms. Application Programming Interfaces (APIs) for the web have consequently gained importance. Among the different types of web APIs, REST (Representational State Transfer) API has become the most popular due to its simplicity, scalability, and flexibility.
 
-##What is an API 
+### What is an API 
 
 There have been a lot of definitions of API from industry leaders, after going through these numerous definitions I can simply describe APIs as a state of mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. 
 
