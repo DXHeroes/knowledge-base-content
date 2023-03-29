@@ -1,30 +1,29 @@
 ---
-slug: pull-requests
+slug: what_is_rest_api
 stages:
-  - development
-short_description: Pull requests tell other team members that you changed something in the code and pushed the change to a branch in a git repository. Then other members can review and discuss the changes before the changes are merged into the master branch.
+  - research
+short_description: RESTful APIs are a popular choice for web-based applications due to their simplicity, scalability, and flexibility. By following the core principles of REST, the product team can create APIs that are easy to understand, develop, and scale.
 tags:
-  - pull requests
-  - git
-  - ci/cd
-  - teamwork
-  - Continuous Integration
-  - continuous delivery
-  - Bus Factor
-  - code review
+  - Rest API
+  - Restful API
+  - API team
+  - API development
+  - Web development
+  - API design
+  - Http
 keywords:
-  - git
-  - commit
-  - branch
-  - repository
-  - code
-  - quality
-  - merge request
-  - meaningless work
+  - restful api
+  - http methods
+  - api endpoints
+  - json
+  - api design
+  - api documentation
 author_github_username: prokopsimek
 ---
 
 # What is RESTful API
+
+![RESTful API](/files/what_is_rest_api.png)
 
 The majority of applications in use today are created for web and mobile platforms. Application Programming Interfaces (APIs) for the web have consequently gained importance. Among the different types of web APIs, REST (Representational State Transfer) API has become the most popular due to its simplicity, scalability, and flexibility.
 
@@ -48,6 +47,9 @@ A RESTful API is based on representational state transfer (REST), an architectur
 Safe online information exchange between two computer systems is made possible by the RESTful API. To carry out various duties, the majority of business apps must interface with other internal and external applications. For instance, in order to automate invoicing and connect with an internal timesheet application, your internal accounts system must exchange information with your customers' banking system in order to generate monthly payslips. This information transmission is supported by RESTful APIs because they adhere to standards for safe, dependable, and effective software communication
 
 ###How RESTful API Works
+
+![How RESTful API Works](/files/how_restful_api_works.png)
+
 A RESTful API uses commands to obtain resources. In REST, each resource is identified by a unique URI (Uniform Resource Identifier) and can be manipulated using standard HTTP methods as defined by the RFC 2616 protocol, such as:  
 
 * GET to retrieve a resource;
@@ -75,6 +77,3 @@ The principles of REST are centered around a few core concepts, which include:
 *  **Easy to develop**: RESTful APIs are easy to develop due to their uniform interface and stateless nature, which reduces the complexity of the application.
 *  **Platform independence**: RESTful APIs can be used with any programming language and platform, making them highly interoperable.
 
-###Conclusion:
-
-RESTful APIs are a popular choice for web-based applications due to their simplicity, scalability, and flexibility. By following the core principles of REST, developers can create APIs that are easy to understand, develop, and scale. RESTful APIs are a vital component of modern web-based applications and mobile apps, and they allow for easy communication between the server and the client
