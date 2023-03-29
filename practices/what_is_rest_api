@@ -1,5 +1,5 @@
 ---
-slug: what_is_rest_api
+slug: rest-api
 stages:
   - research
 short_description: RESTful APIs are a popular choice for web-based applications due to their simplicity, scalability, and flexibility. By following the core principles of REST, the product team can create APIs that are easy to understand, develop, and scale.
