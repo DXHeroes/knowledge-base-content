@@ -70,7 +70,8 @@ As a popular architectural style for designing and developing web-based APIs. It
 
 ### How to Implement RESTful API
 
-![How RESTful API Works](/files/how_restful_api_works.png)
+![How RESTful API Works](/files/how_restful_api_works.jpg)
+[Sitepoint: RESTful API](https://www.sitepoint.com/creating-restful-apis-express-4/#creating-the-api-for-the-movie-app)
 
 A RESTful API uses commands to obtain resources. In REST, each resource is identified by a unique URI (Uniform Resource Identifier) and can be manipulated using standard HTTP methods as defined by the RFC 2616 protocol, such as:  
 
