@@ -91,3 +91,22 @@ The principles of REST are centered around a few core concepts, which include:
 *  **Representation of resources**: Resources should be represented in a format that is easily consumable by the client. This can include JSON, XML, or other formats.
 *  **Hypermedia as the engine of application state (HATEOAS)**: This principle states that the client should be able to navigate the API using hyperlinks included in the response. This allows the API to evolve without breaking existing clients.
 
+## Common Pitfalls of the REST API
+
+* **Embrace Versioning**: Accept versioning because your company will change, as will your processes and what customers desire. But, because of this ongoing, unavoidable change, it is necessary to initially design versioning techniques and provide answers to queries like how frequently you plan to version your API.
+
+* **API design**: It doesn’t end at the business giving value through its API, You must take into account the developer experience(DX) in addition to the business providing value through its API. Just adhere to the ***established practices*** to create excellent APIs and DX.
+
+* **Be consistent with the HTTP status code, proper names (nouns), and industry standards**:
+* To obtain data, use GETs.
+* To change data, use PUTs and POSTs.
+* Consistently use the same overall endpoint structure.
+* Choose a few reliable status codes and make sure to appropriately and consistently
+apply them throughout your API.
+
+## Resources for the REST API
+
+* GeeksforGeeks: [Why RESTful API is important to learn](https://www.geeksforgeeks.org/why-rest-api-is-important-to-learn/)
+* TechTarget: [When REST API protocols do from helpful to harmful ](https://www.techtarget.com/searchapparchitecture/feature/When-REST-API-protocols-go-from-helpful-to-harmful)
+* Knowledgehut: [What is Rest API? Features, Principles, And Challenges](https://www.knowledgehut.com/blog/programming/rest-api#features-of-rest-api)
+
