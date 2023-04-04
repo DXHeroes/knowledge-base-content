@@ -23,11 +23,11 @@ author_github_username: D-stevpm
 
 # REST API
 
-![RESTful API](/files/what_is_rest_api.png)
-
 **TL;DR**
 
 The majority of applications in use today are created for web and mobile platforms. Application Programming Interfaces (APIs) for the web have consequently gained importance. Among the different types of web APIs, REST (Representational State Transfer) API has become the most popular due to its simplicity, scalability, and flexibility.
+
+![RESTful API](/files/what_is_rest_api.png)
 
 ### What is an API 
 
@@ -94,11 +94,11 @@ The principles of REST are centered around a few core concepts, which include:
 
 ## Common Pitfalls of the REST API
 
-* **Embrace Versioning**: Accept versioning because your company will change, as will your processes and what customers desire. But, because of this ongoing, unavoidable change, it is necessary to initially design versioning techniques and provide answers to queries like how frequently you plan to version your API.
+* **Embrace Versioning** Accept versioning because your company will change, as will your processes and what customers desire. But, because of this ongoing, unavoidable change, it is necessary to initially design versioning techniques and provide answers to queries like how frequently you plan to version your API.
 
-* **API design**: It doesn’t end at the business giving value through its API, You must take into account the developer experience(DX) in addition to the business providing value through its API. Just adhere to the ***established practices*** to create excellent APIs and DX.
+* **API design** It doesn’t end at the business giving value through its API, You must take into account the developer experience(DX) in addition to the business providing value through its API. Just adhere to the ***established practices*** to create excellent APIs and DX.
 
-* **Be consistent with the HTTP status code, proper names (nouns), and industry standards**:
+* **Be consistent with the HTTP status code, proper names (nouns), and industry standards**
 * To obtain data, use GETs.
 * To change data, use PUTs and POSTs.
 * Consistently use the same overall endpoint structure.
