@@ -68,7 +68,7 @@ As a popular architectural style for designing and developing web-based APIs. It
 *  **Easy to develop**: RESTful APIs are easy to develop due to their uniform interface and stateless nature, which reduces the complexity of the application.
 *  **Platform independence**: RESTful APIs can be used with any programming language and platform, making them highly interoperable.
 
-### How to Implement RESTful API
+## How to Implement RESTful API
 
 ![How RESTful API Works](/files/how_restful_api_works.jpg)
 [Sitepoint: RESTful API](https://www.sitepoint.com/creating-restful-apis-express-4/#creating-the-api-for-the-movie-app)
