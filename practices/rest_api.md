@@ -52,21 +52,21 @@ Safe online information exchange between two computer systems is made possible b
 
 REST APIs are crucial for businesses because of the advantages they provide. In the end, what matters is how the APIs are generating income for the company.
 
-* **Business value**: REST API can benefit the company's partners, internal team, and external team. APIs are utilized to interchange data and functionality. Amazon has numerous number of product and services and still need these individual products to sync and communicate with each other, APIs are used to exchange data & functionality. For Partner, the Twitter API enables third-party programs to read from and write to Twitter data. It allows you to create and post tweets, share tweets, and read profiles. This API is useful for collecting and reviewing huge numbers of tweets about specific topics. ***It is either the company generates income by making its API available to the public or by using them to create its own product.***
+* **Business value** REST API can benefit the company's partners, internal team, and external team. APIs are utilized to interchange data and functionality. Amazon has numerous number of product and services and still need these individual products to sync and communicate with each other, APIs are used to exchange data & functionality. For Partner, the Twitter API enables third-party programs to read from and write to Twitter data. It allows you to create and post tweets, share tweets, and read profiles. This API is useful for collecting and reviewing huge numbers of tweets about specific topics. ***It is either the company generates income by making its API available to the public or by using them to create its own product.***
 
-* **Cost Benefits**: Using/Building REST APIs has a positive impact on costs. They provide scalability without the need for costly hardware investments, improve team communication through improved performance, reduce costs by supporting several platforms, and save time. Hence, if you're going to spend money on software applications for your company, be sure that your development team relies heavily on REST APIs.
+* **Cost Benefits** Using/Building REST APIs has a positive impact on costs. They provide scalability without the need for costly hardware investments, improve team communication through improved performance, reduce costs by supporting several platforms, and save time. Hence, if you're going to spend money on software applications for your company, be sure that your development team relies heavily on REST APIs.
 
-* **Performance**: The lightweight nature of REST APIs means that much fewer data needs to be transmitted from server to client. Applications that use REST APIs as their foundation operate more effectively.
+* **Performance** The lightweight nature of REST APIs means that much fewer data needs to be transmitted from server to client. Applications that use REST APIs as their foundation operate more effectively.
 
 ## Problems the REST API Helps to Solve
 
 As a popular architectural style for designing and developing web-based APIs. It helps to solve a variety of problems related to building web-based applications and services, including:
 
-*  **Scalability**: RESTful APIs are highly scalable due to their stateless nature, which allows for easy scaling of resources.
-*  **Flexibility**: RESTful APIs are flexible in terms of the format of data, which allows for easy integration with other web-based systems.
-*  **Easy to understand**: RESTful APIs are easy to understand due to their simplicity and uniform interface.
-*  **Easy to develop**: RESTful APIs are easy to develop due to their uniform interface and stateless nature, which reduces the complexity of the application.
-*  **Platform independence**: RESTful APIs can be used with any programming language and platform, making them highly interoperable.
+*  **Scalability** RESTful APIs are highly scalable due to their stateless nature, which allows for easy scaling of resources.
+*  **Flexibility** RESTful APIs are flexible in terms of the format of data, which allows for easy integration with other web-based systems.
+*  **Easy to understand** RESTful APIs are easy to understand due to their simplicity and uniform interface.
+*  **Easy to develop** RESTful APIs are easy to develop due to their uniform interface and stateless nature, which reduces the complexity of the application.
+*  **Platform independence** RESTful APIs can be used with any programming language and platform, making them highly interoperable.
 
 ## How to Implement RESTful API
 
@@ -85,12 +85,12 @@ It is based on the idea that the REST APIs are stateless, meaning that calls can
 **The core principles of RESTful API**
 The principles of REST are centered around a few core concepts, which include:
 
-*  **Stateless communication**: RESTful APIs should be stateless, meaning that no client context should be stored on the server between requests. Each request should contain all the necessary information to complete that request, including authentication credentials if required.
+*  **Stateless communication** RESTful APIs should be stateless, meaning that no client context should be stored on the server between requests. Each request should contain all the necessary information to complete that request, including authentication credentials if required.
 
-*  **Resource identification**: Resources should be identified using unique URIs (Uniform Resource Identifiers) that are included in the request. Each resource should have a unique URI, and requests should use these URIs to manipulate the resource.
-*  **Uniform interface**: A uniform interface should be used to access resources. This means that HTTP methods should be used to access resources, and the same HTTP method should have the same effect on all resources.
-*  **Representation of resources**: Resources should be represented in a format that is easily consumable by the client. This can include JSON, XML, or other formats.
-*  **Hypermedia as the engine of application state (HATEOAS)**: This principle states that the client should be able to navigate the API using hyperlinks included in the response. This allows the API to evolve without breaking existing clients.
+*  **Resource identification** Resources should be identified using unique URIs (Uniform Resource Identifiers) that are included in the request. Each resource should have a unique URI, and requests should use these URIs to manipulate the resource.
+*  **Uniform interface** A uniform interface should be used to access resources. This means that HTTP methods should be used to access resources, and the same HTTP method should have the same effect on all resources.
+*  **Representation of resources** Resources should be represented in a format that is easily consumable by the client. This can include JSON, XML, or other formats.
+*  **Hypermedia as the engine of application state (HATEOAS)** This principle states that the client should be able to navigate the API using hyperlinks included in the response. This allows the API to evolve without breaking existing clients.
 
 ## Common Pitfalls of the REST API
 
