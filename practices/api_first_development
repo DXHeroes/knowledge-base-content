@@ -53,7 +53,7 @@ At its core, your API is fundamentally treated as "first-class citizens," theref
 
 * Developers can begin creating the user interface and other application components that will use the API after the API has been created and tested. Developers may guarantee that these components are well-integrated and capable of interacting with the API in a seamless manner by developing them with the API in mind.
 
-## Why You Might Want the API First Development
+## Why You Might Want the API-First Development
 
 When compared to other development methodologies, such as conventional monolithic development or service-oriented architecture (SOA), API-first development has a number of advantages. Among these advantages are
 
