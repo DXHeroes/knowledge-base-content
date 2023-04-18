@@ -88,7 +88,7 @@ Even though API-first programming has many advantages, there are certain frequen
 To avoid these pitfalls, it's important to prioritize API design and documentation, implement Additionally, strive to strike a balance between business value and API delivered 
 
 ## Resources 
-API Evangelist: [You are API-First](https://apievangelist.com/2022/01/14/you-are-api-first/)
-Linkedin: [Design and Development for API-First Organisation](https://www.linkedin.com/pulse/design-development-api-first-organizations-joyce-lin/) 
-TechTarget:[Monolithic Architecture](https://www.techtarget.com/whatis/definition/monolithic-architecture) 
-Swagger:[Understanding  the API-First Approach to Building Products](https://swagger.io/resources/articles/adopting-an-api-first-approach/)
+- API Evangelist: [You are API-First](https://apievangelist.com/2022/01/14/you-are-api-first/)
+- Linkedin: [Design and Development for API-First Organisation](https://www.linkedin.com/pulse/design-development-api-first-organizations-joyce-lin/) 
+- TechTarget:[Monolithic Architecture](https://www.techtarget.com/whatis/definition/monolithic-architecture) 
+- Swagger:[Understanding  the API-First Approach to Building Products](https://swagger.io/resources/articles/adopting-an-api-first-approach/)
