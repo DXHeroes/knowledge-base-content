@@ -57,23 +57,23 @@ At its core, your API is fundamentally treated as "first-class citizens," theref
 
 When compared to other development methodologies, such as conventional monolithic development or service-oriented architecture (SOA), API-first development has a number of advantages. Among these advantages are
 
-* **Getting early validation**: Early validation allows the team to adjust or pivot in response to any new inputs while the cost of change is still manageable. As a result, overall project costs are decreased.
+* **Getting early validation** Early validation allows the team to adjust or pivot in response to any new inputs while the cost of change is still manageable. As a result, overall project costs are decreased.
 
 
-* **Improved agility and flexibility**: The modular nature of API-first development allows for more agility and flexibility in the development process. Developers can make changes to the API without affecting other parts of the application, making it easier to adapt to changing business requirements
+* **Improved agility and flexibility** The modular nature of API-first development allows for more agility and flexibility in the development process. Developers can make changes to the API without affecting other parts of the application, making it easier to adapt to changing business requirements
 
 
-* **Faster time-to-market**: API-first development enables developers to create and improve APIs apart from other application components. This enables a quicker time-to-market because new functionality may be added to the API without requiring changes to the underlying application code.
+* **Faster time-to-market** API-first development enables developers to create and improve APIs apart from other application components. This enables a quicker time-to-market because new functionality may be added to the API without requiring changes to the underlying application code.
 
 
 ## Problems the API-First Development Helps to Solve
 
 API-first development helps to solve several problems that are common in traditional monolithic development approaches:
 
-* **Slow time-to-market**: Modifying or adding new features to a monolithic application can be a slow and time-consuming process, as changes to one part of the application may require changes to other parts as well.
-* **Limited scalability**: Monolithic applications can be difficult to scale as they grow, as all components are tightly coupled and must be scaled together.
+* **Slow time-to-market** Modifying or adding new features to a monolithic application can be a slow and time-consuming process, as changes to one part of the application may require changes to other parts as well.
+* **Limited scalability** Monolithic applications can be difficult to scale as they grow, as all components are tightly coupled and must be scaled together.
 
-* **Limited flexibility**: Monolithic applications can be inflexible and difficult to modify, making it hard to adapt to changing business requirements.
+* **Limited flexibility** Monolithic applications can be inflexible and difficult to modify, making it hard to adapt to changing business requirements.
 
 ## How to Implement the API-First Development
 
@@ -97,11 +97,11 @@ It's also important to have the right tools and technologies to support API deve
 
 Even though API-first programming has many advantages, there are certain frequent traps that programmers could run into. A few of these are:
 
-* **Poor API design or Design Complexity**: It might be challenging to use, maintain, and update APIs that have a poor design. This may cause usability problems and prevent other teams or outside developers from using the API.
+* **Poor API design or Design Complexity** It might be challenging to use, maintain, and update APIs that have a poor design. This may cause usability problems and prevent other teams or outside developers from using the API.
 
 * **Over-engineering**: When building a highly flexible and modular API architecture, it's simple to get carried away, but doing so might increase complexity and development time.
 
-* **Lack of documentation**: API documentation is essential for assisting other teams or outside developers in understanding how to utilize the API. Confusion and problems with adoption can result from a lack of documentation.
+* **Lack of documentation** API documentation is essential for assisting other teams or outside developers in understanding how to utilize the API. Confusion and problems with adoption can result from a lack of documentation.
 
 To avoid these pitfalls, it's important to prioritize API design and documentation, implement Additionally, strive to strike a balance between business value and API delivered 
 
