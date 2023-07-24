@@ -36,17 +36,17 @@ XP is a software development methodology that emerged from the agile movement in
 
 There are twelve core practices in extreme programming:
 
-• customer collaboration over contract negotiation
-• continuous integration
-• test-driven development
-• pair programming
-• collective ownership
-• progressive elaboration
-• sustainable pace
-• technical debt management
-• refactoring
-• simplicity
-• feedback-driven development
+ - customer collaboration over contract negotiation
+ - continuous integration
+ - test-driven development
+ - pair programming
+ - collective ownership
+ - progressive elaboration
+ - sustainable pace
+ - technical debt management
+ - refactoring
+ - simplicity
+ - feedback-driven development
 
 XP teams typically work in short cycles, called "sprints". At the beginning of each sprint, the team agrees on a set of features that they will try to complete during the sprint. The team then works together to design, code, test, and deploy those features. At the end of the sprint, they demo their work to stakeholders and get feedback from them. This process repeats itself over and over again until the project is finished.
 
