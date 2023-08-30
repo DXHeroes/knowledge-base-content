@@ -24,7 +24,7 @@ keywords:
 author_github_username: KHUSHI-jai-n
 ---
 
-# Tips to know if you are a coder(or want to become one)
+# Start as a coder
 
 **TL;DR**
 
