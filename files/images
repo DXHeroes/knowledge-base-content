@@ -1,0 +1,7 @@
+readFileSync('input.txt', 'utf8')
+    .split('\n')
+    .map((line: string) => line.split(''));
+
+function readFileSync(arg0: string, arg1: string) {
+    throw new Error("Function not implemented.");
+}
