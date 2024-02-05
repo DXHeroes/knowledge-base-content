@@ -19,6 +19,6 @@
     "typescript": "^3.7.2"
   },
   "dependencies": {
-    "yarn": "^1.22.10"
+    "yarn": "^1.22.13"
   }
 }
