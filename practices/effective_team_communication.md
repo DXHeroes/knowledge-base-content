@@ -39,19 +39,25 @@ Effective team communication is the foundation of a well-functioning team. It in
 
 Effective communication plays a critical role in team success. It:
 
-- **Promotes Team Health and Culture**: Clear communication reduces misunderstandings, creating a more positive and productive team environment. Team members feel heard and valued, which boosts engagement and morale.
+- **Promotes Team Health and Culture**
+  Clear communication reduces misunderstandings, creating a more positive and productive team environment. Team members feel heard and valued, which boosts engagement and morale.
   
-- **Facilitates Project Success**: When teams communicate effectively, they can better coordinate tasks, avoid duplication of effort, and ensure that deadlines are met. This leads to more successful project outcomes.
+- **Facilitates Project Success**
+  When teams communicate effectively, they can better coordinate tasks, avoid duplication of effort, and ensure that deadlines are met. This leads to more successful project outcomes.
 
-- **Reduces Friction**: Poor communication often leads to frustration, confusion, uncertainty, and delays. Effective communication strategies help prevent these issues, allowing teams to work more harmoniously.
+- **Reduces Friction**
+  Poor communication often leads to frustration, confusion, uncertainty, and delays. Effective communication strategies help prevent these issues, allowing teams to work more harmoniously.
 
 ## Problems Effective Team Communication Helps to Solve
 
-- **Misunderstandings**: Clear communication prevents misinterpretation of instructions or feedback, especially in remote and hybrid environments where face-to-face interaction is limited. Also, everyone in the team actually talk about each team members current task, engagement, and status without doubt.
+- **Misunderstandings**
+  Clear communication prevents misinterpretation of instructions or feedback, especially in remote and hybrid environments where face-to-face interaction is limited. Also, everyone in the team actually talk about each team members current task, engagement, and status without doubt.
   
-- **Information Silos**: Transparent communication ensures that all team members, regardless of location, have access to the same information and can contribute equally to discussions.
+- **Information Silos**
+  Transparent communication ensures that all team members, regardless of location, have access to the same information and can contribute equally to discussions.
 
-- **Lack of Engagement**: Regular and meaningful communication helps keep remote and hybrid team members engaged and included, ensuring they feel part of the team.
+- **Lack of Engagement**
+  Regular and meaningful communication helps keep remote and hybrid team members engaged and included, ensuring they feel part of the team.
 
 
 ## How to Implement Effective Team Communication
