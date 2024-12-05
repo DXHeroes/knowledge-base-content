@@ -29,9 +29,7 @@ keywords:
 author_github_username: CodeLeom
 ---
 
-# Effective Team Communication: Ensuring Health and Productivity Across All Team Structures
-
-
+# Effective Team Communication
 
 ## What Is an Effective Team Communication?
 
