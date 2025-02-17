@@ -43,7 +43,7 @@ If your goal is to **build a high-performing and happy team**, SPACE gives you a
 **Frequent blockers and inefficiencies** – Long approval processes, outdated tools, and poor documentation slow developers down. SPACE highlights workflow issues.
 **Poor communication and collaboration** – Miscommunication leads to delays and frustration. SPACE ensures that **knowledge-sharing and teamwork** are part of productivity.
 
-## How to Implement %{SPACE}
+## How to Implement SPACE
 Integrating SPACE into your workflow means looking beyond **just the numbers** — it requires **culture, tools, and process changes**.
 **Measure What Matters** – Track all five SPACE metrics instead of focusing on just activity (like commit count).
 **Use the Right Tools** – Platforms like GitHub, Jira, LinearB, and internal surveys help collect meaningful data.
