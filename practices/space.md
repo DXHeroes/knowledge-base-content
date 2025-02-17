@@ -51,7 +51,7 @@ Integrating SPACE into your workflow means looking beyond **just the numbers** �
 **Automate & Streamline** – Reduce manual blockers, improve documentation, and ensure developers can work smoothly.
 **Review & Iterate** – Regularly analyze SPACE data, discuss findings with the team, and adjust processes as needed.
 
-## Common Pitfalls of %{SPACE}
+## Common Pitfalls of SPACE
 **Focusing too much on one metric** – Looking at just **activity** (like commits) gives a **false sense** of productivity. Balance all SPACE dimensions.
 **Neglecting team dynamics** – Productivity isn’t just about individuals—it’s about how the team **works together**.
 **Measuring without acting** – Data is useless if you don’t **use it to improve workflows, tools, and processes. **
