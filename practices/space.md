@@ -1,6 +1,6 @@
 ---
 author_github_username: Sabina-Balejikova
-slug: SPACE
+slug: space-framework
 stages:
   - development
   - maintenance
