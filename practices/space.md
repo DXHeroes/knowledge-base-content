@@ -58,5 +58,5 @@ Integrating SPACE into your workflow means looking beyond **just the numbers** �
 **Treating SPACE as a performance review tool** – SPACE is **not about ranking developers. ** It’s about **improving teams and work environments**.
 
 ## Summary
-Unlike [DORA](/practices/%{DORA}), which focuses on deployment and operational performance, **SPACE** takes a **big-picture** look at developer productivity. It helps teams understand not just **how much work is getting done, but also how well and at what cost** — giving a **fuller picture of both performance and developer happiness. **
+Unlike [DORA](/practices/dora), which focuses on deployment and operational performance, **SPACE** takes a **big-picture** look at developer productivity. It helps teams understand not just **how much work is getting done, but also how well and at what cost** — giving a **fuller picture of both performance and developer happiness. **
 At **DX Heroes**, we assess these metrics as part of our **DX Audit** to help teams improve their workflow and make developers happier. **Want to level up your dev team? ** Hit us up at **hello@dxheroes.io** 🚀
