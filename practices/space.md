@@ -12,6 +12,11 @@ keywords:
   - SPACE
   - developer experience
   - performance tracking
+  - engineering metrics
+  - productivity metrics
+  - dora metrics
+  - space framework
+  - dx core 4
 ---
 # What is %{SPACE}?
 Nothing to do with Elon or NASA. **SPACE** is a framework that helps measure **developer productivity** — but not in the outdated way of just counting commits or tracking hours worked.
