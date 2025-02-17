@@ -28,7 +28,7 @@ Instead, **SPACE** stands for:
 **Efficiency** – Can they do their job without unnecessary blockers?
 The key idea? **There’s no single metric that defines developer productivity. ** You need to **look at multiple factors together** — because just counting commits tells you nothing about code quality, teamwork, or developer happiness.
 
-## Why Use %{SPACE}?
+## Why Use SPACE?
 SPACE helps **teams, managers, and companies** track productivity without falling into the trap of oversimplified metrics. Instead of just measuring output, it looks at the **bigger picture** — how work is done, how effective it is, and how sustainable it is.
 Using SPACE can help:
 Identify **burnout risks** before they become a problem.
