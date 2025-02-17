@@ -18,7 +18,7 @@ keywords:
   - space framework
   - dx core 4
 ---
-# What is %{SPACE}?
+# What is SPACE?
 Nothing to do with Elon or NASA. **SPACE** is a framework that helps measure **developer productivity** — but not in the outdated way of just counting commits or tracking hours worked.
 Instead, **SPACE** stands for:
 **Satisfaction** – Are developers happy and engaged?
