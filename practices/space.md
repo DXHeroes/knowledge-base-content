@@ -19,7 +19,7 @@ keywords:
   - dx core 4
 ---
 # What is SPACE?
-Nothing to do with Elon or NASA. SPACE is a framework that helps measure developer productivity — but not in the outdated way of just counting commits or tracking hours worked.
+Nothing to do with Elon or NASA. **SPACE** is a framework that helps measure **developer productivity** — but not in the outdated way of just counting commits or tracking hours worked.
 
 Instead, **SPACE** stands for:
 **Satisfaction** – Are developers happy and engaged?
@@ -27,7 +27,9 @@ Instead, **SPACE** stands for:
 **Activity** – Are they actively contributing in meaningful ways?
 **Communication & Collaboration** – Are they working well with the team?
 **Efficiency** – Can they do their job without unnecessary blockers?
-The key idea? **There’s no single metric that defines developer productivity.** You need to **look at multiple factors together** — because just counting commits tells you nothing about code quality, teamwork, or developer happiness.
+
+The key idea? **There’s no single metric that defines developer productivity. ** You need to **look at multiple factors together** — because just counting commits tells you nothing about code quality, teamwork, or developer happiness.
+
 
 ## Why Use SPACE?
 SPACE helps **teams, managers, and companies** track productivity without falling into the trap of oversimplified metrics. Instead of just measuring output, it looks at the **bigger picture** — how work is done, how effective it is, and how sustainable it is.
