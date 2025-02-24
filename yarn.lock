@@ -1558,10 +1558,10 @@ xtend@~4.0.1:
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.1.tgz#a5c6d532be656e23db820efb943a1f04998d63af"
   integrity sha1-pcbVMr5lbiPbgg77lDofBJmNY68=
 
-yarn@^1.22.10:
-  version "1.22.10"
-  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.22.10.tgz#c99daa06257c80f8fa2c3f1490724e394c26b18c"
-  integrity sha512-IanQGI9RRPAN87VGTF7zs2uxkSyQSrSPsju0COgbsKQOOXr5LtcVPeyXWgwVa0ywG3d8dg6kSYKGBuYK021qeA==
+yarn@^1.22.13:
+  version "1.22.13"
+  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.22.13.tgz#8789ef23b630fe99b819b044f4b7b93ab1bc1b8f"
+  integrity sha512-G8qG4t7Ef5cLVpzbM3HWWsow4hpfeSCfKtMnjfERmp9V5qSCOKz0uGAIQCM/x3gWfCzH8Bvb4hl3ZfhG/XD1Jg==
 
 yn@^3.0.0:
   version "3.0.0"
